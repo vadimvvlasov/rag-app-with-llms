@@ -6,12 +6,12 @@ A minimal Retrieval-Augmented Generation (RAG) project based on [LLM Zoomcamp](h
 
 ```mermaid
 flowchart LR
-    ENV[".env"] -->|OPENAI_API_KEY\nFAQ_DATA_URL| RAGBase
+    ENV[".env"] -->|OPENAI_API_KEY, FAQ_DATA_URL| RAGBase
 
     subgraph Ingest
-        Loader["FaqHttpLoader\n(DataLoader)"]
-        Loader -->|list[dict]| Index
-        Index["MinsearchIndex\nor SqliteIndex\n(SearchIndex)"]
+        Loader["FaqHttpLoader (DataLoader)"]
+        Index["MinsearchIndex or SqliteIndex (SearchIndex)"]
+        Loader -->|docs| Index
     end
 
     subgraph LLM
@@ -22,8 +22,12 @@ flowchart LR
 
     User["question"] --> RAGBase
     Index --> RAGBase
-    RAGBase -->|search → context → prompt| OAI & Ollama & OR
-    OAI & Ollama & OR -->|answer| User
+    RAGBase -->|search, context, prompt| OAI
+    RAGBase -->|search, context, prompt| Ollama
+    RAGBase -->|search, context, prompt| OR
+    OAI -->|answer| User
+    Ollama -->|answer| User
+    OR -->|answer| User
 
     style Ingest fill:#f0f4ff,stroke:#aac
     style LLM fill:#fff4f0,stroke:#caa

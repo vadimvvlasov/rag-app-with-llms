@@ -40,17 +40,22 @@ All three components — index, loader, LLM client — are swappable via Python 
 ## Project structure
 
 ```
-src/
-  interfaces.py   # Protocol definitions: SearchIndex, DataLoader, LLMClient
-  ingest.py       # FaqHttpLoader, MinsearchIndex, SqliteIndex, ElasticsearchIndex
-  llm.py          # OpenAIClient, OllamaClient, OpenRouterClient
-  rag.py          # RAGBase pipeline
-notebooks/
-  01_intro.ipynb       # In-memory RAG demo (MinsearchIndex + OpenAI)
-  02_persistent.ipynb  # Persistent RAG demo (SqliteIndex + OpenAI)
-tests/
-  test_unit.py        # Unit tests (pytest)
-  test_properties.py  # Property-based tests (hypothesis)
+rag-intro/
+├── src/
+│   ├── interfaces.py   # Protocols: SearchIndex, DataLoader, LLMClient
+│   ├── ingest.py       # FaqHttpLoader · MinsearchIndex · SqliteIndex · ElasticsearchIndex
+│   ├── llm.py          # OpenAIClient · OllamaClient · OpenRouterClient
+│   ├── rag.py          # RAGBase — orchestrates search → prompt → answer
+│   └── __init__.py     # Re-exports all public classes
+├── notebooks/
+│   ├── 01_intro.ipynb       # In-memory demo  (MinsearchIndex + OpenAI)
+│   └── 02_persistent.ipynb  # Persistent demo (SqliteIndex + OpenAI)
+├── tests/
+│   ├── test_unit.py        # Unit tests (pytest + mocks)
+│   └── test_properties.py  # Property-based tests (hypothesis)
+├── .env                # Secrets — OPENAI_API_KEY, FAQ_DATA_URL
+├── pyproject.toml      # Dependencies & build config (uv / hatchling)
+└── uv.lock
 ```
 
 ## Setup

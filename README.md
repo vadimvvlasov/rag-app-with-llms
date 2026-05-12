@@ -8,15 +8,16 @@ A minimal Retrieval-Augmented Generation (RAG) project based on [LLM Zoomcamp](h
 flowchart TD
     subgraph Setup
         FL["FaqHttpLoader"] -->|docs| IDX["MinsearchIndex\nSqliteIndex\nElasticsearchIndex"]
+        IDX <-->|persist / load| DB[("faq_index.db")]
     end
 
     subgraph Query
-        Q(["💬 question"]) --> RAG["RAGBase\nsearch → context → prompt"]
-        RAG --> LLM["OpenAIClient\nOllamaClient\nOpenRouterClient"]
+        Q(["💬 question"]) --> RAG["RAGBase"]
+        RAG -->|search| IDX
+        IDX -->|top-N docs| RAG
+        RAG -->|prompt| LLM["OpenAIClient\nOllamaClient\nOpenRouterClient"]
         LLM --> A(["💡 answer"])
     end
-
-    IDX -->|injected| RAG
 ```
 
 `RAGBase` depends only on the `SearchIndex` and `LLMClient` protocols — any backend can be swapped without changing the pipeline.

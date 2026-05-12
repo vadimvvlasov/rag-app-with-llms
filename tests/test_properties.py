@@ -57,30 +57,36 @@ def test_property1_faq_parsing_preserves_required_fields(faq_dicts):
     """
     from src.ingest import FaqHttpLoader
 
-    # Build the upstream JSON format: list of course entries with documents
-    # Group by course to build the upstream shape
-    upstream_json = []
+    # Build the upstream two-request format:
+    # 1) courses index: [{"course": "...", "path": "/json/....json"}, ...]
+    # 2) per-course docs: [{"question": ..., "answer": ..., "section": ..., "course": ...}, ...]
+    # Group docs by course so each course gets one index entry + one per-course response.
+    courses: dict[str, list[dict]] = {}
     for doc in faq_dicts:
-        course = doc["course"]
-        # Find existing entry for this course or create a new one
-        entry = next((e for e in upstream_json if e["course"] == course), None)
-        if entry is None:
-            entry = {"course": course, "documents": []}
-            upstream_json.append(entry)
-        entry["documents"].append(
+        courses.setdefault(doc["course"], []).append(
             {
                 "question": doc["question"],
-                "text": doc["text"],
+                "answer": doc[
+                    "text"
+                ],  # upstream uses "answer", loader normalises to "text"
                 "section": doc["section"],
+                "course": doc["course"],
             }
         )
 
-    mock_response = MagicMock()
-    mock_response.ok = True
-    mock_response.json.return_value = upstream_json
+    courses_index = [
+        {"course": course, "path": f"/json/{course}.json"} for course in courses
+    ]
 
-    with patch("src.ingest.requests.get", return_value=mock_response):
-        loader = FaqHttpLoader(url="http://fake-url/docs.json")
+    index_resp = MagicMock(ok=True)
+    index_resp.json.return_value = courses_index
+
+    course_resps = [MagicMock(ok=True) for _ in courses]
+    for resp, course in zip(course_resps, courses):
+        resp.json.return_value = courses[course]
+
+    with patch("src.ingest.requests.get", side_effect=[index_resp, *course_resps]):
+        loader = FaqHttpLoader(url="http://fake-url/json/courses.json")
         docs = loader.load()
 
     assert len(docs) == len(faq_dicts)

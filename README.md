@@ -5,41 +5,21 @@ A minimal Retrieval-Augmented Generation (RAG) project based on [LLM Zoomcamp](h
 ## How it works
 
 ```mermaid
-flowchart LR
-    ENV[".env"] -->|OPENAI_API_KEY, FAQ_DATA_URL| RAGBase
-
-    subgraph Ingest
-        Loader["FaqHttpLoader (DataLoader)"]
-        Index["MinsearchIndex or SqliteIndex (SearchIndex)"]
-        Loader -->|docs| Index
+flowchart TD
+    subgraph Setup
+        FL["FaqHttpLoader"] -->|docs| IDX["MinsearchIndex\nSqliteIndex\nElasticsearchIndex"]
     end
 
-    subgraph LLM
-        OAI["OpenAIClient"]
-        Ollama["OllamaClient"]
-        OR["OpenRouterClient"]
+    subgraph Query
+        Q(["💬 question"]) --> RAG["RAGBase\nsearch → context → prompt"]
+        RAG --> LLM["OpenAIClient\nOllamaClient\nOpenRouterClient"]
+        LLM --> A(["💡 answer"])
     end
 
-    User["question"] --> RAGBase
-    Index --> RAGBase
-    RAGBase -->|search, context, prompt| OAI
-    RAGBase -->|search, context, prompt| Ollama
-    RAGBase -->|search, context, prompt| OR
-    OAI -->|answer| User
-    Ollama -->|answer| User
-    OR -->|answer| User
-
-    style Ingest fill:#f0f4ff,stroke:#aac
-    style LLM fill:#fff4f0,stroke:#caa
+    IDX -->|injected| RAG
 ```
 
-1. **Load** — `FaqHttpLoader` fetches FAQ documents from the DataTalks.Club courses API
-2. **Index** — documents go into an in-memory (`MinsearchIndex`) or persistent SQLite (`SqliteIndex`) index
-3. **Search** — `RAGBase.search()` retrieves the top-N relevant documents for a question
-4. **Prompt** — retrieved docs are formatted into a context string and injected into a prompt template
-5. **Answer** — the prompt is sent to an LLM (`OpenAIClient`, `OllamaClient`, or `OpenRouterClient`)
-
-All three components — index, loader, LLM client — are swappable via Python `Protocol` interfaces defined in `src/interfaces.py`.
+`RAGBase` depends only on the `SearchIndex` and `LLMClient` protocols — any backend can be swapped without changing the pipeline.
 
 ## Project structure
 

@@ -16,17 +16,23 @@ from dotenv import load_dotenv
 from .interfaces import LLMClient, SearchIndex
 
 # ---------------------------------------------------------------------------
-# Default prompt template
+# Default instructions and prompt template
 # ---------------------------------------------------------------------------
 
-DEFAULT_TEMPLATE = """\
-You are a course assistant. Answer the QUESTION using only the CONTEXT below.
-If the answer is not in the context, say "I don't know."
+INSTRUCTIONS = """\
+Your task is to answer questions from the course participants \
+based on the provided context.
+Use the context to find relevant information and provide accurate \
+answers. If the answer is not found in the context, \
+respond with "I don't know."\
+"""
 
-CONTEXT:
-{context}
+USER_PROMPT_TEMPLATE = """\
+Question:
+{question}
 
-QUESTION: {question}\
+Context:
+{context}\
 """
 
 
@@ -42,19 +48,22 @@ class RAGBase:
     FAQ content.
 
     Args:
-        index:           A ``SearchIndex``-compatible object used to retrieve
-                         relevant documents.
-        llm:             An ``LLMClient``-compatible object used to generate
-                         answers.
-        model:           LLM model identifier passed to ``llm.complete``.
-                         Defaults to ``"gpt-4o-mini"``.
-        prompt_template: Template string with ``{context}`` and ``{question}``
-                         placeholders.  Defaults to ``DEFAULT_TEMPLATE``.
-        num_results:     Number of search results to retrieve per query.
-                         Defaults to ``5``.
-        course_filter:   If set, restricts search results to documents whose
-                         ``course`` field matches this value.  Defaults to
-                         ``None`` (no filter).
+        index:            A ``SearchIndex``-compatible object used to retrieve
+                          relevant documents.
+        llm:              An ``LLMClient``-compatible object used to generate
+                          answers.
+        model:            LLM model identifier passed to ``llm.complete``.
+                          Defaults to ``"gpt-4o-mini"``.
+        instructions:     System-level instructions passed to the LLM.
+                          Defaults to ``INSTRUCTIONS``.
+        prompt_template:  Template string with ``{question}`` and ``{context}``
+                          placeholders for the user-facing prompt.
+                          Defaults to ``USER_PROMPT_TEMPLATE``.
+        num_results:      Number of search results to retrieve per query.
+                          Defaults to ``5``.
+        course_filter:    If set, restricts search results to documents whose
+                          ``course`` field matches this value.  Defaults to
+                          ``None`` (no filter).
     """
 
     def __init__(
@@ -62,7 +71,8 @@ class RAGBase:
         index: SearchIndex,
         llm: LLMClient,
         model: str = "gpt-4o-mini",
-        prompt_template: str = DEFAULT_TEMPLATE,
+        instructions: str = INSTRUCTIONS,
+        prompt_template: str = USER_PROMPT_TEMPLATE,
         num_results: int = 5,
         course_filter: str | None = None,
     ) -> None:
@@ -72,6 +82,7 @@ class RAGBase:
         self._index = index
         self._llm = llm
         self._model = model
+        self._instructions = instructions
         self._prompt_template = prompt_template
         self._num_results = num_results
         self._course_filter = course_filter
@@ -120,22 +131,22 @@ class RAGBase:
         return "\n---\n".join(entries)
 
     def build_prompt(self, question: str, context: str) -> str:
-        """Format the prompt template with *context* and *question* (Req 3.2).
+        """Format the user prompt template with *question* and *context* (Req 3.2).
 
         Args:
             question: The user's question.
             context:  The context string built from search results.
 
         Returns:
-            The fully-formatted prompt string ready to send to the LLM.
+            The fully-formatted user prompt string ready to send to the LLM.
         """
-        return self._prompt_template.format(context=context, question=question)
+        return self._prompt_template.format(question=question, context=context)
 
     def ask(self, prompt: str) -> str:
         """Send *prompt* to the LLM and return the text response (Req 3.3).
 
         Args:
-            prompt: The fully-formatted prompt string.
+            prompt: The fully-formatted user prompt string.
 
         Returns:
             The LLM's text response.
@@ -145,7 +156,7 @@ class RAGBase:
         """
         return self._llm.complete(
             prompt,
-            instructions="You are a helpful assistant.",
+            instructions=self._instructions,
             model=self._model,
         )
 

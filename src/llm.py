@@ -16,7 +16,10 @@ from openai import OpenAI
 
 
 class OpenAIClient:
-    """LLMClient that calls the OpenAI Chat Completions API.
+    """LLMClient that calls the OpenAI Responses API.
+
+    Uses ``client.responses.create`` — the current preferred API over the
+    legacy Chat Completions endpoint.
 
     The API key is read exclusively from the ``OPENAI_API_KEY`` environment
     variable (Req 5.1).  Any API error is propagated to the caller without
@@ -27,11 +30,15 @@ class OpenAIClient:
         self._client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
     def complete(self, prompt: str, instructions: str, model: str) -> str:
-        """Send a prompt to OpenAI and return the assistant's text response.
+        """Send a prompt to OpenAI via the Responses API and return the text.
+
+        Passes instructions as a ``developer`` role message and the prompt as
+        a ``user`` role message inside the ``input`` list.
 
         Args:
             prompt:       User-facing message (question + context).
-            instructions: System message that guides model behaviour.
+            instructions: System-level instructions sent as the ``developer``
+                          role message.
             model:        OpenAI model identifier, e.g. ``"gpt-4o-mini"``.
 
         Returns:
@@ -40,14 +47,14 @@ class OpenAIClient:
         Raises:
             openai.APIError: If the OpenAI API returns an error (Req 3.4).
         """
-        response = self._client.chat.completions.create(
+        response = self._client.responses.create(
             model=model,
-            messages=[
-                {"role": "system", "content": instructions},
+            input=[
+                {"role": "developer", "content": instructions},
                 {"role": "user", "content": prompt},
             ],
         )
-        return response.choices[0].message.content
+        return response.output_text
 
 
 class OllamaClient:
@@ -91,9 +98,9 @@ class OllamaClient:
 
 
 class OpenRouterClient:
-    """LLMClient that calls the OpenRouter API.
+    """LLMClient that calls the OpenRouter API via the Responses API.
 
-    Uses the ``openai`` library pointed at ``https://openrouter.ai/api/v1``.
+    Uses ``client.responses.create`` pointed at ``https://openrouter.ai/api/v1``.
     The API key is read from the ``OPENROUTER_API_KEY`` environment variable.
     """
 
@@ -104,11 +111,15 @@ class OpenRouterClient:
         )
 
     def complete(self, prompt: str, instructions: str, model: str) -> str:
-        """Send a prompt to OpenRouter and return the assistant's text response.
+        """Send a prompt to OpenRouter via the Responses API and return the text.
+
+        Passes instructions as a ``developer`` role message and the prompt as
+        a ``user`` role message inside the ``input`` list.
 
         Args:
             prompt:       User-facing message (question + context).
-            instructions: System message that guides model behaviour.
+            instructions: System-level instructions sent as the ``developer``
+                          role message.
             model:        Model identifier supported by OpenRouter,
                           e.g. ``"openai/gpt-4o-mini"``.
 
@@ -118,11 +129,11 @@ class OpenRouterClient:
         Raises:
             openai.APIError: If the OpenRouter API returns an error.
         """
-        response = self._client.chat.completions.create(
+        response = self._client.responses.create(
             model=model,
-            messages=[
-                {"role": "system", "content": instructions},
+            input=[
+                {"role": "developer", "content": instructions},
                 {"role": "user", "content": prompt},
             ],
         )
-        return response.choices[0].message.content
+        return response.output_text

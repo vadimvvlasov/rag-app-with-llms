@@ -1,3 +1,6 @@
+# Kiro IDE
+.kiro/
+
 # Environment
 .env
 
@@ -30,6 +33,8 @@ htmlcov/
 
 # SQLite indexes
 *.db
+*.db-wal
+*.db-shm
 
 # IDEs
 .vscode/

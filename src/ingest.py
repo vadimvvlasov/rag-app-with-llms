@@ -64,7 +64,7 @@ class FaqHttpLoader:
         Raises:
             RuntimeError: If any HTTP request returns a non-2xx status code (Req 1.5).
         """
-        response = requests.get(self.url, timeout=30)
+        response = requests.get(self.url, timeout=60)
         if not response.ok:
             raise RuntimeError(f"Failed to fetch FAQ data: {response.status_code}")
 
@@ -72,7 +72,7 @@ class FaqHttpLoader:
         docs: list[dict] = []
         for course_entry in response.json():
             course_resp = requests.get(
-                f"{url_prefix}{course_entry['path']}", timeout=30
+                f"{url_prefix}{course_entry['path']}", timeout=60
             )
             if not course_resp.ok:
                 raise RuntimeError(

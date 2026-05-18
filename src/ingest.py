@@ -193,6 +193,18 @@ class SqliteIndex:
             num_results=num_results,
         )
 
+    def add_docs(self, docs: list[dict]) -> None:
+        """Add new documents to an existing persistent index.
+
+        Unlike the constructor (which skips ingestion when the DB already
+        exists), this method always appends the given documents to the index,
+        regardless of its current state.
+
+        Args:
+            docs: List of FAQ_Document dicts to add.
+        """
+        self._index._add_docs(docs)
+
 
 # ---------------------------------------------------------------------------
 # ElasticsearchIndex

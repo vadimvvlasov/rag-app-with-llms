@@ -216,9 +216,8 @@ class ElasticsearchIndex:
 
     Implements the ``SearchIndex`` protocol.
 
-    The index at *index_name* is expected to already exist and be populated.
-    This class is a thin query adapter — it does not manage index creation or
-    document ingestion.
+    Use ``index_docs()`` to create the index and populate it with documents.
+    After that, ``search()`` can be used for retrieval.
 
     Args:
         host:       Elasticsearch host URL, e.g. ``"http://localhost:9200"``.
@@ -228,6 +227,38 @@ class ElasticsearchIndex:
     def __init__(self, host: str, index_name: str) -> None:
         self._client = Elasticsearch(host)
         self._index_name = index_name
+
+    def index_docs(self, docs: list[dict]) -> None:
+        """Create the ES index (if needed) and bulk-index documents.
+
+        Drops and recreates the index if it already exists, so this is
+        a full rebuild — not an incremental update.
+
+        Args:
+            docs: List of FAQ_Document dicts to index.
+        """
+        from elasticsearch.helpers import bulk
+
+        if self._client.indices.exists(index=self._index_name):
+            self._client.indices.delete(index=self._index_name)
+
+        self._client.indices.create(
+            index=self._index_name,
+            body={
+                "mappings": {
+                    "properties": {
+                        "question": {"type": "text"},
+                        "text": {"type": "text"},
+                        "section": {"type": "text"},
+                        "course": {"type": "keyword"},
+                    }
+                }
+            },
+        )
+
+        actions = [{"_index": self._index_name, "_source": doc} for doc in docs]
+        bulk(self._client, actions)
+        self._client.indices.refresh(index=self._index_name)
 
     def search(
         self,

@@ -8,7 +8,7 @@ A minimal Retrieval-Augmented Generation (RAG) project based on [LLM Zoomcamp](h
 flowchart TD
     subgraph Setup
         FL["FaqHttpLoader"] -->|docs| IDX["MinsearchIndex\nSqliteIndex\nElasticsearchIndex"]
-        IDX <-->|persist / load| DB[("faq_index.db")]
+        IDX <-->|persist / load| DB[("faq_index.db\n/ ES cluster")]
     end
 
     subgraph Query
@@ -33,8 +33,9 @@ rag-intro/
 │   ├── rag.py          # RAGBase — orchestrates search → prompt → answer
 │   └── __init__.py     # Re-exports all public classes
 ├── notebooks/
-│   ├── 01_intro.ipynb       # In-memory demo  (MinsearchIndex + OpenAI)
-│   └── 02_persistent.ipynb  # Persistent demo (SqliteIndex + OpenAI)
+│   ├── 01_intro.ipynb                    # In-memory demo  (MinsearchIndex + OpenAI)
+│   ├── 02_persistent_sqlite.ipynb        # Persistent demo (SqliteIndex + OpenAI)
+│   └── 02_persistent_elasticsearch.ipynb # Persistent demo (ElasticsearchIndex + OpenRouter)
 ├── tests/
 │   ├── test_unit.py        # Unit tests (pytest + mocks)
 │   └── test_properties.py  # Property-based tests (hypothesis)
@@ -104,7 +105,7 @@ print(rag.rag("How do I submit homework?"))
 uv run jupyter notebook
 ```
 
-Open `notebooks/01_intro.ipynb` for the in-memory demo or `notebooks/02_persistent.ipynb` for the SQLite-backed demo.
+Open `notebooks/01_intro.ipynb` for the in-memory demo, `notebooks/02_persistent_sqlite.ipynb` for the SQLite-backed demo, or `notebooks/02_persistent_elasticsearch.ipynb` for the Elasticsearch-backed demo.
 
 ## Running tests
 
@@ -139,5 +140,5 @@ uv run pytest
 | Class | Storage | Notes |
 |---|---|---|
 | `MinsearchIndex` | In-memory | Fast startup, no persistence |
-| `SqliteIndex` | SQLite on disk | Persists between runs, skips re-ingestion |
-| `ElasticsearchIndex` | Elasticsearch cluster | Expects an existing populated index |
+| `SqliteIndex` | SQLite on disk | Persists between runs, skips re-ingestion if DB exists |
+| `ElasticsearchIndex` | Elasticsearch cluster | Requires a running ES instance; call `index_docs()` once to build, then reuse across runs |

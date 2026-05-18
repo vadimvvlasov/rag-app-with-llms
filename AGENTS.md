@@ -25,7 +25,7 @@ Do not use bare `python`, `pytest`, or `jupyter` — the project virtualenv is m
 Three independently swappable components connected through `Protocol` interfaces in `src/interfaces.py`:
 
 - **DataLoader** (`src/ingest.py`) — `FaqHttpLoader`
-- **SearchIndex** (`src/ingest.py`) — `MinsearchIndex`, `SqliteIndex`, `ElasticsearchIndex`
+- **SearchIndex** (`src/ingest.py`) — `MinsearchIndex` (in-memory), `SqliteIndex` (SQLite, local persistence), `ElasticsearchIndex` (requires a running ES cluster; call `index_docs()` once, then reuse)
 - **LLMClient** (`src/llm.py`) — `OpenAIClient`, `OllamaClient`, `OpenRouterClient`
 - **Pipeline** (`src/rag.py`) — `RAGBase` depends only on the two protocols above
 

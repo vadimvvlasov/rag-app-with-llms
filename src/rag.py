@@ -68,8 +68,8 @@ class RAGBase:
 
     def __init__(
         self,
-        index: SearchIndex | None = None,
-        llm: LLMClient = None,
+        index: SearchIndex,
+        llm: LLMClient,
         model: str = "gpt-4o-mini",
         instructions: str = INSTRUCTIONS,
         prompt_template: str = USER_PROMPT_TEMPLATE,

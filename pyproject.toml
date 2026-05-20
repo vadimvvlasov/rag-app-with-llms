@@ -12,6 +12,7 @@ dependencies = [
     "python-dotenv==1.2.2",
     "jupyter==1.1.1",
     "sentence-transformers>=5.5.0",
+    "psycopg[binary]>=3.3.4",
 ]
 
 [build-system]

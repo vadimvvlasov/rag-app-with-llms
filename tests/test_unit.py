@@ -289,7 +289,7 @@ class TestRAGBaseAsk:
         from src import RAGBase
 
         llm = MockLLMClient(response="This is the answer.")
-        rag = RAGBase(index=self._make_index(), llm=llm)
+        rag = RAGBase(index=self._make_index(), llm_client=llm)
         result = rag.ask("What is RAG?")
         assert result == "This is the answer."
 
@@ -298,7 +298,7 @@ class TestRAGBaseAsk:
         from src import RAGBase
 
         llm = ErrorLLMClient()
-        rag = RAGBase(index=self._make_index(), llm=llm)
+        rag = RAGBase(index=self._make_index(), llm_client=llm)
         with pytest.raises(ValueError, match="LLM API error"):
             rag.ask("What is RAG?")
 
@@ -313,6 +313,6 @@ class TestRAGBaseAsk:
                 received_prompts.append(prompt)
                 return "ok"
 
-        rag = RAGBase(index=self._make_index(), llm=CaptureLLM())
+        rag = RAGBase(index=self._make_index(), llm_client=CaptureLLM())
         rag.ask("my custom prompt")
         assert received_prompts == ["my custom prompt"]

@@ -69,8 +69,8 @@ class RAGBase:
     def __init__(
         self,
         index: SearchIndex,
-        llm: LLMClient,
-        model: str = "gpt-4o-mini",
+        llm_client: LLMClient,
+        llm_model: str = "gpt-4o-mini",
         instructions: str = INSTRUCTIONS,
         prompt_template: str = USER_PROMPT_TEMPLATE,
         num_results: int = 5,
@@ -80,8 +80,8 @@ class RAGBase:
         load_dotenv()
 
         self._index = index
-        self._llm = llm
-        self._model = model
+        self._llm = llm_client
+        self._model = llm_model
         self._instructions = instructions
         self._prompt_template = prompt_template
         self._num_results = num_results

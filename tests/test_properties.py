@@ -213,7 +213,7 @@ def test_property4_prompt_contains_context_and_question(context, question):
     """
     from src.rag import RAGBase
 
-    rag = RAGBase(index=_DummyIndex(), llm=_DummyLLM())
+    rag = RAGBase(index=_DummyIndex(), llm_client=_DummyLLM())
     prompt = rag.build_prompt(question=question, context=context)
     assert context in prompt
     assert question in prompt
@@ -236,7 +236,7 @@ def test_property5_context_built_from_search_results(results):
     """
     from src.rag import RAGBase
 
-    rag = RAGBase(index=_DummyIndex(), llm=_DummyLLM())
+    rag = RAGBase(index=_DummyIndex(), llm_client=_DummyLLM())
     context = rag.build_context(results)
 
     assert isinstance(context, str)

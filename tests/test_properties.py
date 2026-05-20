@@ -17,7 +17,7 @@ from hypothesis import strategies as st
 faq_dict_strategy = st.fixed_dictionaries(
     {
         "question": st.text(min_size=1),
-        "text": st.text(min_size=1),
+        "answer": st.text(min_size=1),
         "section": st.text(min_size=1),
         "course": st.text(
             min_size=1,
@@ -32,7 +32,7 @@ faq_dict_strategy = st.fixed_dictionaries(
 result_dict_strategy = st.fixed_dictionaries(
     {
         "question": st.text(min_size=1),
-        "text": st.text(min_size=1),
+        "answer": st.text(min_size=1),
         "section": st.text(min_size=1),
         "course": st.text(min_size=1),
     }
@@ -66,9 +66,7 @@ def test_property1_faq_parsing_preserves_required_fields(faq_dicts):
         courses.setdefault(doc["course"], []).append(
             {
                 "question": doc["question"],
-                "answer": doc[
-                    "text"
-                ],  # upstream uses "answer", loader normalises to "text"
+                "answer": doc["answer"],
                 "section": doc["section"],
                 "course": doc["course"],
             }
@@ -94,7 +92,7 @@ def test_property1_faq_parsing_preserves_required_fields(faq_dicts):
         assert (
             "question" in doc and isinstance(doc["question"], str) and doc["question"]
         )
-        assert "text" in doc and isinstance(doc["text"], str) and doc["text"]
+        assert "answer" in doc and isinstance(doc["answer"], str) and doc["answer"]
         assert "section" in doc and isinstance(doc["section"], str) and doc["section"]
         assert "course" in doc and isinstance(doc["course"], str) and doc["course"]
 
@@ -120,7 +118,7 @@ def test_property2_search_returns_at_most_n_results(docs, num_results):
     results = index.search(
         query="test query",
         num_results=num_results,
-        boost_dict={"question": 3, "text": 1, "section": 0.5},
+        boost_dict={"question": 3, "answer": 1, "section": 0.5},
         filter_dict={},
     )
     assert isinstance(results, list)
@@ -175,7 +173,7 @@ def test_property3_course_filter_returns_only_matching_docs(docs_and_course):
     results = index.search(
         query="test",
         num_results=20,
-        boost_dict={"question": 3, "text": 1, "section": 0.5},
+        boost_dict={"question": 3, "answer": 1, "section": 0.5},
         filter_dict={"course": course_filter},
     )
     for doc in results:
@@ -242,5 +240,5 @@ def test_property5_context_built_from_search_results(results):
     assert isinstance(context, str)
     assert len(context) > 0
 
-    # Context must contain text from at least one result
-    assert any(doc["text"] in context for doc in results)
+    # Context must contain answer from at least one result
+    assert any(doc["answer"] in context for doc in results)

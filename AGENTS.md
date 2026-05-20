@@ -43,10 +43,10 @@ When adding a new backend, implement the relevant Protocol — no changes to `RA
 Every FAQ document is a plain `dict` with exactly these keys:
 
 ```python
-{"question": str, "text": str, "section": str, "course": str}
+{"question": str, "answer": str, "section": str, "course": str}
 ```
 
-The upstream API uses `answer` instead of `text` — `FaqHttpLoader` normalises this on load. Downstream code always uses `text`.
+The field name matches the upstream API — `FaqHttpLoader` keeps it as `answer`. Downstream code always uses `answer`.
 
 ## Tests
 

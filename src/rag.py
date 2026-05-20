@@ -105,7 +105,7 @@ class RAGBase:
         return self._index.search(
             query,
             num_results=self._num_results,
-            boost_dict={"question": 3, "text": 1, "section": 0.5},
+            boost_dict={"question": 3, "answer": 1, "section": 0.5},
             filter_dict=filter_dict,
         )
 
@@ -126,7 +126,8 @@ class RAGBase:
             A single formatted string containing all results.
         """
         entries = [
-            f"Q: {doc.get('question', '')}\nA: {doc.get('text', '')}" for doc in results
+            f"Q: {doc.get('question', '')}\nA: {doc.get('answer', '')}"
+            for doc in results
         ]
         return "\n---\n".join(entries)
 

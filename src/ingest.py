@@ -22,7 +22,7 @@ from elasticsearch import Elasticsearch
 
 _DEFAULT_FAQ_URL = "https://datatalks.club/faq/json/courses.json"
 
-_TEXT_FIELDS = ["question", "text", "section"]
+_TEXT_FIELDS = ["question", "answer", "section"]
 _KEYWORD_FIELDS = ["course"]
 
 
@@ -55,11 +55,11 @@ class FaqHttpLoader:
             # per-course:    [{"course": "...", "question": ..., "answer": ...,
             #                  "section": ...}, ...]
 
-        The ``answer`` field is normalised to ``text`` for pipeline consistency
+        The ``answer`` field is kept as-is for pipeline consistency
         (Req 1.1, 1.2).
 
         Returns:
-            List of dicts with keys ``question``, ``text``, ``section``, ``course``.
+            List of dicts with keys ``question``, ``answer``, ``section``, ``course``.
 
         Raises:
             RuntimeError: If any HTTP request returns a non-2xx status code (Req 1.5).
@@ -82,7 +82,7 @@ class FaqHttpLoader:
                 docs.append(
                     {
                         "question": doc.get("question", ""),
-                        "text": doc.get("answer", ""),
+                        "answer": doc.get("answer", ""),
                         "section": doc.get("section", ""),
                         "course": doc.get("course", course_entry.get("course", "")),
                     }
@@ -248,7 +248,7 @@ class ElasticsearchIndex:
                 "mappings": {
                     "properties": {
                         "question": {"type": "text"},
-                        "text": {"type": "text"},
+                        "answer": {"type": "text"},
                         "section": {"type": "text"},
                         "course": {"type": "keyword"},
                     }

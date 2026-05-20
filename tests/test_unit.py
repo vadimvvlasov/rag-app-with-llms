@@ -20,19 +20,19 @@ import pytest
 SAMPLE_DOCS = [
     {
         "question": "How to enroll?",
-        "text": "Go to the website.",
+        "answer": "Go to the website.",
         "section": "General",
         "course": "llm-zoomcamp",
     },
     {
         "question": "What is RAG?",
-        "text": "Retrieval Augmented Generation.",
+        "answer": "Retrieval Augmented Generation.",
         "section": "Module 1",
         "course": "llm-zoomcamp",
     },
     {
         "question": "How to install?",
-        "text": "Use pip install.",
+        "answer": "Use pip install.",
         "section": "Setup",
         "course": "mlops-zoomcamp",
     },
@@ -98,7 +98,7 @@ class TestFaqHttpLoader:
         assert len(docs) == 1
         doc = docs[0]
         assert doc["question"] == "Q1"
-        assert doc["text"] == "A1"
+        assert doc["answer"] == "A1"
         assert doc["section"] == "S1"
         assert doc["course"] == "test-course"
 
@@ -160,7 +160,7 @@ class TestMinsearchIndex:
         results = index.search(
             query="enroll",
             num_results=5,
-            boost_dict={"question": 3, "text": 1},
+            boost_dict={"question": 3, "answer": 1},
             filter_dict={},
         )
         assert isinstance(results, list)
@@ -209,7 +209,7 @@ class TestSqliteIndex:
         results = index.search(
             query="enroll",
             num_results=5,
-            boost_dict={"question": 3, "text": 1},
+            boost_dict={"question": 3, "answer": 1},
             filter_dict={},
         )
         assert isinstance(results, list)

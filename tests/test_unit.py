@@ -101,6 +101,7 @@ class TestFaqHttpLoader:
         assert doc["answer"] == "A1"
         assert doc["section"] == "S1"
         assert doc["course"] == "test-course"
+        assert isinstance(doc["id"], str) and len(doc["id"]) == 8
 
     def test_load_http_error_raises_runtime_error(self):
         """HTTP non-2xx: load() raises RuntimeError."""

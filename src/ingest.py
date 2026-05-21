@@ -8,6 +8,7 @@ Classes:
     ElasticsearchIndex — search adapter backed by an Elasticsearch cluster
 """
 
+import hashlib
 import os
 from pathlib import Path
 
@@ -24,6 +25,25 @@ _DEFAULT_FAQ_URL = "https://datatalks.club/faq/json/courses.json"
 
 _TEXT_FIELDS = ["question", "answer", "section"]
 _KEYWORD_FIELDS = ["course"]
+
+
+def _doc_id(doc: dict) -> str:
+    """Return a short deterministic ID for a FAQ document.
+
+    The ID is the first 8 hex characters of the SHA-1 hash of the
+    concatenated ``course``, ``section``, and ``question`` fields.  This
+    makes the ID stable across reloads while being compact enough for use
+    as a ground-truth key in evaluation datasets.
+
+    Args:
+        doc: FAQ_Document dict with at least ``course``, ``section``, and
+             ``question`` keys.
+
+    Returns:
+        8-character lowercase hex string, e.g. ``"a3f2c1b0"``.
+    """
+    key = f"{doc.get('course', '')}|{doc.get('section', '')}|{doc.get('question', '')}"
+    return hashlib.sha1(key.encode()).hexdigest()[:8]
 
 
 # ---------------------------------------------------------------------------
@@ -59,7 +79,7 @@ class FaqHttpLoader:
         (Req 1.1, 1.2).
 
         Returns:
-            List of dicts with keys ``question``, ``answer``, ``section``, ``course``.
+            List of dicts with keys ``id``, ``question``, ``answer``, ``section``, ``course``.
 
         Raises:
             RuntimeError: If any HTTP request returns a non-2xx status code (Req 1.5).
@@ -79,14 +99,14 @@ class FaqHttpLoader:
                     f"Failed to fetch course FAQ data: {course_resp.status_code}"
                 )
             for doc in course_resp.json():
-                docs.append(
-                    {
-                        "question": doc.get("question", ""),
-                        "answer": doc.get("answer", ""),
-                        "section": doc.get("section", ""),
-                        "course": doc.get("course", course_entry.get("course", "")),
-                    }
-                )
+                entry = {
+                    "question": doc.get("question", ""),
+                    "answer": doc.get("answer", ""),
+                    "section": doc.get("section", ""),
+                    "course": doc.get("course", course_entry.get("course", "")),
+                }
+                entry["id"] = _doc_id(entry)
+                docs.append(entry)
         return docs
 
 

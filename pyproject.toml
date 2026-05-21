@@ -13,6 +13,7 @@ dependencies = [
     "jupyter==1.1.1",
     "sentence-transformers>=5.5.0",
     "psycopg[binary]>=3.3.4",
+    "toyaikit>=0.0.10",
 ]
 
 [build-system]

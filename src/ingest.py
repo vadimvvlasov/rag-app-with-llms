@@ -105,7 +105,7 @@ class FaqHttpLoader:
                     "section": doc.get("section", ""),
                     "course": doc.get("course", course_entry.get("course", "")),
                 }
-                entry["id"] = _doc_id(entry)
+                entry["id"] = doc.get("id") or _doc_id(entry)
                 docs.append(entry)
         return docs
 

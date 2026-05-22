@@ -44,7 +44,13 @@ SAMPLE_COURSES_INDEX = [
     {"course": "test-course", "path": "/json/test-course.json"},
 ]
 SAMPLE_COURSE_DOCS = [
-    {"question": "Q1", "answer": "A1", "section": "S1", "course": "test-course"},
+    {
+        "id": "abc123",
+        "question": "Q1",
+        "answer": "A1",
+        "section": "S1",
+        "course": "test-course",
+    },
 ]
 
 
@@ -101,7 +107,7 @@ class TestFaqHttpLoader:
         assert doc["answer"] == "A1"
         assert doc["section"] == "S1"
         assert doc["course"] == "test-course"
-        assert isinstance(doc["id"], str) and len(doc["id"]) == 8
+        assert isinstance(doc["id"], str) and doc["id"] == "abc123"
 
     def test_load_http_error_raises_runtime_error(self):
         """HTTP non-2xx: load() raises RuntimeError."""

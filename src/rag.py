@@ -179,18 +179,29 @@ class RAGBase:
             model=self._model,
         )
 
-    def rag(self, question: str) -> str:
+    def rag(
+        self,
+        question: str,
+        num_results: int | None = None,
+        boost_dict: dict = DEFAULT_BOOST,
+        filter_dict: dict | None = None,
+    ) -> str:
         """Run the full RAG pipeline for *question*.
 
         Orchestrates: search → build_context → build_prompt → ask.
 
         Args:
-            question: The user's natural-language question.
+            question:    The user's natural-language question.
+            num_results: Maximum number of search results to retrieve.
+                         Defaults to ``self._num_results``.
+            boost_dict:  Field-level boost weights. Defaults to ``DEFAULT_BOOST``.
+            filter_dict: Exact-match filters, e.g. ``{"course": "llm-zoomcamp"}``.
+                         Defaults to a filter derived from ``self._course_filter``.
 
         Returns:
             The LLM's answer grounded in the retrieved FAQ context.
         """
-        results = self.search(question)
+        results = self.search(question, num_results=num_results, boost_dict=boost_dict, filter_dict=filter_dict)
         context = self.build_context(results)
         prompt = self.build_prompt(question, context)
         return self.ask(prompt)

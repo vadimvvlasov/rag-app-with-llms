@@ -27,6 +27,8 @@ answers. If the answer is not found in the context, \
 respond with "I don't know."\
 """
 
+DEFAULT_BOOST: dict = {"question": 3, "answer": 1, "section": 0.5}
+
 USER_PROMPT_TEMPLATE = """\
 Question:
 {question}
@@ -91,21 +93,37 @@ class RAGBase:
     # Pipeline steps
     # ------------------------------------------------------------------
 
-    def search(self, query: str) -> list[dict]:
+    def search(
+        self,
+        query: str,
+        num_results: int | None = None,
+        boost_dict: dict = DEFAULT_BOOST,
+        filter_dict: dict | None = None,
+    ) -> list[dict]:
         """Search the index for documents relevant to *query*.
 
         Args:
-            query: Free-text question or search string.
+            query:       Free-text question or search string.
+            num_results: Maximum number of results to return.  Defaults to the
+                         value set on the instance (``self._num_results``).
+            boost_dict:  Field-level boost weights.  Defaults to
+                         ``DEFAULT_BOOST``.
+            filter_dict: Exact-match filters.  Defaults to a course filter
+                         derived from ``self._course_filter`` (if set), or an
+                         empty dict.
 
         Returns:
             List of FAQ_Document dicts ordered by relevance (at most
             ``num_results`` entries).
         """
-        filter_dict = {"course": self._course_filter} if self._course_filter else {}
+        if num_results is None:
+            num_results = self._num_results
+        if filter_dict is None:
+            filter_dict = {"course": self._course_filter} if self._course_filter else {}
         return self._index.search(
             query,
-            num_results=self._num_results,
-            boost_dict={"question": 3, "answer": 1, "section": 0.5},
+            num_results=num_results,
+            boost_dict=boost_dict,
             filter_dict=filter_dict,
         )
 

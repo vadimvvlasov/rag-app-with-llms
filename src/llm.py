@@ -63,10 +63,18 @@ class OllamaClient:
     Args:
         base_url: Base URL of the Ollama server.
                   Defaults to ``"http://localhost:11434"``.
+        num_ctx:  Context window size passed to Ollama via ``options.num_ctx``.
+                  Keeping this small (e.g. 2048) ensures the model fits on GPU
+                  when ``OLLAMA_NUM_PARALLEL > 1``.  Defaults to ``2048``.
     """
 
-    def __init__(self, base_url: str = "http://localhost:11434") -> None:
+    def __init__(
+        self,
+        base_url: str = "http://localhost:11434",
+        num_ctx: int = 2048,
+    ) -> None:
         self._base_url = base_url.rstrip("/")
+        self._num_ctx = num_ctx
 
     def complete(self, prompt: str, instructions: str, model: str) -> str:
         """Send a prompt to Ollama and return the assistant's text response.
@@ -89,6 +97,7 @@ class OllamaClient:
                 {"role": "system", "content": instructions},
                 {"role": "user", "content": prompt},
             ],
+            "options": {"num_ctx": self._num_ctx},
             "stream": False,
         }
         response = requests.post(url, json=payload, timeout=120)

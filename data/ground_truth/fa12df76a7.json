@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I encounter a 'Mage error: TypeError: string indices must be integers' while working on Global Data Products?",
+    "course": "mlops-zoomcamp",
+    "document": "fa12df76a7"
+  },
+  {
+    "question": "How can I fix stale upstream connections in the `hyperparameter_tuning/sklearn` block after modifying blocks during debugging?",
+    "course": "mlops-zoomcamp",
+    "document": "fa12df76a7"
+  },
+  {
+    "question": "What is the recommended sequence of actions to resolve connection issues between blocks in a pipeline?",
+    "course": "mlops-zoomcamp",
+    "document": "fa12df76a7"
+  },
+  {
+    "question": "Where can I find guidance for troubleshooting errors related to string indices being non-integers in MLOps ZoomCamp Module 3: Orchestration?",
+    "course": "mlops-zoomcamp",
+    "document": "fa12df76a7"
+  },
+  {
+    "question": "After removing and re-adding blocks, what is the final step to ensure the pipeline functions correctly?",
+    "course": "mlops-zoomcamp",
+    "document": "fa12df76a7"
+  }
+]

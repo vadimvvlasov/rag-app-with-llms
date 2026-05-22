@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why are my custom metrics, such as `rmse`, not appearing in the MLflow UI after running experiments?",
+    "course": "mlops-zoomcamp",
+    "document": "ac12e26845"
+  },
+  {
+    "question": "What specific step should I take to ensure that a handmade metric like `rmse` is logged and visible in MLflow?",
+    "course": "mlops-zoomcamp",
+    "document": "ac12e26845"
+  },
+  {
+    "question": "In the context of Module 2 on Experiment Tracking for the MLOps ZoomCamp course, how do I correctly log a custom metric using MLflow?",
+    "course": "mlops-zoomcamp",
+    "document": "ac12e26845"
+  },
+  {
+    "question": "If metrics are not showing up in the MLflow UI despite successful experiment runs, what function should be used to log them explicitly?",
+    "course": "mlops-zoomcamp",
+    "document": "ac12e26845"
+  },
+  {
+    "question": "According to the solution provided for visible metrics in the MLflow UI, which parameters must be specified when logging a metric like `rmse`?",
+    "course": "mlops-zoomcamp",
+    "document": "ac12e26845"
+  }
+]

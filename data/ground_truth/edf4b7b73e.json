@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is a laptop sufficient for the entire course, or are additional resources required for specific modules?",
+    "course": "machine-learning-zoomcamp",
+    "document": "edf4b7b73e"
+  },
+  {
+    "question": "What type of internet connection speed is recommended to ensure smooth participation in live sessions and upload/download of large datasets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "edf4b7b73e"
+  },
+  {
+    "question": "Can I use my personal desktop computer instead of a cloud GPU service for the Deep Learning section, or is it mandatory to use cloud services?",
+    "course": "machine-learning-zoomcamp",
+    "document": "edf4b7b73e"
+  },
+  {
+    "question": "Are there any free alternatives to paid cloud GPU services that are still adequate for running deep learning algorithms during this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "edf4b7b73e"
+  },
+  {
+    "question": "Will the course provide any guidance on setting up and accessing cloud GPU services if I am unfamiliar with them?",
+    "course": "machine-learning-zoomcamp",
+    "document": "edf4b7b73e"
+  }
+]

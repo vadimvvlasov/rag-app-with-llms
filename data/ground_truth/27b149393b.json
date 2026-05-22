@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is Streamlit sufficient for deploying my machine learning project without additional frameworks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "27b149393b"
+  },
+  {
+    "question": "What are the minimal requirements for a valid deployment in this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "27b149393b"
+  },
+  {
+    "question": "Can I integrate Streamlit with another web framework to meet the deployment criteria?",
+    "course": "machine-learning-zoomcamp",
+    "document": "27b149393b"
+  },
+  {
+    "question": "Does using Streamlit alone prevent me from passing the deployment evaluation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "27b149393b"
+  },
+  {
+    "question": "Are there alternatives to Streamlit that could serve as both the UI and service for my project?",
+    "course": "machine-learning-zoomcamp",
+    "document": "27b149393b"
+  }
+]

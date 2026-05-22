@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I use to log in to AWS ECR from the terminal with Docker instead of the deprecated `aws ecr get-login` command?",
+    "course": "mlops-zoomcamp",
+    "document": "f831690b89"
+  },
+  {
+    "question": "How do I specify the correct AWS region when logging into an ECR repository using Docker?",
+    "course": "mlops-zoomcamp",
+    "document": "f831690b89"
+  },
+  {
+    "question": "What will happen if I provide an incorrect or missing AWS region during the ECR login process?",
+    "course": "mlops-zoomcamp",
+    "document": "f831690b89"
+  },
+  {
+    "question": "Which details need to be included in the `<ACCOUNTID>.dkr.ecr.<REGION>.amazonaws.com` part of the login command?",
+    "course": "mlops-zoomcamp",
+    "document": "f831690b89"
+  },
+  {
+    "question": "What error message indicates that the AWS region is incorrectly set when attempting to log in to AWS ECR?",
+    "course": "mlops-zoomcamp",
+    "document": "f831690b89"
+  }
+]

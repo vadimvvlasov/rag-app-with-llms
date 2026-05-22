@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I encounter a Docker Compose error stating that pull access is denied for the 'spark-3.3.1' repository?",
+    "course": "data-engineering-zoomcamp",
+    "document": "664833c280"
+  },
+  {
+    "question": "Why does running `docker compose` result in an error saying the requested resource access is denied for 'spark-3.3.1'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "664833c280"
+  },
+  {
+    "question": "How can I resolve the issue when trying to pull 'spark-3.3.1' from DockerHub and receiving a denied access message?",
+    "course": "data-engineering-zoomcamp",
+    "document": "664833c280"
+  },
+  {
+    "question": "What command should be executed in the Spark folder to build necessary images before using `docker compose` in Module 7 of the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "664833c280"
+  },
+  {
+    "question": "In the context of the data-engineering-zoomcamp course, specifically Module 7 on Streaming, what step is required prior to running `docker compose` to avoid repository access denied errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "664833c280"
+  }
+]

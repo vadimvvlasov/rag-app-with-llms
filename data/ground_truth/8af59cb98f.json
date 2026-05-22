@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if my homework answer does not match any of the provided options?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8af59cb98f"
+  },
+  {
+    "question": "How can I handle a situation where my computed result is between two possible choices in the homework question?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8af59cb98f"
+  },
+  {
+    "question": "In case my calculated value for a homework problem falls within the range of two answer selections, which option should I choose?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8af59cb98f"
+  },
+  {
+    "question": "When my answer to a homework question differs from all listed alternatives due to environment differences, what is the recommended approach?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8af59cb98f"
+  },
+  {
+    "question": "If none of the given options align with my computed result because of varying software environments, what steps should I take?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8af59cb98f"
+  }
+]

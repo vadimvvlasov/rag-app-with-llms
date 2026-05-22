@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I use to authenticate Docker with Amazon ECR without encountering the 'Invalid choice' error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b612fa07ec"
+  },
+  {
+    "question": "How do I correctly specify the region and AWS account ID when logging into ECR using a single AWS CLI command?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b612fa07ec"
+  },
+  {
+    "question": "Can you provide an example of how to run the `aws ecr get-login` command if I have already configured my default region in AWS CLI?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b612fa07ec"
+  },
+  {
+    "question": "What is the purpose of the `get-login-password` option in the `aws ecr` command, and why is it necessary for Docker authentication?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b612fa07ec"
+  },
+  {
+    "question": "If I prefer not to manually enter my region and account ID, what alternative one-liner command can I use that leverages my configured AWS settings?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b612fa07ec"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I install the `md5sum` utility on a macOS system?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f884543e2c"
+  },
+  {
+    "question": "What command should I use to verify the integrity of a file named `model1.bin` using `md5sum` after installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f884543e2c"
+  },
+  {
+    "question": "In the context of Module 5 on deploying machine learning models, which package manager is recommended for installing `md5sha1sum`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f884543e2c"
+  },
+  {
+    "question": "Once `md5sha1sum` is installed via Homebrew, what syntax should I employ to check the MD5 hash of both `model1.bin` and another file called `dv.bin`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f884543e2c"
+  },
+  {
+    "question": "Which section of the 'machine-learning-zoomcamp' course covers the procedure for installing `md5sum` on macOS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f884543e2c"
+  }
+]

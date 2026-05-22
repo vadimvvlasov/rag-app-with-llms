@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error message do I encounter when attempting to pull the `svizor/zoomcamp-model` image using the `docker pull` command?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a5ee2dc890"
+  },
+  {
+    "question": "Why does Docker default to the `latest` tag and how does this cause the manifest not to be found?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a5ee2dc890"
+  },
+  {
+    "question": "Which specific tag should I use to successfully pull the `svizor/zoomcamp-model` image without encountering a manifest error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a5ee2dc890"
+  },
+  {
+    "question": "In the provided solution, what is the exact command to execute to resolve the issue of pulling the correct Docker image?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a5ee2dc890"
+  },
+  {
+    "question": "How can I ensure that future attempts to pull Docker images from repositories avoid similar manifest-related errors?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a5ee2dc890"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why can't I see the locally created environment on AWS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "03331f413e"
+  },
+  {
+    "question": "What should I verify if my Elastic Beanstalk environment is missing from the AWS console?",
+    "course": "machine-learning-zoomcamp",
+    "document": "03331f413e"
+  },
+  {
+    "question": "Could being in the wrong AWS region cause the local environment not to appear?",
+    "course": "machine-learning-zoomcamp",
+    "document": "03331f413e"
+  },
+  {
+    "question": "How do I confirm that I am using eu-west-1 (Ireland) when checking Elastic Beanstalk environments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "03331f413e"
+  },
+  {
+    "question": "What step should I take to resolve the issue where my newly created environment is not listed on AWS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "03331f413e"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When running the `dbt build` command, why is it necessary to include a variable that sets `'is_test_run'` to `false`, and how should this be formatted correctly?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55fac499b0"
+  },
+  {
+    "question": "If my Fact_trips dataset only captures a limited number of days of data, what specific command line arguments must I use to ensure a full data load during the dbt build process?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55fac499b0"
+  },
+  {
+    "question": "What alternative method can be employed if setting the `'is_test_run'` variable to `false` in the dbt run or dbt build command does not resolve the incomplete Fact_trips data issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55fac499b0"
+  },
+  {
+    "question": "In the context of dbt configuration for a non-test environment, which exact syntax should be used when invoking the `--vars` flag to disable test runs and guarantee comprehensive data ingestion?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55fac499b0"
+  },
+  {
+    "question": "During Module 4 of the data-engineering-zoomcamp course, specifically within Analytics Engineering with dbt, what common pitfall should learners avoid regarding the formatting of single quotes when adjusting dbt variables?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55fac499b0"
+  }
+]

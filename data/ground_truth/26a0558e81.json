@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I create a virtual environment for deploying machine learning models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "26a0558e81"
+  },
+  {
+    "question": "What command should I use to capture installed package dependencies in a text file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "26a0558e81"
+  },
+  {
+    "question": "Where are the Pipfile and Pipfile.lock files located after setting up the project environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "26a0558e81"
+  },
+  {
+    "question": "What is the purpose of generating a requirements.txt file during model deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "26a0558e81"
+  },
+  {
+    "question": "Which module of the 'Machine Learning Zoomcamp' course covers virtual environment setup and dependency management?",
+    "course": "machine-learning-zoomcamp",
+    "document": "26a0558e81"
+  }
+]

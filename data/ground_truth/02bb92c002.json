@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can you provide a step-by-step guide to install kubectl on Windows using PowerShell within Visual Studio Code?",
+    "course": "machine-learning-zoomcamp",
+    "document": "02bb92c002"
+  },
+  {
+    "question": "What is the exact curl command required to download the kubectl binary for Windows, as mentioned in the Kubernetes documentation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "02bb92c002"
+  },
+  {
+    "question": "After downloading the kubectl.exe file, where should I specifically place it on my C drive to ensure successful installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "02bb92c002"
+  },
+  {
+    "question": "How do I modify the system PATH environment variable on Windows to include the directory containing kubectl.exe and kind executables?",
+    "course": "machine-learning-zoomcamp",
+    "document": "02bb92c002"
+  },
+  {
+    "question": "Are there any alternative methods or tutorials recommended for installing kubectl and kind on Windows besides using curl?",
+    "course": "machine-learning-zoomcamp",
+    "document": "02bb92c002"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the error 'Bind for 0.0.0.0:5432 failed: port is already allocated' occur when starting Postgres services with `docker-compose up`?",
+    "course": "mlops-zoomcamp",
+    "document": "beef541941"
+  },
+  {
+    "question": "What is causing the conflict that leads to the message 'port is already allocated' in this scenario?",
+    "course": "mlops-zoomcamp",
+    "document": "beef541941"
+  },
+  {
+    "question": "How can I resolve the port allocation issue so that the Postgres service starts successfully without errors?",
+    "course": "mlops-zoomcamp",
+    "document": "beef541941"
+  },
+  {
+    "question": "In which part of the Docker Compose configuration file should I modify the port mapping to fix the problem with port 5432?",
+    "course": "mlops-zoomcamp",
+    "document": "beef541941"
+  },
+  {
+    "question": "What specific change to the YAML file will allow PostgreSQL to use a free port instead of the one already in use?",
+    "course": "mlops-zoomcamp",
+    "document": "beef541941"
+  }
+]

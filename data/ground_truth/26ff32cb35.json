@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I encounter an `ImportError: cannot import name 'TypeAliasType' from 'typing_extensions'` when trying to use SQLAlchemy's `create_engine`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "26ff32cb35"
+  },
+  {
+    "question": "How can I resolve the `ModuleNotFoundError: No module named 'psycopg2'` error when working with PostgreSQL in Python?",
+    "course": "data-engineering-zoomcamp",
+    "document": "26ff32cb35"
+  },
+  {
+    "question": "What is the correct connection string format for using psycopg3 with SQLAlchemy's `create_engine` function?",
+    "course": "data-engineering-zoomcamp",
+    "document": "26ff32cb35"
+  },
+  {
+    "question": "Why might I receive a `'module' object is not callable` error, and how can I fix it when importing SQLAlchemy?",
+    "course": "data-engineering-zoomcamp",
+    "document": "26ff32cb35"
+  },
+  {
+    "question": "What steps should I take if I suspect that nested virtual environments are causing import issues with SQLAlchemy in my project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "26ff32cb35"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I encountered a `ModuleNotFoundError` when trying to import `docx` in the `parse-faq.ipynb` notebook. What should I do?",
+    "course": "llm-zoomcamp",
+    "document": "cf93377279"
+  },
+  {
+    "question": "In the 'Introduction to LLMs and RAG' module of the llm-zoomcamp course, how do I resolve an error related to importing the `docx` package?",
+    "course": "llm-zoomcamp",
+    "document": "cf93377279"
+  },
+  {
+    "question": "While executing code from the parse-faq.ipynb file in Module 1 of llm-zoomcamp, I get a `ModuleNotFoundError`. The record mentions `python-docx`, but my import statement uses `docx`. How can I fix this?",
+    "course": "llm-zoomcamp",
+    "document": "cf93377279"
+  },
+  {
+    "question": "During the installation process for the LLM ZoomCamp course's first module on LLMs and RAG, why am I receiving an error when importing `docx` in the Jupyter notebook?",
+    "course": "llm-zoomcamp",
+    "document": "cf93377279"
+  },
+  {
+    "question": "What is the correct package name to use for Word document processing in Python when working with the parse-faq.ipynb notebook from Module 1 of the llm-zoomcamp course, and how do I install it properly?",
+    "course": "llm-zoomcamp",
+    "document": "cf93377279"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message 'RateLimitError: Error code: 429 - insufficient_quota' indicate about my OpenAI API usage?",
+    "course": "llm-zoomcamp",
+    "document": "152af39a53"
+  },
+  {
+    "question": "How can I check and update my billing details to resolve quota limitations on the OpenAI platform?",
+    "course": "llm-zoomcamp",
+    "document": "152af39a53"
+  },
+  {
+    "question": "After adding funds, what specific steps should I follow to ensure successful execution of my Python script using the OpenAI API?",
+    "course": "llm-zoomcamp",
+    "document": "152af39a53"
+  },
+  {
+    "question": "Which models are available for me to use in the `chat.completions.create` function after updating my account balance?",
+    "course": "llm-zoomcamp",
+    "document": "152af39a53"
+  },
+  {
+    "question": "Do I need to regenerate an API key after adding credits, and if so, how do I update it locally?",
+    "course": "llm-zoomcamp",
+    "document": "152af39a53"
+  }
+]

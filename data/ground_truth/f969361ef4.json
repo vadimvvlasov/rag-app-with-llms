@@ -1,0 +1,27 @@
+[
+  {
+    "question": "For Homework 3 Question 3, which variable should I binarize based on whether its price is above the average to use in calculating the mutual information score?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f969361ef4"
+  },
+  {
+    "question": "In the mutual information calculation for HW3 Q3, what categorical variable from the dataset must be paired with the binarized price variable?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f969361ef4"
+  },
+  {
+    "question": "When determining the mutual information score for Homework 3 Question 3, which specific column representing property location should I consider alongside the binary price indicator?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f969361ef4"
+  },
+  {
+    "question": "For the mutual information computation required in HW3 Q3, apart from the binarized price (above_average), what other feature reflects categorical data that needs to be used?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f969361ef4"
+  },
+  {
+    "question": "In calculating the mutual information score for Homework 3 Question 3 using only the training set, which unique categorical attribute related to property proximity must I evaluate together with the binary price variable?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f969361ef4"
+  }
+]

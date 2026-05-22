@@ -1,0 +1,27 @@
+[
+  {
+    "question": "1. In pandas, why does the `mode()` function consistently return a Series even when there is only one most frequent value in a column?",
+    "course": "machine-learning-zoomcamp",
+    "document": "22e80c8b22"
+  },
+  {
+    "question": "2. How can I extract a single mode value from the Series returned by the `mode()` method in pandas if my dataset is guaranteed to have a unique mode?",
+    "course": "machine-learning-zoomcamp",
+    "document": "22e80c8b22"
+  },
+  {
+    "question": "3. What is the primary reason behind pandas' design decision to always return a Series for the `mode()` calculation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "22e80c8b22"
+  },
+  {
+    "question": "4. If a DataFrame column contains multiple values with identical highest frequencies, how does the `mode()` function handle this situation in terms of its output?",
+    "course": "machine-learning-zoomcamp",
+    "document": "22e80c8b22"
+  },
+  {
+    "question": "5. When using `your_dataframe['your_column'].mode()[0]` to obtain the mode, what does the index `[0]` signify in relation to the possible outcomes of the `mode()` method?",
+    "course": "machine-learning-zoomcamp",
+    "document": "22e80c8b22"
+  }
+]

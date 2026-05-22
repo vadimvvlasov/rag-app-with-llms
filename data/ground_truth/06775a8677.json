@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I securely store a Google Cloud service account JSON key in Kestra without committing it to version control?",
+    "course": "data-engineering-zoomcamp",
+    "document": "06775a8677"
+  },
+  {
+    "question": "What are the steps to configure the KV store in Kestra for storing GCP credentials, and how do I reference them in my flow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "06775a8677"
+  },
+  {
+    "question": "If the KV store option is unavailable, what alternative method can be used to pass a service account JSON key to Kestra via Docker Compose?",
+    "course": "data-engineering-zoomcamp",
+    "document": "06775a8677"
+  },
+  {
+    "question": "How should I encode the service account JSON file before adding it as an environment variable or secret in Kestra, and why is this step necessary?",
+    "course": "data-engineering-zoomcamp",
+    "document": "06775a8677"
+  },
+  {
+    "question": "What are the procedures for rotating a Google Cloud service account credential once it has been set up in Kestra using either the KV store or encoded secret method?",
+    "course": "data-engineering-zoomcamp",
+    "document": "06775a8677"
+  }
+]

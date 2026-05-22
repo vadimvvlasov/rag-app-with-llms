@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I run to verify if `wget` is already installed in Google Colab before attempting a download?",
+    "course": "machine-learning-zoomcamp",
+    "document": "19e1e5c938"
+  },
+  {
+    "question": "How do I specify the destination directory for the downloaded file when using `wget` within a Jupyter notebook cell on Google Colab?",
+    "course": "machine-learning-zoomcamp",
+    "document": "19e1e5c938"
+  },
+  {
+    "question": "Can you provide an example of the full `wget` command syntax used to download a dataset from an external URL directly into my Google Drive mounted folder inside Colab?",
+    "course": "machine-learning-zoomcamp",
+    "document": "19e1e5c938"
+  },
+  {
+    "question": "Are there any specific permissions or configurations I need to set in Google Colab prior to executing the `wget` command for successful downloads?",
+    "course": "machine-learning-zoomcamp",
+    "document": "19e1e5c938"
+  },
+  {
+    "question": "What alternative methods can be employed in Google Colab if the `wget` utility is unavailable or fails to function as expected?",
+    "course": "machine-learning-zoomcamp",
+    "document": "19e1e5c938"
+  }
+]

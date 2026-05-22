@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I navigate to a specific directory in Ubuntu?",
+    "course": "machine-learning-zoomcamp",
+    "document": "faa864b7f6"
+  },
+  {
+    "question": "What command is used to list all files and directories within the current working directory?",
+    "course": "machine-learning-zoomcamp",
+    "document": "faa864b7f6"
+  },
+  {
+    "question": "Which command allows me to view the entire contents of a text file directly from the terminal?",
+    "course": "machine-learning-zoomcamp",
+    "document": "faa864b7f6"
+  },
+  {
+    "question": "If I want to see where I currently am in the filesystem, which command should I use?",
+    "course": "machine-learning-zoomcamp",
+    "document": "faa864b7f6"
+  },
+  {
+    "question": "How can I move one level up in the directory hierarchy using a basic Ubuntu command?",
+    "course": "machine-learning-zoomcamp",
+    "document": "faa864b7f6"
+  }
+]

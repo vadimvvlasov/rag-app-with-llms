@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can you explain the purpose of using `pandas.DataFrame.info()` in a data analysis workflow?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e74369cf00"
+  },
+  {
+    "question": "What specific details about a DataFrame does the `info()` method display?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e74369cf00"
+  },
+  {
+    "question": "How is the memory usage of a pandas DataFrame quantified when calling `df.info()`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e74369cf00"
+  },
+  {
+    "question": "If I want to quickly get an overview of my dataset's structure without examining each column individually, which function should I use?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e74369cf00"
+  },
+  {
+    "question": "In what scenarios might it be particularly useful to call `pandas.DataFrame.info()` during data preprocessing?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e74369cf00"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are some common methods for addressing outliers in a data set?",
+    "course": "machine-learning-zoomcamp",
+    "document": "091ce4f5ff"
+  },
+  {
+    "question": "Can you explain how log transformation can be used to manage extreme values within the data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "091ce4f5ff"
+  },
+  {
+    "question": "How does clipping high values contribute to reducing the impact of outliers during analysis?",
+    "course": "machine-learning-zoomcamp",
+    "document": "091ce4f5ff"
+  },
+  {
+    "question": "In what scenarios might dropping outlier observations from a data set be appropriate?",
+    "course": "machine-learning-zoomcamp",
+    "document": "091ce4f5ff"
+  },
+  {
+    "question": "What section of the Machine Learning Zoomcamp curriculum covers techniques for dealing with outliers?",
+    "course": "machine-learning-zoomcamp",
+    "document": "091ce4f5ff"
+  }
+]

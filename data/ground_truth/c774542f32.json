@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a Server Error (500) when trying to log in with GitHub for the llm-zoomcamp course homework?",
+    "course": "llm-zoomcamp",
+    "document": "c774542f32"
+  },
+  {
+    "question": "What error message appears when attempting to use third-party login via GitHub in the course homework system?",
+    "course": "llm-zoomcamp",
+    "document": "c774542f32"
+  },
+  {
+    "question": "Is there an alternative method to submit homework answers if GitHub login is unreliable for the llm-zoomcamp course?",
+    "course": "llm-zoomcamp",
+    "document": "c774542f32"
+  },
+  {
+    "question": "Which third-party accounts are currently supported for logging into the course homework platform for llm-zoomcamp?",
+    "course": "llm-zoomcamp",
+    "document": "c774542f32"
+  },
+  {
+    "question": "Will the GitHub login issue affecting the llm-zoomcamp course homework be resolved in a future update, or should students continue using alternative methods like Google or Slack?",
+    "course": "llm-zoomcamp",
+    "document": "c774542f32"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the error \"could not convert string to float: 'Nissan'\" occur when processing car brands in a machine learning model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56018d6f07"
+  },
+  {
+    "question": "What is one method to encode categorical variables like car brands into numerical values for use in machine learning?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56018d6f07"
+  },
+  {
+    "question": "How can I perform one-hot encoding on a DataFrame column containing car brand names using pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56018d6f07"
+  },
+  {
+    "question": "Which function in pandas facilitates the conversion of categorical data into binary columns for each category?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56018d6f07"
+  },
+  {
+    "question": "After applying one-hot encoding, how will the original 'brand' column be represented in the new DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56018d6f07"
+  }
+]

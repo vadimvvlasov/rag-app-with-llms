@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What exactly does the ROC curve represent in binary classification?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3c04f56b5d"
+  },
+  {
+    "question": "Why is the ROC AUC considered one of the most important metrics for evaluating classification models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3c04f56b5d"
+  },
+  {
+    "question": "Can you recommend any additional resources (videos, lectures, notes) that explain the ROC curve concept more thoroughly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3c04f56b5d"
+  },
+  {
+    "question": "Is it acceptable to proceed with the next module even if I don't fully grasp the ROC curve at this point?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3c04f56b5d"
+  },
+  {
+    "question": "How can understanding the ROC curve benefit me when selecting and interpreting models for binary classification tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3c04f56b5d"
+  }
+]

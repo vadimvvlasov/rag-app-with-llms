@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I use the `unstack()` method to display the absolute values of feature correlations in a sorted DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "45482efa5e"
+  },
+  {
+    "question": "What is the purpose of setting `annot=True` and `square=True` when creating a heatmap with Seaborn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "45482efa5e"
+  },
+  {
+    "question": "Could you explain how to create a triangular mask for a correlation heatmap using NumPy's `triu()` function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "45482efa5e"
+  },
+  {
+    "question": "What parameters should be used with `sns.diverging_palette()` to generate a colormap ranging from blue to red?",
+    "course": "machine-learning-zoomcamp",
+    "document": "45482efa5e"
+  },
+  {
+    "question": "How can I customize the title and font size of a Seaborn heatmap displaying numerical feature correlations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "45482efa5e"
+  }
+]

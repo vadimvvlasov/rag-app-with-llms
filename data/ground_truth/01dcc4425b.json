@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the Bytes Processed count remain at zero for a COUNT(*) query on a native BigQuery table, but become chargeable once I add a WHERE clause or use an external table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "01dcc4425b"
+  },
+  {
+    "question": "How does BigQuery's Metadata Store enable instantaneous row counting in native tables without scanning data blocks?",
+    "course": "data-engineering-zoomcamp",
+    "document": "01dcc4425b"
+  },
+  {
+    "question": "What is the difference in Bytes Processed accounting between native tables and external (GCS) tables when performing COUNT(*) operations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "01dcc4425b"
+  },
+  {
+    "question": "If I need to know the total number of rows in a dataset stored in Google Cloud Storage, should I use a native BigQuery table or an external table, and what will be the cost implication?",
+    "course": "data-engineering-zoomcamp",
+    "document": "01dcc4425b"
+  },
+  {
+    "question": "Can you provide a step-by-step explanation of how BigQuery determines Bytes Processed for a COUNT(*) query on a filtered native table versus an unfiltered one?",
+    "course": "data-engineering-zoomcamp",
+    "document": "01dcc4425b"
+  }
+]

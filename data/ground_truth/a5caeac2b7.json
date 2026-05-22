@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I encounter an ImportError stating 'cannot import name 'contextfilter' from 'jinja2'' while using Jupyter?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a5caeac2b7"
+  },
+  {
+    "question": "How can I resolve the issue when `contextfilter` is missing in Jinja 3.1 but my `nbconvert` version attempts to import it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a5caeac2b7"
+  },
+  {
+    "question": "Which command should I execute to upgrade the `nbconvert` package and fix the ImportError problem?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a5caeac2b7"
+  },
+  {
+    "question": "Is there a need to restart any components after upgrading `nbconvert` to address the import error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a5caeac2b7"
+  },
+  {
+    "question": "What is the recommended action to take in order to successfully run Jupyter notebooks without encountering the 'cannot import name 'contextfilter'' from 'jinja2' error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a5caeac2b7"
+  }
+]

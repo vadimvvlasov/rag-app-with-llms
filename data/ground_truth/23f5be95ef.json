@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How does FastAPI's asynchronous support improve performance compared to Flask for serving machine learning models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "23f5be95ef"
+  },
+  {
+    "question": "What role do Python type hints play in simplifying request and response validation when using FastAPI for ML model deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "23f5be95ef"
+  },
+  {
+    "question": "Can FastAPI automatically generate API documentation, and how does this benefit developers working on ML APIs?",
+    "course": "machine-learning-zoomcamp",
+    "document": "23f5be95ef"
+  },
+  {
+    "question": "In what scenarios might one still choose Flask over FastAPI for deploying machine learning models despite its newer counterpart's advantages?",
+    "course": "machine-learning-zoomcamp",
+    "document": "23f5be95ef"
+  },
+  {
+    "question": "What are the key differences in community support and maturity between Flask and FastAPI as of the latest course update?",
+    "course": "machine-learning-zoomcamp",
+    "document": "23f5be95ef"
+  }
+]

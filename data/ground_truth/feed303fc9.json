@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the ConvergenceWarning indicating that max_iter was reached imply about the model's coefficients?",
+    "course": "machine-learning-zoomcamp",
+    "document": "feed303fc9"
+  },
+  {
+    "question": "How can normalizing numerical features help in addressing convergence issues during Ridge regression?",
+    "course": "machine-learning-zoomcamp",
+    "document": "feed303fc9"
+  },
+  {
+    "question": "What encoding method should be applied to categorical features to prepare them for use in a Ridge regression model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "feed303fc9"
+  },
+  {
+    "question": "After scaling numerical features and encoding categorical features, what is the next step to combine these into a usable feature matrix?",
+    "course": "machine-learning-zoomcamp",
+    "document": "feed303fc9"
+  },
+  {
+    "question": "Where can I find an example notebook that demonstrates how to scale numerical features and apply one-hot encoding to resolve convergence warnings in Ridge regression?",
+    "course": "machine-learning-zoomcamp",
+    "document": "feed303fc9"
+  }
+]

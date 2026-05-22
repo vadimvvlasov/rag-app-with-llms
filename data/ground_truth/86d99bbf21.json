@@ -1,0 +1,27 @@
+[
+  {
+    "question": "**Why is my `OPENAI_API_KEY` not recognized when I run the Jupyter notebook?**",
+    "course": "llm-zoomcamp",
+    "document": "86d99bbf21"
+  },
+  {
+    "question": "**Can you explain how to set up `direnv` to manage my API key for the LLM-ZoomCamp module?**",
+    "course": "llm-zoomcamp",
+    "document": "86d99bbf21"
+  },
+  {
+    "question": "What should I do if I receive an error indicating that the `api_key` client option is missing after installing `dotenv`?",
+    "course": "llm-zoomcamp",
+    "document": "86d99bbf21"
+  },
+  {
+    "question": "How can I configure GitHub Codespaces Secrets to provide the `OPENAI_API_KEY` during a coding session in the course?",
+    "course": "llm-zoomcamp",
+    "document": "86d99bbf21"
+  },
+  {
+    "question": "Is there a way to ensure my API key is securely accessible without manually entering it each time I start a new Jupyter notebook for Module 1?",
+    "course": "llm-zoomcamp",
+    "document": "86d99bbf21"
+  }
+]

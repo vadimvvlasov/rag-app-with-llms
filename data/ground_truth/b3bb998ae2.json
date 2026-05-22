@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific command should I use to add the BigQuery connector to my PySpark session?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b3bb998ae2"
+  },
+  {
+    "question": "Which version of the BigQuery connector is compatible with a given Spark and Scala version, such as `_2.12` indicating Scala 2.12?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b3bb998ae2"
+  },
+  {
+    "question": "How can I configure the environment variable for Google service account credentials before running the Spark application?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b3bb998ae2"
+  },
+  {
+    "question": "Where can I find the latest releases of the Spark BigQuery connector to ensure compatibility with my Spark installation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b3bb998ae2"
+  },
+  {
+    "question": "After setting up the connector and credentials, what is the next step to enable reading from or writing to BigQuery using PySpark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b3bb998ae2"
+  }
+]

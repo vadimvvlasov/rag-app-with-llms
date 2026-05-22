@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the SQL query `SELECT Zone FROM taxi_zones` result in an error stating that the column 'Zone' doesn't exist?",
+    "course": "data-engineering-zoomcamp",
+    "document": "358cb2fd4d"
+  },
+  {
+    "question": "How can I ensure all column names in my database are consistently lowercase to avoid such errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "358cb2fd4d"
+  },
+  {
+    "question": "After reading a CSV file into a Pandas DataFrame, what operation should be applied to convert all column names to lowercase?",
+    "course": "data-engineering-zoomcamp",
+    "document": "358cb2fd4d"
+  },
+  {
+    "question": "What is the purpose of executing `df.columns = df.columns.str.lower()` after loading data from 'taxi+_zone_lookup.csv' into a DataFrame named `df`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "358cb2fd4d"
+  },
+  {
+    "question": "In the context of data engineering with Python and Pandas, why is it recommended to maintain uniform casing for column names?",
+    "course": "data-engineering-zoomcamp",
+    "document": "358cb2fd4d"
+  }
+]

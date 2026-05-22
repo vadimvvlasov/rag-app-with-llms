@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary benefit of partitioning a table in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e6c806f5fe"
+  },
+  {
+    "question": "How does clustering improve query performance within each partition?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e6c806f5fe"
+  },
+  {
+    "question": "Can a BigQuery table be partitioned on multiple columns?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e6c806f5fe"
+  },
+  {
+    "question": "Which column should you choose for partitioning to optimize frequent filtering queries?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e6c806f5fe"
+  },
+  {
+    "question": "Provide an example SQL statement to create a partitioned and clustered table with 'VendorID' as the partition key and 'tpep_dropoff_datetime' as the clustering key.",
+    "course": "data-engineering-zoomcamp",
+    "document": "e6c806f5fe"
+  }
+]

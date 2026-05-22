@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Module 3 of the machine-learning-zoomcamp course, during Homework Q6, what is the primary objective when selecting a smaller `C` value for a model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b5c44e4f07"
+  },
+  {
+    "question": "How should we evaluate different `C` values to determine which one yields the best performance on our dataset according to the FAQ record from Homework Q6 in Module 3 of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b5c44e4f07"
+  },
+  {
+    "question": "What trade-off must be considered while choosing the smallest `C` that results in the highest accuracy, as outlined in the FAQ for Homework Q6 in Module 3 of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b5c44e4f07"
+  },
+  {
+    "question": "According to the FAQ for Homework Q6 in Module 3 of the machine-learning-zoomcamp course, which metric should take precedence when finding an optimal `C` value—accuracy or the magnitude of `C`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b5c44e4f07"
+  },
+  {
+    "question": "What specific guidance does the FAQ provide for balancing the minimization of `C` with the maximization of accuracy during the Homework Q6 exercise in Module 3 of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b5c44e4f07"
+  }
+]

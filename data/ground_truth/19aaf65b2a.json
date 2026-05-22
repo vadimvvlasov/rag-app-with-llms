@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it possible to substitute Google Cloud Platform (GCP) with Amazon Web Services (AWS), Snowflake, or Azure for the capstone project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "19aaf65b2a"
+  },
+  {
+    "question": "What are the implications of using AWS or Azure instead of GCP in terms of lesson alignment and peer review explanations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "19aaf65b2a"
+  },
+  {
+    "question": "Will there be sufficient support available on Slack if I choose to use AWS or Azure for my data engineering project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "19aaf65b2a"
+  },
+  {
+    "question": "Can I complete all modules locally without any cloud service, except Module 3 which uses BigQuery on GCP?",
+    "course": "data-engineering-zoomcamp",
+    "document": "19aaf65b2a"
+  },
+  {
+    "question": "How might the choice of using a non-GCP cloud provider affect the grading criteria and peer review process?",
+    "course": "data-engineering-zoomcamp",
+    "document": "19aaf65b2a"
+  }
+]

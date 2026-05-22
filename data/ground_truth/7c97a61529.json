@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I create an external table in Google BigQuery using Python?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7c97a61529"
+  },
+  {
+    "question": "What is the purpose of setting `external_source_format` to 'PARQUET' when creating an external table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7c97a61529"
+  },
+  {
+    "question": "How do I specify the location of the data source in Google Cloud Storage for an external table creation via Python?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7c97a61529"
+  },
+  {
+    "question": "What steps are required to configure and execute the external data configuration for a BigQuery table using the `ExternalConfig` class?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7c97a61529"
+  },
+  {
+    "question": "Can you provide a complete example code snippet that demonstrates creating an external table in BigQuery with Python, including setting up the client and specifying the source URIs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7c97a61529"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I built a Docker image for my machine learning model, but when I try to run it, I encounter an error stating that the container process cannot start. What steps should I take to resolve this issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6d91bd8f56"
+  },
+  {
+    "question": "In Module 5 of the Machine Learning Zoomcamp course, what specific command must be executed after entering the virtual environment to ensure all dependencies are correctly installed before building and running my Docker image?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6d91bd8f56"
+  },
+  {
+    "question": "What is the name of the HTTP web server that needs to be installed via `pipenv` to successfully run a containerized machine learning model in Docker within the context of Module 5 of the Machine Learning Zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6d91bd8f56"
+  },
+  {
+    "question": "If I encounter an error while starting a Docker container for my built image, which file should I verify to confirm that all required dependencies are listed appropriately to avoid such issues in the Machine Learning Zoomcamp deployment module?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6d91bd8f56"
+  },
+  {
+    "question": "During the deployment process outlined in Module 5 of the Machine Learning Zoomcamp course, what terminal command is used to activate the virtual environment created by `pipenv` prior to building and running my Docker container?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6d91bd8f56"
+  }
+]

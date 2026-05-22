@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What type of IP address does a newly created VM in Google Cloud Platform initially use, and how often does it change?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bd56924fcb"
+  },
+  {
+    "question": "Why might I need to convert an ephemeral IP address to a static IP address for my virtual machine configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bd56924fcb"
+  },
+  {
+    "question": "",
+    "course": "data-engineering-zoomcamp",
+    "document": "bd56924fcb"
+  },
+  {
+    "question": "Could you describe the process of allocating a new static IP address in the GCP console?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bd56924fcb"
+  },
+  {
+    "question": "What is the cost implication if a static IP address is not attached to any VM instance in Google Cloud Platform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bd56924fcb"
+  },
+  {
+    "question": "Where can I find detailed instructions for attaching a static IP address to an existing VM instance in GCP?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bd56924fcb"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why might a partitioned table in BigQuery appear non-partitioned in the interface?",
+    "course": "data-engineering-zoomcamp",
+    "document": "24c64415c0"
+  },
+  {
+    "question": "Is there a known delay in updating partition information for tables in BigQuery's UI?",
+    "course": "data-engineering-zoomcamp",
+    "document": "24c64415c0"
+  },
+  {
+    "question": "What steps can I take if my BigQuery table shows as non-partitioned but is confirmed to be partitioned?",
+    "course": "data-engineering-zoomcamp",
+    "document": "24c64415c0"
+  },
+  {
+    "question": "Does refreshing the BigQuery web interface resolve discrepancies between displayed and actual table partitioning?",
+    "course": "data-engineering-zoomcamp",
+    "document": "24c64415c0"
+  },
+  {
+    "question": "Are there alternative methods, such as opening a new browser tab, to quickly verify table partition status in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "24c64415c0"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I am trying to install version 2.32 of the requests library for use with Lancedb, but pip only installs version 2.28. How can I ensure that version 2.32 is installed instead?",
+    "course": "llm-zoomcamp",
+    "document": "4b30b918bc"
+  },
+  {
+    "question": "What command should I use to directly download and install requests version 2.32.3 from its GitHub repository when pip defaults to an older version?",
+    "course": "llm-zoomcamp",
+    "document": "4b30b918bc"
+  },
+  {
+    "question": "Why am I receiving a 401 Client Error while attempting to access the data required for my Lancedb installation, and how does this relate to library version issues?",
+    "course": "llm-zoomcamp",
+    "document": "4b30b918bc"
+  },
+  {
+    "question": "In the context of installing specific Python package versions from external sources, what syntax should be used with pip to point directly to a ZIP archive hosted on GitHub?",
+    "course": "llm-zoomcamp",
+    "document": "4b30b918bc"
+  },
+  {
+    "question": "Could you explain why granting access to a key or correcting an incorrect key might resolve a 401 Client Error during data ingestion processes like those in the dlt workshop?",
+    "course": "llm-zoomcamp",
+    "document": "4b30b918bc"
+  }
+]

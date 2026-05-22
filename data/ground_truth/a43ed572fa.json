@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a non-zero exit code (1) when executing the command `docker build -t churn-prediction .`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a43ed572fa"
+  },
+  {
+    "question": "What specific change in the Dockerfile is required to resolve the Python version mismatch error during image creation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a43ed572fa"
+  },
+  {
+    "question": "How can I verify the installed Python version on my local system before modifying the Dockerfile?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a43ed572fa"
+  },
+  {
+    "question": "After adjusting the Python base image in the Dockerfile, what command should be used to rebuild the Docker image successfully?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a43ed572fa"
+  },
+  {
+    "question": "Where in the course material does it discuss troubleshooting Docker build failures related to Python versions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a43ed572fa"
+  }
+]

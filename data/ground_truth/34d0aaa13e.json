@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did removing empty directories not free up storage when I had built many Docker images?",
+    "course": "machine-learning-zoomcamp",
+    "document": "34d0aaa13e"
+  },
+  {
+    "question": "How can I list all existing Docker images on my AWS instance to identify superseded or duplicate models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "34d0aaa13e"
+  },
+  {
+    "question": "What command should I use to remove unwanted Docker images that are consuming a lot of space?",
+    "course": "machine-learning-zoomcamp",
+    "document": "34d0aaa13e"
+  },
+  {
+    "question": "After attempting to remove images, why was additional storage not freed up as expected?",
+    "course": "machine-learning-zoomcamp",
+    "document": "34d0aaa13e"
+  },
+  {
+    "question": "What specific command will effectively free up storage by cleaning up unused Docker resources?",
+    "course": "machine-learning-zoomcamp",
+    "document": "34d0aaa13e"
+  }
+]

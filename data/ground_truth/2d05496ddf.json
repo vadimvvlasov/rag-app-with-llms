@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I identify the specific line causing an error in dbt when using BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d05496ddf"
+  },
+  {
+    "question": "What steps should I take to troubleshoot a dbt model that fails in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d05496ddf"
+  },
+  {
+    "question": "Where can I find the detailed query execution log for a failed dbt run in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d05496ddf"
+  },
+  {
+    "question": "After encountering a dbt error, what is the process to navigate directly to the problematic SQL line in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d05496ddf"
+  },
+  {
+    "question": "In the context of dbt troubleshooting within a module on Analytics Engineering with dbt, how does accessing the BigQuery link help resolve issues?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d05496ddf"
+  }
+]

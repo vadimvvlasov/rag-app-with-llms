@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering the error \"aws: error: argument operation: Invalid choice...\" when running `aws ecr get-login`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f067a2c8e6"
+  },
+  {
+    "question": "What is the recommended command to authenticate Docker with an Amazon ECR registry instead of using `aws ecr get-login`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f067a2c8e6"
+  },
+  {
+    "question": "Can you provide the exact syntax for logging into an ECR registry using AWS CLI, including placeholders for region and account ID?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f067a2c8e6"
+  },
+  {
+    "question": "I received a deprecation notice for `aws ecr get-login`. What should I use as an alternative to access my private Docker images in ECR?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f067a2c8e6"
+  },
+  {
+    "question": "How do I replace `<your-region>` and `<your-account-id>` in the authentication command provided for ECR?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f067a2c8e6"
+  }
+]

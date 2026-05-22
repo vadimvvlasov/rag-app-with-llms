@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I read multiple Parquet files simultaneously using Python?",
+    "course": "data-engineering-zoomcamp",
+    "document": "577dfed594"
+  },
+  {
+    "question": "What is the most straightforward method to merge several data files into one result table in a data engineering course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "577dfed594"
+  },
+  {
+    "question": "In the context of data warehousing, which function allows passing a list of file names to process them together?",
+    "course": "data-engineering-zoomcamp",
+    "document": "577dfed594"
+  },
+  {
+    "question": "What approach does the `read_parquet` function provide for handling multiple input files at once during module 3 of the Data Engineering Zoomcamp?",
+    "course": "data-engineering-zoomcamp",
+    "document": "577dfed594"
+  },
+  {
+    "question": "When working with the `read_parquet` method in Python as part of Module 3 of the data-engineering-zoomcamp course, how can I efficiently read several files together?",
+    "course": "data-engineering-zoomcamp",
+    "document": "577dfed594"
+  }
+]

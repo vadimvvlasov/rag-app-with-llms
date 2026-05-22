@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the UndefinedMetricWarning indicate when calculating the F-score in a classification model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "385807829b"
+  },
+  {
+    "question": "How can I configure scikit-learn's `f1_score` function to handle cases where no samples are predicted for certain labels?",
+    "course": "machine-learning-zoomcamp",
+    "document": "385807829b"
+  },
+  {
+    "question": "If I set `zero_division=1` in the `precision_score` function, what will be the output when there are no positive predictions for a label?",
+    "course": "machine-learning-zoomcamp",
+    "document": "385807829b"
+  },
+  {
+    "question": "What is the default behavior of the `recall_score` and `f1_score` functions from scikit-learn regarding zero division?",
+    "course": "machine-learning-zoomcamp",
+    "document": "385807829b"
+  },
+  {
+    "question": "Can I suppress the warning that appears when using the `f1_score` function with labels that have no predicted samples?",
+    "course": "machine-learning-zoomcamp",
+    "document": "385807829b"
+  }
+]

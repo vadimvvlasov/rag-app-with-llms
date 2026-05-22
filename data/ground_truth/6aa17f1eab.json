@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of providing a `train.py` file in addition to the notebook.ipynb file for peer review?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6aa17f1eab"
+  },
+  {
+    "question": "How can reviewers verify that my training process functions correctly on their own systems using the provided files?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6aa17f1eab"
+  },
+  {
+    "question": "What steps should I take to ensure that all necessary dependencies are included so that `train.py` runs successfully after cloning the repository?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6aa17f1eab"
+  },
+  {
+    "question": "Which environment configuration files (`Pipfile`, `pyproject.toml`, or `requirements.txt`) must be updated to support running `train.py`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6aa17f1eab"
+  },
+  {
+    "question": "Why is it important for reviewers to be able to reproduce my model by executing a single command like `python train.py`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6aa17f1eab"
+  }
+]

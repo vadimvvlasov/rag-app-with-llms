@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message 'UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa0 in position 41721: invalid start byte' indicate when working with Python data files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55b6d6256f"
+  },
+  {
+    "question": "How can I resolve a `UnicodeDecodeError` while reading a CSV dataset from a web URL into a pandas DataFrame?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55b6d6256f"
+  },
+  {
+    "question": "What encoding should be specified when using `pd.read_csv()` to avoid the 'invalid start byte' decoding error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55b6d6256f"
+  },
+  {
+    "question": "When writing a pandas DataFrame to Google Cloud Storage (GCS) as a compressed CSV file, which encoding parameter ensures proper data serialization?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55b6d6256f"
+  },
+  {
+    "question": "Is there an alternative method to `pd.read_csv()` that can bypass Unicode decoding issues when importing datasets?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55b6d6256f"
+  }
+]

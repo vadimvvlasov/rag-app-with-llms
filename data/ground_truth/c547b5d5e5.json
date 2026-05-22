@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What steps are required to save and commit my current progress before migrating my dbt Cloud managed repository?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c547b5d5e5"
+  },
+  {
+    "question": "Where can I find the 'Projects' setting under 'Settings' in my dbt profile?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c547b5d5e5"
+  },
+  {
+    "question": "How do I download and prepare the contents of my dbt Cloud managed repository for upload to GitHub?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c547b5d5e5"
+  },
+  {
+    "question": "What actions should I take after disconnecting the managed repository to reconnect it to a new GitHub repository?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c547b5d5e5"
+  },
+  {
+    "question": "If my dbt project is stored in a subfolder of my GitHub repository, what additional steps are necessary according to the FAQ?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c547b5d5e5"
+  }
+]

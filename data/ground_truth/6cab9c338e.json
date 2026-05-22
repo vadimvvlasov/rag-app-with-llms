@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an error stating that 'taxi+_zone_lookup.csv' cannot be opened when following section 5.2.1?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6cab9c338e"
+  },
+  {
+    "question": "What is the correct filename for the CSV file referenced in Module 6 of the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6cab9c338e"
+  },
+  {
+    "question": "How can I resolve the issue where Spark throws a 'No such file or directory' error for 'taxi+_zone_lookup.csv'? Should I modify the filename somehow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6cab9c338e"
+  },
+  {
+    "question": "After addressing the filename discrepancy, will the code snippet from section 5.2.1 of Module 6 load the CSV file without errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6cab9c338e"
+  },
+  {
+    "question": "In the data-engineering-zoomcamp course, specifically under Module 6, what changes should be made to the dataset path to ensure successful reading of the taxi zone lookup data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6cab9c338e"
+  }
+]

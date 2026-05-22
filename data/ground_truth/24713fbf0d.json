@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I convert a one-dimensional NumPy array into a two-dimensional array for use with scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "24713fbf0d"
+  },
+  {
+    "question": "What is the purpose of using `reshape(-1, 1)` on a NumPy array?",
+    "course": "machine-learning-zoomcamp",
+    "document": "24713fbf0d"
+  },
+  {
+    "question": "Which method in pandas can be used to filter rows based on specific values within a column, such as `<1H OCEAN` and `INLAND`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "24713fbf0d"
+  },
+  {
+    "question": "How do I select specific columns from a DataFrame to create a new filtered DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "24713fbf0d"
+  },
+  {
+    "question": "What command displays the first few rows of a DataFrame in pandas after filtering and selecting columns?",
+    "course": "machine-learning-zoomcamp",
+    "document": "24713fbf0d"
+  }
+]

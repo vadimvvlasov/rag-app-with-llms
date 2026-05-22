@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What function should I use to convert a TIMESTAMP_NTZ column to a numeric value representing epoch seconds in Spark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2c5634e36"
+  },
+  {
+    "question": "Why is it necessary to use `to_unix_timestamp` instead of directly casting `TIMESTAMP_NTZ` to `BIGINT` in Spark SQL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2c5634e36"
+  },
+  {
+    "question": "Can you provide the specific SQL syntax to extract Unix timestamps from a column named `tpep_pickup_datetime` using Spark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2c5634e36"
+  },
+  {
+    "question": "In which module of the 'data-engineering-zoomcamp' course is the method for converting TIMESTAMP_NTZ to numeric values discussed?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2c5634e36"
+  },
+  {
+    "question": "What error occurs if I attempt to cast a TIMESTAMP_NTZ value directly to BIGINT in a Spark query, and how does this relate to data type compatibility?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2c5634e36"
+  }
+]

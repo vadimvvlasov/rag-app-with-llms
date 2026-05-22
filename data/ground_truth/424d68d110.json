@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is causing the 'scipy' name not defined error when using ImageDataGenerator.flow_from_dataframe?",
+    "course": "machine-learning-zoomcamp",
+    "document": "424d68d110"
+  },
+  {
+    "question": "How can I install the missing 'scipy' package to fix the ImageDataGenerator error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "424d68d110"
+  },
+  {
+    "question": "After installing scipy, what additional step should I take in Jupyter Notebook to resolve the error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "424d68d110"
+  },
+  {
+    "question": "Is there a specific version of SciPy recommended for compatibility with the current ImageDataGenerator implementation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "424d68d110"
+  },
+  {
+    "question": "What should I check if the error persists after installing SciPy and restarting the kernel?",
+    "course": "machine-learning-zoomcamp",
+    "document": "424d68d110"
+  }
+]

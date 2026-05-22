@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How should I correctly reference an existing table in a dbt model to avoid the 'source named '<a table name>' was not found' error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3ce6d0445f"
+  },
+  {
+    "question": "What is the proper syntax for specifying a source table within a `.sql` file for a dbt model in BigQuery or Postgres?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3ce6d0445f"
+  },
+  {
+    "question": "When encountering a compilation error about a missing source table, what steps should I take to resolve it?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3ce6d0445f"
+  },
+  {
+    "question": "Can you provide an example of how to define a source in a dbt model to ensure the correct table is referenced from the database?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3ce6d0445f"
+  },
+  {
+    "question": "What common mistake leads to the 'Model 'model.XXX'' depends on a source named '<a table name>' which was not found' error, and how can it be fixed?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3ce6d0445f"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I initiate the destruction of infrastructure that was provisioned using GitHub Actions in an AWS environment?",
+    "course": "mlops-zoomcamp",
+    "document": "abb38848b5"
+  },
+  {
+    "question": "What specific Terraform commands are required to destroy the infrastructure after it has been created by the CD-Deploy Action?",
+    "course": "mlops-zoomcamp",
+    "document": "abb38848b5"
+  },
+  {
+    "question": "Where should I configure the backend state file for managing the Terraform state when destroying resources?",
+    "course": "mlops-zoomcamp",
+    "document": "abb38848b5"
+  },
+  {
+    "question": "Which variable file must be referenced when executing the `terraform destroy` command to target the production environment?",
+    "course": "mlops-zoomcamp",
+    "document": "abb38848b5"
+  },
+  {
+    "question": "What steps are necessary to ensure a clean removal of all resources provisioned via the MLOps ZoomCamp course's Module 6 pipeline?",
+    "course": "mlops-zoomcamp",
+    "document": "abb38848b5"
+  }
+]

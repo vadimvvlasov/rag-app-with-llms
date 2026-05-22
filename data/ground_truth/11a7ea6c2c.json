@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I confirm that my EC2 instance has fully stopped after initiating the stop process?",
+    "course": "mlops-zoomcamp",
+    "document": "11a7ea6c2c"
+  },
+  {
+    "question": "Will stopping an EC2 instance eliminate all associated costs, or are there exceptions like storage charges for EBS volumes?",
+    "course": "mlops-zoomcamp",
+    "document": "11a7ea6c2c"
+  },
+  {
+    "question": "What steps should I follow to set up billing alerts in AWS to monitor potential expenses related to my instances?",
+    "course": "mlops-zoomcamp",
+    "document": "11a7ea6c2c"
+  },
+  {
+    "question": "Are there any visual indicators within the AWS Management Console that signal when an EC2 instance transition has been completed successfully?",
+    "course": "mlops-zoomcamp",
+    "document": "11a7ea6c2c"
+  },
+  {
+    "question": "Does stopping an EC2 instance affect the data stored on its attached EBS volumes, and what are the implications for ongoing costs?",
+    "course": "mlops-zoomcamp",
+    "document": "11a7ea6c2c"
+  }
+]

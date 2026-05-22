@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did I encounter NaNs after applying the .mean() function in my RMSE calculation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ba636cdb18"
+  },
+  {
+    "question": "What step in the data preparation process caused NaN values to appear during the mean calculation for RMSE?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ba636cdb18"
+  },
+  {
+    "question": "How can I prevent NaNs from appearing when computing RMSE across multiple seed iterations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ba636cdb18"
+  },
+  {
+    "question": "Which datasets need to be processed with `fillna(0)` to avoid introducing NaNs in subsequent calculations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ba636cdb18"
+  },
+  {
+    "question": "After fixing the NaN issue by applying `fillna(0)`, how do I ensure that my RMSE computation is valid for all seed values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ba636cdb18"
+  }
+]

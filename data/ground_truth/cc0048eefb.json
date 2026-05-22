@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does a '403 Forbidden' error indicate when attempting to push changes to a GitHub repository?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cc0048eefb"
+  },
+  {
+    "question": "How do I inspect the current remote URL configuration for my Git repository?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cc0048eefb"
+  },
+  {
+    "question": "What command should I use to modify the remote URL to include my GitHub username correctly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cc0048eefb"
+  },
+  {
+    "question": "After updating the remote URL, how can I confirm that the change was applied successfully?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cc0048eefb"
+  },
+  {
+    "question": "In which module of the machine-learning-zoomcamp course is this '403 Forbidden' error discussed?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cc0048eefb"
+  }
+]

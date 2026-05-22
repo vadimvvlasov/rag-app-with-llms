@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do I receive the error 'kind' is not recognized as an internal or external command after downloading kind using curl?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4076e3f3a6"
+  },
+  {
+    "question": "What should I rename the downloaded file `kind-windows-amd64.exe` to in order to run it without errors?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4076e3f3a6"
+  },
+  {
+    "question": "Which folder should I place the renamed executable `kind.exe` into for it to be accessible from the command line?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4076e3f3a6"
+  },
+  {
+    "question": "How do I add the folder containing `kind.exe` to the PATH environment variable on Windows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4076e3f3a6"
+  },
+  {
+    "question": "What version of kind can I verify once the above steps are completed, and how?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4076e3f3a6"
+  }
+]

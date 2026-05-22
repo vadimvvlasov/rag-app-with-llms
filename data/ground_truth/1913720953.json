@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a '403 Forbidden' error when attempting to download the NY Taxis datasets using `wget`?",
+    "course": "mlops-zoomcamp",
+    "document": "1913720953"
+  },
+  {
+    "question": "What is the reason behind the '403 Forbidden' error when downloading files from cloudfront.net links provided in the course materials?",
+    "course": "mlops-zoomcamp",
+    "document": "1913720953"
+  },
+  {
+    "question": "How can I resolve the '403 Forbidden' issue while downloading the green_tripdata_2021-01.parquet file for the NYC trip records dataset?",
+    "course": "mlops-zoomcamp",
+    "document": "1913720953"
+  },
+  {
+    "question": "Is there an updated method or URL to download the NY Taxis datasets directly, given that previous instructions may no longer be valid?",
+    "course": "mlops-zoomcamp",
+    "document": "1913720953"
+  },
+  {
+    "question": "What command should I use in the terminal to successfully download the green_tripdata_2021-01.parquet file from the official NYC trip record page?",
+    "course": "mlops-zoomcamp",
+    "document": "1913720953"
+  }
+]

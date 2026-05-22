@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is causing the `ValueError: could not convert string to float` during execution of `register_model.py`?",
+    "course": "mlops-zoomcamp",
+    "document": "3a2a22f115"
+  },
+  {
+    "question": "How should the `objective` function in `hpo.py` be structured to avoid parameter logging issues when performing hyper-parameter tuning?",
+    "course": "mlops-zoomcamp",
+    "document": "3a2a22f115"
+  },
+  {
+    "question": "Where must the `with mlflow.start_run():` statement be placed relative to the parameter logging calls within the objective function?",
+    "course": "mlops-zoomcamp",
+    "document": "3a2a22f115"
+  },
+  {
+    "question": "What specific changes are required in the `search_space` dictionary setup to ensure parameters are logged correctly by `register_model.py`?",
+    "course": "mlops-zoomcamp",
+    "document": "3a2a22f115"
+  },
+  {
+    "question": "Can you provide a corrected version of the `objective` function that includes the necessary `with` and `log_params` statements for proper parameter tracking during hyper-parameter optimization?",
+    "course": "mlops-zoomcamp",
+    "document": "3a2a22f115"
+  }
+]

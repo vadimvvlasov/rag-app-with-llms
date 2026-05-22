@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'No module named 'pytz'' error when setting up dbt with Docker for BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5b8322bee"
+  },
+  {
+    "question": "What specific command should I add to my Dockerfile to fix the missing 'pytz' module during dbt initialization in the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5b8322bee"
+  },
+  {
+    "question": "After running `docker-compose build` and `docker-compose run dbt-bq-dtc init`, why do I still encounter a ModuleNotFoundError for 'pytz'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5b8322bee"
+  },
+  {
+    "question": "In the context of the 04-analytics-engineering/docker_setup/README.md file from the data-engineering-zoomcamp course, which version of Python is being used in the Dockerfile and how does it relate to installing 'pytz'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5b8322bee"
+  },
+  {
+    "question": "What steps should I follow to ensure that the 'pytz' module is properly installed within the dbt BigQuery Docker environment as outlined in the provided FAQ?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5b8322bee"
+  }
+]

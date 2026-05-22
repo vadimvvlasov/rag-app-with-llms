@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the installation error for `tflite_runtime` in a pipenv environment when using Python 3.10?",
+    "course": "machine-learning-zoomcamp",
+    "document": "dc705a3c4e"
+  },
+  {
+    "question": "What specific Python version should I use to successfully install `tflite_runtime` without encountering errors?",
+    "course": "machine-learning-zoomcamp",
+    "document": "dc705a3c4e"
+  },
+  {
+    "question": "Where can I find a list of compatible versions of `tflite_runtime` that support my current Python version?",
+    "course": "machine-learning-zoomcamp",
+    "document": "dc705a3c4e"
+  },
+  {
+    "question": "If no compatible version is listed, what alternative installation method is provided by the GitHub repository link for `tflite-aws-lambda`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "dc705a3c4e"
+  },
+  {
+    "question": "What steps should I follow to test TensorFlow's TFLite within a Docker environment for serverless deep learning development?",
+    "course": "machine-learning-zoomcamp",
+    "document": "dc705a3c4e"
+  }
+]

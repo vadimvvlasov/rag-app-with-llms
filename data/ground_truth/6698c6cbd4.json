@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I install wget on Ubuntu?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6698c6cbd4"
+  },
+  {
+    "question": "What command do I use with Chocolatey to install wget on Windows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6698c6cbd4"
+  },
+  {
+    "question": "Which Homebrew command installs wget on a Mac?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6698c6cbd4"
+  },
+  {
+    "question": "Is there a Python library named `wget` that I can use for downloading files, and how do I install it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6698c6cbd4"
+  },
+  {
+    "question": "Can you provide an example of using the Python `urllib.request.urlretrieve()` function to download a file from a URL?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6698c6cbd4"
+  }
+]

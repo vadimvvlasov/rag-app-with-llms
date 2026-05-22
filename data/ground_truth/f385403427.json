@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I unable to log into Grafana using the default admin/admin credentials?",
+    "course": "mlops-zoomcamp",
+    "document": "f385403427"
+  },
+  {
+    "question": "What command should I execute inside the Grafana container to reset the admin password?",
+    "course": "mlops-zoomcamp",
+    "document": "f385403427"
+  },
+  {
+    "question": "How can I identify the correct Docker container ID for Grafana when resetting the admin password?",
+    "course": "mlops-zoomcamp",
+    "document": "f385403427"
+  },
+  {
+    "question": "Is the `grafana cli` command still recommended for managing Grafana, or is it deprecated?",
+    "course": "mlops-zoomcamp",
+    "document": "f385403427"
+  },
+  {
+    "question": "After resetting the admin password in Grafana, what steps should I follow to successfully log in?",
+    "course": "mlops-zoomcamp",
+    "document": "f385403427"
+  }
+]

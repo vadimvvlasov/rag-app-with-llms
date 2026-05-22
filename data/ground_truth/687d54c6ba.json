@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does docker-compose take an infinitely long time to install the zip and unzip packages for Linux when unpacking datasets?",
+    "course": "data-engineering-zoomcamp",
+    "document": "687d54c6ba"
+  },
+  {
+    "question": "What command can I use to automatically agree to install additional packages during `apt-get` installation in Docker?",
+    "course": "data-engineering-zoomcamp",
+    "document": "687d54c6ba"
+  },
+  {
+    "question": "How can I extract files from a ZIP archive using Python without installing external `zip` and `unzip` packages?",
+    "course": "data-engineering-zoomcamp",
+    "document": "687d54c6ba"
+  },
+  {
+    "question": "Is there an alternative method to handle ZIP file extractions within a Docker environment that avoids package installations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "687d54c6ba"
+  },
+  {
+    "question": "What specific flags should be added to the `apt-get install` command to speed up the installation of zip and unzip utilities in a Docker container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "687d54c6ba"
+  }
+]

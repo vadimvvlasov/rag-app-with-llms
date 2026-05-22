@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the monthly cost for deploying a project to DigitalOcean App Cloud?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0b20afa7bb"
+  },
+  {
+    "question": "After creating an app in DigitalOcean, which service provider should I select for connecting my GitHub repository?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0b20afa7bb"
+  },
+  {
+    "question": "Where do I need to specify the Dockerfile path when configuring the app settings in DigitalOcean?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0b20afa7bb"
+  },
+  {
+    "question": "If my model files are not automatically included during container build, what additional step must I take?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0b20afa7bb"
+  },
+  {
+    "question": "How long should the deployed container remain active until the project evaluation concludes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0b20afa7bb"
+  }
+]

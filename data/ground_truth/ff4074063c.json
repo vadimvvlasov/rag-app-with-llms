@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the minimum number of replicas required to ensure zero downtime during model updates in a production environment, considering startup latency and readiness probes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ff4074063c"
+  },
+  {
+    "question": "How should Kubernetes RollingUpdate parameters (maxUnavailable and maxSurge) be configured to maintain service availability during model updates?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ff4074063c"
+  },
+  {
+    "question": "What role do readinessProbe and startupProbe play in guaranteeing that pods are ready to handle traffic before and after a model update?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ff4074063c"
+  },
+  {
+    "question": "If my baseline concurrency requirement is 2 pods, what would be the appropriate initial replica count and RollingUpdate settings to ensure zero downtime?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ff4074063c"
+  },
+  {
+    "question": "How can I monitor and dynamically adjust the number of replicas during a model update to handle high startup latency or sudden traffic bursts effectively?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ff4074063c"
+  }
+]

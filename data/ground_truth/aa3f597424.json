@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I eliminate the warning 'model \"multi-qa-mpnet-base-dot-v1\" was made on sentence transformers v3.0.0 bet' in my Python environment?",
+    "course": "llm-zoomcamp",
+    "document": "aa3f597424"
+  },
+  {
+    "question": "What specific version of `sentence-transformers` resolves the compatibility issue causing this warning?",
+    "course": "llm-zoomcamp",
+    "document": "aa3f597424"
+  },
+  {
+    "question": "Could you provide the exact pip command to update `sentence-transformers` and remove the aforementioned warning?",
+    "course": "llm-zoomcamp",
+    "document": "aa3f597424"
+  },
+  {
+    "question": "After updating `sentence-transformers`, will any existing models require retraining or can they be used directly?",
+    "course": "llm-zoomcamp",
+    "document": "aa3f597424"
+  },
+  {
+    "question": "In the context of Module 3: Vector Search from the llm-zoomcamp course, what steps should I follow to suppress this particular warning?",
+    "course": "llm-zoomcamp",
+    "document": "aa3f597424"
+  }
+]

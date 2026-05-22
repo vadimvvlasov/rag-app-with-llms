@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What keyboard shortcut do I use on Windows to open the command palette in VS Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cbeb6f678b"
+  },
+  {
+    "question": "After opening the command palette, which command should I run to add the dlt MCP server?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cbeb6f678b"
+  },
+  {
+    "question": "What exact command should I type into the 'Command (stdio)' field to initiate the dlt MCP server?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cbeb6f678b"
+  },
+  {
+    "question": "How do I verify that the dlt MCP server has been successfully added in VS Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cbeb6f678b"
+  },
+  {
+    "question": "Should I select 'Remote' or 'Workspace' as the configuration target when adding the dlt MCP server, depending on my environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cbeb6f678b"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the common reasons why Pods might fail to start in a Kubernetes environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bbced12feb"
+  },
+  {
+    "question": "How can insufficient CPU or memory resources affect Pod scheduling in Kubernetes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bbced12feb"
+  },
+  {
+    "question": "What steps should I take if my Pod cannot pull a Docker image from a repository?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bbced12feb"
+  },
+  {
+    "question": "In the context of TensorFlow Serving, what specific resource allocation settings should be verified for successful Pod startup?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bbced12feb"
+  },
+  {
+    "question": "When troubleshooting Pods not starting, which tool or command is typically used to check the availability and accessibility of the specified Docker image?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bbced12feb"
+  }
+]

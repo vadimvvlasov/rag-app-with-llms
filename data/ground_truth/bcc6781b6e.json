@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the steps to start Kestra on a Linux system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bcc6781b6e"
+  },
+  {
+    "question": "How can I access the Kestra dashboard after it is running?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bcc6781b6e"
+  },
+  {
+    "question": "Where can I find detailed instructions for launching Kestra on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bcc6781b6e"
+  },
+  {
+    "question": "Which GitHub repository provides the setup guide for Kestra?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bcc6781b6e"
+  },
+  {
+    "question": "What does the provided `docker-compose` configuration do for Kestra?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bcc6781b6e"
+  }
+]

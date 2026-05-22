@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I set up a WSL development environment on my Windows 11 device according to Microsoft Learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ea323b01d"
+  },
+  {
+    "question": "What steps are required to connect Visual Studio Code with the installed WSL Ubuntu instance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ea323b01d"
+  },
+  {
+    "question": "Is there an official VS Code extension recommended for interfacing with WSL, and where can I find it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ea323b01d"
+  },
+  {
+    "question": "After installing the WSL, how do I ensure that VS Code recognizes my Linux environment without errors?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ea323b01d"
+  },
+  {
+    "question": "What specific link provided in the FAQ should I follow to complete the setup of Windows Subsystem for Linux (WSL) integrated with Visual Studio Code?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ea323b01d"
+  }
+]

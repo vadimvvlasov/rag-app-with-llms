@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error 'git could not find the HEAD' mean when using `eb create` in AWS Elastic Beanstalk?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d66d501514"
+  },
+  {
+    "question": "How can I check if my project directory is initialized as a Git repository before running `eb create`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d66d501514"
+  },
+  {
+    "question": "What steps should I take if my git status indicates that there are no commits present for an Elastic Beanstalk deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d66d501514"
+  },
+  {
+    "question": "If I encounter a 'detached HEAD' state while trying to deploy with `eb create`, how do I resolve it by managing branches in Git?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d66d501514"
+  },
+  {
+    "question": "After initializing a Git repository and creating an initial commit, what command should I run to successfully launch my AWS Elastic Beanstalk environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d66d501514"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can you explain how the `.decision_function()` method works in Scikit-Learn’s LogisticRegression?",
+    "course": "machine-learning-zoomcamp",
+    "document": "28f7297895"
+  },
+  {
+    "question": "What output does `.predict_proba()` produce when applied to a trained LogisticRegression model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "28f7297895"
+  },
+  {
+    "question": "How are the raw values obtained from `.decision_function()` transformed into probabilities by `.predict_proba()`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "28f7297895"
+  },
+  {
+    "question": "In what way does the sigmoid function play a role in converting raw decision function outputs into class probabilities?",
+    "course": "machine-learning-zoomcamp",
+    "document": "28f7297895"
+  },
+  {
+    "question": "Could you provide an illustration or diagram showing the difference between the outputs of `.decision_function()` and `.predict_proba()` for a LogisticRegression model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "28f7297895"
+  }
+]

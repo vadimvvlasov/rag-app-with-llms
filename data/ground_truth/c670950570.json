@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my connection to a GCP VM instance timeout intermittently?",
+    "course": "mlops-zoomcamp",
+    "document": "c670950570"
+  },
+  {
+    "question": "What happens to the IP address of a GCP VM instance when it is switched off and then back on?",
+    "course": "mlops-zoomcamp",
+    "document": "c670950570"
+  },
+  {
+    "question": "How can I modify the `ssh_config` file in VS Code when the external IP address changes after restarting a GCP VM instance?",
+    "course": "mlops-zoomcamp",
+    "document": "c670950570"
+  },
+  {
+    "question": "Which extension in Visual Studio Code facilitates editing the SSH configuration for remote connections to GCP VMs?",
+    "course": "mlops-zoomcamp",
+    "document": "c670950570"
+  },
+  {
+    "question": "What specific steps must be followed in VS Code with the Remote-SSH extension to update the `HostName` in the SSH configuration file?",
+    "course": "mlops-zoomcamp",
+    "document": "c670950570"
+  }
+]

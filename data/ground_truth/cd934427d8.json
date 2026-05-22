@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the accuracy remain constant across epochs during training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cd934427d8"
+  },
+  {
+    "question": "What should I set for `class_mode` when reading data in the homework to avoid constant accuracy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cd934427d8"
+  },
+  {
+    "question": "Which optimizer, batch size, or learning rate choices could lead to unchanged accuracy and loss values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cd934427d8"
+  },
+  {
+    "question": "How can I verify if the chosen optimizer is appropriate for my neural network model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cd934427d8"
+  },
+  {
+    "question": "What steps should I follow to troubleshoot persistent accuracy issues during the training of a binary classification model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cd934427d8"
+  }
+]

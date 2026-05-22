@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the procedure to delete a global data product in our MLOps ZoomCamp project?",
+    "course": "mlops-zoomcamp",
+    "document": "e2806ae236"
+  },
+  {
+    "question": "Can I remove a global data product using the graphical user interface provided by the course platform?",
+    "course": "mlops-zoomcamp",
+    "document": "e2806ae236"
+  },
+  {
+    "question": "Which file must be manually edited to eliminate a global data product, and where is it located within the project structure?",
+    "course": "mlops-zoomcamp",
+    "document": "e2806ae236"
+  },
+  {
+    "question": "How can I access and modify the `global_data_products.yaml` file to perform the deletion of a global data product?",
+    "course": "mlops-zoomcamp",
+    "document": "e2806ae236"
+  },
+  {
+    "question": "In Module 3 on Orchestration of the MLOps ZoomCamp course, what tool is recommended for editing the configuration file to remove a global data product?",
+    "course": "mlops-zoomcamp",
+    "document": "e2806ae236"
+  }
+]

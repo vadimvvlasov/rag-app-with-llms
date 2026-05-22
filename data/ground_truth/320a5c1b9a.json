@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does converting NumPy `float32` values to base-Python floats resolve the JSON serialization error in a Docker instance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "320a5c1b9a"
+  },
+  {
+    "question": "What specific line of code should be modified in the `predict()` function to fix the `Object of type float32 is not JSON serializable` error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "320a5c1b9a"
+  },
+  {
+    "question": "Where can I find additional guidance on resolving serialization issues when deploying a model as a Lambda function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "320a5c1b9a"
+  },
+  {
+    "question": "Does this serialization problem only occur with NumPy data types, or are there other types that might cause similar errors?",
+    "course": "machine-learning-zoomcamp",
+    "document": "320a5c1b9a"
+  },
+  {
+    "question": "Which chapters of the course contain relevant video lectures that explain how to handle such serialization challenges in serverless deep learning deployments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "320a5c1b9a"
+  }
+]

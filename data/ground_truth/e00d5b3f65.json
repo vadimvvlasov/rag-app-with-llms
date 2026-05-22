@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What steps should I follow if I receive a 'Permission denied (publickey)' error after deleting my public key on an AWS instance?",
+    "course": "mlops-zoomcamp",
+    "document": "e00d5b3f65"
+  },
+  {
+    "question": "How can I regain access to my EC2 Linux instance when encountering permission issues related to the public key?",
+    "course": "mlops-zoomcamp",
+    "document": "e00d5b3f65"
+  },
+  {
+    "question": "Where can I find detailed guidance for resolving 'Permission denied (publickey)' errors in Amazon Web Services?",
+    "course": "mlops-zoomcamp",
+    "document": "e00d5b3f65"
+  },
+  {
+    "question": "What command do I use to regenerate or retrieve my old SSH public key after it has been removed from an AWS key pair?",
+    "course": "mlops-zoomcamp",
+    "document": "e00d5b3f65"
+  },
+  {
+    "question": "Which AWS documentation section provides instructions on retrieving a public key for an existing EC2 instance?",
+    "course": "mlops-zoomcamp",
+    "document": "e00d5b3f65"
+  }
+]

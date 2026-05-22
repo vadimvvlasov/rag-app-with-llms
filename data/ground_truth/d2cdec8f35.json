@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I transform a dictionary of prediction results into a Pandas DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d2cdec8f35"
+  },
+  {
+    "question": "What is the syntax to create a DataFrame from a dictionary where the keys represent row indices and values are the data for each column?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d2cdec8f35"
+  },
+  {
+    "question": "In the context of machine learning assignments, how do I orient a dictionary to form a table with predictions as entries?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d2cdec8f35"
+  },
+  {
+    "question": "Could you provide an example of converting a dictionary named `your_dict` into a DataFrame suitable for visualization purposes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d2cdec8f35"
+  },
+  {
+    "question": "What Pandas function should be used to convert a dictionary into a DataFrame where each key becomes a row index and the values are placed in a single column titled 'Prediction'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d2cdec8f35"
+  }
+]

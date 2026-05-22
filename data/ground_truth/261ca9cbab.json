@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving an authentication error when trying to push code to my GitHub repository using Git Bash?",
+    "course": "machine-learning-zoomcamp",
+    "document": "261ca9cbab"
+  },
+  {
+    "question": "What changes did GitHub make on August 13, 2021 that affect password authentication for HTTPS URLs?",
+    "course": "machine-learning-zoomcamp",
+    "document": "261ca9cbab"
+  },
+  {
+    "question": "How can I resolve the 'fatal: Authentication failed' error when cloning or pushing to a GitHub repository via HTTPS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "261ca9cbab"
+  },
+  {
+    "question": "What is the recommended method of authentication for accessing GitHub repositories after the removal of password support?",
+    "course": "machine-learning-zoomcamp",
+    "document": "261ca9cbab"
+  },
+  {
+    "question": "Where can I find detailed instructions on generating a personal access token and using it for Git operations on GitHub?",
+    "course": "machine-learning-zoomcamp",
+    "document": "261ca9cbab"
+  }
+]

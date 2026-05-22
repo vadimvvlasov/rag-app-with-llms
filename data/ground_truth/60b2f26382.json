@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific system changes are necessary to use kind with Rootless Docker on Linux?",
+    "course": "machine-learning-zoomcamp",
+    "document": "60b2f26382"
+  },
+  {
+    "question": "Can you provide a step-by-step guide for setting up Rootless Podman to run kind in the context of Module 10 of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "60b2f26382"
+  },
+  {
+    "question": "Where can I find detailed documentation for configuring kind to work with Rootless technologies as mentioned in the FAQ record from Module 10?",
+    "course": "machine-learning-zoomcamp",
+    "document": "60b2f26382"
+  },
+  {
+    "question": "Are there any known issues or limitations when running kind on Linux using Rootless Docker or Rootless Podman that I should be aware of for this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "60b2f26382"
+  },
+  {
+    "question": "How does the performance of kind differ between using Rootless Docker and Rootless Podman within the Kubernetes environment covered in Module 10?",
+    "course": "machine-learning-zoomcamp",
+    "document": "60b2f26382"
+  }
+]

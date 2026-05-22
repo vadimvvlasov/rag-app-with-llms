@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the `fact_trips` model produce an inconsistent number of rows each time it is rerun?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d9072c7279"
+  },
+  {
+    "question": "What specific change should be made to the staging files to ensure consistent row counts in the `fact_trips` table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d9072c7279"
+  },
+  {
+    "question": "How does adding an `ORDER BY` clause in the `PARTITION BY` section resolve the inconsistency issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d9072c7279"
+  },
+  {
+    "question": "Which columns need to be included in the `ORDER BY` clause to achieve a stable first-row selection for each partition?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d9072c7279"
+  },
+  {
+    "question": "What is the underlying cause of row inconsistencies when unknown boroughs are present in the data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d9072c7279"
+  }
+]

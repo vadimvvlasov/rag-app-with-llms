@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is Jupytext and why might it be useful for converting Jupyter Notebooks?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2f39b0ef3"
+  },
+  {
+    "question": "Can you provide the exact command to install Jupytext via pip?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2f39b0ef3"
+  },
+  {
+    "question": "After installing Jupytext, what command should I use to convert a notebook file named 'analysis.ipynb' to a Python script?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2f39b0ef3"
+  },
+  {
+    "question": "If nbconvert fails with errors, how does Jupytext handle the conversion process?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2f39b0ef3"
+  },
+  {
+    "question": "Are there any additional configuration options or parameters I can specify when converting notebooks with Jupytext?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2f39b0ef3"
+  }
+]

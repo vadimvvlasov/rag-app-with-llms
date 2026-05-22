@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I append to the GitHub URL to ensure the raw parquet file is served when ingesting FHV trip data into GCS/BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6783a9bddb"
+  },
+  {
+    "question": "How can I modify a templated GitHub URL for an FHV trip data file to correctly load it as parquet into BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6783a9bddb"
+  },
+  {
+    "question": "Why might the input file not be recognized as parquet when loading FHV trip data from the course's GitHub mirror, and what is the correct URL prefix to use?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6783a9bddb"
+  },
+  {
+    "question": "If my download command (`curl -sSLf` or `wget`) does not change, what adjustment should I make to the GitHub URL to avoid HTML preview issues when ingesting FHV data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6783a9bddb"
+  },
+  {
+    "question": "In the context of Module 4: Analytics Engineering with dbt for the 'data-engineering-zoomcamp' course, which URL structure (`blob` vs `tree`) should be used to correctly reference the FHV trip data repository?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6783a9bddb"
+  }
+]

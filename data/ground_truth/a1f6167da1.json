@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the probable cause if I encounter a \"Failed to load\" error when trying to access the metadata section of Compute Engine, specifically to upload an SSH key?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1f6167da1"
+  },
+  {
+    "question": "How can I resolve the issue where Compute Engine's metadata section fails to load and prevents me from adding an SSH key?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1f6167da1"
+  },
+  {
+    "question": "Which specific Google Cloud Platform (GCP) API must be enabled to avoid a 'Failed to load' error when accessing Compute Engine’s metadata for SSH key configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1f6167da1"
+  },
+  {
+    "question": "In the context of Data Engineering Zoomcamp, what step is necessary to ensure seamless access to Compute Engine metadata features such as adding an SSH key?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1f6167da1"
+  },
+  {
+    "question": "What action should I take in the GCP console to fix the problem of a 'Failed to load' message when attempting to modify SSH keys through Compute Engine's settings?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1f6167da1"
+  }
+]

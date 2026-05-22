@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I enable SSH access on my Google Cloud Platform (GCP) virtual machine when encountering a 'no route to host' error for port 22?",
+    "course": "data-engineering-zoomcamp",
+    "document": "68f8a4b307"
+  },
+  {
+    "question": "What steps are required to configure a startup script that allows incoming SSH connections on a GCP VM through the Automation section?",
+    "course": "data-engineering-zoomcamp",
+    "document": "68f8a4b307"
+  },
+  {
+    "question": "After modifying the startup script in the Automation settings of my GCP VM, what actions should I take to apply these changes effectively?",
+    "course": "data-engineering-zoomcamp",
+    "document": "68f8a4b307"
+  },
+  {
+    "question": "In the context of resolving connectivity issues to GCP VM port 22, is it necessary to stop and start the virtual machine after updating firewall rules via a startup script?",
+    "course": "data-engineering-zoomcamp",
+    "document": "68f8a4b307"
+  },
+  {
+    "question": "What specific command should be included in the startup script to permit SSH traffic on GCP VMs, ensuring successful remote connections?",
+    "course": "data-engineering-zoomcamp",
+    "document": "68f8a4b307"
+  }
+]

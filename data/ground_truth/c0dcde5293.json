@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the formula for calculating the information gain of Y given X in a decision tree?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0dcde5293"
+  },
+  {
+    "question": "How does an uninformative feature contribute to the mutual information between two variables?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0dcde5293"
+  },
+  {
+    "question": "In what situation would the information gain equal the entropy of Y?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0dcde5293"
+  },
+  {
+    "question": "What are the extreme values of information gain when X provides perfect or no information about Y?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0dcde5293"
+  },
+  {
+    "question": "Can you explain how information gain is used to determine the best splitting criterion in decision tree algorithms?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0dcde5293"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I see an error when trying to import DictVectorizer from sklearn.feature_extraction?",
+    "course": "mlops-zoomcamp",
+    "document": "c29959db3a"
+  },
+  {
+    "question": "How can I fix the ImportError for sklearn in my Python environment?",
+    "course": "mlops-zoomcamp",
+    "document": "c29959db3a"
+  },
+  {
+    "question": "Could you provide the exact pip command to install scikit-learn and resolve the import issue?",
+    "course": "mlops-zoomcamp",
+    "document": "c29959db3a"
+  },
+  {
+    "question": "In which module of the mlops-zoomcamp course is the solution for importing sklearn discussed?",
+    "course": "mlops-zoomcamp",
+    "document": "c29959db3a"
+  },
+  {
+    "question": "What is the recommended action if the sklearn package cannot be imported during execution?",
+    "course": "mlops-zoomcamp",
+    "document": "c29959db3a"
+  }
+]

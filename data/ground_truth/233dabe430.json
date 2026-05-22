@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the recommended way to securely store API keys for a Python application?",
+    "course": "llm-zoomcamp",
+    "document": "233dabe430"
+  },
+  {
+    "question": "How do I load environment variables from a `.env` file in a Python script?",
+    "course": "llm-zoomcamp",
+    "document": "233dabe430"
+  },
+  {
+    "question": "Which Python packages are needed to read API keys stored in a `.env` file?",
+    "course": "llm-zoomcamp",
+    "document": "233dabe430"
+  },
+  {
+    "question": "Where should the `.env` file be placed relative to my Python script, and how do I specify its path in `load_dotenv`?",
+    "course": "llm-zoomcamp",
+    "document": "233dabe430"
+  },
+  {
+    "question": "Why is it important to add the `.env` file to `.gitignore`, and what effect does this have on version control?",
+    "course": "llm-zoomcamp",
+    "document": "233dabe430"
+  }
+]

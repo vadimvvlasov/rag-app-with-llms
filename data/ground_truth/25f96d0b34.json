@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I installed dbt, but when I try to run the 'dbt' command, it says 'Command 'dbt' not found'. How do I resolve this issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "25f96d0b34"
+  },
+  {
+    "question": "After activating my virtual environment, how can I confirm that dbt is correctly installed within it?",
+    "course": "data-engineering-zoomcamp",
+    "document": "25f96d0b34"
+  },
+  {
+    "question": "What command should I use to verify that dbt is available in my active virtual environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "25f96d0b34"
+  },
+  {
+    "question": "If I need to install dbt inside a specific virtual environment, which pip command do I execute?",
+    "course": "data-engineering-zoomcamp",
+    "document": "25f96d0b34"
+  },
+  {
+    "question": "How can I ensure the 'dbt' command works globally rather than being confined to a virtual environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "25f96d0b34"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why are experiments not displayed when using the Mlflow CLI command `mlflow experiments list`?",
+    "course": "mlops-zoomcamp",
+    "document": "ac877b2d3d"
+  },
+  {
+    "question": "What environment variable must be set to enable the Mlflow Tracking URI for accessing experiments in the CLI?",
+    "course": "mlops-zoomcamp",
+    "document": "ac877b2d3d"
+  },
+  {
+    "question": "Which specific URL should be assigned to the MLFLOW_TRACKING_URI environment variable to ensure proper experiment tracking via the CLI?",
+    "course": "mlops-zoomcamp",
+    "document": "ac877b2d3d"
+  },
+  {
+    "question": "In the context of Module 2: Experiment Tracking within the mlops-zoomcamp course, what command is used to list existing experiments once the Tracking URI is configured?",
+    "course": "mlops-zoomcamp",
+    "document": "ac877b2d3d"
+  },
+  {
+    "question": "What is the correct procedure to view all tracked experiments after initializing the Mlflow tracking server locally on `http://127.0.0.1:5000`?",
+    "course": "mlops-zoomcamp",
+    "document": "ac877b2d3d"
+  }
+]

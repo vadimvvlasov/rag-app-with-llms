@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I verify whether the Docker daemon is running on my Windows system?",
+    "course": "machine-learning-zoomcamp",
+    "document": "371f4a6519"
+  },
+  {
+    "question": "What command do I need to execute on Linux to start the Docker daemon, and how can I confirm it's active?",
+    "course": "machine-learning-zoomcamp",
+    "document": "371f4a6519"
+  },
+  {
+    "question": "If I'm not a member of the Docker group in Linux, which command should I use to add myself to it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "371f4a6519"
+  },
+  {
+    "question": "After adding myself to the Docker group on Linux, what steps must I take to ensure the changes take effect?",
+    "course": "machine-learning-zoomcamp",
+    "document": "371f4a6519"
+  },
+  {
+    "question": "What is the correct procedure to test if my Docker setup is functioning correctly after ensuring the daemon is running?",
+    "course": "machine-learning-zoomcamp",
+    "document": "371f4a6519"
+  }
+]

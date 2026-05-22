@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How should I handle malformed timestamp values in the CSV file when ingesting FHV trip data into BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8c9b0fdaa5"
+  },
+  {
+    "question": "What is the recommended approach to resolve column type mismatches (e.g., INT64 vs FLOAT) between Parquet files and the defined external table schema?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8c9b0fdaa5"
+  },
+  {
+    "question": "If some months of the FHV dataset have different schemas for location ID columns, how can I ensure consistent type handling across all month files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8c9b0fdaa5"
+  },
+  {
+    "question": "What steps can I take to prevent `Bad int64 value` errors during casting in my dbt models when dealing with certain integer columns (e.g., `ehail_fee`, `ratecodeid`)?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8c9b0fdaa5"
+  },
+  {
+    "question": "Is there a way to automatically detect and bypass timestamp parsing issues directly during the BigQuery load process for CSV files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8c9b0fdaa5"
+  }
+]

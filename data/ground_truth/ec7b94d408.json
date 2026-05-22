@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific JSON policy should I use to allow all actions related to Amazon ECR?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ec7b94d408"
+  },
+  {
+    "question": "After creating the new IAM policy, how do I associate it with a role or user in AWS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ec7b94d408"
+  },
+  {
+    "question": "If I receive an error about missing Docker credentials while following Week 9 instructions, what exact file should I delete to resolve it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ec7b94d408"
+  },
+  {
+    "question": "What are the steps to navigate from the AWS Console home page directly to the IAM service?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ec7b94d408"
+  },
+  {
+    "question": "When reviewing and creating the new policy, what name and description should I provide for clarity?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ec7b94d408"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What steps should I follow to diagnose a failed connection to the Spark master when executing `./spark-submit.sh streaming.py`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e7015b4263"
+  },
+  {
+    "question": "How can I list all currently running Docker containers to identify the `spark-master` container ID?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e7015b4263"
+  },
+  {
+    "question": "Once inside the `spark-master` container, which command do I use to view its logs and locate error messages related to the Spark master connection failure?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e7015b4263"
+  },
+  {
+    "question": "After accessing the shell of the `spark-master` container, what specific log file should I examine to see detailed information about the connection errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e7015b4263"
+  },
+  {
+    "question": "If I find an error message in the Spark master log, where can I search for additional troubleshooting guidance or solutions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e7015b4263"
+  }
+]

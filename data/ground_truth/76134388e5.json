@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the steps to set up a Google Colab notebook for executing deep learning code?",
+    "course": "machine-learning-zoomcamp",
+    "document": "76134388e5"
+  },
+  {
+    "question": "How can I switch the runtime type to utilize a T4 GPU in Google Colab?",
+    "course": "machine-learning-zoomcamp",
+    "document": "76134388e5"
+  },
+  {
+    "question": "Where do I find the option to change the runtime configuration in a Colab notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "76134388e5"
+  },
+  {
+    "question": "What specific hardware accelerator should be selected to optimize performance for deep learning tasks on Google Colab?",
+    "course": "machine-learning-zoomcamp",
+    "document": "76134388e5"
+  },
+  {
+    "question": "Could you provide visual guidance on navigating through the steps of configuring Google Colab for neural network training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "76134388e5"
+  }
+]

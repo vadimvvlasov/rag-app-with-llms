@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it possible to complete the Machine Learning ZoomCamp assignments using programming languages other than Python, such as R or Scala?",
+    "course": "machine-learning-zoomcamp",
+    "document": "165122776e"
+  },
+  {
+    "question": "What are the implications of using a language like R instead of the recommended Python 3.10 for completing coursework and assessments in this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "165122776e"
+  },
+  {
+    "question": "How might the use of non-Python languages affect peer-review processes during midterm evaluations and capstone projects?",
+    "course": "machine-learning-zoomcamp",
+    "document": "165122776e"
+  },
+  {
+    "question": "Are there any specific library versions or dependencies that are crucial for homework assignments, and can they be adapted to other programming environments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "165122776e"
+  },
+  {
+    "question": "What is the policy regarding creating personal coding repositories in alternative languages based on the course materials, even if they are not suitable for official submissions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "165122776e"
+  }
+]

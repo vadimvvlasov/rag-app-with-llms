@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the latest MLflow version, which function should I use to retrieve a list of all experiments?",
+    "course": "mlops-zoomcamp",
+    "document": "c1768edac2"
+  },
+  {
+    "question": "What change occurred in MLflow that removed the `list_experiments` method from MlflowClient?",
+    "course": "mlops-zoomcamp",
+    "document": "c1768edac2"
+  },
+  {
+    "question": "How can I query existing experiments using the updated MLflow API?",
+    "course": "mlops-zoomcamp",
+    "document": "c1768edac2"
+  },
+  {
+    "question": "Which method provided by MlflowClient can now be used to fetch experiment details similar to the deprecated `list_experiments` function?",
+    "course": "mlops-zoomcamp",
+    "document": "c1768edac2"
+  },
+  {
+    "question": "Where can I find documentation for the new `search_experiments` method introduced in recent MLflow releases?",
+    "course": "mlops-zoomcamp",
+    "document": "c1768edac2"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How can I open an HTML file located in my Linux WSL environment using a Windows browser?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b54567e89"
+  },
+  {
+    "question": "What steps are required to configure wslu for opening HTML files with the default Windows browser from within WSL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b54567e89"
+  },
+  {
+    "question": "Is it possible to specify a particular Windows browser (e.g., Chrome or Firefox) to open HTML files from Linux via WSL, and if so, how?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b54567e89"
+  },
+  {
+    "question": "After installing wslu, what command should I use to launch an HTML file like 'index.html' in the currently set Windows browser?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b54567e89"
+  }
+]

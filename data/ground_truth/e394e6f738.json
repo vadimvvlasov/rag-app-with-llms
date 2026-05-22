@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What method should I use to retrieve a list of all tables within the database?",
+    "course": "llm-zoomcamp",
+    "document": "e394e6f738"
+  },
+  {
+    "question": "How can I view the complete set of table names stored in our current database?",
+    "course": "llm-zoomcamp",
+    "document": "e394e6f738"
+  },
+  {
+    "question": "Which function do I call to see every table name available in the system?",
+    "course": "llm-zoomcamp",
+    "document": "e394e6f738"
+  },
+  {
+    "question": "To identify all tables present in the database, what specific API or command is recommended?",
+    "course": "llm-zoomcamp",
+    "document": "e394e6f738"
+  },
+  {
+    "question": "In the context of the workshop 'Open-Source Data Ingestion (dlt)' for the course 'llm-zoomcamp', how can I check the names of all tables?",
+    "course": "llm-zoomcamp",
+    "document": "e394e6f738"
+  }
+]

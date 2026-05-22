@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What delimiter is used in the `bank-full.csv` file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "61ea97f62e"
+  },
+  {
+    "question": "How can I correctly import a CSV file where columns are separated by semicolons using pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "61ea97f62e"
+  },
+  {
+    "question": "Why isn't pandas automatically detecting the column separators in `bank-full.csv`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "61ea97f62e"
+  },
+  {
+    "question": "What command should I use in Python to read a dataset with semicolon-separated values into a DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "61ea97f62e"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course do we learn how to handle CSV files with custom delimiters?",
+    "course": "machine-learning-zoomcamp",
+    "document": "61ea97f62e"
+  }
+]

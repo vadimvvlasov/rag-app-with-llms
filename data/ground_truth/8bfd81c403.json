@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In GCP BigQuery, when I run a query involving both an external table and a materialized view, why does `COUNT(DISTINCT *)` return identical results in both cases?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8bfd81c403"
+  },
+  {
+    "question": "What specific setting must be adjusted in the BigQuery query settings to prevent caching from affecting queries that join an external dataset with a materialized result set?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8bfd81c403"
+  },
+  {
+    "question": "How can I ensure that my count of distinct values across an external table and a materialized table does not unintentionally benefit from any query cache, leading to potentially misleading results?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8bfd81c403"
+  },
+  {
+    "question": "When performing a `COUNT(DISTINCT *)` operation on two different data sources within BigQuery—an external CSV table and a precomputed materialized table—what configuration change is required to align the distinct value calculation accurately?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8bfd81c403"
+  },
+  {
+    "question": "What step should I take in the BigQuery query interface to avoid cache interference when executing queries that simultaneously reference an external dataset and a materialized view, especially for aggregate functions like `COUNT(DISTINCT)`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8bfd81c403"
+  }
+]

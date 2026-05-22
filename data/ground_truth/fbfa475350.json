@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I iterate through a large Parquet file using PyArrow in Python?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fbfa475350"
+  },
+  {
+    "question": "What is the recommended method to ingest rows from a Parquet file into a PostgreSQL table using Python and SQLAlchemy?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fbfa475350"
+  },
+  {
+    "question": "In the provided code snippet, what does `parquet_file.iter_batches(use_threads=True)` accomplish?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fbfa475350"
+  },
+  {
+    "question": "How are the SQL insertion operations performed within the loop iterating over batches of the Parquet file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fbfa475350"
+  },
+  {
+    "question": "What is the purpose of clearing the target PostgreSQL table (`table_name`) before ingesting new data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fbfa475350"
+  }
+]

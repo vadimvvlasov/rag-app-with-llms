@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does attempting to create a Global Data Product that references a pipeline in another Mage project result in an AttributeError?",
+    "course": "mlops-zoomcamp",
+    "document": "6ba940e0fd"
+  },
+  {
+    "question": "What error message is displayed when trying to build a Global Data Product across different Mage projects?",
+    "course": "mlops-zoomcamp",
+    "document": "6ba940e0fd"
+  },
+  {
+    "question": "Explain why Mage's Global Data Products are considered non-cross-project and how this limitation affects data preparation pipelines.",
+    "course": "mlops-zoomcamp",
+    "document": "6ba940e0fd"
+  },
+  {
+    "question": "In the context of Mage projects, where should I create a data preparation pipeline if it needs to be consumed by another component within the same workflow?",
+    "course": "mlops-zoomcamp",
+    "document": "6ba940e0fd"
+  },
+  {
+    "question": "How can I resolve the issue of failing to create a Global Data Product that spans multiple Mage projects?",
+    "course": "mlops-zoomcamp",
+    "document": "6ba940e0fd"
+  }
+]

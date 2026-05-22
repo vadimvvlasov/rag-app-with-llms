@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the context of Module 1 on GCP setup and VM for the data-engineering-zoomcamp course, how do I locate my private `ny-rides.json` file within Google Cloud Platform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cdd91ef84a"
+  },
+  {
+    "question": "What specific steps are required to add a JSON key for accessing my private files in GCP's Service Accounts section?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cdd91ef84a"
+  },
+  {
+    "question": "Once inside the GCP interface, which tab or menu should I select after choosing the relevant project to find and create the `ny-rides.json` file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cdd91ef84a"
+  },
+  {
+    "question": "After selecting a service account within GCP, what is the exact process to generate a new key of JSON type for my private files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cdd91ef84a"
+  },
+  {
+    "question": "Where can I confirm that the newly created JSON key for my private files in GCP's Service Accounts has been successfully added?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cdd91ef84a"
+  }
+]

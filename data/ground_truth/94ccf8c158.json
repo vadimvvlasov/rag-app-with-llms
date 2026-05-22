@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I verify that the `docker-compose.yaml` file is correctly set up for the 'control-center' service to avoid startup errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "94ccf8c158"
+  },
+  {
+    "question": "What specific configurations in the `docker-compose.yaml` should be checked to ensure the 'control-center' image starts without issues?",
+    "course": "data-engineering-zoomcamp",
+    "document": "94ccf8c158"
+  },
+  {
+    "question": "If Docker Desktop on macOS Monterey shows lingering images, what steps should I take to clear them before restarting my Kafka environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "94ccf8c158"
+  },
+  {
+    "question": "On Mac OSX 12.2.1, why might images fail to start even when visible through `docker ps`, and how can they be removed manually?",
+    "course": "data-engineering-zoomcamp",
+    "document": "94ccf8c158"
+  },
+  {
+    "question": "What is the recommended procedure for troubleshooting a Docker image startup failure for 'control-center' after previous sessions potentially leaving residual containers?",
+    "course": "data-engineering-zoomcamp",
+    "document": "94ccf8c158"
+  }
+]

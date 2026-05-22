@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is causing the 'Can't locate revision identified by …' error in my MLflow container?",
+    "course": "mlops-zoomcamp",
+    "document": "8231e2605d"
+  },
+  {
+    "question": "How can I determine which MLflow version was used during Module 2?",
+    "course": "mlops-zoomcamp",
+    "document": "8231e2605d"
+  },
+  {
+    "question": "What steps should I take to update the Docker image to match the correct MLflow version?",
+    "course": "mlops-zoomcamp",
+    "document": "8231e2605d"
+  },
+  {
+    "question": "Can you provide the exact command sequence to rebuild the Docker service after modifying the `mlflow.dockerfile`?",
+    "course": "mlops-zoomcamp",
+    "document": "8231e2605d"
+  },
+  {
+    "question": "Once the Docker container is rebuilt, what command will start the containers successfully?",
+    "course": "mlops-zoomcamp",
+    "document": "8231e2605d"
+  }
+]

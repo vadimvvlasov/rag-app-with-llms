@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Why did I encounter an error stating that '/model2.bin' was not found when attempting to load the file in the Docker environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "32c95df124"
+  },
+  {
+    "question": "What steps were taken to address the absence of 'model2.bin' during the Dockerfile COPY command execution on Windows using MINGW64 (git bash)?",
+    "course": "machine-learning-zoomcamp",
+    "document": "32c95df124"
+  },
+  {
+    "question": "How does the temporary solution involving `COPY [",
+    "course": "machine-learning-zoomcamp",
+    "document": "32c95df124"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the cause of receiving a GitHub 429 error when attempting to download a CSV file using wget or pd.read_csv(url)?",
+    "course": "machine-learning-zoomcamp",
+    "document": "28991e4581"
+  },
+  {
+    "question": "How many minutes should I wait before retrying an unauthenticated request that results in a GitHub rate limit (429) error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "28991e4581"
+  },
+  {
+    "question": "What steps can I take in my browser to manually save a raw file and subsequently load it into my Python script without hitting the rate limit?",
+    "course": "machine-learning-zoomcamp",
+    "document": "28991e4581"
+  },
+  {
+    "question": "Which additional header must I include with wget to avoid being rate-limited by GitHub when downloading files programmatically?",
+    "course": "machine-learning-zoomcamp",
+    "document": "28991e4581"
+  },
+  {
+    "question": "If I need to download data repeatedly for training models, what is an efficient method to ensure compliance with GitHub's rate limits?",
+    "course": "machine-learning-zoomcamp",
+    "document": "28991e4581"
+  }
+]

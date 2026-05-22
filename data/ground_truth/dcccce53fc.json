@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is my model registry failing when I try to add the parameter 'max_depth'?",
+    "course": "mlops-zoomcamp",
+    "document": "dcccce53fc"
+  },
+  {
+    "question": "How can I properly log hyperparameters like 'max_depth' before registering a machine learning model in MLflow?",
+    "course": "mlops-zoomcamp",
+    "document": "dcccce53fc"
+  },
+  {
+    "question": "What is the correct sequence of operations to ensure that parameters such as 'max_depth' are recognized during the MLflow model registry process?",
+    "course": "mlops-zoomcamp",
+    "document": "dcccce53fc"
+  },
+  {
+    "question": "Can you explain why adding parameters after the model registry results in them being unrecognized, and how to avoid this issue?",
+    "course": "mlops-zoomcamp",
+    "document": "dcccce53fc"
+  },
+  {
+    "question": "What specific code snippet should I use to log parameters like 'max_depth' so they appear correctly in the `data.run.params` when using MLflow for experiment tracking?",
+    "course": "mlops-zoomcamp",
+    "document": "dcccce53fc"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the advantages of running the course on a local machine versus using GitHub Codespaces?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f1fe161b1"
+  },
+  {
+    "question": "How does GitHub Codespaces handle port forwarding for tools like Kestra and pgAdmin, and why is it different from using `http://localhost`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f1fe161b1"
+  },
+  {
+    "question": "If I choose to use a Google Cloud VM, will I still be able to access BigQuery as demonstrated in Module 3 and the final project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f1fe161b1"
+  },
+  {
+    "question": "Is a GCP account necessary even if I decide not to run the course on a GCP VM for compute purposes?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f1fe161b1"
+  },
+  {
+    "question": "What specific configurations or prerequisites should I have on my local machine (especially Windows) before starting the course locally?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f1fe161b1"
+  }
+]

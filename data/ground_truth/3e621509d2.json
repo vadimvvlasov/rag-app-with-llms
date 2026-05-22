@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the 'can't get attribute XXX on module __main__' pickle error occur only when using Waitress and not directly with Flask?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e621509d2"
+  },
+  {
+    "question": "What is causing the custom column transformer class to be inaccessible after saving the model in the `__main__` namespace?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e621509d2"
+  },
+  {
+    "question": "How can I resolve the pickle error when deploying a model trained in `train.py` within a Docker container using Waitress?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e621509d2"
+  },
+  {
+    "question": "If I move the custom class to a separate module, which additional changes should I make in `predict.py` to ensure compatibility with the saved model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e621509d2"
+  },
+  {
+    "question": "Where can I find more detailed explanations and discussions about similar pickle issues related to cross-module references in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e621509d2"
+  }
+]

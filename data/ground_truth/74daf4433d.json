@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific error messages occur when using Mage in Codespaces, and what are the suggested solutions for each?",
+    "course": "mlops-zoomcamp",
+    "document": "74daf4433d"
+  },
+  {
+    "question": "How can I resolve the Docker daemon connection issue reported by the user when running Mage in a Codespaces environment?",
+    "course": "mlops-zoomcamp",
+    "document": "74daf4433d"
+  },
+  {
+    "question": "What steps should be taken to address the invalid volume specification error encountered with `/workspaces/mage-mlops` in Codespaces?",
+    "course": "mlops-zoomcamp",
+    "document": "74daf4433d"
+  },
+  {
+    "question": "Why does the warning about `/.gitconfig` being a directory appear, and what is the recommended fix for this issue during deployment with 3.5.x of Mage?",
+    "course": "mlops-zoomcamp",
+    "document": "74daf4433d"
+  },
+  {
+    "question": "What modifications are required in the `docker-compose.yml` file and Dockerfile to prevent Docker from auto-creating `.gitconfig` as a directory when it is missing?",
+    "course": "mlops-zoomcamp",
+    "document": "74daf4433d"
+  }
+]

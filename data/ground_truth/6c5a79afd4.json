@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I shuffle a pandas DataFrame to randomize the order of its rows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c5a79afd4"
+  },
+  {
+    "question": "What parameters should I use with `pandas.DataFrame.sample` to return a fully shuffled version of the dataset?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c5a79afd4"
+  },
+  {
+    "question": "Is there a way to ensure reproducibility when shuffling a DataFrame using `pandas.DataFrame.sample`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c5a79afd4"
+  },
+  {
+    "question": "After shuffling a DataFrame, how can I reset its index to start from 0 again?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c5a79afd4"
+  },
+  {
+    "question": "What is the syntax for shuffling a complete pandas DataFrame and resetting the index in one step?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c5a79afd4"
+  }
+]

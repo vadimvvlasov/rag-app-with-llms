@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve issues with Jupyter Notebook or SparkUI not loading properly at localhost after setting up port forwarding from VS Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "05dc43cda8"
+  },
+  {
+    "question": "What command should I use to forward the port using SSH CLI instead of VS Code for accessing Jupyter Notebook on a GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "05dc43cda8"
+  },
+  {
+    "question": "If I encounter problems with port 4040, what alternative port might the Spark session switch to automatically?",
+    "course": "data-engineering-zoomcamp",
+    "document": "05dc43cda8"
+  },
+  {
+    "question": "Where can I add the port forwarding instructions to ensure they persist even after logging out of the session when connecting from a local machine to a GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "05dc43cda8"
+  },
+  {
+    "question": "Which SSH configuration settings should I include in my `.ssh/config` file to automatically forward specific ports (e.g., 8888, 8080, 5432, 4040) for accessing localhost services on a GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "05dc43cda8"
+  }
+]

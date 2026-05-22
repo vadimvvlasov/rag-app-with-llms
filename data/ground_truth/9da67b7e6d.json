@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs when executing prepare.py in the MLOps ZoomCamp course, Module 5?",
+    "course": "mlops-zoomcamp",
+    "document": "9da67b7e6d"
+  },
+  {
+    "question": "Why does a KeyError 'content-length' appear during the execution of prepare.py?",
+    "course": "mlops-zoomcamp",
+    "document": "9da67b7e6d"
+  },
+  {
+    "question": "Which URL needs to be substituted in prepare.py to fix the KeyError 'content-length' issue?",
+    "course": "mlops-zoomcamp",
+    "document": "9da67b7e6d"
+  },
+  {
+    "question": "Where should the corrected URL be placed in the prepare.py script to resolve the download problem?",
+    "course": "mlops-zoomcamp",
+    "document": "9da67b7e6d"
+  },
+  {
+    "question": "What is the new link to access the NYC taxi data that replaces the old one causing the KeyError in Module 5?",
+    "course": "mlops-zoomcamp",
+    "document": "9da67b7e6d"
+  }
+]

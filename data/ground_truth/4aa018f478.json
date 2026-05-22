@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I ensure that the Anaconda environment is activated automatically each time I open a new terminal session?",
+    "course": "mlops-zoomcamp",
+    "document": "4aa018f478"
+  },
+  {
+    "question": "What steps should I follow to add Anaconda startup commands to my `.bashrc` file manually if `conda init bash` does not work?",
+    "course": "mlops-zoomcamp",
+    "document": "4aa018f478"
+  },
+  {
+    "question": "After running `./conda init bash`, what additional command is necessary to apply the changes to the current shell session?",
+    "course": "mlops-zoomcamp",
+    "document": "4aa018f478"
+  },
+  {
+    "question": "If I encounter an error stating that the `conda` script is not found after initializing, what could be the reason and how can I resolve it?",
+    "course": "mlops-zoomcamp",
+    "document": "4aa018f478"
+  },
+  {
+    "question": "What is the purpose of sourcing the `.bashrc` file after modifying it with Anaconda initialization commands?",
+    "course": "mlops-zoomcamp",
+    "document": "4aa018f478"
+  }
+]

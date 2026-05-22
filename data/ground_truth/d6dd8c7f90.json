@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a Pandas ParserError when trying to read a CSV file downloaded using `wget`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d6dd8c7f90"
+  },
+  {
+    "question": "What is the difference between the GitHub URL for a raw CSV file and the URL that serves an HTML page?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d6dd8c7f90"
+  },
+  {
+    "question": "How can I verify if the downloaded file is indeed a CSV and not an HTML page while reading it with Pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d6dd8c7f90"
+  },
+  {
+    "question": "What specific steps should I follow to correctly download a CSV from a GitHub repository using `wget`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d6dd8c7f90"
+  },
+  {
+    "question": "If I see HTML tags when checking the first few lines of my downloaded file, what should I do to resolve the issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d6dd8c7f90"
+  }
+]

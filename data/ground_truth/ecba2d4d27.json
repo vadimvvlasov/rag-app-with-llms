@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I configure Jupyter notebooks to work with a Pipenv-managed virtual environment?",
+    "course": "mlops-zoomcamp",
+    "document": "ecba2d4d27"
+  },
+  {
+    "question": "What steps are required to install the necessary packages (Jupyter and ipykernel) within a Pipenv environment?",
+    "course": "mlops-zoomcamp",
+    "document": "ecba2d4d27"
+  },
+  {
+    "question": "After installing Jupyter and ipykernel in Pipenv, what command do I need to execute to register the kernel for use in Jupyter?",
+    "course": "mlops-zoomcamp",
+    "document": "ecba2d4d27"
+  },
+  {
+    "question": "Will integrating the Pipenv virtual environment with Jupyter affect my development workflow in Visual Studio Code?",
+    "course": "mlops-zoomcamp",
+    "document": "ecba2d4d27"
+  },
+  {
+    "question": "Where can I find additional troubleshooting tips if I encounter issues using Pipenv with Jupyter as described in the provided Stack Overflow link?",
+    "course": "mlops-zoomcamp",
+    "document": "ecba2d4d27"
+  }
+]

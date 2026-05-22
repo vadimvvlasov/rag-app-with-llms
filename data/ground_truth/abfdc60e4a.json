@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What steps should I follow to compute the correlation matrix for a dataset containing both numerical and categorical variables?",
+    "course": "machine-learning-zoomcamp",
+    "document": "abfdc60e4a"
+  },
+  {
+    "question": "How can I identify which columns in my DataFrame are numerical versus categorical before calculating correlations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "abfdc60e4a"
+  },
+  {
+    "question": "Could you provide an example of how to create a correlation matrix using specific numerical columns from a pandas DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "abfdc60e4a"
+  },
+  {
+    "question": "What encoding technique is recommended for converting categorical data into a format suitable for correlation analysis?",
+    "course": "machine-learning-zoomcamp",
+    "document": "abfdc60e4a"
+  },
+  {
+    "question": "In the context of the Machine Learning for Classification module, which functions or methods are used to generate a correlation matrix after vectorizing categorical variables?",
+    "course": "machine-learning-zoomcamp",
+    "document": "abfdc60e4a"
+  }
+]

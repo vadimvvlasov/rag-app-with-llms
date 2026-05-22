@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which Scikit-Learn class is used to perform linear regression without regularization?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6cf4287216"
+  },
+  {
+    "question": "What specific class in Scikit-Learn implements ridge regression, a form of regularized linear regression?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6cf4287216"
+  },
+  {
+    "question": "How can I access more detailed information about the linear models available in Scikit-Learn for regression tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6cf4287216"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course are supervised learning algorithms discussed?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6cf4287216"
+  },
+  {
+    "question": "What is the ID associated with the FAQ record pertaining to regression techniques without and with regularization in Scikit-Learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6cf4287216"
+  }
+]

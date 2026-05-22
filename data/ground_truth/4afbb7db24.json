@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did the Prefect server stop immediately after running `prefect server start`?",
+    "course": "mlops-zoomcamp",
+    "document": "4afbb7db24"
+  },
+  {
+    "question": "What alternative was used to execute the script when the local Prefect server failed?",
+    "course": "mlops-zoomcamp",
+    "document": "4afbb7db24"
+  },
+  {
+    "question": "How can I report the issue with the non-responsive Prefect server locally?",
+    "course": "mlops-zoomcamp",
+    "document": "4afbb7db24"
+  },
+  {
+    "question": "Which steps were taken to troubleshoot the problem with the Prefect server startup?",
+    "course": "mlops-zoomcamp",
+    "document": "4afbb7db24"
+  },
+  {
+    "question": "Where should I submit a detailed bug report regarding the immediate shutdown of the Prefect server?",
+    "course": "mlops-zoomcamp",
+    "document": "4afbb7db24"
+  }
+]

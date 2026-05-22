@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does SSL certificate verification fail when attempting to read a CSV file from a URL in Python on MacOS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7cac4328ea"
+  },
+  {
+    "question": "What is the specific command to install missing CA certificates for Python on MacOS, and where is it located?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7cac4328ea"
+  },
+  {
+    "question": "After executing the certificates installer, how should I proceed to ensure my Python script can successfully fetch data from an HTTPS URL?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7cac4328ea"
+  },
+  {
+    "question": "Is there a universal path or naming convention for the certificates installer executable across different versions of Python installed on MacOS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7cac4328ea"
+  },
+  {
+    "question": "Will running the provided 'Install Certificates.command' script resolve SSL verification issues for all Python scripts that require secure URL connections on MacOS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7cac4328ea"
+  }
+]

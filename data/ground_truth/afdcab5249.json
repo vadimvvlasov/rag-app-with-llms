@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I encountered a memory issue while using DictVectorizer in scikit-learn to prepare data for linear regression. The output seemed to consume excessive memory, leading to failure on my machine with 16 GB of RAM. What can I do to mitigate this problem?",
+    "course": "mlops-zoomcamp",
+    "document": "afdcab5249"
+  },
+  {
+    "question": "In the scikit-learn documentation for DictVectorizer, it mentions setting the `sparse` parameter to `False`. However, I noticed that this causes high memory consumption during model fitting. Is there a recommended way to handle large datasets without running out of memory?",
+    "course": "mlops-zoomcamp",
+    "document": "afdcab5249"
+  },
+  {
+    "question": "During my course on MLOps ZoomCamp in Module 1: Introduction, the FAQ regarding DictVectorizer suggests modifying a specific parameter to reduce memory usage. What is this parameter and how does it affect memory efficiency when transforming feature dictionaries into sparse matrices?",
+    "course": "mlops-zoomcamp",
+    "document": "afdcab5249"
+  },
+  {
+    "question": "While following an example from the scikit-learn website for using DictVectorizer, I observed that setting `sparse=False` led to significant memory overhead. Could you explain why keeping the default `sparse=True` or explicitly setting it to `True` helps in reducing memory consumption?",
+    "course": "mlops-zoomcamp",
+    "document": "afdcab5249"
+  },
+  {
+    "question": "I am working on a machine learning project with limited RAM (16 GB) and need to preprocess features stored as dictionaries using DictVectorizer before fitting a linear regression model. What adjustment should I make to the DictVectorizer settings to prevent out-of-memory errors?",
+    "course": "mlops-zoomcamp",
+    "document": "afdcab5249"
+  }
+]

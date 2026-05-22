@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Will I be able to complete all the hands-on exercises using only the AWS free tier resources?",
+    "course": "mlops-zoomcamp",
+    "document": "ce2a690d31"
+  },
+  {
+    "question": "Are there any specific AWS services covered in this course that are excluded from the free tier offering?",
+    "course": "mlops-zoomcamp",
+    "document": "ce2a690d31"
+  },
+  {
+    "question": "If a service like Kinesis is not included in the AWS free tier, how can I still practice it during the course?",
+    "course": "mlops-zoomcamp",
+    "document": "ce2a690d31"
+  },
+  {
+    "question": "Is LocalStack mentioned as an alternative for testing purposes in the course materials?",
+    "course": "mlops-zoomcamp",
+    "document": "ce2a690d31"
+  },
+  {
+    "question": "Does the AWS free tier cover all the necessary tools and services needed to fully engage with the MLOps Zoomcamp curriculum?",
+    "course": "mlops-zoomcamp",
+    "document": "ce2a690d31"
+  }
+]

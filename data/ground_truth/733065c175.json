@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What role does the Docker socket play in Kestra's operation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "733065c175"
+  },
+  {
+    "question": "Why is it necessary for the Kestra container to run with root privileges when accessing the Docker daemon?",
+    "course": "data-engineering-zoomcamp",
+    "document": "733065c175"
+  },
+  {
+    "question": "In a production environment, how would access to the Docker socket by Kestra be handled differently from the development setup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "733065c175"
+  },
+  {
+    "question": "What specific path on the host system does Kestra use to connect to the Docker daemon during execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "733065c175"
+  },
+  {
+    "question": "How does mounting the Docker socket at /var/run/docker.sock affect the security and functionality of Kestra in a Docker Compose configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "733065c175"
+  }
+]

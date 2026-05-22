@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I encounter the error 'Access Denied: User does not have bigquery.jobs.create permission in project <project_name>' while setting up dbt Cloud with BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b4a5d32d6b"
+  },
+  {
+    "question": "Where can I find detailed instructions for configuring my dbt profile to resolve connection issues with Google BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b4a5d32d6b"
+  },
+  {
+    "question": "How do I grant the necessary permissions to my dbt service account in Google Cloud IAM to allow job creation in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b4a5d32d6b"
+  },
+  {
+    "question": "What additional roles should I assign to my dbt service account in BigQuery to avoid future permission problems during the course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b4a5d32d6b"
+  },
+  {
+    "question": "After adjusting IAM settings, what is the final step to verify that the connection between dbt Cloud and BigQuery has been successfully re-established?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b4a5d32d6b"
+  }
+]

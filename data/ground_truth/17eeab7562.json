@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I install the Pillow library for loading images in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "17eeab7562"
+  },
+  {
+    "question": "What is the exact command to convert a PILLOW image object to a NumPy array?",
+    "course": "machine-learning-zoomcamp",
+    "document": "17eeab7562"
+  },
+  {
+    "question": "Can you provide a code snippet that demonstrates loading an image named 'aeroplane.png' and converting it to a NumPy array using the Pillow library?",
+    "course": "machine-learning-zoomcamp",
+    "document": "17eeab7562"
+  },
+  {
+    "question": "Which libraries are required to perform the task of loading an image and converting it to a NumPy array, as described in the course material?",
+    "course": "machine-learning-zoomcamp",
+    "document": "17eeab7562"
+  },
+  {
+    "question": "In the context of the Machine Learning Zoomcamp course, what steps should I follow to load an image file and transform it into a NumPy array using the Pillow library?",
+    "course": "machine-learning-zoomcamp",
+    "document": "17eeab7562"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving a warning about platform mismatch when attempting to run the Docker container in an arm64 environment?",
+    "course": "mlops-zoomcamp",
+    "document": "e6ffad6be5"
+  },
+  {
+    "question": "What specific command should I use to resolve the platform compatibility issue between my host's arm64 architecture and the Docker image's linux/amd64 platform?",
+    "course": "mlops-zoomcamp",
+    "document": "e6ffad6be5"
+  },
+  {
+    "question": "How can I ensure that the Docker container runs correctly on a system with an arm64 processor by modifying the run command?",
+    "course": "mlops-zoomcamp",
+    "document": "e6ffad6be5"
+  },
+  {
+    "question": "What is the purpose of adding `--platform linux/amd64` to the Docker run command, and how does it affect the execution environment?",
+    "course": "mlops-zoomcamp",
+    "document": "e6ffad6be5"
+  },
+  {
+    "question": "Can you provide a complete example of the modified Docker run command that includes the necessary flag to overcome the platform mismatch warning?",
+    "course": "mlops-zoomcamp",
+    "document": "e6ffad6be5"
+  }
+]

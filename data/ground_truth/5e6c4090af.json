@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I verify if the Docker daemon is actively running on my system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5e6c4090af"
+  },
+  {
+    "question": "What command should I use in PowerShell to refresh or update WSL configurations when encountering Docker connectivity issues?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5e6c4090af"
+  },
+  {
+    "question": "If I see the error 'Cannot connect to Docker daemon at unix:///var/run/docker.sock', what are the initial troubleshooting steps I need to take?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5e6c4090af"
+  },
+  {
+    "question": "What specific message indicates that the Docker daemon might be misconfigured or not started correctly?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5e6c4090af"
+  },
+  {
+    "question": "After updating WSL, what additional checks should I perform to ensure Docker can communicate with its daemon without errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5e6c4090af"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I am getting a `ModuleNotFoundError` related to `pipenv.patched.pip._vendor.urllib3.response`. How can I fix this issue?",
+    "course": "mlops-zoomcamp",
+    "document": "1355481387"
+  },
+  {
+    "question": "What command should I use to reinstall `pipenv` when I encounter the error mentioned in the FAQ?",
+    "course": "mlops-zoomcamp",
+    "document": "1355481387"
+  },
+  {
+    "question": "If the error persists after reinstalling `pipenv`, what additional packages need to be upgraded or installed?",
+    "course": "mlops-zoomcamp",
+    "document": "1355481387"
+  },
+  {
+    "question": "Could you explain why upgrading `pip` and installing `requests` is necessary for resolving the specified module error?",
+    "course": "mlops-zoomcamp",
+    "document": "1355481387"
+  },
+  {
+    "question": "In the context of Module 4: Deployment of the MLOps ZoomCamp course, are there any preventive measures to avoid this error in future projects?",
+    "course": "mlops-zoomcamp",
+    "document": "1355481387"
+  }
+]

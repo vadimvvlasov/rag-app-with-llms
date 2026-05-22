@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is the Adminer UI unable to connect to the database even though I have entered the correct database, username, and password?",
+    "course": "mlops-zoomcamp",
+    "document": "6a3a0cc252"
+  },
+  {
+    "question": "What steps should I take if the Adminer interface does not display any database information or respond after providing valid credentials?",
+    "course": "mlops-zoomcamp",
+    "document": "6a3a0cc252"
+  },
+  {
+    "question": "How can I verify that my PostgreSQL server is running and accepting connections using a command-line tool like `psql`?",
+    "course": "mlops-zoomcamp",
+    "document": "6a3a0cc252"
+  },
+  {
+    "question": "What command do I use to access the PostgreSQL console directly from the terminal, specifying host, port, and username?",
+    "course": "mlops-zoomcamp",
+    "document": "6a3a0cc252"
+  },
+  {
+    "question": "If Adminer fails to connect, what alternative method can I employ to ensure my database credentials are correct?",
+    "course": "mlops-zoomcamp",
+    "document": "6a3a0cc252"
+  }
+]

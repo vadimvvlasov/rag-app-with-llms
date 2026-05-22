@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the differences between the free hours limits offered by Google Colab, Kaggle, and Databricks for GPU access?",
+    "course": "llm-zoomcamp",
+    "document": "c6c2888275"
+  },
+  {
+    "question": "If I change the GPU configuration in a cloud service offering free hours, will the free hours quota be adjusted automatically or applied separately?",
+    "course": "llm-zoomcamp",
+    "document": "c6c2888275"
+  },
+  {
+    "question": "Are there any specific installations or software that might not be allowed under the free tier of these GPU-accessible platforms?",
+    "course": "llm-zoomcamp",
+    "document": "c6c2888275"
+  },
+  {
+    "question": "How frequently is the free hours quota reset—monthly or weekly—and what should I monitor to avoid unexpected billing?",
+    "course": "llm-zoomcamp",
+    "document": "c6c2888275"
+  },
+  {
+    "question": "Can using GPTs help in finding additional cloud alternatives with GPU support beyond Google Colab, Kaggle, and Databricks?",
+    "course": "llm-zoomcamp",
+    "document": "c6c2888275"
+  }
+]

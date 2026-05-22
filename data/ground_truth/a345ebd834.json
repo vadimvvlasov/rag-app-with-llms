@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a 'Permission denied' error when trying to run a script file in my GitHub Actions CI workflow?",
+    "course": "mlops-zoomcamp",
+    "document": "a345ebd834"
+  },
+  {
+    "question": "What specific YAML configuration causes the execution failure of `./tests/unit_tests/run.sh` within the GitHub Actions pipeline?",
+    "course": "mlops-zoomcamp",
+    "document": "a345ebd834"
+  },
+  {
+    "question": "How can I fix the permission issue that results in error code 126 during the execution of a shell script in a GitHub Actions job?",
+    "course": "mlops-zoomcamp",
+    "document": "a345ebd834"
+  },
+  {
+    "question": "What command should I use to grant execute permissions to a script file located at `sources/tests/unit_tests/run.sh` before committing changes?",
+    "course": "mlops-zoomcamp",
+    "document": "a345ebd834"
+  },
+  {
+    "question": "In the context of MLOps ZoomCamp's Module 6 on Best Practices, what is the recommended approach for resolving GitHub Actions permission errors related to script execution?",
+    "course": "mlops-zoomcamp",
+    "document": "a345ebd834"
+  }
+]

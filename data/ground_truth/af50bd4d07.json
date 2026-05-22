@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specifically is meant by using 'the training only' when computing the mean in Question 3 of HW02?",
+    "course": "machine-learning-zoomcamp",
+    "document": "af50bd4d07"
+  },
+  {
+    "question": "How can I calculate the mean of a specific column using only the training dataset in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "af50bd4d07"
+  },
+  {
+    "question": "Could you provide an example code snippet to compute the mean value for a column named 'column_name' from the training DataFrame `df_train`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "af50bd4d07"
+  },
+  {
+    "question": "What distinction is being made between using the training data set versus the validation or test data sets when calculating the mean?",
+    "course": "machine-learning-zoomcamp",
+    "document": "af50bd4d07"
+  },
+  {
+    "question": "Besides directly computing the mean, what alternative method can be used to obtain descriptive statistics including the mean for a column in the training data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "af50bd4d07"
+  }
+]

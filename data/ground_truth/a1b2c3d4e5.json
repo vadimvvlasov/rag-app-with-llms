@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is Anaconda recommended for this Data Engineering ZoomCamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1b2c3d4e5"
+  },
+  {
+    "question": "What tool is now the official recommendation for installing Python and managing project dependencies in this course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1b2c3d4e5"
+  },
+  {
+    "question": "How do I install a specific Python version using the recommended tool?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1b2c3d4e5"
+  },
+  {
+    "question": "Can you provide steps to create a virtual environment with the recommended tool?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1b2c3d4e5"
+  },
+  {
+    "question": "Which command should I use to add packages like pandas and sqlalchemy to my project after setting up the virtual environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1b2c3d4e5"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the two variants of XGBoost's Python package distributed starting from version 2.1.0?",
+    "course": "mlops-zoomcamp",
+    "document": "bfbe05dcd9"
+  },
+  {
+    "question": "Which glibc versions are supported by each variant of the XGBoost Python package?",
+    "course": "mlops-zoomcamp",
+    "document": "bfbe05dcd9"
+  },
+  {
+    "question": "Will systems with glibc older than 2.28 be able to install future versions of XGBoost via pip?",
+    "course": "mlops-zoomcamp",
+    "document": "bfbe05dcd9"
+  },
+  {
+    "question": "What is the deadline for the distribution of the manylinux2014 variant, and what will happen after that date?",
+    "course": "mlops-zoomcamp",
+    "document": "bfbe05dcd9"
+  },
+  {
+    "question": "How does conda handle the glibc version requirement for installing XGBoost?",
+    "course": "mlops-zoomcamp",
+    "document": "bfbe05dcd9"
+  }
+]

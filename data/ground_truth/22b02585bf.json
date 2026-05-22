@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is `max_depth` not being recognized despite using `mlflow.log_params` in the script?",
+    "course": "mlops-zoomcamp",
+    "document": "22b02585bf"
+  },
+  {
+    "question": "Where exactly should I place the `mlflow.log_params(params)` call to ensure parameters like `max_depth` are logged correctly during hyperparameter optimization?",
+    "course": "mlops-zoomcamp",
+    "document": "22b02585bf"
+  },
+  {
+    "question": "What happens if I log new parameters (`max_depth`) without removing the previous experiment runs when using `mlflow.log_params`?",
+    "course": "mlops-zoomcamp",
+    "document": "22b02585bf"
+  },
+  {
+    "question": "How can I avoid appending new models with additional parameters (e.g., `max_depth`) to existing runs that lack those parameters in the `hpo.py` script?",
+    "course": "mlops-zoomcamp",
+    "document": "22b02585bf"
+  },
+  {
+    "question": "Is there a recommended approach for managing parameter changes across multiple hyperparameter optimization experiments without causing conflicts?",
+    "course": "mlops-zoomcamp",
+    "document": "22b02585bf"
+  }
+]

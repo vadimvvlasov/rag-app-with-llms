@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I configure Git Bash on Windows to recognize the backslash as an escape character?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1ba19ed6a0"
+  },
+  {
+    "question": "What command should I enter in the Git Bash terminal to set the backslash as an escape character?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1ba19ed6a0"
+  },
+  {
+    "question": "Is it necessary to add a specific line to my `.bashrc` file for enabling the backslash escape feature in Git Bash?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1ba19ed6a0"
+  },
+  {
+    "question": "What is the exact syntax to define the backslash as an escape character within Git Bash environment variables?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1ba19ed6a0"
+  },
+  {
+    "question": "After executing the command, will the backslash function as an escape character throughout all subsequent Git Bash sessions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1ba19ed6a0"
+  }
+]

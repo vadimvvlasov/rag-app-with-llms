@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I compress a large machine learning model to make it suitable for uploading to GitHub?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3f5dbbd3b5"
+  },
+  {
+    "question": "What Python library and function should I use to compress a trained model before saving it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3f5dbbd3b5"
+  },
+  {
+    "question": "Can you provide an example of how to dump a model using joblib with compression settings?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3f5dbbd3b5"
+  },
+  {
+    "question": "What is the effect of the `compress` parameter in the `joblib.dump()` function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3f5dbbd3b5"
+  },
+  {
+    "question": "Are there any considerations or trade-offs when compressing a machine learning model for storage?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3f5dbbd3b5"
+  }
+]

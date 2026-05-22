@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What causes the `MlflowException` when attempting to set a deleted experiment with a Postgres backend?",
+    "course": "mlops-zoomcamp",
+    "document": "c34fc43e93"
+  },
+  {
+    "question": "How can I permanently delete a specific experiment without removing the entire PostgreSQL backend?",
+    "course": "mlops-zoomcamp",
+    "document": "c34fc43e93"
+  },
+  {
+    "question": "Where should I place my environment variables (DB_NAME, DB_PASSWORD, etc.) for the deletion script?",
+    "course": "mlops-zoomcamp",
+    "document": "c34fc43e93"
+  },
+  {
+    "question": "Which database tables are targeted by the provided Python script to clean up a deleted experiment?",
+    "course": "mlops-zoomcamp",
+    "document": "c34fc43e93"
+  },
+  {
+    "question": "Is there a step-by-step guide included for executing the deletion script in a local or remote Postgres setup?",
+    "course": "mlops-zoomcamp",
+    "document": "c34fc43e93"
+  }
+]

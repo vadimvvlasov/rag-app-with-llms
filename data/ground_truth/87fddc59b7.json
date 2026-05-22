@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving a 'Permission denied (publickey)' error when trying to clone the DataTalksClub/data-engineering-zoomcamp repository?",
+    "course": "data-engineering-zoomcamp",
+    "document": "87fddc59b7"
+  },
+  {
+    "question": "How can I successfully clone my forked version of the data-engineering-zoomcamp repository instead of the original one?",
+    "course": "data-engineering-zoomcamp",
+    "document": "87fddc59b7"
+  },
+  {
+    "question": "What steps should I follow to create a fresh GitHub repository specifically for dbt-lessons without interfering with existing repositories?",
+    "course": "data-engineering-zoomcamp",
+    "document": "87fddc59b7"
+  },
+  {
+    "question": "If SSH access is not set up, what alternative method can I use to clone the repository securely using HTTPS?",
+    "course": "data-engineering-zoomcamp",
+    "document": "87fddc59b7"
+  },
+  {
+    "question": "After cloning a forked repository, how do I ensure that subsequent git operations (like push and pull) correctly target my personal fork rather than the upstream original?",
+    "course": "data-engineering-zoomcamp",
+    "document": "87fddc59b7"
+  }
+]

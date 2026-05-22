@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the Jupyter kernel crash when embedding the ground-truth set in our evaluation process?",
+    "course": "llm-zoomcamp",
+    "document": "b8f2d6a30c"
+  },
+  {
+    "question": "What specific embedder model can I use as a replacement to prevent memory issues without significantly affecting hit-rate or MRR metrics?",
+    "course": "llm-zoomcamp",
+    "document": "b8f2d6a30c"
+  },
+  {
+    "question": "How can I separate the embedding step from the Jupyter notebook environment to avoid running out of RAM?",
+    "course": "llm-zoomcamp",
+    "document": "b8f2d6a30c"
+  },
+  {
+    "question": "If I choose to use a Codespaces machine with more RAM, what settings should I adjust in my project configuration?",
+    "course": "llm-zoomcamp",
+    "document": "b8f2d6a30c"
+  },
+  {
+    "question": "What coding techniques can be applied to process large ground-truth sets in batches and manually clear memory between iterations within the notebook?",
+    "course": "llm-zoomcamp",
+    "document": "b8f2d6a30c"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I fix the missing code for logging the `dict_vectorizer` in my notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "af3774c8e2"
+  },
+  {
+    "question": "What changes should I make to the `predict` function if I encounter an error while using pipelines after watching the video?",
+    "course": "mlops-zoomcamp",
+    "document": "af3774c8e2"
+  },
+  {
+    "question": "In which module of the 'mlops-zoomcamp' course do I need to address issues related to logging the vectorizer and updating the prediction function?",
+    "course": "mlops-zoomcamp",
+    "document": "af3774c8e2"
+  },
+  {
+    "question": "Can you provide a step-by-step guide on incorporating the missing code for `dict_vectorizer` logging in the provided repository notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "af3774c8e2"
+  },
+  {
+    "question": "What specific update to the `predict` function, as demonstrated in the video, resolves errors when deploying models using pipelines?",
+    "course": "mlops-zoomcamp",
+    "document": "af3774c8e2"
+  }
+]

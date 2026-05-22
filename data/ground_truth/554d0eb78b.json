@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the minimum amount I need to load onto my account to start using the OpenAI API?",
+    "course": "llm-zoomcamp",
+    "document": "554d0eb78b"
+  },
+  {
+    "question": "How much does a typical request to the OpenAI API cost in terms of monetary value?",
+    "course": "llm-zoomcamp",
+    "document": "554d0eb78b"
+  },
+  {
+    "question": "If I perform only one query with the OpenAI API, approximately how much will it cost me?",
+    "course": "llm-zoomcamp",
+    "document": "554d0eb78b"
+  },
+  {
+    "question": "What payment tier should I select if I want to keep my initial usage expenses minimal for testing purposes?",
+    "course": "llm-zoomcamp",
+    "document": "554d0eb78b"
+  },
+  {
+    "question": "Can you confirm that even a single use of the OpenAI API will not exceed a few cents in cost?",
+    "course": "llm-zoomcamp",
+    "document": "554d0eb78b"
+  }
+]

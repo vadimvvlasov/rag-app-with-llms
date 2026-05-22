@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What should I verify if the Global Data Products block in Video 3.2.1 hangs and eventually fails with an `AttributeError`?",
+    "course": "mlops-zoomcamp",
+    "document": "cc4481d2fa"
+  },
+  {
+    "question": "How can I restart the kernel to potentially resolve the hanging issue in the Global Data Product training set pipeline run?",
+    "course": "mlops-zoomcamp",
+    "document": "cc4481d2fa"
+  },
+  {
+    "question": "What steps are required to rebuild a problematic Global Data Product block after it fails with the error message?",
+    "course": "mlops-zoomcamp",
+    "document": "cc4481d2fa"
+  }
+]

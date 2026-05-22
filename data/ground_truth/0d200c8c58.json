@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How many points are awarded for each correctly answered question in a homework assignment?",
+    "course": "mlops-zoomcamp",
+    "document": "0d200c8c58"
+  },
+  {
+    "question": "What is the point allocation for adding public learning items to a homework submission?",
+    "course": "mlops-zoomcamp",
+    "document": "0d200c8c58"
+  },
+  {
+    "question": "If I contribute one valid question to the FAQ, how many points will I earn from that homework?",
+    "course": "mlops-zoomcamp",
+    "document": "0d200c8c58"
+  },
+  {
+    "question": "What is the maximum total score achievable for a single homework assignment?",
+    "course": "mlops-zoomcamp",
+    "document": "0d200c8c58"
+  },
+  {
+    "question": "How do the scores from homework assignments impact my ranking on the leaderboard?",
+    "course": "mlops-zoomcamp",
+    "document": "0d200c8c58"
+  }
+]

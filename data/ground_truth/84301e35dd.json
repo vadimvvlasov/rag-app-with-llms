@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the specific error message indicating a connection failure when trying to bind to `127.0.0.1:5000`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "84301e35dd"
+  },
+  {
+    "question": "Where does this error originate—is it from the client or the server side, and how can we differentiate between them during troubleshooting?",
+    "course": "machine-learning-zoomcamp",
+    "document": "84301e35dd"
+  },
+  {
+    "question": "Why does using the IP address `0.0.0.0:8000` resolve the connection issue while `127.0.0.1:5000` does not?",
+    "course": "machine-learning-zoomcamp",
+    "document": "84301e35dd"
+  },
+  {
+    "question": "What alternative binding addresses (`0.0.0.0:9696`) should be tried if `0.0.0.0:8000` is unavailable or ineffective?",
+    "course": "machine-learning-zoomcamp",
+    "document": "84301e35dd"
+  },
+  {
+    "question": "In what module of the 'machine-learning-zoomcamp' course is this deployment problem addressed?",
+    "course": "machine-learning-zoomcamp",
+    "document": "84301e35dd"
+  }
+]

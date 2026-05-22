@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the homework, what type of variable was `median_house_value` before converting it to binary format?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b8b91119fe"
+  },
+  {
+    "question": "Why is it necessary to convert a continuous target variable into discrete bins when calculating mutual information scores?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b8b91119fe"
+  },
+  {
+    "question": "What are the potential drawbacks of subjectively binning a continuous variable for mutual information calculation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b8b91119fe"
+  },
+  {
+    "question": "How does changing `median_house_value` to binary format affect the interpretation of the mutual information score in our classification model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b8b91119fe"
+  },
+  {
+    "question": "According to Module 3, what is the primary reason we opted to use binary targets instead of continuous ones when evaluating feature importance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b8b91119fe"
+  }
+]

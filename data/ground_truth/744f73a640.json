@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the Area Under the Curve (AUC) vary each time I re-run the decision tree classifier in Jupyter?",
+    "course": "machine-learning-zoomcamp",
+    "document": "744f73a640"
+  },
+  {
+    "question": "What specific segment of the course discusses the variability of AUC values when running a DecisionTreeClassifier?",
+    "course": "machine-learning-zoomcamp",
+    "document": "744f73a640"
+  },
+  {
+    "question": "How can I ensure that the AUC value remains consistent across multiple runs of the same decision tree model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "744f73a640"
+  },
+  {
+    "question": "During which part of section 6.3 is the issue of fluctuating AUC scores addressed, and what is the time range?",
+    "course": "machine-learning-zoomcamp",
+    "document": "744f73a640"
+  },
+  {
+    "question": "What parameter should be set in the DecisionTreeClassifier to achieve reproducible AUC results on a single laptop?",
+    "course": "machine-learning-zoomcamp",
+    "document": "744f73a640"
+  }
+]

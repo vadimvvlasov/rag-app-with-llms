@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I set up Docker to run on macOS without using Docker Desktop?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fa4068ee43"
+  },
+  {
+    "question": "What is the process for creating a Lima instance with the provided template for running Docker on M1 Macs?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fa4068ee43"
+  },
+  {
+    "question": "After setting up Lima, how do I switch my Docker context to the new image instance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fa4068ee43"
+  },
+  {
+    "question": "Which base image should I use to ensure compatibility with my built image on an M1 machine without Docker Desktop?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fa4068ee43"
+  },
+  {
+    "question": "What command is required to run a Docker container on an M1 Mac when specifying the platform explicitly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fa4068ee43"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What dependencies are required to run the Python avro example (producer.py) for streaming in Module 7 of the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2763850d3e"
+  },
+  {
+    "question": "How can I install the `confluent-kafka` and `fastavro` libraries for the avro_example/producer.py script?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2763850d3e"
+  },
+  {
+    "question": "Is there a specific command to execute the producer.py script after installing the necessary dependencies?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2763850d3e"
+  },
+  {
+    "question": "Which module of the data-engineering-zoomcamp course contains the streaming example using Python and Avro?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2763850d3e"
+  },
+  {
+    "question": "What is the recommended method to run the producer.py script within an activated virtual environment for the streaming exercise?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2763850d3e"
+  }
+]

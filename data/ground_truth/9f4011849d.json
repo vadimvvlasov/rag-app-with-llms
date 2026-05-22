@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which types of datasets are suitable for the midterm and capstone projects in the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9f4011849d"
+  },
+  {
+    "question": "What is the minimum number of rows required for a project dataset to be considered appropriate?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9f4011849d"
+  },
+  {
+    "question": "Can students create their own data for the project, or must they use existing datasets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9f4011849d"
+  },
+  {
+    "question": "What stages does the full ML pipeline encompass that should be demonstrated using the chosen dataset?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9f4011849d"
+  },
+  {
+    "question": "Are toy datasets (with fewer than 100 rows) allowed for the projects in this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9f4011849d"
+  }
+]

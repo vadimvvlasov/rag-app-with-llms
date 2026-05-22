@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why was the `squared` parameter removed from the `mean_squared_error` function in scikit-learn?",
+    "course": "mlops-zoomcamp",
+    "document": "b6197e7348"
+  },
+  {
+    "question": "How can I calculate the Root Mean Squared Error (RMSE) if the `squared` option is no longer available in `mean_squared_error`?",
+    "course": "mlops-zoomcamp",
+    "document": "b6197e7348"
+  },
+  {
+    "question": "What function should be used to compute RMSE instead of modifying the output of `mean_squared_error`?",
+    "course": "mlops-zoomcamp",
+    "document": "b6197e7348"
+  },
+  {
+    "question": "In which module of the 'mlops-zoomcamp' course is this change regarding `mean_squared_error` discussed?",
+    "course": "mlops-zoomcamp",
+    "document": "b6197e7348"
+  },
+  {
+    "question": "Where can I find the dedicated function for computing Root Mean Squared Error in scikit-learn?",
+    "course": "mlops-zoomcamp",
+    "document": "b6197e7348"
+  }
+]

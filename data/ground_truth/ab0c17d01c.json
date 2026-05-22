@@ -1,0 +1,27 @@
+[
+  {
+    "question": ".",
+    "course": "machine-learning-zoomcamp",
+    "document": "ab0c17d01c"
+  },
+  {
+    "question": "",
+    "course": "machine-learning-zoomcamp",
+    "document": "ab0c17d01c"
+  },
+  {
+    "question": ". How can we filter a DataFrame `df` to include only rows where the column 'ocean_proximity' has either '<1H OCEAN' or 'INLAND', using the logical OR operator in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ab0c17d01c"
+  },
+  {
+    "question": "Can you provide an example of filtering a dataset named `df` based on specific values in the 'ocean_proximity' column using the `isin()` method instead of logical operators?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ab0c17d01c"
+  },
+  {
+    "question": ". What are the symbolic representations for performing 'OR' and 'AND' conditions when filtering rows in a DataFrame with respect to column values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ab0c17d01c"
+  }
+]

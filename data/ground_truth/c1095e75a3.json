@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs when running `tensorflow/serving:2.7.0` on an Apple Silicon machine?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c1095e75a3"
+  },
+  {
+    "question": "How can I enable compatibility for the official `tensorflow/serving` image on arm64 architecture?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c1095e75a3"
+  },
+  {
+    "question": "Is there an alternative Docker image that supports TensorFlow Serving on Apple Silicon without emulation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c1095e75a3"
+  },
+  {
+    "question": "Where should model files be placed when using the `bitnami/tensorflow-serving:2` image?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c1095e75a3"
+  },
+  {
+    "question": "What environment variable must be set to specify the model name in the `bitnami/tensorflow-serving:2` image?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c1095e75a3"
+  }
+]

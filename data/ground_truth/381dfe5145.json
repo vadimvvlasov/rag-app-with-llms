@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message 'Error response from daemon: Conflict. The container name \"pg-database\" is already in use by container \"xxx\".' indicate?",
+    "course": "data-engineering-zoomcamp",
+    "document": "381dfe5145"
+  },
+  {
+    "question": "How can I resolve a conflict when trying to restart a Docker container with the name \"pg-database\" that is already in use?",
+    "course": "data-engineering-zoomcamp",
+    "document": "381dfe5145"
+  },
+  {
+    "question": "If a Docker container named \"pg-database\" is currently running, what command should I execute to stop it before renaming or removing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "381dfe5145"
+  },
+  {
+    "question": "What is the correct Docker command to remove a stopped container named \"pg-database\" to allow reuse of its name?",
+    "course": "data-engineering-zoomcamp",
+    "document": "381dfe5145"
+  },
+  {
+    "question": "Is there an alternative method to restart a Docker container without first stopping and removing it if it conflicts with an existing container name?",
+    "course": "data-engineering-zoomcamp",
+    "document": "381dfe5145"
+  }
+]

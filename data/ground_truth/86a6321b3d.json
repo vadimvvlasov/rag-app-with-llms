@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can multiple team members access the same MLflow tracking server?",
+    "course": "mlops-zoomcamp",
+    "document": "86a6321b3d"
+  },
+  {
+    "question": "What are the benefits of running an MLflow server locally compared to each user having their own instance?",
+    "course": "mlops-zoomcamp",
+    "document": "86a6321b3d"
+  },
+  {
+    "question": "In what scenarios is it necessary to launch an MLflow tracking server on a local machine?",
+    "course": "mlops-zoomcamp",
+    "document": "86a6321b3d"
+  },
+  {
+    "question": "Does launching the tracking server locally affect the ability to track experiments across different operating systems?",
+    "course": "mlops-zoomcamp",
+    "document": "86a6321b3d"
+  },
+  {
+    "question": "What steps are required to configure a local MLflow server for collaborative use among colleagues?",
+    "course": "mlops-zoomcamp",
+    "document": "86a6321b3d"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is my model producing an extremely low RMSE score of approximately 4.3451e-6?",
+    "course": "mlops-zoomcamp",
+    "document": "148d5d0ed7"
+  },
+  {
+    "question": "What steps should I take to diagnose a situation where the RMSE appears artificially low?",
+    "course": "mlops-zoomcamp",
+    "document": "148d5d0ed7"
+  },
+  {
+    "question": "How can including the target variable inadvertently in the model fitting process lead to misleadingly low RMSE values?",
+    "course": "mlops-zoomcamp",
+    "document": "148d5d0ed7"
+  },
+  {
+    "question": "What precautions should be taken during data preprocessing to prevent leakage from the target variable into the training features, especially `X_train` and `y_train`?",
+    "course": "mlops-zoomcamp",
+    "document": "148d5d0ed7"
+  },
+  {
+    "question": "After verifying that there is no inclusion of the target variable in the feature set, what other adjustments might still yield an unexpectedly low RMSE?",
+    "course": "mlops-zoomcamp",
+    "document": "148d5d0ed7"
+  }
+]

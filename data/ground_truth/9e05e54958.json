@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Module 1 of the data-engineering-zoomcamp course, what command is used to stop a running Docker container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9e05e54958"
+  },
+  {
+    "question": "How do I identify the container ID when stopping a Docker container in the data engineering ZoomCamp?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9e05e54958"
+  },
+  {
+    "question": "What is the precise syntax for halting a specific container using Docker within the context of the provided FAQ record?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9e05e54958"
+  },
+  {
+    "question": "According to the FAQ entry from data-engineering-zoomcamp, Module 1, what action stops a Docker container identified by its ID?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9e05e54958"
+  },
+  {
+    "question": "Which command should be executed to cease the operation of a Docker container as outlined in the FAQ for the data engineering ZoomCamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9e05e54958"
+  }
+]

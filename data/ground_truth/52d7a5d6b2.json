@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the required inputs when running `aws configure` after installing the AWS CLI?",
+    "course": "machine-learning-zoomcamp",
+    "document": "52d7a5d6b2"
+  },
+  {
+    "question": "Can I accept all default settings during the AWS CLI configuration process, or must I specify particular values for certain parameters like the Default Output Format?",
+    "course": "machine-learning-zoomcamp",
+    "document": "52d7a5d6b2"
+  },
+  {
+    "question": "If I leave the Default Output Format field blank during `aws configure`, will it impact the functionality of my AWS CLI commands?",
+    "course": "machine-learning-zoomcamp",
+    "document": "52d7a5d6b2"
+  },
+  {
+    "question": "What is the significance of providing an Access Key ID and Secret Access Key during the AWS CLI configuration, and where can I obtain these credentials?",
+    "course": "machine-learning-zoomcamp",
+    "document": "52d7a5d6b2"
+  },
+  {
+    "question": "Is there any downside to accepting the default region name suggested by the AWS CLI configuration wizard?",
+    "course": "machine-learning-zoomcamp",
+    "document": "52d7a5d6b2"
+  }
+]

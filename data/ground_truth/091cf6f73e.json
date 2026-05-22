@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a `TypeError` with xgb.DMatrix due to feature names being a NumPy array instead of strings?",
+    "course": "machine-learning-zoomcamp",
+    "document": "091cf6f73e"
+  },
+  {
+    "question": "How can I resolve the error where `xgb.DMatrix` expects feature names as a list of strings but receives a NumPy array from `dv.get_feature_names_out()`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "091cf6f73e"
+  },
+  {
+    "question": "What is the correct way to convert the output of `dv.get_feature_names_out()` to be compatible with `xgb.DMatrix`'s `feature_names` parameter in recent versions of XGBoost?",
+    "course": "machine-learning-zoomcamp",
+    "document": "091cf6f73e"
+  },
+  {
+    "question": "In the context of creating DMatrix objects for training and testing data, what modification should I apply to ensure the feature names are correctly formatted as required by the latest xgboost library?",
+    "course": "machine-learning-zoomcamp",
+    "document": "091cf6f73e"
+  },
+  {
+    "question": "When updating older code examples that use `dv.get_feature_names_out()` directly for feature names in an xgb.DMatrix, which method call should be used to avoid the TypeError related to sequence type expectations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "091cf6f73e"
+  }
+]

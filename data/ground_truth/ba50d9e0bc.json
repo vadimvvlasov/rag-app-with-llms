@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error messages might I encounter if I set up Mage as a subfolder under the mlops-zoomcamp repository?",
+    "course": "mlops-zoomcamp",
+    "document": "ba50d9e0bc"
+  },
+  {
+    "question": "Why do I see popups indicating that space is running low in single digits when using Mage in this configuration?",
+    "course": "mlops-zoomcamp",
+    "document": "ba50d9e0bc"
+  },
+  {
+    "question": "Is it recommended to configure Mage within a subdirectory of the mlops-zoomcamp repository?",
+    "course": "mlops-zoomcamp",
+    "document": "ba50d9e0bc"
+  },
+  {
+    "question": "What are the consequences of reaching the pull rate limit while trying to run Mage?",
+    "course": "mlops-zoomcamp",
+    "document": "ba50d9e0bc"
+  },
+  {
+    "question": "Where can I find additional information regarding the setup recommendations for Mage in relation to the mlops-zoomcamp repository?",
+    "course": "mlops-zoomcamp",
+    "document": "ba50d9e0bc"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the MlflowException stating 'Cannot set a deleted experiment 'random-forest-hyperopt' as the active experiment?'",
+    "course": "mlops-zoomcamp",
+    "document": "fb9f6e511b"
+  },
+  {
+    "question": "What are the steps to permanently delete an experiment in MLflow, as referenced in the Stack Overflow link?",
+    "course": "mlops-zoomcamp",
+    "document": "fb9f6e511b"
+  },
+  {
+    "question": "If I have already deleted an experiment via the MLflow UI, which command should I run in the CLI to resolve the issue with the backend store URI?",
+    "course": "mlops-zoomcamp",
+    "document": "fb9f6e511b"
+  },
+  {
+    "question": "What should I do if running `mlflow gc --backend-store-uri sqlite:///backend.db` does not work and my `.trash` folder is empty?",
+    "course": "mlops-zoomcamp",
+    "document": "fb9f6e511b"
+  },
+  {
+    "question": "Are there any precautions or checks I need to perform before permanently deleting an experiment to avoid data loss?",
+    "course": "mlops-zoomcamp",
+    "document": "fb9f6e511b"
+  }
+]

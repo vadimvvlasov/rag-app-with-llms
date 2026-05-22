@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What type of SQL does Apache Spark utilize, and how does it differ from other popular SQL systems like PostgreSQL, MySQL, or SQL Server?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b024daf322"
+  },
+  {
+    "question": "Can you explain the basic structure of a SELECT statement in Spark SQL and provide an example that includes JOIN operations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b024daf322"
+  },
+  {
+    "question": "Where can I find a comprehensive list of built-in functions available in Spark SQL for data manipulation and transformation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b024daf322"
+  },
+  {
+    "question": "What resources are recommended for understanding the fundamentals of Spark SQL, particularly its integration with existing data engineering workflows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b024daf322"
+  },
+  {
+    "question": "How does Spark SQL handle data types and schema inference compared to traditional relational database management systems?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b024daf322"
+  }
+]

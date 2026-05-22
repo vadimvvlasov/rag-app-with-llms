@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is the time series bar chart in Mage not displaying any data?",
+    "course": "mlops-zoomcamp",
+    "document": "078039f4e3"
+  },
+  {
+    "question": "What code modification is required to ensure timestamps are correctly formatted for a time series chart in Mage?",
+    "course": "mlops-zoomcamp",
+    "document": "078039f4e3"
+  },
+  {
+    "question": "How can I fetch and concatenate monthly taxi dataset files from GitHub using Python for Mage's time series visualization?",
+    "course": "mlops-zoomcamp",
+    "document": "078039f4e3"
+  },
+  {
+    "question": "What function decorator should be used to encapsulate the file ingestion logic for loading datasets into Mage?",
+    "course": "mlops-zoomcamp",
+    "document": "078039f4e3"
+  },
+  {
+    "question": "Which HTTP request method is appropriate for downloading Parquet files of taxi data from a specified GitHub repository URL in Mage?",
+    "course": "mlops-zoomcamp",
+    "document": "078039f4e3"
+  }
+]

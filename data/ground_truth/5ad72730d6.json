@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I configure Grafana to recognize the `dummy_metrics` table when creating a new dashboard in version 5.4?",
+    "course": "mlops-zoomcamp",
+    "document": "5ad72730d6"
+  },
+  {
+    "question": "What should I modify in the `config/grafana_datasources.yaml` file to ensure proper connection to PostgreSQL for monitoring metrics?",
+    "course": "mlops-zoomcamp",
+    "document": "5ad72730d6"
+  },
+  {
+    "question": "If Grafana's dashboard does not list my database tables, which datasource name should I change from the default setting?",
+    "course": "mlops-zoomcamp",
+    "document": "5ad72730d6"
+  },
+  {
+    "question": "What alternative method can I use in Grafana if the Builder option fails to display tables during dashboard creation?",
+    "course": "mlops-zoomcamp",
+    "document": "5ad72730d6"
+  },
+  {
+    "question": "How can I effectively use SQL queries within Grafana to load data when the table is not visible through the standard query tab?",
+    "course": "mlops-zoomcamp",
+    "document": "5ad72730d6"
+  }
+]

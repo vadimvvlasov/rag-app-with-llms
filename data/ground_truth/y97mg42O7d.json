@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the context of linear regression, what is the purpose of the weight vector `w` in relation to the input features `X` and the target variable `y`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "y97mg42O7d"
+  },
+  {
+    "question": "How is the estimated output `y_est` calculated using the weight vector `w` and the feature matrix `X`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "y97mg42O7d"
+  },
+  {
+    "question": "What does it mean for the weights `w` to provide a 'best' fit according to least squares, and how does this relate to minimizing the error between `y` and `y_est`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "y97mg42O7d"
+  },
+  {
+    "question": "If we multiply the feature matrix `X` by the weight vector `w`, what should be the expected outcome concerning the similarity between the resulting `y_est` and the original target variable `y`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "y97mg42O7d"
+  },
+  {
+    "question": "Can you explain how examining the values in the weight vector `w` helps us assess whether the fitted linear model is reasonable?",
+    "course": "machine-learning-zoomcamp",
+    "document": "y97mg42O7d"
+  }
+]

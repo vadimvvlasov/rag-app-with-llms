@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the reason behind some API response fields being absent from the destination table after executing a dlt pipeline?",
+    "course": "data-engineering-zoomcamp",
+    "document": "53f31cd33c"
+  },
+  {
+    "question": "How can I specify data types for specific columns when those columns might only contain NULL values during certain loads?",
+    "course": "data-engineering-zoomcamp",
+    "document": "53f31cd33c"
+  },
+  {
+    "question": "Could you demonstrate how to use the `columns` argument in the `@dlt.resource` decorator to ensure all expected columns are included?",
+    "course": "data-engineering-zoomcamp",
+    "document": "53f31cd33c"
+  },
+  {
+    "question": "What preprocessing steps should I implement if my API payload sometimes returns null values for critical fields like 'rate_code' or 'mta_tax'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "53f31cd33c"
+  },
+  {
+    "question": "After applying a fix, what is the recommended approach to verify that the missing columns have been successfully materialized in the destination table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "53f31cd33c"
+  }
+]

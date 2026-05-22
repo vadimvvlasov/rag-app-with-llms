@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I configure a development environment for this dbt project to resolve the 'No development environment' error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29469cf158"
+  },
+  {
+    "question": "What steps are required to setup my development credentials in order to use the dbt IDE as indicated by the error message?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29469cf158"
+  },
+  {
+    "question": "Where can I find detailed instructions for setting up a dbt cloud environment, specifically for troubleshooting the missing development configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29469cf158"
+  },
+  {
+    "question": "Is there a video tutorial that demonstrates how to configure the development environment at the point where it is mentioned at 1:42 in the provided video link?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29469cf158"
+  },
+  {
+    "question": "What is the exact URL of the dbt Cloud setup documentation referenced in the error message to guide me through creating a development environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29469cf158"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I not seeing any output from print statements when running a Jupyter notebook in an environment with `scikit-learn==1.2.2`, `python==3.10`, and `tornado==6.3.2`?",
+    "course": "mlops-zoomcamp",
+    "document": "afd037e097"
+  },
+  {
+    "question": "What version of Tornado resolved the issue of missing outputs in Jupyter notebooks for users working with `scikit-learn==1.2.2` and Python 3.10?",
+    "course": "mlops-zoomcamp",
+    "document": "afd037e097"
+  },
+  {
+    "question": "Is there a known bug involving Tornado that affects Jupyter notebook output, and if so, where can I find more details about it?",
+    "course": "mlops-zoomcamp",
+    "document": "afd037e097"
+  },
+  {
+    "question": "How does the networking library Tornado integrate with Jupyter, and what role might its version play in displaying notebook outputs correctly?",
+    "course": "mlops-zoomcamp",
+    "document": "afd037e097"
+  },
+  {
+    "question": "Where can I locate additional information or community discussions regarding a Jupyter notebook issue caused by a specific combination of `scikit-learn`, Python version, and Tornado?",
+    "course": "mlops-zoomcamp",
+    "document": "afd037e097"
+  }
+]

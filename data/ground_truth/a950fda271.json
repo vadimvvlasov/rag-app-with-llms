@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is my PgAdmin showing an empty database after running docker-compose up?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a950fda271"
+  },
+  {
+    "question": "What command should I use to build and run the taxi_ingest container with the correct networking setup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a950fda271"
+  },
+  {
+    "question": "How do I ensure that the `--network` flag in my Docker run command matches the network defined in the docker-compose.yaml file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a950fda271"
+  },
+  {
+    "question": "If the docker-compose.yaml file does not explicitly define a network, what is the automatically generated network name based on the directory containing the yaml file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a950fda271"
+  },
+  {
+    "question": "During the execution of `docker-compose up`, how can I verify that the correct default network (e.g., week_1_default) has been created?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a950fda271"
+  }
+]

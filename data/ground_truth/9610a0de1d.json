@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I use in a Jupyter Notebook to suppress all warning messages during machine learning tasks in Module 3 of the 'Machine Learning ZoomCamp' course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9610a0de1d"
+  },
+  {
+    "question": "How can I ignore warnings programmatically within a Python script running inside a Jupyter environment for classification models covered in the specified module?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9610a0de1d"
+  },
+  {
+    "question": "In the context of the Machine Learning ZoomCamp curriculum, which Python library and function combination is recommended to filter out warning outputs while executing code cells?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9610a0de1d"
+  },
+  {
+    "question": "What specific line of Python code must be inserted at the beginning of my notebook to prevent warnings from being displayed when working on classification algorithms in Module 3?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9610a0de1d"
+  },
+  {
+    "question": "During the execution of machine learning exercises in Jupyter Notebooks as part of Module 3 of the Machine Learning ZoomCamp, which import statement and subsequent call are necessary to disable warning messages effectively?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9610a0de1d"
+  }
+]

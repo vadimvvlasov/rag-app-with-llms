@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the default standard deviation calculation used by NumPy and Pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5020067c2b"
+  },
+  {
+    "question": "How does the computation of standard deviation differ between NumPy and Pandas in terms of degrees of freedom?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5020067c2b"
+  },
+  {
+    "question": "If I want to compute a sample standard deviation using NumPy, which parameter should I adjust?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5020067c2b"
+  },
+  {
+    "question": "Can you provide an example code snippet showing how to calculate the sample standard deviation with NumPy's `std` function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5020067c2b"
+  },
+  {
+    "question": "What visual representation shows the difference in standard deviation calculations between NumPy and Pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5020067c2b"
+  }
+]

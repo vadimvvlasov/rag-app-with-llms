@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does adding `--no-check-certificate` to the wget command not resolve the issue when downloading a parquet file from a CloudFront URL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c1135885e3"
+  },
+  {
+    "question": "What is the reason for network blocks causing redirection to a block page like https://blocked.sbmd.cicc.gov.ph/ when attempting to access the dataset URL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c1135885e3"
+  },
+  {
+    "question": "How can I disable SSL verification using wget to potentially bypass any certificate-related issues during the download of the CloudFront parquet file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c1135885e3"
+  },
+  {
+    "question": "If my network blocks requests to the CloudFront domain entirely, what alternative method can I use to successfully download the file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c1135885e3"
+  },
+  {
+    "question": "What steps should I follow to connect to a VPN and retry the original wget command to circumvent network restrictions when accessing the specified dataset URL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c1135885e3"
+  }
+]

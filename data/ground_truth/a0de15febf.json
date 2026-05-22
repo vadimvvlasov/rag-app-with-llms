@@ -1,0 +1,27 @@
+[
+  {
+    "question": "For the final project, can I select any topic that interests me, or are there specific themes we should focus on?",
+    "course": "mlops-zoomcamp",
+    "document": "a0de15febf"
+  },
+  {
+    "question": "Where can I find datasets suitable for my chosen project topic, such as Kaggle, Hugging Face, Google, AWS, or the UCI Repository?",
+    "course": "mlops-zoomcamp",
+    "document": "a0de15febf"
+  },
+  {
+    "question": "Is there a guide or document that outlines the expectations and requirements for completing the final project in this course?",
+    "course": "mlops-zoomcamp",
+    "document": "a0de15febf"
+  },
+  {
+    "question": "Are there additional resources or links provided beyond those mentioned in datasets.md for locating appropriate datasets?",
+    "course": "mlops-zoomcamp",
+    "document": "a0de15febf"
+  },
+  {
+    "question": "What are the key considerations I should keep in mind while selecting a dataset and topic for my final project, as detailed in the README.md of the 07-project folder?",
+    "course": "mlops-zoomcamp",
+    "document": "a0de15febf"
+  }
+]

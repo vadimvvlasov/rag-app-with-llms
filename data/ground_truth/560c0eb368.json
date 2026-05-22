@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I specify which subset of containers to run from a Docker Compose file that contains multiple services?",
+    "course": "mlops-zoomcamp",
+    "document": "560c0eb368"
+  },
+  {
+    "question": "What command do I use to activate a particular profile named 'profile_name' when executing my Docker Compose setup?",
+    "course": "mlops-zoomcamp",
+    "document": "560c0eb368"
+  },
+  {
+    "question": "In the `docker-compose.yml` configuration, where exactly should I place the line `profiles: [\"profile_name\"]` to associate it with a specific service?",
+    "course": "mlops-zoomcamp",
+    "document": "560c0eb368"
+  },
+  {
+    "question": "If my Docker Compose file includes several profiles, how do I ensure that only the containers listed under 'profile_name' are started?",
+    "course": "mlops-zoomcamp",
+    "document": "560c0eb368"
+  },
+  {
+    "question": "What is the purpose of using docker-compose profiles when managing a large number of interconnected container services?",
+    "course": "mlops-zoomcamp",
+    "document": "560c0eb368"
+  }
+]

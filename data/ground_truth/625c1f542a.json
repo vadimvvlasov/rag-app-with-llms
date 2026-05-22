@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my BigQuery query return an 'Invalid project ID' error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "625c1f542a"
+  },
+  {
+    "question": "What are the valid characters allowed in a GCP project ID for BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "625c1f542a"
+  },
+  {
+    "question": "How can I correct a misplacement of content after the `FROM` clause in a BigQuery SQL statement?",
+    "course": "data-engineering-zoomcamp",
+    "document": "625c1f542a"
+  },
+  {
+    "question": "If my project ID contains uppercase letters, what should I do to resolve the 'Invalid project ID' error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "625c1f542a"
+  },
+  {
+    "question": "What specific formatting rules must be followed to ensure a valid GCP project ID for BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "625c1f542a"
+  }
+]

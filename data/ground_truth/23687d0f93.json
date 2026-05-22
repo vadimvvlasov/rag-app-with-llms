@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I verify that my `profiles.yml` file is correctly configured for a dbt model?",
+    "course": "data-engineering-zoomcamp",
+    "document": "23687d0f93"
+  },
+  {
+    "question": "What steps should I follow in the dbt Cloud UI to ensure the correct database and schema are set for my project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "23687d0f93"
+  },
+  {
+    "question": "If I encounter an error indicating an incorrect schema in models, what environment settings should I double-check?",
+    "course": "data-engineering-zoomcamp",
+    "document": "23687d0f93"
+  },
+  {
+    "question": "Is it necessary to manually configure the `profiles.yml` file when using dbt Cloud, or are connection settings managed differently?",
+    "course": "data-engineering-zoomcamp",
+    "document": "23687d0f93"
+  },
+  {
+    "question": "What is the typical location of the `profiles.yml` file on a system, and how does this relate to dbt configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "23687d0f93"
+  }
+]

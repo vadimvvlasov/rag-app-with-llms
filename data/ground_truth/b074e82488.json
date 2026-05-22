@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the evidently service exit with code 2 when I run `docker-compose up --build` and send data to the real-time prediction service?",
+    "course": "mlops-zoomcamp",
+    "document": "b074e82488"
+  },
+  {
+    "question": "What error message is returned when the evidently service fails due to an import issue in `app.py`?",
+    "course": "mlops-zoomcamp",
+    "document": "b074e82488"
+  },
+  {
+    "question": "How can I resolve the ImportError caused by `from pyarrow import parquet as pq` in the evidently service?",
+    "course": "mlops-zoomcamp",
+    "document": "b074e82488"
+  },
+  {
+    "question": "After installing the `pyarrow` module, should I restart my machine before testing the real-time prediction service again?",
+    "course": "mlops-zoomcamp",
+    "document": "b074e82488"
+  },
+  {
+    "question": "If installing `pyarrow` and restarting the machine do not fix the issue, what alternative step can be taken in `app.py` of the evidently service?",
+    "course": "mlops-zoomcamp",
+    "document": "b074e82488"
+  }
+]

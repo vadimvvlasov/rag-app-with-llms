@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does calling `asyncio.run()` in a Jupyter notebook result in a `RuntimeError`?",
+    "course": "llm-zoomcamp",
+    "document": "7c4e1a3b58"
+  },
+  {
+    "question": "How can I correctly execute an asynchronous coroutine within a Jupyter notebook cell without encountering the `RuntimeError`?",
+    "course": "llm-zoomcamp",
+    "document": "7c4e1a3b58"
+  },
+  {
+    "question": "What is the appropriate way to await a coroutine directly inside a notebook cell?",
+    "course": "llm-zoomcamp",
+    "document": "7c4e1a3b58"
+  },
+  {
+    "question": "How should I run the FastMCP server associated with the agents homework, and why can't it be started from inside the notebook?",
+    "course": "llm-zoomcamp",
+    "document": "7c4e1a3b58"
+  },
+  {
+    "question": "Are there any specific instructions for executing the 'run the server' question in the agents homework regarding the use of asyncio?",
+    "course": "llm-zoomcamp",
+    "document": "7c4e1a3b58"
+  }
+]

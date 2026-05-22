@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message 'driver failed programming external connectivity on endpoint ... Bind for 0.0.0.0:9696 failed: port is already allocated' indicate?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed90e0f589"
+  },
+  {
+    "question": "How can I resolve the Docker port allocation conflict mentioned in the error response from the daemon?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed90e0f589"
+  },
+  {
+    "question": "Why might I encounter this specific port allocation error even though the port appears to be free and my application is functioning correctly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed90e0f589"
+  },
+  {
+    "question": "What command should I execute to clear any lingering port allocations that cause the 'port is already allocated' issue during a Docker rebuild?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed90e0f589"
+  },
+  {
+    "question": "Where can I find additional context or discussion regarding similar Docker for Windows issues, particularly those related to port conflicts?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed90e0f589"
+  }
+]

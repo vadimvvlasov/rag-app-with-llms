@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I am encountering an OperationalError while executing `python prep.py`, specifically `psycopg2.OperationalError: could not translate host name \"postgres\" to address: No such host is known`. What steps should I take to fix this problem?",
+    "course": "llm-zoomcamp",
+    "document": "4b65d5542d"
+  },
+  {
+    "question": "In the context of Module 5 on Monitoring within the llm-zoomcamp course, how do I modify the `.env` file to correctly configure the PostgreSQL host when I receive a 'could not translate host name \"postgres\"' error?",
+    "course": "llm-zoomcamp",
+    "document": "4b65d5542d"
+  },
+  {
+    "question": "What is the correct value for the `POSTGRES_HOST` variable in the `.env` configuration file to resolve the 'No such host is known' error during the execution of `prep.py`?",
+    "course": "llm-zoomcamp",
+    "document": "4b65d5542d"
+  },
+  {
+    "question": "When running into an OperationalError related to PostgreSQL host translation ('could not translate host name \"postgres\"'), which specific line in the `.env` file should be updated, and what should it be set to according to the llm-zoomcamp course instructions?",
+    "course": "llm-zoomcamp",
+    "document": "4b65d5542d"
+  },
+  {
+    "question": "How can I prevent the error 'could not translate host name \"postgres\" to address: No such host is known' when executing `python prep.py`, by adjusting settings within the `.env` file as described in Module 5 of the llm-zoomcamp curriculum?",
+    "course": "llm-zoomcamp",
+    "document": "4b65d5542d"
+  }
+]

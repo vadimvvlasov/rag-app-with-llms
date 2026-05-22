@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What view should I use to estimate BigQuery query costs over a specific time window?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5905a92e2"
+  },
+  {
+    "question": "How can I determine which users executed queries during the chosen period?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5905a92e2"
+  },
+  {
+    "question": "When aggregating query data, what fields are necessary to identify cost patterns by user and job type?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5905a92e2"
+  },
+  {
+    "question": "What is the formula to convert total_bytes_billed into estimated USD cost for on-demand pricing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5905a92e2"
+  },
+  {
+    "question": "Which SQL clause should be adjusted to modify the time window for the query cost estimation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5905a92e2"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What size of virtual machine is recommended for initial project setup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "513410225e"
+  },
+  {
+    "question": "How can I monitor real-time system resource usage on my VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "513410225e"
+  },
+  {
+    "question": "Which command displays detailed information about CPU and memory utilization?",
+    "course": "data-engineering-zoomcamp",
+    "document": "513410225e"
+  },
+  {
+    "question": "What utility lists all currently running processes along with their details?",
+    "course": "data-engineering-zoomcamp",
+    "document": "513410225e"
+  },
+  {
+    "question": "How do I check the installed packages on an Ubuntu-based VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "513410225e"
+  }
+]

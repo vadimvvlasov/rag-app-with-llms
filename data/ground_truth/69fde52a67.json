@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the first step to set up the AWS SAM CLI for creating a Lambda function as a container image?",
+    "course": "machine-learning-zoomcamp",
+    "document": "69fde52a67"
+  },
+  {
+    "question": "After running `sam init`, what specific application type should be selected to align with TensorFlow Machine Learning Inference API?",
+    "course": "machine-learning-zoomcamp",
+    "document": "69fde52a67"
+  },
+  {
+    "question": "Which file inside the generated 'app' folder must be edited to include tflite-runtime and other dependencies necessary for deploying a TensorFlow Lite model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "69fde52a67"
+  },
+  {
+    "question": "What command is used to build the Lambda function into a container image, and where will the built image be stored?",
+    "course": "machine-learning-zoomcamp",
+    "document": "69fde52a67"
+  },
+  {
+    "question": "How can I test the Lambda function locally before deploying it using the AWS SAM CLI?",
+    "course": "machine-learning-zoomcamp",
+    "document": "69fde52a67"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message 'Terraform initialized in an empty directory! The directory has no Terraform configuration files.' indicate?",
+    "course": "data-engineering-zoomcamp",
+    "document": "76f95c1d28"
+  },
+  {
+    "question": "How can I resolve the issue when running `terraform init` outside the correct working directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "76f95c1d28"
+  },
+  {
+    "question": "Where should my Terraform configuration files (.tf files) be located to avoid this error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "76f95c1d28"
+  },
+  {
+    "question": "What steps must I follow to ensure `terraform init` executes successfully in a new environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "76f95c1d28"
+  },
+  {
+    "question": "Which command do I need to execute after navigating to the proper directory containing my Terraform configurations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "76f95c1d28"
+  }
+]

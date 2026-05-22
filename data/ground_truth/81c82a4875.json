@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command is used to build a Docker container with a specified tag?",
+    "course": "mlops-zoomcamp",
+    "document": "81c82a4875"
+  },
+  {
+    "question": "How can I ensure that data from my local machine is correctly copied into the Docker image during the build process?",
+    "course": "mlops-zoomcamp",
+    "document": "81c82a4875"
+  },
+  {
+    "question": "What directory should I set as the working directory in a Dockerfile before executing application code?",
+    "course": "mlops-zoomcamp",
+    "document": "81c82a4875"
+  },
+  {
+    "question": "Which step must be included in a Dockerfile to change the current working directory to `/app`?",
+    "course": "mlops-zoomcamp",
+    "document": "81c82a4875"
+  },
+  {
+    "question": "How do you run a Docker container named `mlops-learn` and automatically remove it after execution?",
+    "course": "mlops-zoomcamp",
+    "document": "81c82a4875"
+  }
+]

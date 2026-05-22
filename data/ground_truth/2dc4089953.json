@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of using the `--rm` flag when running Docker containers?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2dc4089953"
+  },
+  {
+    "question": "How does the `--rm` flag help in managing disk space during development and testing phases?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2dc4089953"
+  },
+  {
+    "question": "Can you explain the difference between images and containers in Docker, and how the `--rm` flag specifically affects containers?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2dc4089953"
+  },
+  {
+    "question": "What commands should be used to list existing Docker images and all running containers, including stopped ones?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2dc4089953"
+  },
+  {
+    "question": "If a Pipfile changes, how does rebuilding an image relate to using the `--rm` flag for maintaining a clean environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2dc4089953"
+  }
+]

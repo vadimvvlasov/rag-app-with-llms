@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'project' property error when submitting a PySpark job with gcloud dataproc jobs submit pyspark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d01f2fb06b"
+  },
+  {
+    "question": "What command should I use to specify the project ID while running a Dataproc PySpark job submission?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d01f2fb06b"
+  },
+  {
+    "question": "Where can I find my GCP project ID to include in the gcloud dataproc jobs submit pyspark command?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d01f2fb06b"
+  },
+  {
+    "question": "After setting the --project flag, what additional parameters are required for successfully submitting a PySpark job on Dataproc?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d01f2fb06b"
+  },
+  {
+    "question": "Could you provide an example of a complete gcloud dataproc jobs submit pyspark command including the --project flag and other necessary arguments?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d01f2fb06b"
+  }
+]

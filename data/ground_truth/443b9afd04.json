@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Kafka homework Q3, which scaling option is emphasized as more effective?",
+    "course": "data-engineering-zoomcamp",
+    "document": "443b9afd04"
+  },
+  {
+    "question": "How should I conceptualize scaling in the context of consuming messages within Kafka?",
+    "course": "data-engineering-zoomcamp",
+    "document": "443b9afd04"
+  },
+  {
+    "question": "What type of scaling approach is recommended for handling increased message loads in a streaming environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "443b9afd04"
+  },
+  {
+    "question": "According to Module 7 on Streaming in the data-engineering-zoomcamp course, which scaling strategy is prioritized for supporting horizontal growth?",
+    "course": "data-engineering-zoomcamp",
+    "document": "443b9afd04"
+  },
+  {
+    "question": "When addressing Kafka homework Q3, why is horizontal scaling considered superior for managing consumer workloads?",
+    "course": "data-engineering-zoomcamp",
+    "document": "443b9afd04"
+  }
+]

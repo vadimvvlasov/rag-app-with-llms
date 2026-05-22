@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my BigQuery table still have only 100 rows even after specifying a variable in the `dbt run` command?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3cc457b0de"
+  },
+  {
+    "question": "What should I do to ensure that the dataset created by dbt contains all expected rows when running without variables?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3cc457b0de"
+  },
+  {
+    "question": "How can I prevent dbt from creating a new dataset during a CI/CD job execution, and instead merge changes into an existing production environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3cc457b0de"
+  },
+  {
+    "question": "When configuring a CI/CD job in dbt Cloud, what setting should be selected under 'Compare Changes against an environment (Deferral)' to avoid generating a separate environment for pull requests?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3cc457b0de"
+  },
+  {
+    "question": "What is the purpose of selecting 'No; do not defer to another environment' when setting up a CI/CD job in dbt, and how does it affect dataset creation in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3cc457b0de"
+  }
+]

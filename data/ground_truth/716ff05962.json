@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why might pytest fail to recognize libraries that are successfully imported when running scripts directly in the terminal?",
+    "course": "mlops-zoomcamp",
+    "document": "716ff05962"
+  },
+  {
+    "question": "What is the underlying reason for a discrepancy between Python environments used by VS Code and the terminal, leading to pytest's inability to locate installed packages?",
+    "course": "mlops-zoomcamp",
+    "document": "716ff05962"
+  },
+  {
+    "question": "Could you outline the steps necessary to ensure that VS Code utilizes the identical Python interpreter as the one active in my command line interface?",
+    "course": "mlops-zoomcamp",
+    "document": "716ff05962"
+  },
+  {
+    "question": "How can I verify which Python interpreter is currently selected within VS Code compared to the one accessed via the terminal?",
+    "course": "mlops-zoomcamp",
+    "document": "716ff05962"
+  },
+  {
+    "question": "What specific command should I execute in the terminal to identify the path of the actively used Python executable, and how does this information assist in synchronizing VS Code's interpreter settings?",
+    "course": "mlops-zoomcamp",
+    "document": "716ff05962"
+  }
+]

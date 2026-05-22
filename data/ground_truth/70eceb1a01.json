@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I compute Precision, Recall, and F1 score using scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "70eceb1a01"
+  },
+  {
+    "question": "What function in scikit-learn provides a combined calculation of Precision, Recall, and F1 score?",
+    "course": "machine-learning-zoomcamp",
+    "document": "70eceb1a01"
+  },
+  {
+    "question": "Can you demonstrate an example of using `precision_recall_fscore_support` from scikit-learn to evaluate classification metrics?",
+    "course": "machine-learning-zoomcamp",
+    "document": "70eceb1a01"
+  },
+  {
+    "question": "What does the `zero_division` parameter do in `precision_recall_fscore_support`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "70eceb1a01"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course is the explanation of alternative methods for computing evaluation metrics located?",
+    "course": "machine-learning-zoomcamp",
+    "document": "70eceb1a01"
+  }
+]

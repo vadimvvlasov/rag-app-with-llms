@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an 'Insufficient SSD_TOTAL_GB quota' error when trying to create a Dataproc cluster?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0c9fc7e7d3"
+  },
+  {
+    "question": "What is the default per-region quota for SSD persistent disk in Google Cloud Platform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0c9fc7e7d3"
+  },
+  {
+    "question": "How can I verify if my request for SSD storage exceeds the available quota in a specific region?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0c9fc7e7d3"
+  },
+  {
+    "question": "If my cluster's boot disk sizes total 500 GB but the regional quota is only 250 GB, what are the alternative strategies to resolve this issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0c9fc7e7d3"
+  },
+  {
+    "question": "What steps should I follow to increase the SSD_TOTAL_GB quota for my Google Cloud project if it remains insufficient for my Dataproc clusters?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0c9fc7e7d3"
+  }
+]

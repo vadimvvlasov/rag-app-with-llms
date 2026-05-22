@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Is it possible to integrate real-time data streaming into our current BigQuery setup for live analytics?",
+    "course": "data-engineering-zoomcamp",
+    "document": "57303f9d80"
+  },
+  {
+    "question": "What are the capabilities of BigQuery that would support real-time analytics in a project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "57303f9d80"
+  },
+  {
+    "question": "Can we incorporate future iterations of the project to enable real-time data processing using BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "57303f9d80"
+  }
+]

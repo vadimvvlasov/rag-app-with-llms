@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific advantages does dbt offer over using Python for SQL transformations in a data warehouse?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8815e0f1fd"
+  },
+  {
+    "question": "How does dbt handle model dependencies, and what built-in features does it provide to manage run order automatically?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8815e0f1fd"
+  },
+  {
+    "question": "Can you explain the types of tests that dbt supports (e.g., not null, unique, accepted values) and how they enhance data quality assurance?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8815e0f1fd"
+  },
+  {
+    "question": "In what ways does environment separation through profiles in dbt contribute to a more robust development and production workflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8815e0f1fd"
+  },
+  {
+    "question": "What are incremental models in dbt, and why is it beneficial that dbt abstracts the merge logic for these models?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8815e0f1fd"
+  }
+]

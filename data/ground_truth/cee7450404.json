@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving identical outcomes after executing the Docker image?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cee7450404"
+  },
+  {
+    "question": "What specific model am I currently employing in my Docker environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cee7450404"
+  },
+  {
+    "question": "How can I verify that the correct model and Python version are set for prediction testing?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cee7450404"
+  },
+  {
+    "question": "Where should I locate the downloaded model file to ensure it matches my intended model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cee7450404"
+  },
+  {
+    "question": "What steps are necessary to update the model reference within my script before initiating a new prediction?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cee7450404"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'Permissions too open' error when attempting to connect to a GPC VM via SSH using WSL2?",
+    "course": "data-engineering-zoomcamp",
+    "document": "73c8de600c"
+  },
+  {
+    "question": "What command should I use to ensure that my SSH key is correctly recognized by WSL2 during an SSH connection attempt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "73c8de600c"
+  },
+  {
+    "question": "What steps are required to adjust file permissions for an SSH private key (e.g., `gpc`) so it can be used without errors in WSL2?",
+    "course": "data-engineering-zoomcamp",
+    "document": "73c8de600c"
+  },
+  {
+    "question": "If WSL2 does not automatically locate the `.ssh` directory, what procedure should I follow to manually create and populate a matching `.ssh` folder within my WSL2 home directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "73c8de600c"
+  },
+  {
+    "question": "After transferring SSH configuration files from a Windows location (`/mnt/c/Users/YourUsername/.ssh/*`) to a newly created `.ssh` folder in WSL2, what additional permission adjustments might be necessary?",
+    "course": "data-engineering-zoomcamp",
+    "document": "73c8de600c"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I quickly plot a Precision-Recall curve using scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ce5f41e600"
+  },
+  {
+    "question": "What function from scikit-learn is used to compute the precision and recall values for plotting a Precision-Recall curve?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ce5f41e600"
+  },
+  {
+    "question": "What are the arguments required by the `precision_recall_curve` function from scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ce5f41e600"
+  },
+  {
+    "question": "After obtaining precision, recall, and thresholds from `precision_recall_curve`, how should I plot them on a graph?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ce5f41e600"
+  },
+  {
+    "question": "In the provided code snippet for plotting a Precision-Recall curve, what does the line `plt.plot(thresholds, precision[:-1], label='Precision')` do?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ce5f41e600"
+  }
+]

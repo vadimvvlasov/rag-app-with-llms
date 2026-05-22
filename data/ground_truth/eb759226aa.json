@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I ensure the username in my SSH key matches the one configured on my Google Cloud VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eb759226aa"
+  },
+  {
+    "question": "What steps should I take if I generate an SSH key using Windows Command Prompt instead of MINGW/git Bash?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eb759226aa"
+  },
+  {
+    "question": "Why did changing the username in my SSH configuration file resolve the public key error when accessing my GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eb759226aa"
+  },
+  {
+    "question": "Is it possible to delete a secondary user account (`mySSHuser`) created during the SSH key setup without affecting my primary `googleacctuser` access?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eb759226aa"
+  },
+  {
+    "question": "What temporary workaround can I use if I encounter an SSH public key error while trying to connect from Windows, especially before identifying the username discrepancy?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eb759226aa"
+  }
+]

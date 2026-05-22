@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I import at the beginning of my Google Collab Notebook to capture output correctly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c6f2a2afe5"
+  },
+  {
+    "question": "How can I redirect standard output (stdout) to a buffer for capturing model training results in XGBoost?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c6f2a2afe5"
+  },
+  {
+    "question": "After capturing the output using `io.StringIO`, how do I reset stdout back to its original state?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c6f2a2afe5"
+  },
+  {
+    "question": "What modification is required in Alexey's parser function to handle the captured output string correctly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c6f2a2afe5"
+  },
+  {
+    "question": "Once the output is captured, what function call should be used to parse the output and obtain a DataFrame with model scores?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c6f2a2afe5"
+  }
+]

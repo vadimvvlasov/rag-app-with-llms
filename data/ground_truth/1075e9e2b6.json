@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I configure DLT to adhere to the XDG Base Directory Specification for data storage?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1075e9e2b6"
+  },
+  {
+    "question": "What specific environment variable must be set to direct DLT's data directory according to the XDG standards?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1075e9e2b6"
+  },
+  {
+    "question": "In which shell initialization file should I add the configuration line to ensure DLT uses the specified XDG-compliant path for its data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1075e9e2b6"
+  },
+  {
+    "question": "Could you provide the exact command syntax for Bash or ZSH users to export the required DLT_DATA_DIR environment variable under the XDG Base Directory Specification?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1075e9e2b6"
+  },
+  {
+    "question": "What is the corresponding Fish shell command to set the DLT_DATA_DIR environment variable within the XDG_DATA_HOME directory as specified in the FAQ?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1075e9e2b6"
+  }
+]

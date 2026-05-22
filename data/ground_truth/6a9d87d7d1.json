@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my final multiplication result lack a fifth column?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6a9d87d7d1"
+  },
+  {
+    "question": "In which order should I correctly perform the matrix multiplication to ensure all columns appear in the output?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6a9d87d7d1"
+  },
+  {
+    "question": "What mistake might cause the omission of one column in the product of two matrices during Homework Q7?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6a9d87d7d1"
+  },
+  {
+    "question": "Could interchanging the operands in matrix multiplication lead to an unexpected number of columns in the resulting matrix?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6a9d87d7d1"
+  },
+  {
+    "question": "How does the sequence of matrices affect the outcome of the XT X operation in Module 1 Homework?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6a9d87d7d1"
+  }
+]

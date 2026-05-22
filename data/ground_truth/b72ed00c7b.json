@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is causing the warning about google-crc32c using a pure Python implementation instead of an optimized C version?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b72ed00c7b"
+  },
+  {
+    "question": "Why are the file uploads to Google Cloud Storage timing out after 120 seconds?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b72ed00c7b"
+  },
+  {
+    "question": "How can I install the C-optimized version of google-crc32c to resolve the warning?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b72ed00c7b"
+  },
+  {
+    "question": "Is there a way to increase the timeout for uploading files to GCS to avoid the timeout error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b72ed00c7b"
+  },
+  {
+    "question": "What specific code change should I apply to extend the upload timeout from 120 seconds to 5 minutes?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b72ed00c7b"
+  }
+]

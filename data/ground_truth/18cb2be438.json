@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What parameters are mandatory in the Authorization header when using AWS Lambda API Gateway?",
+    "course": "machine-learning-zoomcamp",
+    "document": "18cb2be438"
+  },
+  {
+    "question": "How can I test a Lambda function through API Gateway using Boto3 in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "18cb2be438"
+  },
+  {
+    "question": "Which headers must coexist with the Authorization header for a successful request to an API Gateway?",
+    "course": "machine-learning-zoomcamp",
+    "document": "18cb2be438"
+  },
+  {
+    "question": "What is the error message displayed when the authentication token is missing?",
+    "course": "machine-learning-zoomcamp",
+    "document": "18cb2be438"
+  },
+  {
+    "question": "Can you provide a sample Boto3 script to invoke a method on an AWS API Gateway REST API?",
+    "course": "machine-learning-zoomcamp",
+    "document": "18cb2be438"
+  }
+]

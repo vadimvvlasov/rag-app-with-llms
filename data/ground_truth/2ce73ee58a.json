@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do I receive the error `{'errorMessage': 'Unable to locate credentials', …}` when running LocalStack with Kinesis?",
+    "course": "mlops-zoomcamp",
+    "document": "2ce73ee58a"
+  },
+  {
+    "question": "What steps should I take in the `docker-compose.yaml` file to fix the credential location issue for LocalStack's Kinesis service?",
+    "course": "mlops-zoomcamp",
+    "document": "2ce73ee58a"
+  },
+  {
+    "question": "Can you provide a random example of values to assign to `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` environment variables in `docker-compose.yaml`?",
+    "course": "mlops-zoomcamp",
+    "document": "2ce73ee58a"
+  },
+  {
+    "question": "How do I configure AWS credentials locally when running LocalStack with Kinesis using the `aws --endpoint-url` command?",
+    "course": "mlops-zoomcamp",
+    "document": "2ce73ee58a"
+  },
+  {
+    "question": "What are the prompts I need to respond to when executing `aws --endpoint-url http://localhost:4566 configure`, and what values should I input?",
+    "course": "mlops-zoomcamp",
+    "document": "2ce73ee58a"
+  }
+]

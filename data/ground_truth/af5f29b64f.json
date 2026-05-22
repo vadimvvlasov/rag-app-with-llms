@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my SSH connection to the AWS EC2 instance drop after a few minutes, and is it related to memory limitations?",
+    "course": "mlops-zoomcamp",
+    "document": "af5f29b64f"
+  },
+  {
+    "question": "How can I prevent SSH disconnections if they occur due to the instance running out of memory?",
+    "course": "mlops-zoomcamp",
+    "document": "af5f29b64f"
+  },
+  {
+    "question": "What steps should I follow to add a swap file on an Ubuntu-based EC2 instance to mitigate out-of-memory issues?",
+    "course": "mlops-zoomcamp",
+    "document": "af5f29b64f"
+  },
+  {
+    "question": "Where can I find detailed instructions for configuring `ServerAliveInterval` in my `.ssh/config` file to maintain SSH connections via ping intervals?",
+    "course": "mlops-zoomcamp",
+    "document": "af5f29b64f"
+  },
+  {
+    "question": "If the disconnection is due to timeouts, what modifications are necessary in the SSH configuration to ensure persistent connectivity?",
+    "course": "mlops-zoomcamp",
+    "document": "af5f29b64f"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it necessary to manually specify training parameters when using Autologging for tracking on the Mlflow UI?",
+    "course": "mlops-zoomcamp",
+    "document": "460343cb44"
+  },
+  {
+    "question": "Does Autologging automatically capture and display all training parameters in the Mlflow UI without explicit configuration?",
+    "course": "mlops-zoomcamp",
+    "document": "460343cb44"
+  },
+  {
+    "question": "Can I selectively set only certain parameters while still having Autologging track everything else in the MLflow UI?",
+    "course": "mlops-zoomcamp",
+    "document": "460343cb44"
+  },
+  {
+    "question": "What does the official documentation state regarding the tracking of unexplicitly set parameters by Autologging during a `.fit` call?",
+    "course": "mlops-zoomcamp",
+    "document": "460343cb44"
+  },
+  {
+    "question": "How can I verify that all training parameters are being logged and visible in the Mlflow UI when utilizing Autologging?",
+    "course": "mlops-zoomcamp",
+    "document": "460343cb44"
+  }
+]

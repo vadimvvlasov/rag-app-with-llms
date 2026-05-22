@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if the Horizontal Pod Autoscaler (HPA) instance is not functioning correctly after applying the Metrics Server manifest via `kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b2e624ea5a"
+  },
+  {
+    "question": "Why are my HPA targets showing as `<unknown>` despite having installed the latest version of Metrics Server from the provided `components.yaml` manifest?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b2e624ea5a"
+  },
+  {
+    "question": "What specific configuration change is required in the Metrics Server deployment to resolve the issue with unknown HPA targets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b2e624ea5a"
+  },
+  {
+    "question": "Could you provide the exact YAML snippet that needs to be added to the Metrics Server's command arguments to enable insecure TLS communication with kubelets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b2e624ea5a"
+  },
+  {
+    "question": "After making the necessary changes to the Metrics Server deployment, which command should I execute to verify that the HPA is now functioning properly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b2e624ea5a"
+  }
+]

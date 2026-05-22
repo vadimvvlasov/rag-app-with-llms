@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What was the issue with the pre-commit command in the isort repository?",
+    "course": "mlops-zoomcamp",
+    "document": "330f9005e2"
+  },
+  {
+    "question": "Which version of isort resolved the pre-commit problem?",
+    "course": "mlops-zoomcamp",
+    "document": "330f9005e2"
+  },
+  {
+    "question": "In which module of the MLOps Zoomcamp course does this fix pertain?",
+    "course": "mlops-zoomcamp",
+    "document": "330f9005e2"
+  },
+  {
+    "question": "How can I update the isort version to `5.12.0` to ensure pre-commit runs successfully?",
+    "course": "mlops-zoomcamp",
+    "document": "330f9005e2"
+  },
+  {
+    "question": "What specific change was made to address the failing pre-commit command in the isort repo?",
+    "course": "mlops-zoomcamp",
+    "document": "330f9005e2"
+  }
+]

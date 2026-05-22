@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I compute the standard deviation of a single column in a pandas DataFrame using its built-in functionality?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d781b23627"
+  },
+  {
+    "question": "What is the syntax to calculate the standard deviation for multiple columns simultaneously in pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d781b23627"
+  },
+  {
+    "question": "In the context of regression analysis within the Machine Learning ZoomCamp course, which function should be utilized to determine the variability of data across specified columns?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d781b23627"
+  },
+  {
+    "question": "Can you provide an example of applying the `std()` method from pandas to assess dispersion in a dataset related to regression modeling?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d781b23627"
+  },
+  {
+    "question": "What steps are required to access and interpret the standard deviation values for selected features when performing regression tasks using pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "d781b23627"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I set up a Python development environment using `uv` as the package manager for this course?",
+    "course": "mlops-zoomcamp",
+    "document": "fd2cad423e"
+  },
+  {
+    "question": "What steps are required to install a specific Python version (e.g., 3.9.7) with `uv`?",
+    "course": "mlops-zoomcamp",
+    "document": "fd2cad423e"
+  },
+  {
+    "question": "Once the virtual environment is activated, how do I verify that the correct Python version is being used?",
+    "course": "mlops-zoomcamp",
+    "document": "fd2cad423e"
+  },
+  {
+    "question": "Which commands should I run to install the necessary packages like pandas, scikit-learn, notebook, seaborn, and pyarrow using `uv`?",
+    "course": "mlops-zoomcamp",
+    "document": "fd2cad423e"
+  },
+  {
+    "question": "What is the cleanup process after completing work in the `uv` managed virtual environment?",
+    "course": "mlops-zoomcamp",
+    "document": "fd2cad423e"
+  }
+]

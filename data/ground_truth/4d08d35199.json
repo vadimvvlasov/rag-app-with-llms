@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an `AttributeError` stating that 'MlflowClient' has no attribute 'list_run_infos' while executing the line `run_id = client.list_run_infos(experiment_id='1')[0].run_id` in the scenario 2 notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "4d08d35199"
+  },
+  {
+    "question": "What is the correct method to retrieve a run ID from an experiment using MLflow version 2.12.2 or later, as of May 2024?",
+    "course": "mlops-zoomcamp",
+    "document": "4d08d35199"
+  },
+  {
+    "question": "Can you explain why the `search_runs` method is recommended over `list_run_infos` for obtaining run information in recent MLflow versions?",
+    "course": "mlops-zoomcamp",
+    "document": "4d08d35199"
+  },
+  {
+    "question": "Is there any risk that this solution might not be applicable to MLflow versions earlier than 2.12.2?",
+    "course": "mlops-zoomcamp",
+    "document": "4d08d35199"
+  },
+  {
+    "question": "What specific version of MLflow does the provided solution guarantee compatibility with, and are there any potential compatibility issues with other recent versions?",
+    "course": "mlops-zoomcamp",
+    "document": "4d08d35199"
+  }
+]

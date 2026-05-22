@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it possible for me to enroll in the LLM ZoomCamp course even though I have just found out about it?",
+    "course": "llm-zoomcamp",
+    "document": "74eb249bbf"
+  },
+  {
+    "question": "If I join the course now, will I be eligible to obtain a certificate?",
+    "course": "llm-zoomcamp",
+    "document": "74eb249bbf"
+  },
+  {
+    "question": "What is the deadline for submitting my project if I wish to receive the certificate for this course?",
+    "course": "llm-zoomcamp",
+    "document": "74eb249bbf"
+  },
+  {
+    "question": "Can I participate in the course activities after the submission period has ended?",
+    "course": "llm-zoomcamp",
+    "document": "74eb249bbf"
+  },
+  {
+    "question": "Are there any late penalties or restrictions for project submissions during the acceptance window?",
+    "course": "llm-zoomcamp",
+    "document": "74eb249bbf"
+  }
+]

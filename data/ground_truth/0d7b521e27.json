@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary advantage of using a sparse matrix over a dense matrix in memory usage?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0d7b521e27"
+  },
+  {
+    "question": "How does `DictVectorizer` handle feature representation by default, and why might this be beneficial for large datasets with many zero values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0d7b521e27"
+  },
+  {
+    "question": "In Week 3, Question 6 of the 'machine-learning-zoomcamp' course under Module 3. Machine Learning for Classification, why was using the default sparse configuration preferable to dense mode?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0d7b521e27"
+  },
+  {
+    "question": "What performance issues could arise when training a model on a dense matrix compared to a sparse matrix for large datasets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0d7b521e27"
+  },
+  {
+    "question": "Can you explain how storing only non-zero values and their positions in memory contributes to the efficiency of sparse matrices in handling extensive data with numerous missing or zero entries?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0d7b521e27"
+  }
+]

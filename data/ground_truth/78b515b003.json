@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an ImportError when trying to import ColumnQuantileMetric from evidently.metrics?",
+    "course": "mlops-zoomcamp",
+    "document": "78b515b003"
+  },
+  {
+    "question": "What is the correct class to use in place of ColumnQuantileMetric for monitoring with Evidently?",
+    "course": "mlops-zoomcamp",
+    "document": "78b515b003"
+  },
+  {
+    "question": "Which parameter should be used instead of column_name when configuring QuantileValue, and why does using column_name cause a ValidationError?",
+    "course": "mlops-zoomcamp",
+    "document": "78b515b003"
+  },
+  {
+    "question": "How can I correctly implement a quantile metric for the 'fare_amount' column in my monitoring setup?",
+    "course": "mlops-zoomcamp",
+    "document": "78b515b003"
+  },
+  {
+    "question": "What recent changes in the Evidently library might have caused this discrepancy between expected and actual parameter names?",
+    "course": "mlops-zoomcamp",
+    "document": "78b515b003"
+  }
+]

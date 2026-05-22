@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the command `!ls -lh` produce an error in a Windows Jupyter Notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c336d11260"
+  },
+  {
+    "question": "What is the appropriate alternative command to list files with details in a Windows environment within Jupyter Notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c336d11260"
+  },
+  {
+    "question": "How can I view a detailed listing of directory contents similar to `ls -lh` on Windows using the shell in Jupyter Notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c336d11260"
+  },
+  {
+    "question": "Is there a native Windows equivalent to the Unix `ls -lh` command that works directly in a Jupyter Notebook cell?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c336d11260"
+  },
+  {
+    "question": "When encountering the error 'ls' is not recognized as an internal or external command, what should I execute instead of `!ls -lh` to list files with their sizes and timestamps in a Windows-based Jupyter environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c336d11260"
+  }
+]

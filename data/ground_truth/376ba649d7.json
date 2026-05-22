@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I getting an `AttributeError` when using `mlflow.set_tracking_uri()` in a Mage block?",
+    "course": "mlops-zoomcamp",
+    "document": "376ba649d7"
+  },
+  {
+    "question": "How can I verify which module is being imported as `mlflow` to resolve the attribute error?",
+    "course": "mlops-zoomcamp",
+    "document": "376ba649d7"
+  },
+  {
+    "question": "What steps should I take if another file or folder named \"mlflow\" causes import conflicts?",
+    "course": "mlops-zoomcamp",
+    "document": "376ba649d7"
+  },
+  {
+    "question": "How do I change the backend store location to prevent Python from confusing it with the `mlflow` package?",
+    "course": "mlops-zoomcamp",
+    "document": "376ba649d7"
+  },
+  {
+    "question": "What should I check in the `PYTHONPATH` environment variable if `import mlflow` returns a module not found error?",
+    "course": "mlops-zoomcamp",
+    "document": "376ba649d7"
+  }
+]

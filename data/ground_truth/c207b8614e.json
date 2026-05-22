@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What support channels are available for students enrolled in the self-paced mode of the Data Engineering Zoomcamp?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c207b8614e"
+  },
+  {
+    "question": "Is it necessary to search the Slack channel before posting a new question during the self-paced course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c207b8614e"
+  },
+  {
+    "question": "How can I efficiently find answers to my questions if they might have been addressed previously?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c207b8614e"
+  },
+  {
+    "question": "Can the `@ZoomcampQABot` assist me with locating existing answers in the Slack channel, and should I fully trust its responses?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c207b8614e"
+  },
+  {
+    "question": "What is the recommended approach for getting help with technical issues when studying independently in the self-paced format of this course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c207b8614e"
+  }
+]

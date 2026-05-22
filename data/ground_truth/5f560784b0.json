@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does PostgreSQL fail to start after upgrading from version 16 to version 18 in a Docker container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f560784b0"
+  },
+  {
+    "question": "What change in the data directory structure caused the startup failure when moving from Postgres 16 to Postgres 18?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f560784b0"
+  },
+  {
+    "question": "If I have an existing volume created with Postgres 16, how should I modify it to work with Postgres 18?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f560784b0"
+  },
+  {
+    "question": "What specific steps are required to update the Docker Compose configuration for a new Postgres 18 data directory mount path?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f560784b0"
+  },
+  {
+    "question": "How can I ensure that my data is safely backed up before removing and recreating volumes during the upgrade process?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f560784b0"
+  }
+]

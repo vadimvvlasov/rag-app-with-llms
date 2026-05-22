@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What causes the 'InvalidParameterValueException: The image manifest, config or layer media type for the source image ... is not supported' error when creating a Lambda Function?",
+    "course": "mlops-zoomcamp",
+    "document": "896989c9f1"
+  },
+  {
+    "question": "How can I determine if my Docker image is a multi-platform manifest list that AWS Lambda does not support?",
+    "course": "mlops-zoomcamp",
+    "document": "896989c9f1"
+  },
+  {
+    "question": "What command should I use with `docker buildx` to ensure compatibility with AWS Lambda by specifying a platform for my image?",
+    "course": "mlops-zoomcamp",
+    "document": "896989c9f1"
+  },
+  {
+    "question": "After building an image with `docker buildx`, how do I push it to ECR while maintaining the correct platform specification for AWS Lambda?",
+    "course": "mlops-zoomcamp",
+    "document": "896989c9f1"
+  },
+  {
+    "question": "Can you provide an example of a Dockerfile that works well with AWS Lambda when considering multi-platform images and manifest compatibility?",
+    "course": "mlops-zoomcamp",
+    "document": "896989c9f1"
+  }
+]

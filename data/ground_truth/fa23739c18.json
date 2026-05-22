@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the Kinesis get records command return empty records when following video 6.3 at minute 11:23 in the MLOps ZoomCamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "fa23739c18"
+  },
+  {
+    "question": "What specific flag should be added to the AWS CLI command for Kinesis get records to resolve the issue of receiving empty records locally with LocalStack?",
+    "course": "mlops-zoomcamp",
+    "document": "fa23739c18"
+  },
+  {
+    "question": "At which exact timestamp (minute) in video 6.3 does the problem of empty records from the Kinesis get records call occur?",
+    "course": "mlops-zoomcamp",
+    "document": "fa23739c18"
+  },
+  {
+    "question": "Which module of the MLOps ZoomCamp course contains the FAQ entry related to resolving empty records in Kinesis Get Records using LocalStack?",
+    "course": "mlops-zoomcamp",
+    "document": "fa23739c18"
+  },
+  {
+    "question": "What endpoint URL should be used with the AWS CLI command for Kinesis get records when working locally with LocalStack to fix the empty records issue?",
+    "course": "mlops-zoomcamp",
+    "document": "fa23739c18"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does running `pytest ./test/unit_tests` result in a 'No module named 'production'' error while executing `python test_model_service.py` from the `/sources` directory works?",
+    "course": "mlops-zoomcamp",
+    "document": "0cfb31c221"
+  },
+  {
+    "question": "What is the reason behind `pytest` not automatically including the current directory path in `sys.path`, and how can this issue be resolved?",
+    "course": "mlops-zoomcamp",
+    "document": "0cfb31c221"
+  },
+  {
+    "question": "Could you explain why using `python -m pytest ./test/unit_tests` or setting `export PYTHONPATH=. ` before running `pytest` are recommended solutions for module import errors in custom packages?",
+    "course": "mlops-zoomcamp",
+    "document": "0cfb31c221"
+  },
+  {
+    "question": "In the provided project structure, how should the import statement in `test_model_service.py` be adjusted to ensure it correctly references `model_service` located in `/sources/production` when using `pytest`?",
+    "course": "mlops-zoomcamp",
+    "document": "0cfb31c221"
+  },
+  {
+    "question": "What alternative methods can be employed to ensure that custom modules within a specific directory are recognized by `pytest`, apart from running tests with `python -m pytest`?",
+    "course": "mlops-zoomcamp",
+    "document": "0cfb31c221"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command can I use in a Jupyter Notebook to unzip a dataset without displaying detailed output messages for each file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0e58ef1736"
+  },
+  {
+    "question": "How do I suppress the extensive output when unzipping files using the `! unzip` command within a Jupyter environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0e58ef1736"
+  },
+  {
+    "question": "Is there an alternative method to unzip a ZIP archive in Python that avoids terminal output clutter, and if so, what is it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0e58ef1736"
+  },
+  {
+    "question": "What are the steps to extract all contents of a ZIP file named 'data.zip' into a folder called 'data' using Python's built-in `zipfile` library?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0e58ef1736"
+  },
+  {
+    "question": "In the context of Module 8 on Neural Networks and Deep Learning from the machine-learning-zoomcamp course, which approach is recommended for unzipping datasets silently within a Jupyter Notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0e58ef1736"
+  }
+]

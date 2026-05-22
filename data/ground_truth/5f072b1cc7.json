@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I upload multiple files to Google Cloud Storage (GCS) using the graphical user interface (GUI)?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f072b1cc7"
+  },
+  {
+    "question": "What steps should I follow to ensure that my file uploads to GCS do not cause schema-related problems in my homework submission?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f072b1cc7"
+  },
+  {
+    "question": "Is it possible to upload an entire folder of data files to a specific path within GCS through the GUI, and if so, how?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f072b1cc7"
+  },
+  {
+    "question": "What is the most efficient method for transferring local files to GCS to prepare them for use in the course's Data Warehousing module?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f072b1cc7"
+  },
+  {
+    "question": "After downloading my homework files locally, which button in the GCS interface should I click to complete the upload process to the designated path?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f072b1cc7"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I create a new volume in Docker to resolve setup issues with `docker-compose.yml`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "73876c8348"
+  },
+  {
+    "question": "What modification should be made to the `docker-compose.yml` file for PostgreSQL data ingestion?",
+    "course": "data-engineering-zoomcamp",
+    "document": "73876c8348"
+  },
+  {
+    "question": "Why must I set `low_memory=False` when importing a large CSV file using pandas?",
+    "course": "data-engineering-zoomcamp",
+    "document": "73876c8348"
+  },
+  {
+    "question": "Which function from the `upload-data.ipynb` notebook is recommended for tracking data ingestion timing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "73876c8348"
+  },
+  {
+    "question": "What is the correct sequence of steps to start and connect to pgAdmin after running `docker compose up` in the `2_docker_sql` directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "73876c8348"
+  }
+]

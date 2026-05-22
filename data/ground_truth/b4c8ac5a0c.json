@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What method should I use in a Pandas DataFrame to find the 75th percentile of values in a specific column?",
+    "course": "llm-zoomcamp",
+    "document": "b4c8ac5a0c"
+  },
+  {
+    "question": "How can I retrieve the quantile value for a given probability (e.g., 0.75) from a Pandas Series?",
+    "course": "llm-zoomcamp",
+    "document": "b4c8ac5a0c"
+  },
+  {
+    "question": "In Python's Pandas library, what syntax is used to calculate the 0.75 quantile for a DataFrame column named 'col'?",
+    "course": "llm-zoomcamp",
+    "document": "b4c8ac5a0c"
+  },
+  {
+    "question": "Which function in Pandas allows me to compute a custom percentile (like the 75th percentile) of data stored in a Series or DataFrame column?",
+    "course": "llm-zoomcamp",
+    "document": "b4c8ac5a0c"
+  },
+  {
+    "question": "How do I specify the `q` parameter when using the `.quantile()` method to obtain the 75% percentile from a DataFrame column?",
+    "course": "llm-zoomcamp",
+    "document": "b4c8ac5a0c"
+  }
+]

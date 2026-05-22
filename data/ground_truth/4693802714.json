@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error message indicates that the GPU memory allocator has insufficient capacity?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4693802714"
+  },
+  {
+    "question": "How can I modify my TensorFlow configuration to prevent the 'Allocator (GPU_0_bfc) ran out of memory' error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4693802714"
+  },
+  {
+    "question": "Where should I insert the code snippet to enable dynamic GPU memory growth in a Jupyter notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4693802714"
+  },
+  {
+    "question": "Will enabling dynamic GPU memory allocation solve all out-of-memory issues during training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4693802714"
+  },
+  {
+    "question": "If the out-of-memory error persists after applying the suggested configuration, what troubleshooting step is recommended?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4693802714"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is Gunicorn preferred over the default Flask development server for production deployments in a Docker environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "11f27e4673"
+  },
+  {
+    "question": "What specific changes are required in the Dockerfile to configure Gunicorn with Flask?",
+    "course": "machine-learning-zoomcamp",
+    "document": "11f27e4673"
+  },
+  {
+    "question": "How does Gunicorn improve the handling of multiple simultaneous HTTP requests compared to the default Flask server?",
+    "course": "machine-learning-zoomcamp",
+    "document": "11f27e4673"
+  },
+  {
+    "question": "Can you explain the purpose of the `--bind` flag used in the Gunicorn command within the Dockerfile?",
+    "course": "machine-learning-zoomcamp",
+    "document": "11f27e4673"
+  },
+  {
+    "question": "What is the role of the `app:app` argument in the Gunicorn command provided for running a Flask application?",
+    "course": "machine-learning-zoomcamp",
+    "document": "11f27e4673"
+  }
+]

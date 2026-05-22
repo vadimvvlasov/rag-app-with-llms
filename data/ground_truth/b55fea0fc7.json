@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I encounter the error 'AttributeError: 'PythonInfo' object has no attribute 'version_nodot'",
+    "course": "mlops-zoomcamp",
+    "document": "b55fea0fc7"
+  },
+  {
+    "question": "How can I clear the app-data of the virtual environment when committing with a Git pre-commit hook?",
+    "course": "mlops-zoomcamp",
+    "document": "b55fea0fc7"
+  },
+  {
+    "question": "When using the command `python -m virtualenv api -vvv --reset-app-data`, what does each option (`-vvv` and `--reset-app-data`) signify?",
+    "course": "mlops-zoomcamp",
+    "document": "b55fea0fc7"
+  },
+  {
+    "question": "What is the purpose of the `--reset-app-data` flag in the `virtualenv` command during a Git commit operation?",
+    "course": "mlops-zoomcamp",
+    "document": "b55fea0fc7"
+  },
+  {
+    "question": "After resolving the 'PythonInfo' object error, how can I ensure that the virtual environment will be reused for future GitHub integrations?",
+    "course": "mlops-zoomcamp",
+    "document": "b55fea0fc7"
+  }
+]

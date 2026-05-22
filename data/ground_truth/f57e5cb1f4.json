@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why isn't Workload Identity Federation (WIF) working reliably for connecting to BigQuery in dbt Cloud?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f57e5cb1f4"
+  },
+  {
+    "question": "What specific GCP roles are required to bypass the restriction on service account key creation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f57e5cb1f4"
+  },
+  {
+    "question": "How can I delete the organization policy that prevents the creation of service account keys using the CLI?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f57e5cb1f4"
+  },
+  {
+    "question": "After removing the policy, what is the next step to enable a JSON key for a BigQuery service account in dbt Cloud?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f57e5cb1f4"
+  },
+  {
+    "question": "Is there an alternative method to configure the connection if creating a JSON key remains problematic after following the steps above?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f57e5cb1f4"
+  }
+]

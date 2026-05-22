@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can I cluster directly on a TIMESTAMP column in Google BigQuery without converting it to another data type?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8248dd9d7f"
+  },
+  {
+    "question": "What types of columns are supported for clustering in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8248dd9d7f"
+  },
+  {
+    "question": "How does clustering by DATE(tpep_pickup_datetime) affect query performance for time-based filters?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8248dd9d7f"
+  },
+  {
+    "question": "Is it beneficial to use both partitioning and clustering when working with timestamp data in a BigQuery dataset?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8248dd9d7f"
+  },
+  {
+    "question": "What is the difference between partitioning and clustering in the context of optimizing queries on large datasets in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8248dd9d7f"
+  }
+]

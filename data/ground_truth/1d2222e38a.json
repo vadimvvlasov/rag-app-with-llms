@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a duplicate column name 'locationID' error when running my SQL query involving table joins?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1d2222e38a"
+  },
+  {
+    "question": "In the provided dbt example, what is causing the conflict with columns named `locationid` from different tables?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1d2222e38a"
+  },
+  {
+    "question": "How can I modify the SELECT statement in the dbt example to avoid the duplicate column name issue while still performing the necessary joins between `fhv` and `dim_zones` tables?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1d2222e38a"
+  },
+  {
+    "question": "What is the recommended approach to specify table aliases correctly in a dbt SQL query to prevent column name conflicts like 'locationID'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1d2222e38a"
+  },
+  {
+    "question": "Could you explain why using `SELECT *` without explicit table names leads to duplicate column names in the context of this dbt query, and what alternative syntax should be used?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1d2222e38a"
+  }
+]

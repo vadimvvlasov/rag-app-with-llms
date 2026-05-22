@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I configure PyCharm to recognize a Python interpreter located in a Conda environment on a remote server?",
+    "course": "mlops-zoomcamp",
+    "document": "d99433c04b"
+  },
+  {
+    "question": "What command do I need to run on the remote server to ensure that the Conda environment's Python path is accessible from PyCharm?",
+    "course": "mlops-zoomcamp",
+    "document": "d99433c04b"
+  },
+  {
+    "question": "After activating my desired Conda environment, what should I type in the terminal to find the exact path to the Python executable?",
+    "course": "mlops-zoomcamp",
+    "document": "d99433c04b"
+  },
+  {
+    "question": "In PyCharm, which menu option allows me to specify a system interpreter using a custom path obtained from a remote server?",
+    "course": "mlops-zoomcamp",
+    "document": "d99433c04b"
+  },
+  {
+    "question": "What are the sequential steps to add a new interpreter in PyCharm that points to a Python binary located within a Conda environment on a remote machine?",
+    "course": "mlops-zoomcamp",
+    "document": "d99433c04b"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the recommended method for loading image data in new TensorFlow code?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2584892a72"
+  },
+  {
+    "question": "Why is `ImageDataGenerator` deprecated according to the Keras documentation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2584892a72"
+  },
+  {
+    "question": "How can I use `image_dataset_from_directory` to load images in my TensorFlow project?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2584892a72"
+  },
+  {
+    "question": "Where can I find tutorials on loading and augmenting images with TensorFlow?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2584892a72"
+  },
+  {
+    "question": "What guide should I refer to for using preprocessing layers with image datasets in Keras?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2584892a72"
+  }
+]

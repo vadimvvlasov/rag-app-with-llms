@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the error `could not translate host name pgdatabase to address` occur in a Docker Compose setup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1700cb2bd4"
+  },
+  {
+    "question": "What is the default network name created by Docker Compose, and how can I verify it?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1700cb2bd4"
+  },
+  {
+    "question": "How can I ensure that service names are correctly resolved across containers in different networks?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1700cb2bd4"
+  },
+  {
+    "question": "If my ingestion container was started with `--network <name>`, what should I do if `<name>` does not match the actual network created by Compose?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1700cb2bd4"
+  },
+  {
+    "question": "What steps should I take to resolve a hostname mismatch between my script and the Docker Compose service names?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1700cb2bd4"
+  }
+]

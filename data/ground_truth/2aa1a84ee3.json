@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is FastAPI supported as a framework for the project in this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2aa1a84ee3"
+  },
+  {
+    "question": "What should I mention in my project README if I decide to use FastAPI instead of Flask?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2aa1a84ee3"
+  },
+  {
+    "question": "Will using FastAPI affect my peer review process or grading?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2aa1a84ee3"
+  },
+  {
+    "question": "Are there any additional workshops available that focus on FastAPI and its integration with machine learning models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2aa1a84ee3"
+  },
+  {
+    "question": "How does the choice between Flask and FastAPI impact the deployment of machine learning models covered in Module 5?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2aa1a84ee3"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I set up Airflow to orchestrate dbt models using the dbt API?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c81e613d5a"
+  },
+  {
+    "question": "What specific parameters do I need to provide when configuring a Python operator in Airflow to run a dbt job?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c81e613d5a"
+  },
+  {
+    "question": "Where can I find a detailed explanation of integrating dbt with Airflow for workflow automation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c81e613d5a"
+  },
+  {
+    "question": "Is there an example GitHub repository that demonstrates how to call the dbt Cloud API from Airflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c81e613d5a"
+  },
+  {
+    "question": "What precautions should I take to avoid exposing sensitive information like my dbt API key when using it in Airflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c81e613d5a"
+  }
+]

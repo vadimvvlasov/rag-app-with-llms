@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error message do I receive when an AWS CLI command fails during execution?",
+    "course": "mlops-zoomcamp",
+    "document": "cb04adb824"
+  },
+  {
+    "question": "How can I resolve the error '<botocore.awsrequest.AWSRequest object at 0x7fbaf2666280>' that appears after running an AWS CLI operation?",
+    "course": "mlops-zoomcamp",
+    "document": "cb04adb824"
+  },
+  {
+    "question": "Which environment variables should I set to eliminate the AWS Request error during CLI commands in Module 6 of the MLOps ZoomCamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "cb04adb824"
+  },
+  {
+    "question": "What are the specific steps to configure the AWS CLI settings to prevent encountering the '<botocore.awsrequest.AWSRequest object at 0x7fbaf2666280>' issue?",
+    "course": "mlops-zoomcamp",
+    "document": "cb04adb824"
+  },
+  {
+    "question": "In the context of troubleshooting AWS CLI operations, what values for the environment variables `AWS_DEFAULT_REGION`, `AWS_ACCESS_KEY_ID`, and `AWS_SECRET_ACCESS_KEY` are acceptable according to the FAQ?",
+    "course": "mlops-zoomcamp",
+    "document": "cb04adb824"
+  }
+]

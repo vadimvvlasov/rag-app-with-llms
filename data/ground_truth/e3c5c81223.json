@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I continuously monitor my GPU's status using the `nvidia-smi` command without repeatedly typing it in the terminal?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e3c5c81223"
+  },
+  {
+    "question": "Is there a built-in option within the `nvidia-smi` utility that allows for periodic updates of GPU information, similar to what the `watch` command provides?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e3c5c81223"
+  },
+  {
+    "question": "What is the syntax to configure `nvidia-smi` to refresh its output every 2 seconds automatically?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e3c5c81223"
+  },
+  {
+    "question": "Can I specify an interval in seconds when executing `nvidia-smi` so it runs in a loop until manually stopped with CTRL+C?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e3c5c81223"
+  },
+  {
+    "question": "What command should be used to make `nvidia-smi` update the display of GPU utilization and temperature every few seconds without invoking `watch`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e3c5c81223"
+  }
+]

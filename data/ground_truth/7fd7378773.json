@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do the image sizes reported by `docker images` and Docker Hub differ?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7fd7378773"
+  },
+  {
+    "question": "How should I choose a homework option when my local image size doesn't exactly match any listed choices?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7fd7378773"
+  },
+  {
+    "question": "What factors contribute to variations in Docker image sizes across different environments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7fd7378773"
+  },
+  {
+    "question": "In case of a tie between two homework options, which one should I select based on the image size?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7fd7378773"
+  },
+  {
+    "question": "Does the uncompressed local size and compressed download size from Docker Hub affect the performance of my deployed model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7fd7378773"
+  }
+]

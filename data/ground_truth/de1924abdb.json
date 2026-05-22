@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it necessary to create a separate service account specifically for Terraform, or can I reuse an existing one?",
+    "course": "data-engineering-zoomcamp",
+    "document": "de1924abdb"
+  },
+  {
+    "question": "Do I require multiple JSON key files if I intend to manage various resources within the same course project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "de1924abdb"
+  },
+  {
+    "question": "After obtaining the credentials file, what steps should I follow to set up my environment variables correctly?",
+    "course": "data-engineering-zoomcamp",
+    "document": "de1924abdb"
+  },
+  {
+    "question": "Will having a single service account affect my ability to deploy different types of cloud resources in this course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "de1924abdb"
+  },
+  {
+    "question": "Can I share the .json key file with teammates, or is it restricted to individual use for security reasons?",
+    "course": "data-engineering-zoomcamp",
+    "document": "de1924abdb"
+  }
+]

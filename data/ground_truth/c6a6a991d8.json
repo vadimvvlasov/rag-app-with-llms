@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I run pgcli within a Docker container for the course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c6a6a991d8"
+  },
+  {
+    "question": "What is the command to execute when using the Docker image `ai2ys/dockerized-pgcli:4.0.1` with a custom network name of `pg-network`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c6a6a991d8"
+  },
+  {
+    "question": "Which Postgres variables should be used in the pgcli command to connect to the database named `ny_taxi` running on host `pg-database`, user `root`, port `5432`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c6a6a991d8"
+  },
+  {
+    "question": "What password prompt will appear when executing the pgcli connection command for the root user?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c6a6a991d8"
+  },
+  {
+    "question": "After connecting via Docker, how do I list all tables in the `ny_taxi` database using pgcli?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c6a6a991d8"
+  }
+]

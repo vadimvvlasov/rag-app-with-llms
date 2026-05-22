@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In what situation should I prefer ROC curves over precision-recall curves when evaluating a classification model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "18e9b4b2a2"
+  },
+  {
+    "question": "Why do ROC curves tend to be misleading for imbalanced datasets compared to precision-recall curves?",
+    "course": "machine-learning-zoomcamp",
+    "document": "18e9b4b2a2"
+  },
+  {
+    "question": "How does the class distribution affect the interpretation of ROC curves versus precision-recall curves?",
+    "course": "machine-learning-zoomcamp",
+    "document": "18e9b4b2a2"
+  },
+  {
+    "question": "What is the main reason that makes ROC curves suitable for balanced datasets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "18e9b4b2a2"
+  },
+  {
+    "question": "When would changing the proportion of positive to negative instances in a test set affect accuracy, lift, and F scores more than ROC curve performance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "18e9b4b2a2"
+  }
+]

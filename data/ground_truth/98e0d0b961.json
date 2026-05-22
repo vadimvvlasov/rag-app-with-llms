@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the pip installation error for the tflite_runtime `.whl` file when building a Docker image on an M1 Mac?",
+    "course": "machine-learning-zoomcamp",
+    "document": "98e0d0b961"
+  },
+  {
+    "question": "What is the direct link to download the `tflite_runtime-2.14.0-cp310-cp310-linux_x86_64.whl` file mentioned in the FAQ record?",
+    "course": "machine-learning-zoomcamp",
+    "document": "98e0d0b961"
+  },
+  {
+    "question": "If the provided `.whl` file link does not work, what alternative architectures or operating systems can I use to successfully build the Docker image for the clothing model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "98e0d0b961"
+  },
+  {
+    "question": "What specific `docker build` command should I execute to accommodate the ARM architecture of an M1 Mac while building the Docker image in Section 9.5?",
+    "course": "machine-learning-zoomcamp",
+    "document": "98e0d0b961"
+  },
+  {
+    "question": "How do I run the built Docker image on an M1 Mac after addressing the platform compatibility issue mentioned in the FAQ record?",
+    "course": "machine-learning-zoomcamp",
+    "document": "98e0d0b961"
+  }
+]

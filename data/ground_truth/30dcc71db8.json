@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the command to list all Docker volumes on my system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30dcc71db8"
+  },
+  {
+    "question": "How do I create a compressed backup of PostgreSQL data stored in a Docker volume while the container is running?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30dcc71db8"
+  },
+  {
+    "question": "What steps are required to restore PostgreSQL data from a previously created tar.gz backup into a Docker volume?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30dcc71db8"
+  },
+  {
+    "question": "Can you provide the exact `docker exec` command to dump the contents of a specific database (e.g., 'ny_taxi') into an SQL file within a running PostgreSQL container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30dcc71db8"
+  },
+  {
+    "question": "If my PostgreSQL data is stored in a host-mounted directory defined in `docker-compose.yaml`, how can I manually back up that data to another location on the host?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30dcc71db8"
+  }
+]

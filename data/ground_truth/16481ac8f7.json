@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the specific error message encountered when executing the Docker command for Kestra in a WSL2 environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16481ac8f7"
+  },
+  {
+    "question": "Why does running Bash as administrator not resolve the access denied issue during the Docker execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16481ac8f7"
+  },
+  {
+    "question": "Which command should be executed in an administrative Command Prompt to successfully run the Kestra Docker container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16481ac8f7"
+  },
+  {
+    "question": "What are the necessary volume mappings required when executing the corrected Docker command for local Kestra server startup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16481ac8f7"
+  },
+  {
+    "question": "After applying the suggested fix, on which URL or endpoint will the Kestra UI be accessible locally?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16481ac8f7"
+  }
+]

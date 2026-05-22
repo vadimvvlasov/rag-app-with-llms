@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is my LinearRegression model's RMSE slightly different from the expected value even though the inputs are identical?",
+    "course": "mlops-zoomcamp",
+    "document": "663dda52c8"
+  },
+  {
+    "question": "What could cause a deterministic model like LinearRegression to produce varying results across runs?",
+    "course": "mlops-zoomcamp",
+    "document": "663dda52c8"
+  },
+  {
+    "question": "How can I ensure that outliers in my dataset do not affect the RMSE of my LinearRegression model inconsistently between training and validation sets?",
+    "course": "mlops-zoomcamp",
+    "document": "663dda52c8"
+  },
+  {
+    "question": "What steps should I take to verify that one-hot encoding is correctly applied to categorical features, and what might happen if it isn't done properly?",
+    "course": "mlops-zoomcamp",
+    "document": "663dda52c8"
+  },
+  {
+    "question": "If I notice only two features after one-hot encoding instead of the expected number, what issue might this indicate regarding my preprocessing pipeline?",
+    "course": "mlops-zoomcamp",
+    "document": "663dda52c8"
+  }
+]

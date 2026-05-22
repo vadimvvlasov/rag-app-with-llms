@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I read a Gzip compressed CSV file using the `read_csv()` function in Pandas?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e0c1900c47"
+  },
+  {
+    "question": "What is the appropriate file extension for a Gzip compressed CSV file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e0c1900c47"
+  },
+  {
+    "question": "Which parameter should be set to 'gzip' when reading a '.csv.gz' file with Pandas' `read_csv()` method?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e0c1900c47"
+  },
+  {
+    "question": "Is there any option within `pd.read_csv()` that helps manage memory usage effectively while reading large Gzip compressed CSV files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e0c1900c47"
+  },
+  {
+    "question": "Could you provide a concise code snippet demonstrating the process of loading a Gzip-encoded CSV dataset into a Pandas DataFrame?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e0c1900c47"
+  }
+]

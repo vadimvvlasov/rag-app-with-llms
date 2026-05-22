@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Module 4 Homework, why might my accuracy results differ from the provided options despite using a 60%/20%/20% train/validation/test split?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8351543816"
+  },
+  {
+    "question": "What are the two different methods shown for splitting data into train, validation, and test sets, and how do they affect the resulting accuracy values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8351543816"
+  },
+  {
+    "question": "Which method of data splitting is recommended in Module 4 Homework to ensure more consistent accuracy results with the lessons?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8351543816"
+  },
+  {
+    "question": "How does the use of `random_state` in `train_test_split` influence the reproducibility of data splits across different methods?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8351543816"
+  },
+  {
+    "question": "If I follow Method 2 for splitting my dataset, how should I set the `test_size` parameters to achieve a final train/validation/test ratio of 60%/20%/20%?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8351543816"
+  }
+]

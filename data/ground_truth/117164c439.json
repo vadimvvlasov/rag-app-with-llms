@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why isn't the Create Server dialog showing up in my current version of pgAdmin?",
+    "course": "data-engineering-zoomcamp",
+    "document": "117164c439"
+  },
+  {
+    "question": "What alternative method can I use to create a new server in the latest version of pgAdmin?",
+    "course": "data-engineering-zoomcamp",
+    "document": "117164c439"
+  },
+  {
+    "question": "In which menu option should I look for to register a new server within the updated pgAdmin interface?",
+    "course": "data-engineering-zoomcamp",
+    "document": "117164c439"
+  },
+  {
+    "question": "Is there a specific command or sequence of actions recommended for setting up a server after the recent pgAdmin update?",
+    "course": "data-engineering-zoomcamp",
+    "document": "117164c439"
+  },
+  {
+    "question": "How can I ensure that my server configuration is correctly applied following the changes in the newer version of pgAdmin?",
+    "course": "data-engineering-zoomcamp",
+    "document": "117164c439"
+  }
+]

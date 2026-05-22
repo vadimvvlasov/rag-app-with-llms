@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I set up a virtual environment for Python using Visual Studio Code?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bad28cd4e0"
+  },
+  {
+    "question": "What is the process for accessing and running Jupyter Notebooks natively within VS Code without opening a web browser?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bad28cd4e0"
+  },
+  {
+    "question": "If I have port forwarding enabled on a remote machine, how does VS Code execute Jupyter Notebook files located remotely?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bad28cd4e0"
+  },
+  {
+    "question": "What are the steps to configure VS Code for seamless interaction with GitHub, including staging changes and making commits through its user interface?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bad28cd4e0"
+  },
+  {
+    "question": "Can you provide guidance on linking Visual Studio Code with a remote server using SSH configurations to work with remote resources?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bad28cd4e0"
+  }
+]

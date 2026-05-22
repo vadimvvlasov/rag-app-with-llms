@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I correctly convert a command line argument to an integer before formatting it as a four-digit year in Python?",
+    "course": "mlops-zoomcamp",
+    "document": "e781391c86"
+  },
+  {
+    "question": "What is causing the `ValueError: Unknown format code 'd' for object of type 'str'` error when using an f-string with a command line input?",
+    "course": "mlops-zoomcamp",
+    "document": "e781391c86"
+  },
+  {
+    "question": "In a Python script, what change should be made to handle command line arguments that need to be formatted as a four-digit year?",
+    "course": "mlops-zoomcamp",
+    "document": "e781391c86"
+  },
+  {
+    "question": "How can I ensure that the `click` library properly types a command line option as an integer for further formatting in my MLOps course project?",
+    "course": "mlops-zoomcamp",
+    "document": "e781391c86"
+  },
+  {
+    "question": "What is the correct decorator syntax in Python's `click` module when specifying an option type as an integer for CLI arguments?",
+    "course": "mlops-zoomcamp",
+    "document": "e781391c86"
+  }
+]

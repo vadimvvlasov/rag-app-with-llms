@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I encounter an error stating 'Could not open '/lib64/ld-linux-x86-64.so.2': No such file or directory' when attempting to build Docker images on my Mac equipped with the M1 chip. What steps can I take to resolve this issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9df18c830e"
+  },
+  {
+    "question": "In the context of building a Docker image for the machine learning Zoomcamp course on an Apple Silicon (M1) Mac, what specific modification should be made to the `Dockerfile` to ensure compatibility?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9df18c830e"
+  },
+  {
+    "question": "After modifying the Dockerfile as instructed for an M1-based Mac, why does the image build process potentially require over two hours of execution time?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9df18c830e"
+  },
+  {
+    "question": "Could you clarify the significance of adding the `--platform=linux/amd64` flag in the FROM instruction when configuring a Dockerfile for use on an Apple Silicon Mac?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9df18c830e"
+  },
+  {
+    "question": "Following the adjustment to the Dockerfile for M1 silicon, what is the expected outcome upon successfully executing the build command for the machine learning Zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9df18c830e"
+  }
+]

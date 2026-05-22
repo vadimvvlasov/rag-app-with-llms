@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a runtime error stating 'Failed to Reach API on Prefect' when executing the evidently_metrics_calculation.py script?",
+    "course": "mlops-zoomcamp",
+    "document": "982fa87351"
+  },
+  {
+    "question": "What steps should I follow to resolve the issue of not being able to create a flow run due to the Prefect API not being reachable at https://api.prefect.cloud/api/accounts/ee976605-4ca7-4a27-b5e3-0a37da3c7678/workspaces/78b23cf5-38bb-4d8b-9888-5bf8070d6d62/?",
+    "course": "mlops-zoomcamp",
+    "document": "982fa87351"
+  },
+  {
+    "question": "Is there a specific account registration or sign-up process required to fix the Prefect API connection problem mentioned in the error message?",
+    "course": "mlops-zoomcamp",
+    "document": "982fa87351"
+  },
+  {
+    "question": "After registering or signing up, what should I verify to ensure that the flow run can be successfully created without encountering the 'Failed to Reach API on Prefect' runtime error?",
+    "course": "mlops-zoomcamp",
+    "document": "982fa87351"
+  },
+  {
+    "question": "Could you provide a direct link to the Prefect Cloud account registration page mentioned in the solution for the Runtime Error: Failed to Reach API on Prefect issue?",
+    "course": "mlops-zoomcamp",
+    "document": "982fa87351"
+  }
+]

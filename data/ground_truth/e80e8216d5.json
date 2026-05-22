@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the Python script fail to fetch data from the GitHub link using curl?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e80e8216d5"
+  },
+  {
+    "question": "What is the correct syntax to use in a Python os.system call for downloading a CSV file from a provided URL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e80e8216d5"
+  },
+  {
+    "question": "In Module 1 of the Data Engineering Zoom Camp, how do we ingest data from an external GitHub repository into our Python environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e80e8216d5"
+  },
+  {
+    "question": "Could you provide an example of using `os.system` with `curl` to download a file named '{csv_name}' from '{url}'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e80e8216d5"
+  },
+  {
+    "question": "What potential issues might arise when attempting to use curl within a Python script for downloading files from GitHub?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e80e8216d5"
+  }
+]

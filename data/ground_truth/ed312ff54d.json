@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What tools can I use to track the performance metrics of a machine learning model deployed on AWS Lambda?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed312ff54d"
+  },
+  {
+    "question": "How do I set up logging for Lambda functions to diagnose issues with deployed models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed312ff54d"
+  },
+  {
+    "question": "Can you explain how AWS X-Ray helps in analyzing request latency for Lambda-deployed models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed312ff54d"
+  },
+  {
+    "question": "What steps are involved in creating an automated pipeline for retraining and redeploying machine learning models on AWS Lambda?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed312ff54d"
+  },
+  {
+    "question": "How frequently should I evaluate the performance of my deployed model to ensure it remains accurate over time?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed312ff54d"
+  }
+]

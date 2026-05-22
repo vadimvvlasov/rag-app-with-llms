@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if my DBT cloud IDE session does not start and displays the message 'Your IDE session was unable to start. Please contact support.'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "99658f8d80"
+  },
+  {
+    "question": "Where can I find detailed instructions for setting up a failed DBT cloud IDE session in Module 4 of the Data Engineering ZoomCamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "99658f8d80"
+  },
+  {
+    "question": "How do I create an SSH Key as part of resolving the IDE startup issue mentioned in the FAQ record for the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "99658f8d80"
+  },
+  {
+    "question": "What is the correct method to import a repository into a dbt project when troubleshooting an indefinite loading IDE session?",
+    "course": "data-engineering-zoomcamp",
+    "document": "99658f8d80"
+  },
+  {
+    "question": "After generating an SSH Key and importing the repo, what final step must be taken in the repository settings to ensure successful IDE deployment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "99658f8d80"
+  }
+]

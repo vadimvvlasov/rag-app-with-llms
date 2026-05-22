@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of transforming a target variable to a logarithmic distribution in regression tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "17d0c79f61"
+  },
+  {
+    "question": "How can I determine if my target variable requires a logarithmic transformation due to skewness?",
+    "course": "machine-learning-zoomcamp",
+    "document": "17d0c79f61"
+  },
+  {
+    "question": "Does applying a logarithmic transformation improve model performance across all types of machine learning projects, or are there specific scenarios where it is beneficial?",
+    "course": "machine-learning-zoomcamp",
+    "document": "17d0c79f61"
+  },
+  {
+    "question": "What visual method can be used to assess the distribution and potential skewness of a target variable before deciding on a transformation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "17d0c79f61"
+  },
+  {
+    "question": "Where can I find additional information about skewness in data distributions that might influence my decision to apply logarithmic transformations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "17d0c79f61"
+  }
+]

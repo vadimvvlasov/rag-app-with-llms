@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the meaning of encountering a `py4j.protocol.Py4JJavaError` error when submitting a job in Dataproc?",
+    "course": "data-engineering-zoomcamp",
+    "document": "39fc22b5cb"
+  },
+  {
+    "question": "How can adjusting cluster versioning settings help resolve issues related to this Python-Java protocol error during Spark job execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "39fc22b5cb"
+  },
+  {
+    "question": "If I have switched from a Debian-Hadoop-Spark setup to Ubuntu 20.02-Hadoop3.3-Spark3.3 on my local machine, which cluster configuration should I adopt in Dataproc to ensure compatibility?",
+    "course": "data-engineering-zoomcamp",
+    "document": "39fc22b5cb"
+  },
+  {
+    "question": "What steps should be taken to make the cluster's operating system and software stack consistent with my local development environment to prevent such errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "39fc22b5cb"
+  },
+  {
+    "question": "Are there any specific documentation or resources that detail troubleshooting for `py4j.protocol.Py4JJavaError` in Google Cloud Platform’s Dataproc environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "39fc22b5cb"
+  }
+]

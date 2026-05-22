@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is there any difference in functionality between having the Python file initiate the server and running Gunicorn directly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e842ae080e"
+  },
+  {
+    "question": "Does choosing to let a Python script start the server affect performance compared to executing Gunicorn separately?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e842ae080e"
+  },
+  {
+    "question": "Are there advantages or disadvantages to embedding server startup within the Python script versus invoking Gunicorn independently?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e842ae080e"
+  },
+  {
+    "question": "Will using the Python file to create the server simplify the deployment process relative to directly running Gunicorn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e842ae080e"
+  },
+  {
+    "question": "Apart from convenience, are there other reasons for preferring one method over the other when setting up a server in this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e842ae080e"
+  }
+]

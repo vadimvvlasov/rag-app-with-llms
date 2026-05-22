@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which dataset is required to calculate the metrics mentioned in Question 3 and subsequent questions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7c90af9692"
+  },
+  {
+    "question": "For evaluating the performance of models in Questions 3 onward, what specific dataset should be utilized?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7c90af9692"
+  },
+  {
+    "question": "What is the designated dataset for computing the evaluation metrics starting from Question 3?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7c90af9692"
+  },
+  {
+    "question": "In accordance with the homework instructions for Module 4, which dataset must be employed to derive the metrics outlined in Question 3 and later?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7c90af9692"
+  },
+  {
+    "question": "As per the guidelines of the Machine Learning Zoomcamp course, which data set should be applied to perform the metric calculations beginning with Question 3?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7c90af9692"
+  }
+]

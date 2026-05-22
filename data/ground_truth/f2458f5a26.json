@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the reasons for deprecating Docker Compose v1 as of April 2023?",
+    "course": "mlops-zoomcamp",
+    "document": "f2458f5a26"
+  },
+  {
+    "question": "Where can I find detailed information about the improvements and benefits of Docker Compose v2 over version 1?",
+    "course": "mlops-zoomcamp",
+    "document": "f2458f5a26"
+  },
+  {
+    "question": "Which blog post provides insights into the transition from Docker Compose v1 to v2?",
+    "course": "mlops-zoomcamp",
+    "document": "f2458f5a26"
+  },
+  {
+    "question": "In which module of the 'mlops-zoomcamp' course is the deprecation of Docker Compose v1 discussed?",
+    "course": "mlops-zoomcamp",
+    "document": "f2458f5a26"
+  },
+  {
+    "question": "What specific date marks the official deprecation of Docker Compose v1 in the context of this course?",
+    "course": "mlops-zoomcamp",
+    "document": "f2458f5a26"
+  }
+]

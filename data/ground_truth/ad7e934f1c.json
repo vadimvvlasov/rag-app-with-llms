@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the shape of the output tensor produced by a PyTorch Conv2D layer, and how do the dimensions relate to `N`, `C_out`, `H_out`, and `W_out`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ad7e934f1c"
+  },
+  {
+    "question": "How does the spatial output size (`H_out`, `W_out`) of a Conv2D layer depend on input dimensions (`H_in`, `W_in`), kernel size `(K_H, K_W)`, stride `(S_H, S_W)`, padding `(P_H, P_W)`, and dilation `D`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ad7e934f1c"
+  },
+  {
+    "question": "Can you provide the simplified formula for calculating `H_out` and `W_out` when dilation is set to 1?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ad7e934f1c"
+  },
+  {
+    "question": "If I define a Conv2d layer with `in_channels=3`, `out_channels=16`, `kernel_size=(2,2)`, `stride=(2,2)`, and `padding=(2,2)`, what will be the resulting tensor shape after applying it to an input of shape `[1, 3, 150, 150]`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ad7e934f1c"
+  },
+  {
+    "question": "What tools or methods can I use to verify the spatial output size produced by a Conv2D layer in my PyTorch model without manually computing the formulas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ad7e934f1c"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the Dockerfile for question 6, what command should be used to create the `output/yellow` folder in the container's working directory?",
+    "course": "mlops-zoomcamp",
+    "document": "55fcf4bc86"
+  },
+  {
+    "question": "Where exactly in the Dockerfile should the instruction for creating the `output/yellow` directory be placed?",
+    "course": "mlops-zoomcamp",
+    "document": "55fcf4bc86"
+  },
+  {
+    "question": "What does the `-p` flag do when using the `mkdir` command within a Dockerfile?",
+    "course": "mlops-zoomcamp",
+    "document": "55fcf4bc86"
+  },
+  {
+    "question": "If I forget to include the command to create the `output/yellow` folder, what issue might arise during container build or execution?",
+    "course": "mlops-zoomcamp",
+    "document": "55fcf4bc86"
+  },
+  {
+    "question": "How would you verify that the `output/yellow` directory has been correctly created inside the Docker container after building it?",
+    "course": "mlops-zoomcamp",
+    "document": "55fcf4bc86"
+  }
+]

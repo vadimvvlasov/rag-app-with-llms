@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary benefit of using ONNX Runtime for deploying deep learning models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5f69e4c975"
+  },
+  {
+    "question": "How does exporting a model to the ONNX format facilitate deployment across different environments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5f69e4c975"
+  },
+  {
+    "question": "In what scenarios would ONNX Runtime simplify serverless deployments compared to maintaining separate framework-specific runtimes like TensorFlow Serving or TorchServe?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5f69e4c975"
+  },
+  {
+    "question": "Can you explain how ONNX Runtime contributes to reducing complexity in Lambda and Kubernetes serving setups for trained models from TensorFlow or PyTorch?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5f69e4c975"
+  },
+  {
+    "question": "What specific optimizations does ONNX Runtime offer that enhance model inference performance beyond the capabilities of individual framework runtimes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5f69e4c975"
+  }
+]

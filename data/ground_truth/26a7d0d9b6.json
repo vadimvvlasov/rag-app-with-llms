@@ -1,0 +1,7 @@
+[
+  {
+    "question": ".\n\n1. Why is Adminer not loading when I try to access it at http://127.0.0.1:8080/?\n   \n   Answer: Add `index.php` after the URL, so the URL will be http://127.0.0.1:8080/index.php\n\n2. What is the correct URL to use for accessing Adminer after Docker Compose has been executed?\n   \n   Answer: The correct URL is http://127.0.0.1:8080/index.php.\n\n3. In Module 5 of the MLOps Zoomcamp course, what issue arises with Adminer when attempting to connect via a specific endpoint?\n   \n   Answer: Adminer cannot be accessed on http://127.0.0.1:8080/; you must add `index.php` to the URL.\n\n4. How can I resolve the \"Adminer Not Loaded\" problem mentioned in the Monitoring module of the MLOps Zoomcamp course?\n   \n   Answer: Append `index.php` to the endpoint, making it http://127.0.0.1:8080/index.php.\n\n5. What step must be taken to successfully access Adminer after running Docker Compose in the context of the Monitoring module for the MLOps Zoomcamp course?\n   \n   Answer: Ensure the URL includes `index.php`, i.e., http://127.0.0.1:8080/index.php.",
+    "course": "mlops-zoomcamp",
+    "document": "26a7d0d9b6"
+  }
+]

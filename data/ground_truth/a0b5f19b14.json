@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does a null column persist in my dataframe even after using .fillna()?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a0b5f19b14"
+  },
+  {
+    "question": "What is the difference between a shallow copy and a deep copy when duplicating a Pandas DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a0b5f19b14"
+  },
+  {
+    "question": "How can I ensure that changes made to one DataFrame do not affect another DataFrame created from it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a0b5f19b14"
+  },
+  {
+    "question": "In the context of preparing training and validation datasets, why might referencing `df_train` directly for `X_train` cause unexpected null values in `X_val`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a0b5f19b14"
+  },
+  {
+    "question": "What is the correct syntax to create a deep copy of DataFrames in Python to avoid shared references between variables?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a0b5f19b14"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I modify in my dbt profile to switch from a service account key to OAuth authentication for BigQuery when IAM disables the creation of service account keys?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b755bf0f5"
+  },
+  {
+    "question": "How do I specify the Google Cloud project and dataset in the updated dbt profile for BigQuery using OAuth authentication?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b755bf0f5"
+  },
+  {
+    "question": "Which command(s) are required to authenticate locally with Google Cloud before running dbt with OAuth for BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b755bf0f5"
+  },
+  {
+    "question": "What is the purpose of `gcloud auth application-default login` and `gcloud config set project <your-project-id>` when setting up OAuth for dbt with BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b755bf0f5"
+  },
+  {
+    "question": "After updating the profile and authenticating, how can I verify that dbt is successfully communicating with BigQuery using OAuth?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b755bf0f5"
+  }
+]

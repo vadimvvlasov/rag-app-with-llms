@@ -1,0 +1,27 @@
+[
+  {
+    "question": ". Is prior knowledge of Python mandatory for the Machine Learning ZoomCamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "30bf904a5b"
+  },
+  {
+    "question": ". Can I participate effectively in the course if I have experience with languages such as Java, JavaScript, or Rust instead of Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "30bf904a5b"
+  },
+  {
+    "question": ". Will the course provide sufficient support for learners who are new to Python while still challenging those with existing programming skills?",
+    "course": "machine-learning-zoomcamp",
+    "document": "30bf904a5b"
+  },
+  {
+    "question": ". Are there any 'code-along' sessions included in the curriculum that will help reinforce learning through practical application?",
+    "course": "machine-learning-zoomcamp",
+    "document": "30bf904a5b"
+  },
+  {
+    "question": ". What level of coding proficiency is expected from participants who do not have a background in Python but possess experience in other programming languages?",
+    "course": "machine-learning-zoomcamp",
+    "document": "30bf904a5b"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do I receive the error 'database “test” does not exist' after resetting the Grafana dashboard?",
+    "course": "mlops-zoomcamp",
+    "document": "93dfb7d96c"
+  },
+  {
+    "question": "What caused the disappearance of my previously loaded data and saved dashboard in Grafana?",
+    "course": "mlops-zoomcamp",
+    "document": "93dfb7d96c"
+  },
+  {
+    "question": "How can I prevent the loss of database data when restarting the Docker services for my monitoring setup?",
+    "course": "mlops-zoomcamp",
+    "document": "93dfb7d96c"
+  },
+  {
+    "question": "What steps should I take to rerun the database initialization code if I only need to use the system once?",
+    "course": "mlops-zoomcamp",
+    "document": "93dfb7d96c"
+  },
+  {
+    "question": "What modifications are required in the `docker-compose.yml` file to ensure persistent storage of the PostgreSQL database across service restarts?",
+    "course": "mlops-zoomcamp",
+    "document": "93dfb7d96c"
+  }
+]

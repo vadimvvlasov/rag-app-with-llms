@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I convert categorical features into numerical representations using scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c4be895874"
+  },
+  {
+    "question": "What is the purpose of one-hot encoding in machine learning preprocessing?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c4be895874"
+  },
+  {
+    "question": "Which scikit-learn encoder should I use to transform ordinal categories into integers?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c4be895874"
+  },
+  {
+    "question": "After encoding, how do I standardize numerical features to have zero mean and unit variance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c4be895874"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course is the discussion on transforming non-numerical columns covered?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c4be895874"
+  }
+]

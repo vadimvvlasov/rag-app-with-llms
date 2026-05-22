@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it permissible to substitute FastAPI or PyTorch with other frameworks like LightGBM, CatBoost, Hugging Face, etc., for the project?",
+    "course": "machine-learning-zoomcamp",
+    "document": "066863566f"
+  },
+  {
+    "question": "Do I need to provide detailed instructions in the README if I choose a framework that my peer reviewer might not be familiar with?",
+    "course": "machine-learning-zoomcamp",
+    "document": "066863566f"
+  },
+  {
+    "question": "Has PyTorch been officially added to the syllabus alongside TensorFlow for this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "066863566f"
+  },
+  {
+    "question": "Will the grading rubric consider frameworks other than those specifically mentioned in the teaching materials?",
+    "course": "machine-learning-zoomcamp",
+    "document": "066863566f"
+  },
+  {
+    "question": "What documentation should I include in the README to ensure clarity about the chosen framework and its execution?",
+    "course": "machine-learning-zoomcamp",
+    "document": "066863566f"
+  }
+]

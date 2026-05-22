@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does running `eb local` result in a 'NotSupportedError' when using the default Docker platform?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55c1151596"
+  },
+  {
+    "question": "What specific configuration change should I make to `.elasticbeanstalk/config.yml` to enable `eb local` with the Amazon Linux 2023 Docker platform?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55c1151596"
+  },
+  {
+    "question": "How can I downgrade the AWS Elastic Beanstalk CLI to version 3.19.4 to regain support for `eb local`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55c1151596"
+  },
+  {
+    "question": "If I cannot use `eb local`, what alternative commands should I employ in my local environment to build and run a Docker container for deploying machine learning models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55c1151596"
+  },
+  {
+    "question": "Which init option must I select during `eb init` to configure the application with the generic Docker platform compatible with `eb local`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55c1151596"
+  }
+]

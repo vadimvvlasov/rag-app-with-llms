@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why can't I access the PgAdmin address through my browser when running the PgAdmin container with `docker run` or `docker compose`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2efd03d7f8"
+  },
+  {
+    "question": "What modifications are required to the `docker run` command to successfully open PgAdmin in the browser?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2efd03d7f8"
+  },
+  {
+    "question": "How should the `docker-compose.yaml` file be configured to allow browser access to PgAdmin?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2efd03d7f8"
+  },
+  {
+    "question": "Which environment variables need to be set to enable access to PgAdmin from outside the container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2efd03d7f8"
+  },
+  {
+    "question": "After applying the suggested changes, what is the correct URL to use in the browser to reach PgAdmin?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2efd03d7f8"
+  }
+]

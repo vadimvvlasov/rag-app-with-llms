@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the step-by-step process to deploy a Dockerized API on Render's free tier?",
+    "course": "machine-learning-zoomcamp",
+    "document": "aa92a4f1b1"
+  },
+  {
+    "question": "How do I configure the start command for my API when deploying via Render?",
+    "course": "machine-learning-zoomcamp",
+    "document": "aa92a4f1b1"
+  },
+  {
+    "question": "After deploying, how long does it take for the service to wake up after being idle in Render's free tier?",
+    "course": "machine-learning-zoomcamp",
+    "document": "aa92a4f1b1"
+  },
+  {
+    "question": "Are there any alternative platforms similar to Render that can be used for free-tier deployment without a credit card?",
+    "course": "machine-learning-zoomcamp",
+    "document": "aa92a4f1b1"
+  },
+  {
+    "question": "Why is it recommended not to use Docker Hub directly as the deployment target in this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "aa92a4f1b1"
+  }
+]

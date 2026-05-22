@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I manually relocate the `.bruin.yml` configuration file when multiple Bruin projects share a Git repository?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f04da64de9"
+  },
+  {
+    "question": "What command do I use to initialize a Bruin project within a specific subdirectory of a shared Git repository?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f04da64de9"
+  },
+  {
+    "question": "If I run `bruin init` inside a subfolder, where will Bruin automatically place the `.bruin.yml` file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f04da64de9"
+  },
+  {
+    "question": "What is the underlying reason why `bruin init` defaults to placing the config in the Git root directory rather than the current working directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f04da64de9"
+  },
+  {
+    "question": "Are there any specific steps or precautions I should take to ensure that each project within a shared repository has its own isolated Bruin configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f04da64de9"
+  }
+]

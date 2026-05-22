@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it mandatory to deploy the final project on a cloud platform?",
+    "course": "mlops-zoomcamp",
+    "document": "f6544a339e"
+  },
+  {
+    "question": "Can I earn cloud points by deploying my project locally using Kubernetes?",
+    "course": "mlops-zoomcamp",
+    "document": "f6544a339e"
+  },
+  {
+    "question": "What alternative can be used to simulate AWS services if I don't deploy on the cloud?",
+    "course": "mlops-zoomcamp",
+    "document": "f6544a339e"
+  },
+  {
+    "question": "Where can I find detailed information about how the final project will be evaluated?",
+    "course": "mlops-zoomcamp",
+    "document": "f6544a339e"
+  },
+  {
+    "question": "Does LocalStack qualify as a valid method for mimicking AWS during the project deployment?",
+    "course": "mlops-zoomcamp",
+    "document": "f6544a339e"
+  }
+]

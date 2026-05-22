@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the steps to expose my Dockerized ML model through an HTTP API for integration with a Mage pipeline?",
+    "course": "mlops-zoomcamp",
+    "document": "bd885d3d4d"
+  },
+  {
+    "question": "How can I ensure that the Docker container hosting my model and the Mage environment communicate effectively?",
+    "course": "mlops-zoomcamp",
+    "document": "bd885d3d4d"
+  },
+  {
+    "question": "Which Python frameworks are recommended for creating the API within the Docker container?",
+    "course": "mlops-zoomcamp",
+    "document": "bd885d3d4d"
+  },
+  {
+    "question": "What code should be included in the custom Python block of a Mage pipeline to invoke the external model's prediction endpoint?",
+    "course": "mlops-zoomcamp",
+    "document": "bd885d3d4d"
+  },
+  {
+    "question": "Are there any specific configurations required when running both the model's Docker container and the Mage container using `docker-compose`?",
+    "course": "mlops-zoomcamp",
+    "document": "bd885d3d4d"
+  }
+]

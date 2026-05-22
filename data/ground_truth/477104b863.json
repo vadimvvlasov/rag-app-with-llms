@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific steps should I take to downgrade PySpark to resolve the 'All masters are unresponsive!' error during a streaming application run?",
+    "course": "data-engineering-zoomcamp",
+    "document": "477104b863"
+  },
+  {
+    "question": "How can I verify if the PySpark version mismatch is causing the connection failure when executing `./spark-submit.sh streaming.py`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "477104b863"
+  },
+  {
+    "question": "What command should I use to check the current versions of PySpark and Spark on my local machine before making any changes?",
+    "course": "data-engineering-zoomcamp",
+    "document": "477104b863"
+  },
+  {
+    "question": "In case the error persists after downgrading PySpark, which variable in `build.sh` needs to be adjusted to ensure compatibility with the running Spark version?",
+    "course": "data-engineering-zoomcamp",
+    "document": "477104b863"
+  },
+  {
+    "question": "Why does the error message indicate 'Cannot call methods on a stopped SparkContext' and how is this related to the connection issue between my local setup and the Spark master?",
+    "course": "data-engineering-zoomcamp",
+    "document": "477104b863"
+  }
+]

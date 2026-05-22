@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the ImportError for urllib3 when using urllib3 version 2.0 with an older OpenSSL version?",
+    "course": "mlops-zoomcamp",
+    "document": "76e6d9e8ce"
+  },
+  {
+    "question": "What specific command should I run to downgrade urllib3 to a version compatible with OpenSSL 1.0.2k?",
+    "course": "mlops-zoomcamp",
+    "document": "76e6d9e8ce"
+  },
+  {
+    "question": "If I upgrade mlflow to its latest version, will it automatically address the urllib3 compatibility issue?",
+    "course": "mlops-zoomcamp",
+    "document": "76e6d9e8ce"
+  },
+  {
+    "question": "On which operating systems might this urllib3 and OpenSSL incompatibility error occur?",
+    "course": "mlops-zoomcamp",
+    "document": "76e6d9e8ce"
+  },
+  {
+    "question": "What is the recommended approach if neither downgrading urllib3 nor upgrading mlflow resolves the ImportError?",
+    "course": "mlops-zoomcamp",
+    "document": "76e6d9e8ce"
+  }
+]

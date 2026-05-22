@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I programmatically remove all white spaces from column names in a PySpark DataFrame?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7fa4e026d6"
+  },
+  {
+    "question": "What is the syntax to select columns and rename them by removing spaces using a list comprehension in PySpark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7fa4e026d6"
+  },
+  {
+    "question": "In the context of Module 6 on Spark within the data-engineering-zoomcamp course, how do I create a new DataFrame with column names stripped of whitespace?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7fa4e026d6"
+  },
+  {
+    "question": "Can you provide an example of using the `select` method along with `alias` to rename columns by eliminating spaces in their names?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7fa4e026d6"
+  },
+  {
+    "question": "What function should be used inside a list comprehension when iterating over `df_finalw.columns` to generate new column names without spaces?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7fa4e026d6"
+  }
+]

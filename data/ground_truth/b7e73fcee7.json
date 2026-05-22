@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does multiplying the inverse of a matrix by the original matrix not yield an exact identity matrix in my computation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b7e73fcee7"
+  },
+  {
+    "question": "What is the reason behind the small numerical inaccuracies observed when performing matrix inversion and multiplication involving floating-point arithmetic?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b7e73fcee7"
+  },
+  {
+    "question": "Can you explain why the result of Inverse * Original is close but not exactly equal to the identity matrix, as shown in my Week 1 Homework Question 7 output?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b7e73fcee7"
+  },
+  {
+    "question": "How does floating-point precision affect matrix operations such as inversion and subsequent multiplications, leading to slight deviations from expected results?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b7e73fcee7"
+  },
+  {
+    "question": "What external resource can I refer to for a deeper understanding of why floating-point mathematics may not behave perfectly on computers, particularly in the context of my machine learning course homework?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b7e73fcee7"
+  }
+]

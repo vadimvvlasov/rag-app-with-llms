@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it acceptable to use Scikit-Learn's train_test_split function during this week's exercises?",
+    "course": "machine-learning-zoomcamp",
+    "document": "aac6525676"
+  },
+  {
+    "question": "Will we be required to manually implement data splitting methods before learning about Scikit-Learn's utilities?",
+    "course": "machine-learning-zoomcamp",
+    "document": "aac6525676"
+  },
+  {
+    "question": "Can I apply Scikit-Learn's training and testing functions now, or should I wait until a later module?",
+    "course": "machine-learning-zoomcamp",
+    "document": "aac6525676"
+  },
+  {
+    "question": "Does the course encourage the use of pre-built Scikit-Learn functions for data partitioning after introducing basic concepts?",
+    "course": "machine-learning-zoomcamp",
+    "document": "aac6525676"
+  },
+  {
+    "question": "What is the recommended approach regarding the usage of external libraries like Scikit-Learn in this week’s assignments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "aac6525676"
+  }
+]

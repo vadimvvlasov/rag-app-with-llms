@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an 'Invalid dataset ID' error during the `create_bq_dataset` task when executing the gcp_setup flow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c18119ba32"
+  },
+  {
+    "question": "What is the specific issue causing the error related to the dataset name in the gcp_setup flow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c18119ba32"
+  },
+  {
+    "question": "How can I modify the dataset identifier in the gcp_setup.yaml file to eliminate the invalid ID error message?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c18119ba32"
+  },
+  {
+    "question": "After renaming the dataset, will there be any impact on existing queries or data pipelines that reference the old dataset name?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c18119ba32"
+  },
+  {
+    "question": "Can you provide the exact change needed in the `gcp_setup.yaml` configuration file to resolve the Invalid dataset ID problem mentioned in the YouTube lesson for Module 2 of the Data Engineering ZoomCamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c18119ba32"
+  }
+]

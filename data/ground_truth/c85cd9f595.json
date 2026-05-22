@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Should I compute feature correlations on the training set or the entire dataset before splitting?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c85cd9f595"
+  },
+  {
+    "question": "After dividing my data into training and testing subsets, how do I identify the two most correlated features in the training data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c85cd9f595"
+  },
+  {
+    "question": "What is the recommended approach to calculate correlation coefficients when preparing a classification model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c85cd9f595"
+  },
+  {
+    "question": "In the context of machine learning classification, which dataset should be used to assess feature correlations prior to model training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c85cd9f595"
+  },
+  {
+    "question": "How can I programmatically determine the pair of attributes with the highest correlation within my training data set?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c85cd9f595"
+  }
+]

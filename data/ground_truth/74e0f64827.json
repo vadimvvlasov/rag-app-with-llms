@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the metrics-server in Kind clusters not trust kubelet's TLS certificate by default?",
+    "course": "machine-learning-zoomcamp",
+    "document": "74e0f64827"
+  },
+  {
+    "question": "What command should I run to patch the metrics-server deployment in Kind clusters to skip TLS verification?",
+    "course": "machine-learning-zoomcamp",
+    "document": "74e0f64827"
+  },
+  {
+    "question": "After applying the patch, how can I verify that the Horizontal Pod Autoscaler (HPA) now shows accurate CPU percentages?",
+    "course": "machine-learning-zoomcamp",
+    "document": "74e0f64827"
+  },
+  {
+    "question": "Is it safe to use `--kubelet-insecure-tls` for production environments when scaling HPA based on CPU metrics?",
+    "course": "machine-learning-zoomcamp",
+    "document": "74e0f64827"
+  },
+  {
+    "question": "What is the recommended method to restart the metrics-server after modifying its configuration in a Kind cluster?",
+    "course": "machine-learning-zoomcamp",
+    "document": "74e0f64827"
+  }
+]

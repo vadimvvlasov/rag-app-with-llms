@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving a '403 Forbidden' error when attempting to create a dataset using Terraform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4a6d04a2c3"
+  },
+  {
+    "question": "What does the error message 'Request had insufficient authentication scopes' indicate in the context of Google Cloud operations with Terraform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4a6d04a2c3"
+  },
+  {
+    "question": "How can I verify if my Google service account credentials are correctly set up for Terraform tasks?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4a6d04a2c3"
+  },
+  {
+    "question": "What command should I run to check the path specified by the `GOOGLE_APPLICATION_CREDENTIALS` environment variable?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4a6d04a2c3"
+  },
+  {
+    "question": "Where can I find instructions on properly configuring the `GOOGLE_APPLICATION_CREDENTIALS` variable during the setup of my Terraform environment in Week 1 of the Data Engineering ZoomCamp?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4a6d04a2c3"
+  }
+]

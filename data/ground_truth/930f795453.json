@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the `tensorflow/serving` Docker image produce an 'Illegal instruction' error on a Mac M2 Apple Silicon?",
+    "course": "machine-learning-zoomcamp",
+    "document": "930f795453"
+  },
+  {
+    "question": "How can I resolve the Illegal instruction error when running TensorFlow Serving on an Apple Silicon Mac?",
+    "course": "machine-learning-zoomcamp",
+    "document": "930f795453"
+  },
+  {
+    "question": "What is the recommended alternative base image to use for running TensorFlow Serving on Apple Silicon hardware?",
+    "course": "machine-learning-zoomcamp",
+    "document": "930f795453"
+  },
+  {
+    "question": "Can you provide the exact `docker run` command to launch the Bitnami TensorFlow-Serving image with a model mounted at `/clothing-model`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "930f795453"
+  },
+  {
+    "question": "Starting from October 2024, what new Docker feature can improve performance when running containerized applications on macOS with Apple Silicon?",
+    "course": "machine-learning-zoomcamp",
+    "document": "930f795453"
+  }
+]

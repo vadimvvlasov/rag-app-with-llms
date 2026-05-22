@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I not receiving any messages when I run the JsonConsumer.java script in Java Kafka?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cd8a62fc55"
+  },
+  {
+    "question": "What should I check if I encounter a SaslAuthenticationException while executing the JsonProducer.java script?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cd8a62fc55"
+  },
+  {
+    "question": "How do I verify that the BOOTSTRAP_SERVERS_CONFIG in my Java Kafka scripts is set to the correct server URL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cd8a62fc55"
+  },
+  {
+    "question": "Where can I update the cluster key and secret for authentication in the provided Java Kafka examples?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cd8a62fc55"
+  },
+  {
+    "question": "What are the common reasons for seeing only 'RESULTS:::0' when running Kafka producer or consumer scripts?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cd8a62fc55"
+  }
+]

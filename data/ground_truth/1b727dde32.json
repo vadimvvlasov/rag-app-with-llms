@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I install Docker on Ubuntu where the regular installation methods are not available?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1b727dde32"
+  },
+  {
+    "question": "What command should I use to install Docker via Snap on Ubuntu?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1b727dde32"
+  },
+  {
+    "question": "Is there a specific sudo privilege required to execute the Snap installation command for Docker on Ubuntu?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1b727dde32"
+  },
+  {
+    "question": "Which versions of Ubuntu support installing Docker using the `snap` package manager?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1b727dde32"
+  },
+  {
+    "question": "After executing the provided command, how can I verify that Docker has been successfully installed on my Ubuntu system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1b727dde32"
+  }
+]

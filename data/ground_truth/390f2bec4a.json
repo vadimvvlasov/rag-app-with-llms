@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my Bruin Python asset throw an `ArrowInvalid` error saying 'Cannot locate timezone 'UTC': Timezone database not found' on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "390f2bec4a"
+  },
+  {
+    "question": "What is the underlying cause of the timezone database missing issue in PyArrow when handling naive timestamp columns?",
+    "course": "data-engineering-zoomcamp",
+    "document": "390f2bec4a"
+  },
+  {
+    "question": "How can I modify my materialize() function to ensure timestamps are timezone-aware before they reach dlt/ingestr?",
+    "course": "data-engineering-zoomcamp",
+    "document": "390f2bec4a"
+  },
+  {
+    "question": "Which specific line or block of code should I add to my Python asset to localize and convert naive datetime columns to UTC?",
+    "course": "data-engineering-zoomcamp",
+    "document": "390f2bec4a"
+  },
+  {
+    "question": "What version of pyarrow and additional package versions must be specified in requirements.txt to resolve the timezone handling problem?",
+    "course": "data-engineering-zoomcamp",
+    "document": "390f2bec4a"
+  }
+]

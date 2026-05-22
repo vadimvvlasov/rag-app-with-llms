@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it necessary to incorporate an orchestration tool such as Airflow, Mage, or Kestra into my capstone project for full evaluation of the ingestion pipeline criterion?",
+    "course": "llm-zoomcamp",
+    "document": "d4f7c08ea1"
+  },
+  {
+    "question": "Will a simple Python script that handles data ingestion and indexing be sufficient to earn maximum points under the \"ingestion pipeline\" assessment?",
+    "course": "llm-zoomcamp",
+    "document": "d4f7c08ea1"
+  },
+  {
+    "question": "If I choose to use a Jupyter notebook instead of a standalone Python script for the data processing steps, what will be the point allocation compared to a full Python script?",
+    "course": "llm-zoomcamp",
+    "document": "d4f7c08ea1"
+  },
+  {
+    "question": "Under what circumstances would it be appropriate to include an orchestrator in my project, and when should I avoid adding one just to meet evaluation criteria?",
+    "course": "llm-zoomcamp",
+    "document": "d4f7c08ea1"
+  },
+  {
+    "question": "Can you provide examples of scenarios where using an orchestrator like Airflow or Kestra would genuinely enhance the capstone project, such as for recurring data feeds?",
+    "course": "llm-zoomcamp",
+    "document": "d4f7c08ea1"
+  }
+]

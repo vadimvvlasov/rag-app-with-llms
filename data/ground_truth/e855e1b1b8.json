@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is causing the `SIGTERM` errors when deploying my Docker image on a small free-tier host like Render?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e855e1b1b8"
+  },
+  {
+    "question": "Are there any cloud providers that offer free-tier micro instances for long-term use in machine learning deployments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e855e1b1b8"
+  },
+  {
+    "question": "Which platforms provide convenient free tiers specifically suited for deploying Docker-based machine learning models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e855e1b1b8"
+  },
+  {
+    "question": "How can I reduce the memory footprint of my Docker image to avoid OOM-killing on limited free-tier resources?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e855e1b1b8"
+  },
+  {
+    "question": "What alternative methods exist for sharing and demonstrating a machine learning model without relying on traditional deployment platforms?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e855e1b1b8"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I encountered an error stating 'Invalid choice' when executing `aws ecr get-login --no-include-email`. What is the correct command to retrieve the login password for AWS ECR?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ac62d9ccf0"
+  },
+  {
+    "question": "How do I properly set up the Docker login command using the retrieved password from AWS ECR in a Linux terminal?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ac62d9ccf0"
+  },
+  {
+    "question": "In the context of Module 9 Serverless Deep Learning, what environment variables should I define to automate the Docker authentication process with AWS ECR?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ac62d9ccf0"
+  },
+  {
+    "question": "What specific `<ACCOUNT_NUMBER>` and `<REGION>` placeholders must be replaced in the Docker login command for AWS ECR authentication?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ac62d9ccf0"
+  },
+  {
+    "question": "Can you explain why using `aws ecr get-login-password` resolves the syntax error encountered with the older `aws ecr get-login --no-include-email` command?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ac62d9ccf0"
+  }
+]

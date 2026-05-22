@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does creating a pre-commit YAML file in PowerShell result in a UTF-8 encoding error during a Git commit?",
+    "course": "mlops-zoomcamp",
+    "document": "226f8425c4"
+  },
+  {
+    "question": "What is the exact error message displayed when attempting to commit changes after generating a .pre-commit-config.yaml file?",
+    "course": "mlops-zoomcamp",
+    "document": "226f8425c4"
+  },
+  {
+    "question": "How can I ensure that the .pre-commit-config.yaml file is created with the correct UTF-8 encoding to avoid decoding errors?",
+    "course": "mlops-zoomcamp",
+    "document": "226f8425c4"
+  },
+  {
+    "question": "What PowerShell command should be used to generate a sample pre-commit configuration and save it as .pre-commit-config.yaml with UTF-8 encoding?",
+    "course": "mlops-zoomcamp",
+    "document": "226f8425c4"
+  },
+  {
+    "question": "In the context of MLOps ZoomCamp Module 6 on Best Practices, what steps are necessary to prevent 'utf-8' codec errors when using pre-commit hooks?",
+    "course": "mlops-zoomcamp",
+    "document": "226f8425c4"
+  }
+]

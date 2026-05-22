@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which dataset should be used to compute the correlation matrix for feature selection in Module 3 Homework of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "71f360d8eb"
+  },
+  {
+    "question": "Is `df_train` or `df_train_full` the appropriate choice when calculating correlations among features, particularly for converting `median_house_value` to a binary variable as discussed in question Q2?",
+    "course": "machine-learning-zoomcamp",
+    "document": "71f360d8eb"
+  },
+  {
+    "question": "Why is it recommended to exclude `df_train_full` from the correlation analysis and focus solely on `df_train` during feature engineering exercises in this course module?",
+    "course": "machine-learning-zoomcamp",
+    "document": "71f360d8eb"
+  },
+  {
+    "question": "What specific rationale supports using only `df_train` instead of `df_train_full` when determining correlations between features for the upcoming homework assignment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "71f360d8eb"
+  },
+  {
+    "question": "Could you confirm whether the correlation matrix should be derived exclusively from `df_train`, and if so, why is it necessary to avoid including `df_train_full` in this computation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "71f360d8eb"
+  }
+]

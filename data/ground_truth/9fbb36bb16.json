@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I download a CSV dataset from a URL using the `requests` library in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9fbb36bb16"
+  },
+  {
+    "question": "What steps are involved in saving the content of a successful HTTP GET request to a file named 'housing.csv'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9fbb36bb16"
+  },
+  {
+    "question": "In the provided code snippet, what condition checks whether the data was successfully retrieved from the specified URL?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9fbb36bb16"
+  },
+  {
+    "question": "If the HTTP response status code is not 200, what message is printed and why might this occur?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9fbb36bb16"
+  },
+  {
+    "question": "Which library function is used to send an HTTP GET request in the example, and how does it handle binary file writing?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9fbb36bb16"
+  }
+]

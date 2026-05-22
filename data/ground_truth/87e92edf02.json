@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if `ny_taxi_postgres_data` appears empty even though Postgres has started?",
+    "course": "data-engineering-zoomcamp",
+    "document": "87e92edf02"
+  },
+  {
+    "question": "How can I resolve the error `Docker: invalid reference format: repository name must be lowercase` when running Docker commands in Git Bash on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "87e92edf02"
+  },
+  {
+    "question": "Why does Docker create a folder with an unexpected name like `ny_taxi_postgres_data;C` during volume mounting?",
+    "course": "data-engineering-zoomcamp",
+    "document": "87e92edf02"
+  },
+  {
+    "question": "What are the recommended `-v` syntax variants to use for mounting host paths on Windows with MINGW64, especially when paths contain spaces?",
+    "course": "data-engineering-zoomcamp",
+    "document": "87e92edf02"
+  },
+  {
+    "question": "If all bind-mount options fail, how can I switch to using a named volume in Docker on Windows without losing data persistence?",
+    "course": "data-engineering-zoomcamp",
+    "document": "87e92edf02"
+  }
+]

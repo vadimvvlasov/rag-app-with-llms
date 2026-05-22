@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an 'Unable to locate credentials' error when executing Jupyter notebooks within Visual Studio Code in Codespaces?",
+    "course": "mlops-zoomcamp",
+    "document": "b9d82f5247"
+  },
+  {
+    "question": "What steps can I take to resolve the credential-related issue that arises while running Jupyter notebooks inside Visual Studio Code in a Codespaces environment?",
+    "course": "mlops-zoomcamp",
+    "document": "b9d82f5247"
+  },
+  {
+    "question": "During the deployment module of the MLOps ZoomCamp course, how did you address the problem of missing credentials when working with Jupyter notebooks in Codespaces?",
+    "course": "mlops-zoomcamp",
+    "document": "b9d82f5247"
+  },
+  {
+    "question": "In the context of Module 4: Deployment for the mlops-zoomcamp course, what workaround was effective for overcoming the 'Unable to locate credentials' error during notebook execution?",
+    "course": "mlops-zoomcamp",
+    "document": "b9d82f5247"
+  },
+  {
+    "question": "For learners facing difficulties in Visual Studio Code within Codespaces as part of the MLOps ZoomCamp curriculum, specifically in Section concerning deployment, which alternative method successfully bypassed the credential lookup failure?",
+    "course": "mlops-zoomcamp",
+    "document": "b9d82f5247"
+  }
+]

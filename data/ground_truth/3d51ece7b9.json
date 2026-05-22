@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I enable Continuous Integration (CI) jobs for my dbt project hosted on GitHub?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3d51ece7b9"
+  },
+  {
+    "question": "After linking my GitHub account to dbt Cloud, what steps are required to replace an existing 'Git Clone' connection with a native GitHub integration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3d51ece7b9"
+  },
+  {
+    "question": "What should I do if the CI job reports \"valid dbt project was not found\" after configuring the native GitHub integration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3d51ece7b9"
+  },
+  {
+    "question": "Is it necessary for my dbt project to be in the root directory of the GitHub repository, or can it reside in a subfolder?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3d51ece7b9"
+  },
+  {
+    "question": "Which plan tiers of dbt Cloud support CI jobs, and what are the prerequisites for setting them up?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3d51ece7b9"
+  }
+]

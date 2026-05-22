@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an XGBoost error stating that sklearn needs to be installed?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a51d605063"
+  },
+  {
+    "question": "What should I do if the error message 'sklearn needs to be installed in order to use this module' appears while working on Module 6 of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a51d605063"
+  },
+  {
+    "question": "Could you explain how installing sklearn resolves the XGBoostError related to missing dependencies in Decision Trees, Ensembles & Gradient Boosting?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a51d605063"
+  },
+  {
+    "question": "In the context of the machine-learning-zoomcamp curriculum, what is the recommended step to prevent the redacted error message from appearing during hands-on exercises for Module 6?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a51d605063"
+  },
+  {
+    "question": "How can I verify that sklearn has been correctly installed to avoid the XGBoostError in the 'Decision Trees, Ensembles & Gradient Boosting' section of my course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a51d605063"
+  }
+]

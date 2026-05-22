@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In a local environment using dbt-core, where should the `profiles.yml` file be placed to configure connection profiles for all projects?",
+    "course": "data-engineering-zoomcamp",
+    "document": "49e1ec9d84"
+  },
+  {
+    "question": "On Windows, what is the exact path to the `~/.dbt/profiles.yml` file relative to the user's home directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "49e1ec9d84"
+  },
+  {
+    "question": "Is the `profiles.yml` configuration file necessary for dbt Cloud environments?",
+    "course": "data-engineering-zoomcamp",
+    "document": "49e1ec9d84"
+  },
+  {
+    "question": "What steps are required to create a `profiles.yml` file in the correct location on a Windows system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "49e1ec9d84"
+  },
+  {
+    "question": "Where can I find an example of how to structure the `profiles.yml` file for dbt projects?",
+    "course": "data-engineering-zoomcamp",
+    "document": "49e1ec9d84"
+  }
+]

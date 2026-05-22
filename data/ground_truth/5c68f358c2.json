@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I create a scatter plot in Grafana for visualizing performance data similar to Evidently's charts?",
+    "course": "mlops-zoomcamp",
+    "document": "5c68f358c2"
+  },
+  {
+    "question": "Is there a plugin required to add a stat panel and scatter plot in Grafana to mimic Evidently’s dashboard?",
+    "course": "mlops-zoomcamp",
+    "document": "5c68f358c2"
+  },
+  {
+    "question": "What steps are needed to ensure all relevant information is logged to my Grafana data source for custom plotting?",
+    "course": "mlops-zoomcamp",
+    "document": "5c68f358c2"
+  },
+  {
+    "question": "How can I export Evidently output in JSON format with the `include_render=True` option for external visualization?",
+    "course": "mlops-zoomcamp",
+    "document": "5c68f358c2"
+  },
+  {
+    "question": "Where can I find detailed instructions on using the `raw_data\": True` option for non-aggregated visuals directly in Evidently’s documentation?",
+    "course": "mlops-zoomcamp",
+    "document": "5c68f358c2"
+  }
+]

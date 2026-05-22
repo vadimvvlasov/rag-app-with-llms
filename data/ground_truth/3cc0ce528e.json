@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Should I exclusively train my machine learning model using only the features deemed most important?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3cc0ce528e"
+  },
+  {
+    "question": "What criteria should I use to determine whether a feature should be included in the training process despite lower importance ratings?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3cc0ce528e"
+  },
+  {
+    "question": "How can I assess if removing certain features will negatively impact the predictive accuracy of my model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3cc0ce528e"
+  },
+  {
+    "question": "Are there specific feature selection techniques that can help identify which correlated features are redundant?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3cc0ce528e"
+  },
+  {
+    "question": "Where can I find detailed guidance on evaluating feature importance, particularly for categorical variables, within the machine learning course curriculum?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3cc0ce528e"
+  }
+]

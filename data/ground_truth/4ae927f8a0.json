@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I create a TSV file that contains multiple URLs for loading data into a GCS bucket?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ae927f8a0"
+  },
+  {
+    "question": "What is the specific format required at the top of the TSV file to ensure it works with `gsutil` or the GCS Transfer Service?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ae927f8a0"
+  },
+  {
+    "question": "Can you provide an example entry in the TSV file for loading a single Parquet dataset from a given URL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ae927f8a0"
+  },
+  {
+    "question": "Which command-line tool should I use to transfer data from the list of URLs in the TSV file into my Google Cloud Storage bucket?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ae927f8a0"
+  },
+  {
+    "question": "What is the name of the course module where this method for loading data from URLs into GCS is discussed?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ae927f8a0"
+  }
+]

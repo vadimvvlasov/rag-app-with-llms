@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the most common cause of \"FATAL: password authentication failed for user \"root\"\" error when using pgcli to connect to a Postgres container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b9cd2aaccb"
+  },
+  {
+    "question": "How can I verify if the Docker `postgres` container with port mapping `0.0.0.0:5432->5432/tcp` is running?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b9cd2aaccb"
+  },
+  {
+    "question": "What steps should I take if I encounter a \"connection refused\" error and suspect that another application might be using port 5432 on my host?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b9cd2aaccb"
+  },
+  {
+    "question": "Why would I see a \"FATAL: database \"ny_taxi\" does not exist\" message after the database was previously created, and how can I resolve it?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b9cd2aaccb"
+  },
+  {
+    "question": "What command should I use to check if any process is currently listening on port 5432 on a Linux or macOS system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b9cd2aaccb"
+  }
+]

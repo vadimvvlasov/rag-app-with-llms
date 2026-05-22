@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What steps are required to view the contents of the `/app` directory within a Docker container that uses the image `svizor/zoomcamp-model:mlops-3.10.0-slim`?",
+    "course": "mlops-zoomcamp",
+    "document": "fd11200ead"
+  },
+  {
+    "question": "How can I confirm that `model.bin` is present inside the specified Docker container for model deployment in app/?",
+    "course": "mlops-zoomcamp",
+    "document": "fd11200ead"
+  },
+  {
+    "question": "If I need to add additional files to the Docker image, which line should I include in the Dockerfile and what does it do?",
+    "course": "mlops-zoomcamp",
+    "document": "fd11200ead"
+  },
+  {
+    "question": "What command do I use to run a script with arguments inside a Docker container after building an image from a modified Dockerfile?",
+    "course": "mlops-zoomcamp",
+    "document": "fd11200ead"
+  },
+  {
+    "question": "How can I automate the listing of `/app` contents during container runtime without manually running `ls` each time?",
+    "course": "mlops-zoomcamp",
+    "document": "fd11200ead"
+  }
+]

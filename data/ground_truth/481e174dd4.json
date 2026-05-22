@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving a `ValueError` stating 'Found array with 0 sample(s)' when using LinearRegression?",
+    "course": "mlops-zoomcamp",
+    "document": "481e174dd4"
+  },
+  {
+    "question": "What is the minimum number of samples required for training a LinearRegression model in scikit-learn?",
+    "course": "mlops-zoomcamp",
+    "document": "481e174dd4"
+  },
+  {
+    "question": "How can I modify the date range specified by `begin = datetime.datetime(202X, X, X, 0, 0)` to ensure that my training dataset contains at least one sample?",
+    "course": "mlops-zoomcamp",
+    "document": "481e174dd4"
+  },
+  {
+    "question": "What steps should I take to debug an empty training dataset error in Module 5 of the MLOps Zoomcamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "481e174dd4"
+  },
+  {
+    "question": "In the context of data generation for a Machine Learning project, what date-related parameter adjustments are necessary to avoid an insufficient sample size for model training?",
+    "course": "mlops-zoomcamp",
+    "document": "481e174dd4"
+  }
+]

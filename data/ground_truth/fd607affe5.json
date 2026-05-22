@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does loading the GitHub repository result in an exception stating that 'taxi_zone_lookup' is not found?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fd607affe5"
+  },
+  {
+    "question": "What directory name should be used to load seed files for the dbt project in Module 4?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fd607affe5"
+  },
+  {
+    "question": "How can I resolve the error indicating 'taxi_zone_lookup' is missing when attempting to load files from a GitHub repo?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fd607affe5"
+  },
+  {
+    "question": "What specific renaming step is required in the repository structure to fix the 'seed file not found' issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fd607affe5"
+  },
+  {
+    "question": "In the context of our data-engineering-zoomcamp course, specifically Module 4 on Analytics Engineering with dbt, what directory must be renamed to ensure proper seed file loading?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fd607affe5"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I assess the significance of numerical features in a classification model using the area under the ROC curve?",
+    "course": "machine-learning-zoomcamp",
+    "document": "573c63b800"
+  },
+  {
+    "question": "What function from scikit-learn should I employ to compute the ROC AUC score for evaluating numerical feature importance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "573c63b800"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course do I find guidance on utilizing AUC to rank numerical variables by their contribution to model performance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "573c63b800"
+  },
+  {
+    "question": "Where can I locate the solution examples demonstrating the application of `roc_auc_score` from 2021's iteration of this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "573c63b800"
+  },
+  {
+    "question": "Which evaluation metric, as introduced in Module 4, is recommended for quantifying how well numerical predictors distinguish between classes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "573c63b800"
+  }
+]

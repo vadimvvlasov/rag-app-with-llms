@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I start a Jupyter notebook after installing Anaconda in the Codespace VM?",
+    "course": "mlops-zoomcamp",
+    "document": "1b29ba4c54"
+  },
+  {
+    "question": "What is the exact terminal command required to initiate a Jupyter notebook session?",
+    "course": "mlops-zoomcamp",
+    "document": "1b29ba4c54"
+  },
+  {
+    "question": "If I accidentally type 'jupyter-notebook' instead of 'jupyter notebook', what error will I encounter?",
+    "course": "mlops-zoomcamp",
+    "document": "1b29ba4c54"
+  },
+  {
+    "question": "In which module and course does this instruction belong for launching Jupyter notebooks?",
+    "course": "mlops-zoomcamp",
+    "document": "1b29ba4c54"
+  },
+  {
+    "question": "Could you confirm whether any modifications are necessary in the terminal command to avoid errors when running a Jupyter notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "1b29ba4c54"
+  }
+]

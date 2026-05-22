@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is Kestra primarily designed to do in a data engineering workflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7fc105290f"
+  },
+  {
+    "question": "Why are dataset row counts preferred to be calculated in PostgreSQL rather than within the Kestra orchestration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7fc105290f"
+  },
+  {
+    "question": "In what module of the 'data-engineering-zoomcamp' course does this concept of separating dataset analytics from orchestration tasks belong?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7fc105290f"
+  },
+  {
+    "question": "What advantage does computing row counts at the database layer offer compared to performing them during workflow execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7fc105290f"
+  },
+  {
+    "question": "How does separating data analytics computations from orchestration logic contribute to the overall reliability and maintenance of a data pipeline?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7fc105290f"
+  }
+]

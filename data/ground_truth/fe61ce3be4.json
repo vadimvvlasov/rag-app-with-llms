@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What exactly constitutes a Spark application in terms of its components and execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fe61ce3be4"
+  },
+  {
+    "question": "How does Spark determine when to create a new job within an application?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fe61ce3be4"
+  },
+  {
+    "question": "Why are jobs divided into stages, particularly around operations like grouping or joining data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fe61ce3be4"
+  },
+  {
+    "question": "Can you explain the role of tasks as the smallest unit of work within a stage and how they relate to data partitions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fe61ce3be4"
+  },
+  {
+    "question": "Where can I find detailed documentation on Spark's job scheduling and RDD programming guides referenced in the module?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fe61ce3be4"
+  }
+]

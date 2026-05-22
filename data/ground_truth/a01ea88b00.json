@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How should I initialize the pagination when calling a REST API that uses page numbers starting at 1?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a01ea88b00"
+  },
+  {
+    "question": "What indicates to my code that there are no more results to fetch from a paginated REST API?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a01ea88b00"
+  },
+  {
+    "question": "Can I safely assume that `page=0` will always return an empty list for any REST API that supports pagination?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a01ea88b00"
+  },
+  {
+    "question": "What is the recommended approach to handle variations in paging mechanisms (e.g., cursor-based vs. page-number based) when implementing data ingestion?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a01ea88b00"
+  },
+  {
+    "question": "How can I ensure robustness against changes in the REST API's pagination scheme by incorporating testing steps into my implementation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a01ea88b00"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I ensure that the AWS region used by my integration tests matches the region configured in docker-compose?",
+    "course": "mlops-zoomcamp",
+    "document": "16099520dd"
+  },
+  {
+    "question": "What steps should I take to set a consistent AWS region across both my local configuration and docker-compose environment?",
+    "course": "mlops-zoomcamp",
+    "document": "16099520dd"
+  },
+  {
+    "question": "If I create a Kinesis stream, how do I verify that it is being created in the correct AWS region specified in my setup?",
+    "course": "mlops-zoomcamp",
+    "document": "16099520dd"
+  },
+  {
+    "question": "Where should I add the region setting in the AWS configuration file to affect my integration tests correctly?",
+    "course": "mlops-zoomcamp",
+    "document": "16099520dd"
+  },
+  {
+    "question": "What exact line of code in `docker-compose.yaml` ensures that the Docker container uses the intended AWS region for operations?",
+    "course": "mlops-zoomcamp",
+    "document": "16099520dd"
+  }
+]

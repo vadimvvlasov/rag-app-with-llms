@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I install the official extension for managing Docker containers in Visual Studio Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0cc94bef66"
+  },
+  {
+    "question": "What steps are required to launch the Docker extension from within VS Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0cc94bef66"
+  },
+  {
+    "question": "Is it possible to manage Docker resources when my Docker environment is running on WSL2 using VS Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0cc94bef66"
+  },
+  {
+    "question": "Which icon in the left sidebar of VS Code indicates the active Docker extension?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0cc94bef66"
+  },
+  {
+    "question": "Can I use VS Code to monitor and control Docker containers, images, networks, and Compose projects simultaneously?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0cc94bef66"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why are 100,000 records missing when I run the Jupyter notebook containing the NY Taxi data ingestion script a second time?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0d6dc0d041"
+  },
+  {
+    "question": "What specific change should I make to the Jupyter notebook to ensure all ~1.3 million rows are ingested into the `yellow_taxi_data` table without missing any records?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0d6dc0d041"
+  },
+  {
+    "question": "Is it possible to execute the entire script in the Jupyter notebook multiple times without encountering issues with record duplication or omission?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0d6dc0d041"
+  },
+  {
+    "question": "What is the purpose of removing the cell `df=next(df_iter)` that appears above the while loop, and how does this affect data ingestion efficiency?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0d6dc0d041"
+  },
+  {
+    "question": "After modifying the notebook as instructed, will the data be correctly ingested into Postgres when the logic is later moved to a `.py` file for the pipeline?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0d6dc0d041"
+  }
+]

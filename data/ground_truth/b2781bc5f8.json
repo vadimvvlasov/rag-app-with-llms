@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I tried installing sklearn version 1.0.2 with the command `pipenv install sklearn==1.0.2` but received errors. What is the correct package name to use for this installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b2781bc5f8"
+  },
+  {
+    "question": "What should I type in the terminal to successfully install scikit-learn version 1.0.2 using pipenv, as mentioned in Module 5 of machine-learning-zoomcamp?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b2781bc5f8"
+  },
+  {
+    "question": "If my assignment requires scikit-learn version 1.3.1 instead of 1.0.2, how do I specify the correct version when running `pipenv install`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b2781bc5f8"
+  },
+  {
+    "question": "Why does attempting to install sklearn without its full name cause errors in Module 5's deployment instructions for the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b2781bc5f8"
+  },
+  {
+    "question": "Can you provide the exact pipenv command needed to resolve installation errors for scikit-learn version 1.0.2 as outlined in the FAQ record?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b2781bc5f8"
+  }
+]

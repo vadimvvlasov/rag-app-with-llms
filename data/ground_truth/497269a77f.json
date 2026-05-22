@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Where should I place my Google Cloud Platform credentials on the virtual machine for connecting local Spark to GCS?",
+    "course": "data-engineering-zoomcamp",
+    "document": "497269a77f"
+  },
+  {
+    "question": "What specific location in the script references the path where my GCP credentials must be stored?",
+    "course": "data-engineering-zoomcamp",
+    "document": "497269a77f"
+  },
+  {
+    "question": "Why might Spark fail to detect my Google credentials even after following the video instructions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "497269a77f"
+  },
+  {
+    "question": "How can I verify that my GCP credentials are correctly configured within the VM before running the Spark connection script?",
+    "course": "data-engineering-zoomcamp",
+    "document": "497269a77f"
+  },
+  {
+    "question": "Are there any common issues or troubleshooting steps if Spark still cannot locate my Google Cloud Platform credentials?",
+    "course": "data-engineering-zoomcamp",
+    "document": "497269a77f"
+  }
+]

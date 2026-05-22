@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I visualize feature importance in scikit-learn for a decision tree model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9b9e23bca0"
+  },
+  {
+    "question": "What does the inclusion of standard errors in the features importance plot indicate about model stability?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9b9e23bca0"
+  },
+  {
+    "question": "Where can I find an example implementation of plotting feature importance with standard errors using scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9b9e23bca0"
+  },
+  {
+    "question": "Which section of the 'machine-learning-zoomcamp' course covers visualization techniques for model explainability?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9b9e23bca0"
+  },
+  {
+    "question": "How might adjusting model parameters affect the stability and interpretability of features as shown in the importance graph?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9b9e23bca0"
+  }
+]

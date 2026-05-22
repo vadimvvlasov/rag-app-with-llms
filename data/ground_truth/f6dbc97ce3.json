@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did the `eb create` command fail with a message about creating an Auto Scaling launch configuration?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6dbc97ce3"
+  },
+  {
+    "question": "What is the recommended fix for the error when creating an Elastic Beanstalk environment in October 2024?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6dbc97ce3"
+  },
+  {
+    "question": "How can I ensure that my `eb create` command uses launch templates instead of deprecated launch configurations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6dbc97ce3"
+  },
+  {
+    "question": "What specific flag should I pass to the `eb create` command to force the use of spot instances and avoid the launch configuration issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6dbc97ce3"
+  },
+  {
+    "question": "If I run the interactive `eb create` wizard, what question do I need to answer affirmatively to enable spot fleet requests?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6dbc97ce3"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What PowerShell command is used to retrieve the size of a file specified by its path?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8637328bbb"
+  },
+  {
+    "question": "How can I display the file size in megabytes (MB) after obtaining it with PowerShell?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8637328bbb"
+  },
+  {
+    "question": "In PowerShell, what variable should be assigned to store the result of `Get-Item` for a specific file location?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8637328bbb"
+  },
+  {
+    "question": "Where can I find the source that explains how to get a file's size using PowerShell as referenced in Module 9 of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8637328bbb"
+  },
+  {
+    "question": "Which function within PowerShell is utilized alongside `Get-Item` to determine the length of a file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8637328bbb"
+  }
+]

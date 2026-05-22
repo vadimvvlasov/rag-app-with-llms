@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I mitigate Out of Memory errors when processing a large dataset in an ML pipeline without increasing RAM?",
+    "course": "mlops-zoomcamp",
+    "document": "e00253e2df"
+  },
+  {
+    "question": "What is the first step to reduce memory usage during data loading in the workflow?",
+    "course": "mlops-zoomcamp",
+    "document": "e00253e2df"
+  },
+  {
+    "question": "Should I delete intermediate DataFrames after extracting training features and labels?",
+    "course": "mlops-zoomcamp",
+    "document": "e00253e2df"
+  },
+  {
+    "question": "What command should I use to create a swap file if my system lacks sufficient virtual memory?",
+    "course": "mlops-zoomcamp",
+    "document": "e00253e2df"
+  },
+  {
+    "question": "How do I verify that the newly created swap file is active and properly sized?",
+    "course": "mlops-zoomcamp",
+    "document": "e00253e2df"
+  }
+]

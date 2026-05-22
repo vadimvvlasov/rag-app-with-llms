@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a singular matrix error when attempting to invert a matrix?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0be9e7cc3d"
+  },
+  {
+    "question": "What does it mean for a matrix to be singular in the context of linear algebra and machine learning?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0be9e7cc3d"
+  },
+  {
+    "question": "How can the order of multiplication affect the ability to invert a matrix, as mentioned in the FAQ record?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0be9e7cc3d"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course is the explanation about singular matrix errors provided?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0be9e7cc3d"
+  },
+  {
+    "question": "What specific method used in matrix operations leads to the singularity issue highlighted in the 'Singular Matrix Error' FAQ?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0be9e7cc3d"
+  }
+]

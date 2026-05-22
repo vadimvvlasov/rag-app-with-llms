@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I resolve the 'docker-compose: command not found' error after downloading the binary?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e43abaa421"
+  },
+  {
+    "question": "What steps should I take to ensure I download the correct docker-compose binary for my Linux system's architecture?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e43abaa421"
+  },
+  {
+    "question": "Why am I encountering a 'cannot execute binary file: Exec format error', and how can I fix it on an ARM64 machine?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e43abaa421"
+  },
+  {
+    "question": "How can I address the 'error getting credentials' issue when Docker requests a credential helper that is missing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e43abaa421"
+  },
+  {
+    "question": "What should I do to grant my user permission to connect to Docker's socket without encountering a 'permission denied' error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e43abaa421"
+  }
+]

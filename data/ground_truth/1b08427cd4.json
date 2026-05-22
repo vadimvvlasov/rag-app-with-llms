@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I import a specific `ping` function from another file in Python when I encounter the error 'No module named ‘ping’'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1b08427cd4"
+  },
+  {
+    "question": "What should I replace `[file name]` with to successfully import the `ping` function after receiving the 'No module named ‘ping’' error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1b08427cd4"
+  },
+  {
+    "question": "In which section of the 'machine-learning-zoomcamp' course is the solution for the missing `ping` module error discussed?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1b08427cd4"
+  },
+  {
+    "question": "Why does the error 'No module named ‘ping’' occur, and what is the recommended approach to resolve it in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1b08427cd4"
+  },
+  {
+    "question": "Can you provide a code snippet showing how to import the `ping` function directly from its defining file to fix the 'No module named ‘ping’' issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1b08427cd4"
+  }
+]

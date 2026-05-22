@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I reorder the dimensions of my image tensor from channels-last (NHWC) to channels-first (NCHW) format before feeding it into a PyTorch/ONNX model that expects input shape (1, 3, 200, 200)?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7b7188f8f7"
+  },
+  {
+    "question": "What is the difference between NHWC and NCHW tensor formats in deep learning frameworks like TensorFlow and PyTorch respectively?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7b7188f8f7"
+  },
+  {
+    "question": "Why does my preprocessing step result in an image array of shape (1, 200, 200, 3) instead of the required (1, 3, 200, 200) for a PyTorch/ONNX model, and how can I fix this using NumPy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7b7188f8f7"
+  },
+  {
+    "question": "Which NumPy function should be used to rearrange the axes of an array from (height, width, channels) to (channels, height, width) before adding a batch dimension?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7b7188f8f7"
+  },
+  {
+    "question": "In the context of converting between TensorFlow models (which use NHWC) and PyTorch/ONNX models (which use NCHW), what is the correct sequence of operations to prepare image data for inference?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7b7188f8f7"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I create a user interface that allows people to input data for machine learning model processing?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79d7bebfbf"
+  },
+  {
+    "question": "What methods should be used to validate the data entered by users both on the frontend and backend?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79d7bebfbf"
+  },
+  {
+    "question": "Is Streamlit a suitable tool for developing an application to collect and preprocess data for ML models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79d7bebfbf"
+  },
+  {
+    "question": "Where can I find a detailed guide or example repository demonstrating how to set up a form-based interface using Streamlit?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79d7bebfbf"
+  },
+  {
+    "question": "What are the key considerations when designing a mobile app or web interface for data collection that feeds into machine learning workflows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79d7bebfbf"
+  }
+]

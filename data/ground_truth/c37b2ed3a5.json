@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I am encountering a compilation error stating that the model 'model.my_new_project.stg_green_tripdata' depends on a source named 'staging.green_trip_external', which is not found. What should I do to resolve this issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c37b2ed3a5"
+  },
+  {
+    "question": "During the execution of video DE Zoomcamp 4.3.1 - Building the First DBT Models, at approximately 14:25, the Lineage graph fails to display, and I receive a compilation error as depicted in the attached screenshot. How can I fix this problem?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c37b2ed3a5"
+  },
+  {
+    "question": "In the context of Module 4: Analytics Engineering with dbt from the data-engineering-zoomcamp course, what is the specific action recommended to address a missing source reference error for 'staging.green_trip_external' within the 'schema.yml' file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c37b2ed3a5"
+  },
+  {
+    "question": "When building my first DBT models following DE Zoomcamp video 4.3.1, why does saving the `schema.yml` file resolve the compilation issue related to an undefined source 'staging.green_trip_external', and where can I verify this fix with the Lineage graph?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c37b2ed3a5"
+  },
+  {
+    "question": "For learners of data-engineering-zoomcamp who experience a dbt Compilation Error due to a non-existent source named 'staging.green_trip_external' while working on model.my_new_project.stg_green_tripdata, what is the quickest method to restore the functionality and view the lineage graph?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c37b2ed3a5"
+  }
+]

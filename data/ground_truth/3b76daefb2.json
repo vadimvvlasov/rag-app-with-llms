@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary cause of the absurdly high RMSE on the February validation dataset?",
+    "course": "mlops-zoomcamp",
+    "document": "3b76daefb2"
+  },
+  {
+    "question": "Why does removing the conversion of the sparse matrix result from `DictVectorizer` to an ndarray resolve the issue?",
+    "course": "mlops-zoomcamp",
+    "document": "3b76daefb2"
+  },
+  {
+    "question": "How should outliers be handled consistently across both the training and validation datasets?",
+    "course": "mlops-zoomcamp",
+    "document": "3b76daefb2"
+  },
+  {
+    "question": "What steps should be taken if the RMSE remains incorrect after ensuring the sparse matrix is not converted to an ndarray?",
+    "course": "mlops-zoomcamp",
+    "document": "3b76daefb2"
+  },
+  {
+    "question": "Can you explain the importance of maintaining consistency in preprocessing between the train and validation datasets during model evaluation?",
+    "course": "mlops-zoomcamp",
+    "document": "3b76daefb2"
+  }
+]

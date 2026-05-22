@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do to fix the error 'docker: error during connect: In the default daemon configuration on Windows, the docker client must be run with elevated privileges to connect.'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "46dbe4810d"
+  },
+  {
+    "question": "How can I enable Hyper-V for Docker on Windows 10 Pro or Windows 11 Pro?",
+    "course": "data-engineering-zoomcamp",
+    "document": "46dbe4810d"
+  },
+  {
+    "question": "What alternative method should Windows 10 Home or Windows 11 Home users use to set up Docker?",
+    "course": "data-engineering-zoomcamp",
+    "document": "46dbe4810d"
+  },
+  {
+    "question": "Where can I find detailed instructions to install and configure WSL2 for Docker on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "46dbe4810d"
+  },
+  {
+    "question": "What specific steps are required if I encounter the 'WslRegisterDistribution failed with error: 0x800701bc' error while installing WSL2?",
+    "course": "data-engineering-zoomcamp",
+    "document": "46dbe4810d"
+  }
+]

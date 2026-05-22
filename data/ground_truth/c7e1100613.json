@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the context of running Docker on Windows, should I execute Docker commands from the native Windows file system or from a Linux file system when using WSL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c7e1100613"
+  },
+  {
+    "question": "What specific steps are outlined in the tutorial linked for installing and configuring WSL2 to work with Docker on Windows Home Edition?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c7e1100613"
+  },
+  {
+    "question": "If Docker does not function properly even after setting up WSL2 or Hyper-V correctly, what alternative solutions are suggested in the FAQ record?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c7e1100613"
+  },
+  {
+    "question": "Where can I find detailed instructions for resetting Docker to factory defaults if it becomes unresponsive?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c7e1100613"
+  },
+  {
+    "question": "What is the recommended action to take if all other troubleshooting steps fail to resolve Docker issues on Windows with WSL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c7e1100613"
+  }
+]

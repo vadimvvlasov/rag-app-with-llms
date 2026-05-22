@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it permissible to utilize pre-trained machine learning models for the project?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fca4671a69"
+  },
+  {
+    "question": "What training modifications are acceptable if I choose to use a pre-trained model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fca4671a69"
+  },
+  {
+    "question": "Will using only deployment techniques without any training adjustments affect my grade negatively?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fca4671a69"
+  },
+  {
+    "question": "How much of the project should be dedicated to deploying a pre-trained model versus implementing new training procedures?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fca4671a69"
+  },
+  {
+    "question": "Can I achieve a satisfactory overall score if I focus on deploying a pre-trained model but still incorporate some form of training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fca4671a69"
+  }
+]

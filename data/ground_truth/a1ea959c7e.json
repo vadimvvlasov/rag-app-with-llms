@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I encountered a \"Module 'kafka' not found\" error while executing `producer.py`. How can I fix this issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1ea959c7e"
+  },
+  {
+    "question": "What steps should I follow to set up a virtual environment for running the Kafka producer script?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1ea959c7e"
+  },
+  {
+    "question": "After creating a virtual environment, which command do I need to use to install the dependencies listed in `requirements.txt`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1ea959c7e"
+  },
+  {
+    "question": "How do I activate and deactivate the virtual environment on macOS/Linux versus Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1ea959c7e"
+  },
+  {
+    "question": "Is it necessary to have Docker containers running before I run the Python file after setting up the virtual environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a1ea959c7e"
+  }
+]

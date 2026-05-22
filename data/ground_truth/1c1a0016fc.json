@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is a comprehensive guide to handling missing values in Python that can be used as a reference during the course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c1a0016fc"
+  },
+  {
+    "question": "Where can I find detailed instructions and code examples for treating missing data specifically within the context of regression models covered in Module 2 of the Machine Learning ZoomCamp?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c1a0016fc"
+  },
+  {
+    "question": "Which resource provides step-by-step methodology for addressing incomplete datasets, ensuring robust analysis outcomes in predictive modeling exercises?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c1a0016fc"
+  },
+  {
+    "question": "In the 'Machine Learning ZoomCamp' curriculum, under which module are techniques for managing absent entries in datasets discussed, and what is the associated learning material link?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c1a0016fc"
+  },
+  {
+    "question": "How does the provided notebook aid students in applying practical solutions to real-world scenarios involving data gaps while working through regression tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c1a0016fc"
+  }
+]

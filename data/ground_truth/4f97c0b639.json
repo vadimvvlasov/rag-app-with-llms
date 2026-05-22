@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it possible to place my dbt project within a subdirectory of my GitHub repository instead of the root directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f97c0b639"
+  },
+  {
+    "question": "How should I configure the `dbt_project.yml` file when my dbt files are located in a subfolder like `Week_4/`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f97c0b639"
+  },
+  {
+    "question": "What changes do I need to make to the paths specified in `dbt_project.yml` if my dbt files reside in a subdirectory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f97c0b639"
+  },
+  {
+    "question": "Do I need to update any `.gitignore` entries when relocating my dbt project to a subfolder within my GitHub repository?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f97c0b639"
+  },
+  {
+    "question": "Are there any steps required after moving the dbt project to ensure everything functions correctly without old dbt-related files interfering?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f97c0b639"
+  }
+]

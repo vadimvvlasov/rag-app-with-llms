@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I upload the NYC TLC dataset for the homework assignment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c549d24645"
+  },
+  {
+    "question": "What script should I use to transfer datasets from GitHub during the Homework: Ingesting NYC TLC Data exercise?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c549d24645"
+  },
+  {
+    "question": "Is there a similar script provided in the course materials that I can refer to for uploading files to Google Cloud Storage?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c549d24645"
+  },
+  {
+    "question": "Could you provide the direct link to the git_csv_to_gcs.py script mentioned in the FAQ for Module 4, Analytics Engineering with dbt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c549d24645"
+  },
+  {
+    "question": "What is the purpose of the git_csv_to_gcs.py script in the context of the data-engineering-zoomcamp course homework?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c549d24645"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why are logged model artifacts missing after restarting or removing the mlflow Docker container?",
+    "course": "mlops-zoomcamp",
+    "document": "d94e5cc566"
+  },
+  {
+    "question": "What is the default storage location for logged models and artifacts within the mlflow container, and why does this cause data loss upon container restarts?",
+    "course": "mlops-zoomcamp",
+    "document": "d94e5cc566"
+  },
+  {
+    "question": "How can I ensure that my experiment data remains accessible across multiple runs of the mlflow container?",
+    "course": "mlops-zoomcamp",
+    "document": "d94e5cc566"
+  },
+  {
+    "question": "What specific volume configuration in Docker Compose will preserve model artifacts outside of the mlflow runtime environment?",
+    "course": "mlops-zoomcamp",
+    "document": "d94e5cc566"
+  },
+  {
+    "question": "If I map a local directory to `/mlartifacts` within the mlflow container, how does this affect the persistence of logged artifacts?",
+    "course": "mlops-zoomcamp",
+    "document": "d94e5cc566"
+  }
+]

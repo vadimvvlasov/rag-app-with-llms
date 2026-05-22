@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What change in Scikit-learn version introduced support for handling missing values in `DecisionTreeClassifier` and `DecisionTreeRegressor`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0444b72ca"
+  },
+  {
+    "question": "How did earlier versions of Scikit-learn handle missing values when using decision tree classifiers or regressors, and what method was used to address this issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0444b72ca"
+  },
+  {
+    "question": "At which timestamp in lesson 6.3 does the video discuss an error caused by missing values, and what technique is demonstrated to mitigate it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0444b72ca"
+  },
+  {
+    "question": "Where can I find the official documentation detailing the enhancements made to `sklearn.tree` in version 1.3 regarding missing value support?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0444b72ca"
+  },
+  {
+    "question": "In the context of Module 6 on Decision Trees, Ensembles & Gradient Boosting for the Machine Learning Zoomcamp course, what specific update in Sklearn version 1.3 affects the treatment of NaN values in feature matrices for decision tree models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0444b72ca"
+  }
+]

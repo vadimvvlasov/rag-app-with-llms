@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the distplot take a long time to compute?",
+    "course": "mlops-zoomcamp",
+    "document": "2d1c6920b6"
+  },
+  {
+    "question": "What preprocessing step can I apply to speed up the distribution plot?",
+    "course": "mlops-zoomcamp",
+    "document": "2d1c6920b6"
+  },
+  {
+    "question": "Before creating a distplot, how should I handle trips with unusually long durations?",
+    "course": "mlops-zoomcamp",
+    "document": "2d1c6920b6"
+  },
+  {
+    "question": "In Module 1 of mlops-zoomcamp, what is recommended to optimize plotting performance for trip duration data?",
+    "course": "mlops-zoomcamp",
+    "document": "2d1c6920b6"
+  },
+  {
+    "question": "Which outlier removal technique is suggested to improve the efficiency of visualizing trip durations?",
+    "course": "mlops-zoomcamp",
+    "document": "2d1c6920b6"
+  }
+]

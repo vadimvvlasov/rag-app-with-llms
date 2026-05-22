@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What steps are required to configure GitHub for use from a remote VM?",
+    "course": "mlops-zoomcamp",
+    "document": "db8427d6cf"
+  },
+  {
+    "question": "Where can I find a tutorial for setting up GitHub on an AWS instance?",
+    "course": "mlops-zoomcamp",
+    "document": "db8427d6cf"
+  },
+  {
+    "question": "How do I generate and add SSH keys to my AWS instance for GitHub authentication?",
+    "course": "mlops-zoomcamp",
+    "document": "db8427d6cf"
+  },
+  {
+    "question": "Will the chosen AWS instance be covered under the free tier, and if not, what is included in the free tier?",
+    "course": "mlops-zoomcamp",
+    "document": "db8427d6cf"
+  },
+  {
+    "question": "What are the potential additional charges I might incur beyond the AWS free tier limits?",
+    "course": "mlops-zoomcamp",
+    "document": "db8427d6cf"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How does `DictVectorizer(sparse=True)` differ from `pandas.get_dummies()` in the representation of one-hot encodings?",
+    "course": "machine-learning-zoomcamp",
+    "document": "947bf26d84"
+  },
+  {
+    "question": "What is the memory efficiency advantage of using CSR format over a dense matrix for categorical features with many classes, such as car models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "947bf26d84"
+  },
+  {
+    "question": "Why does `DictVectorizer(sparse=True)` converge faster during model fitting compared to a non-sparse representation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "947bf26d84"
+  },
+  {
+    "question": "What are the performance implications for Linear/Ridge Regression when using sparse format versus dense one-hot encoding for high-class features?",
+    "course": "machine-learning-zoomcamp",
+    "document": "947bf26d84"
+  },
+  {
+    "question": "What warning messages might appear if we opt not to use sparse format with a large number of categorical classes in `DictVectorizer`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "947bf26d84"
+  }
+]

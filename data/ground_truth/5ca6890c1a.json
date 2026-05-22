@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I execute a Kafka producer program from the command line?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5ca6890c1a"
+  },
+  {
+    "question": "What is the exact command to launch a consumer application located in `src/main/java/org/example/JsonProducer.java` using Java?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5ca6890c1a"
+  },
+  {
+    "question": "In a Data Engineering ZoomCamp project, where should I specify the JAR file and class path when running Kafka streaming tasks via terminal?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5ca6890c1a"
+  },
+  {
+    "question": "Which directory contains the compiled JAR and source files necessary for running Kafka Streaming examples as per Module 7 guidelines?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5ca6890c1a"
+  },
+  {
+    "question": "What is the full command syntax to initiate a Kafka Streams application in the project’s root directory according to the provided FAQ?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5ca6890c1a"
+  }
+]

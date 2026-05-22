@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What package must be installed to enable running dbt-core projects as Airflow Task Groups on Google Cloud Composer?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e839b64165"
+  },
+  {
+    "question": "Where should the dbt-core project files be placed within the Composer GCP bucket structure?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e839b64165"
+  },
+  {
+    "question": "How should the `profiles.yml` file be configured to authenticate using a service account JSON key?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e839b64165"
+  }
+]

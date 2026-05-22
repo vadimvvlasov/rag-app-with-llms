@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message 'annotated as a valid Timestamp, please annotate it as TimestampType(MICROS) or TimestampType(MILLIS)' mean in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2a18da218"
+  },
+  {
+    "question": "How can I modify my PyArrow Parquet writing configuration to resolve timestamp compatibility issues with Google BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2a18da218"
+  },
+  {
+    "question": "When should I use `use_deprecated_int96_timestamps=True` in the `pq.write_to_dataset` function?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2a18da218"
+  },
+  {
+    "question": "What are the potential sources of datetime format errors when editing Parquet files for BigQuery ingestion?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2a18da218"
+  },
+  {
+    "question": "Can you provide a reference or discussion from Stack Overflow that explains the compatibility differences between PyArrow and PySpark-generated Parquet files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c2a18da218"
+  }
+]

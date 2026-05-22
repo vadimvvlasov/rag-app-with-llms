@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do I receive permission errors when mounting a host directory to Postgres in Docker?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0beb2b5df7"
+  },
+  {
+    "question": "How can I prevent the error `could not change permissions of directory` when using `-v $(pwd)/ny_taxi_postgres_data:/var/lib/postgresql/data`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0beb2b5df7"
+  },
+  {
+    "question": "What is the recommended approach to avoid cross-OS permission problems with PostgreSQL data directories in Docker?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0beb2b5df7"
+  },
+  {
+    "question": "If I must use a host-bind mount on Linux, how do I grant the Postgres container appropriate permissions for the directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0beb2b5df7"
+  },
+  {
+    "question": "How can I handle the situation when `initdb` reports that the target directory exists but is not empty during subsequent container runs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0beb2b5df7"
+  }
+]

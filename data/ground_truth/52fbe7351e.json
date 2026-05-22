@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I accurately determine the number of input features for the first Linear layer after a Flatten operation in a CNN-based model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "52fbe7351e"
+  },
+  {
+    "question": "What utility or method is recommended to view the output shape of each layer, including the Flatten layer, in a PyTorch model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "52fbe7351e"
+  },
+  {
+    "question": "Can you demonstrate how to use torchinfo (or an equivalent) to inspect the feature map size after the final pooling layer before flattening?",
+    "course": "machine-learning-zoomcamp",
+    "document": "52fbe7351e"
+  },
+  {
+    "question": "Is there a way to avoid manually computing the flattened tensor size by letting PyTorch infer it during the first forward pass of my network?",
+    "course": "machine-learning-zoomcamp",
+    "document": "52fbe7351e"
+  },
+  {
+    "question": "Given a CNN with specific convolutional and pooling layers, how do I calculate the dimensions of the output feature map that will be fed into the Linear layer?",
+    "course": "machine-learning-zoomcamp",
+    "document": "52fbe7351e"
+  }
+]

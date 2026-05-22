@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I deploy the Kubernetes Dashboard?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e5c67e3439"
+  },
+  {
+    "question": "What steps are required to access the Kubernetes Dashboard through a web interface?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e5c67e3439"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course is the Kubernetes Dashboard covered?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e5c67e3439"
+  },
+  {
+    "question": "Where can I find detailed instructions for deploying and accessing the Kubernetes Dashboard?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e5c67e3439"
+  },
+  {
+    "question": "Which specific resource or document within Module 10 provides guidance on using TensorFlow Serving with Kubernetes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e5c67e3439"
+  }
+]

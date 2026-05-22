@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of normalizing vectors in a Pandas DataFrame column?",
+    "course": "llm-zoomcamp",
+    "document": "5039707c1a"
+  },
+  {
+    "question": "How can I apply a normalization function to each vector in a specific Pandas Series?",
+    "course": "llm-zoomcamp",
+    "document": "5039707c1a"
+  },
+  {
+    "question": "Which method from NumPy is used to calculate the norm of a vector in the provided code snippet?",
+    "course": "llm-zoomcamp",
+    "document": "5039707c1a"
+  },
+  {
+    "question": "If I have a DataFrame `df` with an original column named 'org_col', how do I create a new normalized column called 'new_col' using the given lambda function?",
+    "course": "llm-zoomcamp",
+    "document": "5039707c1a"
+  },
+  {
+    "question": "In the context of this course, under which module and lesson would you typically find information on vector normalization techniques?",
+    "course": "llm-zoomcamp",
+    "document": "5039707c1a"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the default username and password for accessing the Grafana login window when running `docker-compose up`?",
+    "course": "mlops-zoomcamp",
+    "document": "f71b6beef0"
+  },
+  {
+    "question": "After initially logging into Grafana with the default credentials, what must be done next to secure the account?",
+    "course": "mlops-zoomcamp",
+    "document": "f71b6beef0"
+  },
+  {
+    "question": "Where can I find additional information on setting a new password in Grafana after the initial login?",
+    "course": "mlops-zoomcamp",
+    "document": "f71b6beef0"
+  },
+  {
+    "question": "If I forget the username and password for the Grafana dashboard launched via `docker-compose up`, how can I retrieve them or reset them?",
+    "course": "mlops-zoomcamp",
+    "document": "f71b6beef0"
+  },
+  {
+    "question": "How do I ensure that the correct credentials are used when accessing http://localhost:3000/ during the MLOps ZoomCamp Module 5 lesson on monitoring?",
+    "course": "mlops-zoomcamp",
+    "document": "f71b6beef0"
+  }
+]

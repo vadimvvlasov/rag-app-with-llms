@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What method can I use in pandas to select columns with numeric data types?",
+    "course": "machine-learning-zoomcamp",
+    "document": "eecebb4f2f"
+  },
+  {
+    "question": "How do I retrieve the list of column names that have object (string) data type in a DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "eecebb4f2f"
+  },
+  {
+    "question": "In the context of machine learning with Python, which function is used to filter DataFrame columns based on their data types?",
+    "course": "machine-learning-zoomcamp",
+    "document": "eecebb4f2f"
+  },
+  {
+    "question": "What arguments should be passed to `select_dtypes` to isolate all numeric columns within a pandas DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "eecebb4f2f"
+  },
+  {
+    "question": "How can I convert the output of column selection by data type into a standard list format for further processing?",
+    "course": "machine-learning-zoomcamp",
+    "document": "eecebb4f2f"
+  }
+]

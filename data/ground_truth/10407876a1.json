@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving the SSH error 'ssh: Could not resolve hostname linux: Name or service not known'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "10407876a1"
+  },
+  {
+    "question": "How can I fix the hostname resolution issue when trying to connect via SSH to a Linux server?",
+    "course": "data-engineering-zoomcamp",
+    "document": "10407876a1"
+  },
+  {
+    "question": "What file should be located at `C/User/Username/.ssh/config` to resolve the SSH connection problem?",
+    "course": "data-engineering-zoomcamp",
+    "document": "10407876a1"
+  },
+  {
+    "question": "Where is the correct path for my SSH configuration file on Windows to avoid DNS resolution errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "10407876a1"
+  },
+  {
+    "question": "What steps should I take if I encounter SSH hostname resolution failures during setup in the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "10407876a1"
+  }
+]

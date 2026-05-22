@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering 'package xxx does not exist' errors after running a Gradle build for my Java Kafka project, and how can I resolve this issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d01cbfa9cb"
+  },
+  {
+    "question": "What specific modification should be added to the `build.gradle` file to ensure all dependencies are included in the generated `<project_name>-1.0-SNAPSHOT.jar`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d01cbfa9cb"
+  },
+  {
+    "question": "Could you provide the exact command line instruction needed to execute the shadowjar task successfully using Gradle for my streaming project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d01cbfa9cb"
+  },
+  {
+    "question": "After running the suggested Gradle command, what new JAR file should I expect to be created, and how do I run it to test my Java Kafka application?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d01cbfa9cb"
+  },
+  {
+    "question": "In the context of Module 7: Streaming from the data-engineering-zoomcamp course, where can I find additional resources or examples on handling dependency packaging with shadowJar?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d01cbfa9cb"
+  }
+]

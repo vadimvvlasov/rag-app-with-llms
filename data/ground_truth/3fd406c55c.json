@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my SSH connection to an AWS EC2 instance from WSL get terminated after a brief period of inactivity?",
+    "course": "mlops-zoomcamp",
+    "document": "3fd406c55c"
+  },
+  {
+    "question": "What specific configuration changes should I apply in the `.ssh` directory of my WSL environment to prevent SSH session timeouts on AWS EC2?",
+    "course": "mlops-zoomcamp",
+    "document": "3fd406c55c"
+  },
+  {
+    "question": "Could you provide a sample `config` file entry demonstrating how to set `ServerAliveInterval` and `ServerAliveCountMax` for maintaining an active SSH connection to an EC2 instance?",
+    "course": "mlops-zoomcamp",
+    "document": "3fd406c55c"
+  },
+  {
+    "question": "What is the purpose of adding `StrictHostKeyChecking no` in the SSH configuration, and does it relate to maintaining session continuity?",
+    "course": "mlops-zoomcamp",
+    "document": "3fd406c55c"
+  },
+  {
+    "question": "After implementing the suggested changes, what might be the expected behavior of my SSH connection regarding periods of inactivity?",
+    "course": "mlops-zoomcamp",
+    "document": "3fd406c55c"
+  }
+]

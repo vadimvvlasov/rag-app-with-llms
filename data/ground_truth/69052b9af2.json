@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs when trying to generate a Pipfile.lock?",
+    "course": "mlops-zoomcamp",
+    "document": "69052b9af2"
+  },
+  {
+    "question": "Which command should be executed to resolve the InstallationError raised by pipenv?",
+    "course": "mlops-zoomcamp",
+    "document": "69052b9af2"
+  },
+  {
+    "question": "Why is it necessary to upgrade both `wheel` and `pipenv` in this scenario?",
+    "course": "mlops-zoomcamp",
+    "document": "69052b9af2"
+  },
+  {
+    "question": "How can I ensure that the installation strategy for upgrading pipenv and wheel is set to 'eager'?",
+    "course": "mlops-zoomcamp",
+    "document": "69052b9af2"
+  },
+  {
+    "question": "What is the purpose of running the `pip install --user` command in the context of fixing Pipfile.lock generation issues?",
+    "course": "mlops-zoomcamp",
+    "document": "69052b9af2"
+  }
+]

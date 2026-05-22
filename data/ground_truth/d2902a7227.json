@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What causes the error 'Parquet column 'XYZ' has type INT which does not match the target cpp_type DOUBLE' when ingesting data into a BigQuery table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d2902a7227"
+  },
+  {
+    "question": "Why do datasets like the FHV Datasets from 2019 have inconsistent schemas for columns such as 'PUlocationID' and 'DOlocationID' across different months?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d2902a7227"
+  },
+  {
+    "question": "How can I ensure that all files within a directory have the same schema before importing them as Parquet to BigQuery to avoid schema mismatch errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d2902a7227"
+  },
+  {
+    "question": "What is the recommended method to enforce consistent data types for specific columns in a DataFrame when preparing it for serialization/uploading to BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d2902a7227"
+  },
+  {
+    "question": "In the context of BigQuery data ingestion, what happens if the first file defines one column type and subsequent files define that same column with a different type?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d2902a7227"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a ValueError stating 'Cannot set tensor: Got value of type UINT8 but expected type FLOAT32 for input 0' when executing interpreter.set_tensor(input_index, X)?",
+    "course": "machine-learning-zoomcamp",
+    "document": "29f149ff07"
+  },
+  {
+    "question": "At what point in the course video does this error typically appear?",
+    "course": "machine-learning-zoomcamp",
+    "document": "29f149ff07"
+  },
+  {
+    "question": "What is the exact nature of the mismatch between `X` and the expected tensor type that causes the ValueError?",
+    "course": "machine-learning-zoomcamp",
+    "document": "29f149ff07"
+  },
+  {
+    "question": "How can I convert `X` to ensure compatibility with the `set_tensor` function call?",
+    "course": "machine-learning-zoomcamp",
+    "document": "29f149ff07"
+  },
+  {
+    "question": "Is there a version-specific note regarding the conversion of `X` to float32 for TensorFlow 2.15.0 in Module 9?",
+    "course": "machine-learning-zoomcamp",
+    "document": "29f149ff07"
+  }
+]

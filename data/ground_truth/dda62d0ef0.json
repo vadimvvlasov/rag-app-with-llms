@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific error message appears when a permission denied error occurs during the gcp_setup flow execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dda62d0ef0"
+  },
+  {
+    "question": "Why might the GCP console indicate that a bucket already exists, causing the setup to fail?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dda62d0ef0"
+  },
+  {
+    "question": "How can I verify programmatically whether a particular GCP bucket name is available before creating it in the gcp_setup flow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dda62d0ef0"
+  },
+  {
+    "question": "What are the implications of naming constraints for GCP buckets globally, and how does this relate to the permission denied error encountered?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dda62d0ef0"
+  },
+  {
+    "question": "After encountering a permission denied error due to an existing bucket, what alternative steps should I take to successfully complete the gcp_setup workflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dda62d0ef0"
+  }
+]

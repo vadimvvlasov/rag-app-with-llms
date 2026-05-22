@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is nothing displayed in the Spark UI despite my code running correctly?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b1d465332"
+  },
+  {
+    "question": "How can I identify which Spark session is currently active when multiple notebooks are open?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b1d465332"
+  },
+  {
+    "question": "What command should I use to check the URL of the current Spark application's web interface?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b1d465332"
+  },
+  {
+    "question": "If I am using a virtual machine, what port forwarding step is necessary to view the Spark UI locally?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b1d465332"
+  },
+  {
+    "question": "What is the default port used by Spark for its Web UI, and how does it behave when multiple sessions are active?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b1d465332"
+  }
+]

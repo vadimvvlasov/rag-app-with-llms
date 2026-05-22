@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do I encounter the error 'the input device is not a TTY' when trying to run an interactive Docker container in GitBash on Windows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "10316840ce"
+  },
+  {
+    "question": "What command should I use to properly interact with a running Docker container from within GitBash on a Windows system?",
+    "course": "machine-learning-zoomcamp",
+    "document": "10316840ce"
+  },
+  {
+    "question": "How does prefixing a Docker exec command with 'winpty' resolve the TTY issue on Windows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "10316840ce"
+  },
+  {
+    "question": "Can you explain what a TTY is and why it's necessary for interacting with certain terminal-based applications in Docker?",
+    "course": "machine-learning-zoomcamp",
+    "document": "10316840ce"
+  },
+  {
+    "question": "Where can I find additional resources to understand the differences between terminals, shells, and consoles as mentioned in the fix section?",
+    "course": "machine-learning-zoomcamp",
+    "document": "10316840ce"
+  }
+]

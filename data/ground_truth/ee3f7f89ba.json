@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my job continue to run using the older version of the modeling files after I've committed changes to the development branch?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee3f7f89ba"
+  },
+  {
+    "question": "What steps should I follow to ensure that my dbt job utilizes the latest updates from my development branch?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee3f7f89ba"
+  },
+  {
+    "question": "How can I synchronize my development branch with the main branch in GitHub to reflect recent modifications in my dbt project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee3f7f89ba"
+  },
+  {
+    "question": "After making adjustments to my modeling files, what procedure should I employ to verify that the subsequent job execution employs the updated files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee3f7f89ba"
+  },
+  {
+    "question": "In a dbt workflow within GitHub, what is the correct sequence of actions to merge changes from a development branch into the main branch and trigger an updated job run?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee3f7f89ba"
+  }
+]

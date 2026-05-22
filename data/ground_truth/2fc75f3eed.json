@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving an ImportError stating that a module compiled with NumPy 1.x cannot be run in NumPy 2.2.0 when using the tflite runtime installed from the provided wheel?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2fc75f3eed"
+  },
+  {
+    "question": "What specific steps should I follow to install the tflite_runtime wheel without overwriting existing NumPy dependencies, as mentioned in the error message?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2fc75f3eed"
+  },
+  {
+    "question": "How can I ensure compatibility between modules compiled with older NumPy versions and the newer NumPy 2.2.0 environment after installing the tflite runtime?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2fc75f3eed"
+  },
+  {
+    "question": "What is the purpose of using the `--no-deps` option during pip installation, and how does it relate to preventing conflicts with NumPy versions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2fc75f3eed"
+  },
+  {
+    "question": "If I encounter modules that need to be rebuilt for compatibility, what tools or commands should I use, such as specifying 'pybind11>=2.12', to resolve this issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2fc75f3eed"
+  }
+]

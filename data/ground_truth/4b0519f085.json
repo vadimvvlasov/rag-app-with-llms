@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Should I train the initial model using all available features before evaluating the impact of each individual feature?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4b0519f085"
+  },
+  {
+    "question": "What is the process for systematically removing one feature at a time to assess its effect on model accuracy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4b0519f085"
+  },
+  {
+    "question": "How do I calculate the change in accuracy when each feature is individually excluded from the training set?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4b0519f085"
+  },
+  {
+    "question": "Which method should be used to determine the least impactful feature based on accuracy differences?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4b0519f085"
+  },
+  {
+    "question": "If the accuracy improvements are -4 and -2 after removing different features, which absolute difference should guide my decision?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4b0519f085"
+  }
+]

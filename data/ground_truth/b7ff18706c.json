@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I implement conditional branching in a Kestra workflow to handle different dataset types without creating separate flows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b7ff18706c"
+  },
+  {
+    "question": "What are the best practices for sharing common orchestration logic across branches within a single Kestra workflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b7ff18706c"
+  },
+  {
+    "question": "Can you provide an example of how to use a branching mechanism in Kestra YAML to route tasks based on a runtime variable like `dataset_type`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b7ff18706c"
+  },
+  {
+    "question": "What should I consider when deciding how branches in a Kestra workflow converge, either with a common tail or as separate end states?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b7ff18706c"
+  },
+  {
+    "question": "How can I ensure consistent error handling and logging across multiple branches within one Kestra workflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b7ff18706c"
+  }
+]

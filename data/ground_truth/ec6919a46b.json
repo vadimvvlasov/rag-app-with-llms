@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did I encounter a \"No module named flask\" error after installing Flask with pipenv?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ec6919a46b"
+  },
+  {
+    "question": "What command should I use to successfully install and import the Flask module?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ec6919a46b"
+  },
+  {
+    "question": "Is there a specific package manager that ensures compatibility with all third-party libraries for Flask?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ec6919a46b"
+  },
+  {
+    "question": "After reinstalling Flask using pip, what steps should I follow to verify that Flask is correctly imported in my Python environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ec6919a46b"
+  },
+  {
+    "question": "In the context of Module 5 on deploying machine learning models, how does the installation method affect the availability of external modules like Flask?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ec6919a46b"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I set up a development environment using a Docker image for Linux?",
+    "course": "mlops-zoomcamp",
+    "document": "866d3bbbed"
+  },
+  {
+    "question": "What is the purpose of the `Dockerfile` provided in the FAQ record?",
+    "course": "mlops-zoomcamp",
+    "document": "866d3bbbed"
+  },
+  {
+    "question": "Which command should I use to build the Docker image named 'mlops:v0'?",
+    "course": "mlops-zoomcamp",
+    "document": "866d3bbbed"
+  },
+  {
+    "question": "After building the image, what steps are required to run it and map host directory `app` to container `/app`?",
+    "course": "mlops-zoomcamp",
+    "document": "866d3bbbed"
+  },
+  {
+    "question": "Where will files created inside the running Jupyter Notebook environment be stored?",
+    "course": "mlops-zoomcamp",
+    "document": "866d3bbbed"
+  }
+]

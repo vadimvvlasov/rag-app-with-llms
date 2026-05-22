@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the steps to create a Docker image for AWS Lambda using the Serverless Framework?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6bdfe65552"
+  },
+  {
+    "question": "How can I push the created Docker image to AWS Elastic Container Registry (ECR)?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6bdfe65552"
+  },
+  {
+    "question": "Once the Docker image is deployed to AWS Lambda, what configurations are needed in the Serverless Framework to expose it as a REST API via Amazon API Gateway?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6bdfe65552"
+  },
+  {
+    "question": "Are there any specific settings or template adjustments required in the serverless.yml file for deploying a containerized Flask application on AWS Lambda?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6bdfe65552"
+  },
+  {
+    "question": "Can you provide a step-by-step guide or reference material for deploying a containerized Serverless Flask application to AWS Lambda using Docker?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6bdfe65552"
+  }
+]

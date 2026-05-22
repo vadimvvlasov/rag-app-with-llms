@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Module 4 of machine-learning-zoomcamp, how can I correctly import a CSV file named 'bank-full.csv' into a pandas DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56ebfe8111"
+  },
+  {
+    "question": "What specific delimiter should I specify when reading the 'bank-full.csv' file using pandas' read_csv function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56ebfe8111"
+  },
+  {
+    "question": "Which Python statement is used to load external data from a CSV file into a pandas DataFrame in this course's Module 4?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56ebfe8111"
+  },
+  {
+    "question": "Where can I find the relevant code snippet for importing data from 'bank-full.csv' within the machine-learning-zoomcamp curriculum?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56ebfe8111"
+  },
+  {
+    "question": "What caution should I keep in mind regarding the data separator when working with the 'bank-full.csv' dataset in Module 4 of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56ebfe8111"
+  }
+]

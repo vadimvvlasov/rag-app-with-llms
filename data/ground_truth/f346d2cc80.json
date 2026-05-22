@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does passing `squared=False` to `mean_squared_error()` raise a `TypeError` in scikit-learn versions prior to 0.22?",
+    "course": "mlops-zoomcamp",
+    "document": "f346d2cc80"
+  },
+  {
+    "question": "What alternative method can I use to calculate the root mean squared error (RMSE) in older scikit-learn implementations where the `squared` parameter is not recognized?",
+    "course": "mlops-zoomcamp",
+    "document": "f346d2cc80"
+  },
+  {
+    "question": "How have the API changes in scikit-learn affected the computation of RMSE since version 1.0?",
+    "course": "mlops-zoomcamp",
+    "document": "f346d2cc80"
+  },
+  {
+    "question": "Could you provide a code example for computing RMSE directly without relying on the deprecated `squared` argument, compatible with scikit-learn 1.0 and later?",
+    "course": "mlops-zoomcamp",
+    "document": "f346d2cc80"
+  },
+  {
+    "question": "What is the recommended function to use from scikit-learn starting from version 1.0 to compute root mean squared error efficiently?",
+    "course": "mlops-zoomcamp",
+    "document": "f346d2cc80"
+  }
+]

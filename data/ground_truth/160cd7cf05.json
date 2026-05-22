@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs when there isn't enough disk space for installation?",
+    "course": "mlops-zoomcamp",
+    "document": "160cd7cf05"
+  },
+  {
+    "question": "How can I increase the EBS volume size on AWS to resolve this issue?",
+    "course": "mlops-zoomcamp",
+    "document": "160cd7cf05"
+  },
+  {
+    "question": "What steps are required to add an external disk to my AWS instance for conda installations?",
+    "course": "mlops-zoomcamp",
+    "document": "160cd7cf05"
+  },
+  {
+    "question": "How do I add and mount a persistent disk to a Google Cloud VM?",
+    "course": "mlops-zoomcamp",
+    "document": "160cd7cf05"
+  },
+  {
+    "question": "After adding an external disk, how should I configure Miniconda installation to use it instead of the default disk?",
+    "course": "mlops-zoomcamp",
+    "document": "160cd7cf05"
+  }
+]

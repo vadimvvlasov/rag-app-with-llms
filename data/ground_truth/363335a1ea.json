@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an 'Error index 311297 is out of bounds for axis 0 with size 131483' when attempting to load a parquet file using the starter notebook in Module 4's Q1?",
+    "course": "mlops-zoomcamp",
+    "document": "363335a1ea"
+  },
+  {
+    "question": "What specific steps should I take to resolve the error that occurs while loading a parquet file in the homework provided for Module 4 of mlops-zoomcamp?",
+    "course": "mlops-zoomcamp",
+    "document": "363335a1ea"
+  },
+  {
+    "question": "Is the issue with loading the parquet file in the Q1 assignment of Module 4 related to outdated software packages, and if so, which ones need updating?",
+    "course": "mlops-zoomcamp",
+    "document": "363335a1ea"
+  },
+  {
+    "question": "After encountering an out-of-bounds error while loading a parquet file in the starter.ipynb notebook for homework Q1 in Module 4 of mlops-zoomcamp, what is the recommended version of pandas and its dependencies?",
+    "course": "mlops-zoomcamp",
+    "document": "363335a1ea"
+  },
+  {
+    "question": "How can I ensure that all necessary libraries are up-to-date to prevent errors such as 'Error index 311297 is out of bounds for axis 0 with size 131483' when working on the parquet file loading task in Module 4 of mlops-zoomcamp?",
+    "course": "mlops-zoomcamp",
+    "document": "363335a1ea"
+  }
+]

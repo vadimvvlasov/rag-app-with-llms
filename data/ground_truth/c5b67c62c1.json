@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the command-line instruction to transform a Jupyter notebook into a Python (.py) script?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c5b67c62c1"
+  },
+  {
+    "question": "Could you detail the steps within JupyterLab to export a notebook as an executable Python script?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c5b67c62c1"
+  },
+  {
+    "question": "Is there a way to automate the conversion of multiple notebooks to scripts at once using nbconvert?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c5b67c62c1"
+  },
+  {
+    "question": "What file extensions will the output have after converting a .ipynb notebook to a script via nbconvert?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c5b67c62c1"
+  },
+  {
+    "question": "Does exporting a notebook to a script preserve all markdown cells and inline visuals as comments in the Python file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c5b67c62c1"
+  }
+]

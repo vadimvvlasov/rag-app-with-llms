@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the command `kubectl autoscale deployment subscription --name subscription-hpa --cpu-percent=20 --min=1 --max=3` fail?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c9f27cb21a"
+  },
+  {
+    "question": "What error message appears when attempting to run the autoscaling command in HW10?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c9f27cb21a"
+  },
+  {
+    "question": "How can I resolve certificate validation issues caused by a missing Subject Alternative Name (SAN) for the node's IP address when using kubectl?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c9f27cb21a"
+  },
+  {
+    "question": "What specific command should be executed to add `--kubelet-insecure-tls` as an argument for the metrics-server container in the kube-system namespace?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c9f27cb21a"
+  },
+  {
+    "question": "After modifying the metrics-server deployment, what is the command to restart it and apply the changes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c9f27cb21a"
+  }
+]

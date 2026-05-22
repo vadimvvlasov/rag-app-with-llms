@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Despite running `dbt docs generate`, why is the documentation or book sign not visible in the free version's development environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "98b6a15ece"
+  },
+  {
+    "question": "What specific action should I take to ensure that model documentation appears after executing dbt commands in a non-production setting?",
+    "course": "data-engineering-zoomcamp",
+    "document": "98b6a15ece"
+  },
+  {
+    "question": "How can I generate and view the documentation for my models if the free version does not display it during regular runs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "98b6a15ece"
+  },
+  {
+    "question": "In 'data-engineering-zoomcamp' Module 4, what is the recommended method to produce model documentation when using the development environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "98b6a15ece"
+  },
+  {
+    "question": "After executing a production job with the 'generate docs' option enabled in dbt, where will the generated documentation be accessible?",
+    "course": "data-engineering-zoomcamp",
+    "document": "98b6a15ece"
+  }
+]

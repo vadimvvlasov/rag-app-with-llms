@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What setting should I adjust to specify a subdirectory within my GitHub repository as the root for a dbt project in dbt Cloud?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c7ca760fed"
+  },
+  {
+    "question": "In dbt Cloud, where can I find the option to configure the `Project subdirectory` for my dbt project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c7ca760fed"
+  },
+  {
+    "question": "How do I point dbt Cloud to use a specific subfolder inside my GitHub repo when setting up a new dbt project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c7ca760fed"
+  },
+  {
+    "question": "What interface element in dbt Cloud allows me to designate a particular subdirectory of my GitHub repository as the dbt project's root directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c7ca760fed"
+  },
+  {
+    "question": "During the setup of a dbt project in dbt Cloud, which configuration option enables the selection of a subdirectory from my linked GitHub repository?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c7ca760fed"
+  }
+]

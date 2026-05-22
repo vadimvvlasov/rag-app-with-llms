@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the specific error message encountered when trying to install scikit-learn using pipenv?",
+    "course": "mlops-zoomcamp",
+    "document": "1b858ee8bb"
+  },
+  {
+    "question": "Which package needs to be installed separately to resolve the 'No module named 'pip._vendor.six'' error during scikit-learn installation?",
+    "course": "mlops-zoomcamp",
+    "document": "1b858ee8bb"
+  },
+  {
+    "question": "What command should be executed to remove an existing Pipenv environment before reinstalling scikit-learn?",
+    "course": "mlops-zoomcamp",
+    "document": "1b858ee8bb"
+  },
+  {
+    "question": "After installing the required package and removing the Pipenv environment, what exact pipenv install command is used to successfully install scikit-learn version 1.0.2?",
+    "course": "mlops-zoomcamp",
+    "document": "1b858ee8bb"
+  },
+  {
+    "question": "In which module of the 'mlops-zoomcamp' course does this issue and its resolution pertain?",
+    "course": "mlops-zoomcamp",
+    "document": "1b858ee8bb"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What function in the `sklearn.metrics` module is used to compute the AUC score for a numerical feature?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f7f0800d02"
+  },
+  {
+    "question": "How do you pass the target variable and feature values to calculate the AUC using the specified function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f7f0800d02"
+  },
+  {
+    "question": "Can you provide an example of how to call the `roc_auc_score` function with appropriate arguments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f7f0800d02"
+  },
+  {
+    "question": "Is the `roc_auc_score` function suitable for evaluating importance in classification tasks involving numerical variables?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f7f0800d02"
+  },
+  {
+    "question": "What does the `roc_auc_score` function return after processing the target and feature vectors?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f7f0800d02"
+  }
+]

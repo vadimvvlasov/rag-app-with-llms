@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the CSRF session token is missing error when using pgAdmin within a Docker container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0cfd7f7ed6"
+  },
+  {
+    "question": "What immediate steps should I take in my browser to fix the CSRF token mismatch issue while running pgAdmin in Docker?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0cfd7f7ed6"
+  },
+  {
+    "question": "Which environment variables need to be added to the Docker configuration for pgAdmin to eliminate the CSRF token problem?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0cfd7f7ed6"
+  },
+  {
+    "question": "After adding the necessary environment variables, what command should I run to restart the pgAdmin container and apply the changes?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0cfd7f7ed6"
+  },
+  {
+    "question": "What are the security implications of disabling CSRF protection by setting `PGADMIN_CONFIG_WTF_CSRF_ENABLED` and `PGADMIN_CONFIG_WTF_CSRF_CHECK_DEFAULT` to `False`, and how should this be handled in production versus development environments?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0cfd7f7ed6"
+  }
+]

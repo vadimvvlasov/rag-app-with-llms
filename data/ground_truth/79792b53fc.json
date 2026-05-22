@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary cause of timeout errors during Bruin seed asset execution related to ingestr or DuckDB installation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "79792b53fc"
+  },
+  {
+    "question": "How can I modify the HTTP timeout setting for uv to mitigate installation-related timeouts in Bruin seed assets?",
+    "course": "data-engineering-zoomcamp",
+    "document": "79792b53fc"
+  },
+  {
+    "question": "What alternative approach should I consider if my lookup table is small and static, to avoid dynamic dependency installation by Bruin?",
+    "course": "data-engineering-zoomcamp",
+    "document": "79792b53fc"
+  },
+  {
+    "question": "In what scenarios would pre-bundling or caching dependencies be beneficial to reduce runtime installation time for large datasets in Bruin?",
+    "course": "data-engineering-zoomcamp",
+    "document": "79792b53fc"
+  },
+  {
+    "question": "Does using a SQL asset with a VALUES clause affect the execution performance compared to relying on dynamic installations during seed asset runs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "79792b53fc"
+  }
+]

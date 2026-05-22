@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the difference in behavior between `pd.get_dummies` and One-Hot Encoding regarding column order for train and validation datasets?",
+    "course": "mlops-zoomcamp",
+    "document": "52d606a66e"
+  },
+  {
+    "question": "How does `pd.get_dummies` handle missing data compared to One-Hot Encoding, and why might this cause issues across different dataset splits?",
+    "course": "mlops-zoomcamp",
+    "document": "52d606a66e"
+  },
+  {
+    "question": "When using `DictVectorizer`, what happens if there are missing values in the training set, and how are new categorical values treated during validation?",
+    "course": "mlops-zoomcamp",
+    "document": "52d606a66e"
+  },
+  {
+    "question": "Which external resources provide more detailed explanations on choosing between one-hot encoding, label encoding, and `DictVectorizer` for categorical data preprocessing?",
+    "course": "mlops-zoomcamp",
+    "document": "52d606a66e"
+  },
+  {
+    "question": "Can you summarize the key distinctions among `pd.get_dummies`, One-Hot Encoding, and `DictVectorizer` in terms of handling missing categories and maintaining consistent feature sets across training and validation phases?",
+    "course": "mlops-zoomcamp",
+    "document": "52d606a66e"
+  }
+]

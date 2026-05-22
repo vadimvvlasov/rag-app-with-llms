@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I add a .gitignore file to my existing Git repository if it was created without one?",
+    "course": "mlops-zoomcamp",
+    "document": "2383fdd2f6"
+  },
+  {
+    "question": "What specific commands are needed in the terminal to create and edit a .gitignore file for a Python project?",
+    "course": "mlops-zoomcamp",
+    "document": "2383fdd2f6"
+  },
+  {
+    "question": "Which common Python build artifacts and directories should be listed in the .gitignore file to keep the repository clean?",
+    "course": "mlops-zoomcamp",
+    "document": "2383fdd2f6"
+  },
+  {
+    "question": "After adding entries to the .gitignore, what steps must I follow to ensure these settings take effect within my Git workflow?",
+    "course": "mlops-zoomcamp",
+    "document": "2383fdd2f6"
+  },
+  {
+    "question": "In the context of Module 1 from the MLOps ZoomCamp course, why is it important to commit changes made to a .gitignore file?",
+    "course": "mlops-zoomcamp",
+    "document": "2383fdd2f6"
+  }
+]

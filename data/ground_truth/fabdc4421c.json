@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is causing the TypeError 'unsupported operand type(s) for -': 'str' and 'int' in the hpo.py script?",
+    "course": "mlops-zoomcamp",
+    "document": "fabdc4421c"
+  },
+  {
+    "question": "How can I correct the `--max_evals` argument to prevent it from being interpreted as a string?",
+    "course": "mlops-zoomcamp",
+    "document": "fabdc4421c"
+  },
+  {
+    "question": "Where should I add the `type=int` specification for the `--max_evals` argument in the code?",
+    "course": "mlops-zoomcamp",
+    "document": "fabdc4421c"
+  },
+  {
+    "question": "What default value is recommended for the `--max_evals` argument if not explicitly provided?",
+    "course": "mlops-zoomcamp",
+    "document": "fabdc4421c"
+  },
+  {
+    "question": "After modifying the argument, what command can I use to run the script without encountering the TypeError?",
+    "course": "mlops-zoomcamp",
+    "document": "fabdc4421c"
+  }
+]

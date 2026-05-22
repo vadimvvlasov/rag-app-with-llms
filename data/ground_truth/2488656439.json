@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the correct way to call `roc_auc_score` when evaluating feature importance of a single numerical variable?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2488656439"
+  },
+  {
+    "question": "Why does passing incorrect parameters to `roc_auc_score` result in the error \"multi_class must be in ('ovo', 'ovr')\"?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2488656439"
+  },
+  {
+    "question": "Which module of the machine-learning-zoomcamp course covers evaluation metrics for classification that includes `roc_auc_score`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2488656439"
+  },
+  {
+    "question": "How can I avoid the ValueError when using `roc_auc_score` to assess a numerical feature’s importance as described in question 1?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2488656439"
+  },
+  {
+    "question": "What parameters should be included in the function call to `roc_auc_score` to prevent the raised ValueError during model evaluation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2488656439"
+  }
+]

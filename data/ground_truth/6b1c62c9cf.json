@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I seeing the warning 'Failed to log training dataset information to MLflow Tracking' when using the autolog function in my sklearn model?",
+    "course": "mlops-zoomcamp",
+    "document": "6b1c62c9cf"
+  },
+  {
+    "question": "What is causing the error message 'numpy.ndarray object has no attribute toarray' during MLflow logging?",
+    "course": "mlops-zoomcamp",
+    "document": "6b1c62c9cf"
+  },
+  {
+    "question": "How can I prevent MLflow from attempting to log my training dataset when using the autolog function with a numpy ndarray?",
+    "course": "mlops-zoomcamp",
+    "document": "6b1c62c9cf"
+  },
+  {
+    "question": "In the context of the mlops-zoomcamp course, specifically Module 2 on Experiment Tracking, what parameter should be added to the autolog function to avoid logging datasets?",
+    "course": "mlops-zoomcamp",
+    "document": "6b1c62c9cf"
+  },
+  {
+    "question": "What format does MLflow expect for datasets when using its autolog feature, and why does it fail with a numpy.ndarray in this scenario?",
+    "course": "mlops-zoomcamp",
+    "document": "6b1c62c9cf"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I view the current offset and log-end offset for a specific consumer group in Kafka?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c0e1671b46"
+  },
+  {
+    "question": "What command should I use to inspect all messages from the beginning of a Kafka topic named 'rides'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c0e1671b46"
+  },
+  {
+    "question": "Can you explain how to use kcat to read messages starting from a particular offset, say 25, in partition 0 of the 'rides' topic?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c0e1671b46"
+  },
+  {
+    "question": "What information is displayed when running `kafka-consumer-groups --describe --group rides-to-postgres`, and why is it useful for debugging?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c0e1671b46"
+  },
+  {
+    "question": "In what scenarios would I need to check consumer lag, and how can I quickly identify messages that are pending processing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c0e1671b46"
+  }
+]

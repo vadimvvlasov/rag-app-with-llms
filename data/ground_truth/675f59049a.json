@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I specify a particular AWS profile when initializing Elastic Beanstalk?",
+    "course": "machine-learning-zoomcamp",
+    "document": "675f59049a"
+  },
+  {
+    "question": "What command should I use to deploy my Docker-based application to the eu-west-3 region in Elastic Beanstalk?",
+    "course": "machine-learning-zoomcamp",
+    "document": "675f59049a"
+  },
+  {
+    "question": "Why does Elastic Beanstalk sometimes choose the wrong AWS region during initialization, and how can I override it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "675f59049a"
+  },
+  {
+    "question": "In the context of deploying a machine learning model with Elastic Beanstalk, what flags are required to set both the profile and region explicitly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "675f59049a"
+  },
+  {
+    "question": "During the `eb init` process for a machine learning project, how do I ensure that the correct AWS credentials and region are applied?",
+    "course": "machine-learning-zoomcamp",
+    "document": "675f59049a"
+  }
+]

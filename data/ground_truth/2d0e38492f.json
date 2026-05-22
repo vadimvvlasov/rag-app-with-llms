@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How should I correctly save only the weights of a model in Keras version 3?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2d0e38492f"
+  },
+  {
+    "question": "What is the required file extension when saving weights using `model.save_weights()` in newer versions of Keras?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2d0e38492f"
+  },
+  {
+    "question": "Has the `save_format` argument been removed from `model.save_weights()` in recent Keras updates, and if so, how should I configure it for a `ModelCheckpoint` callback?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2d0e38492f"
+  },
+  {
+    "question": "What format should I use to save both the model architecture and weights together in the latest Keras version?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2d0e38492f"
+  },
+  {
+    "question": "When using `ModelCheckpoint`, what settings are necessary to ensure only the weights are saved with the correct file extension?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2d0e38492f"
+  }
+]

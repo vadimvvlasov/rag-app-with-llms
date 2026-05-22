@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I unable to import the `dlt` or `dlt.sources` module in my Python script?",
+    "course": "data-engineering-zoomcamp",
+    "document": "27fa940238"
+  },
+  {
+    "question": "What should I check if I encounter an error while trying to use the `dlt` module during the dlthub workshop in the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "27fa940238"
+  },
+  {
+    "question": "Could having a file named `dlt.py` in the same directory as my script cause issues with importing modules from the dlt package?",
+    "course": "data-engineering-zoomcamp",
+    "document": "27fa940238"
+  },
+  {
+    "question": "What specific step can resolve the conflict that prevents successful import of `dlt` or `dlt.sources` during Workshop 1 of the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "27fa940238"
+  },
+  {
+    "question": "In the context of the dlthub workshop within the data-engineering-zoomcamp course, what file naming precaution must be observed to avoid problems with module imports?",
+    "course": "data-engineering-zoomcamp",
+    "document": "27fa940238"
+  }
+]

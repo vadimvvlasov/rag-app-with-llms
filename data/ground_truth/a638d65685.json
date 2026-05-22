@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the specific dependencies and abstraction layers introduced in Week 5 that require a prepared 'homework environment'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a638d65685"
+  },
+  {
+    "question": "Can you provide a detailed step-by-step guide for setting up a homework environment using an AWS EC2 instance as mentioned in the video?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a638d65685"
+  },
+  {
+    "question": "Are there any free-tier options available for running instances, or will billing occur hourly based on usage?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a638d65685"
+  },
+  {
+    "question": "If I choose not to use AWS EC2, what alternative methods are suggested for preparing the 'homework environment'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a638d65685"
+  },
+  {
+    "question": "How can I ensure that my homework environment is properly configured with the correct Python version and pipenv installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a638d65685"
+  }
+]

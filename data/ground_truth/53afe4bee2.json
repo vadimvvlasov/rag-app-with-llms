@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why can't I access the documentation served by my dbt project through a web browser?",
+    "course": "data-engineering-zoomcamp",
+    "document": "53afe4bee2"
+  },
+  {
+    "question": "What specific configuration change should I make in the `docker-compose` file to resolve the issue of docs being served but inaccessible via the browser?",
+    "course": "data-engineering-zoomcamp",
+    "document": "53afe4bee2"
+  },
+  {
+    "question": "In the context of Module 4 on Analytics Engineering with dbt for the Data Engineering Zoom Camp, what is the purpose of removing the `network: host` line from `docker-compose`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "53afe4bee2"
+  },
+  {
+    "question": "How does modifying the `docker-compose` file related to network settings affect the accessibility of dbt project documentation in a browser?",
+    "course": "data-engineering-zoomcamp",
+    "document": "53afe4bee2"
+  },
+  {
+    "question": "What troubleshooting step is suggested in the FAQ record for fixing doc serving problems in a dbt environment set up with Docker Compose?",
+    "course": "data-engineering-zoomcamp",
+    "document": "53afe4bee2"
+  }
+]

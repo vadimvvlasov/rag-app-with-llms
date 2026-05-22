@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I save an XGBoost model in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a5d89cbae"
+  },
+  {
+    "question": "What function should I use to load a previously saved XGBoost model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a5d89cbae"
+  },
+  {
+    "question": "Is there an alternative method to pickle XGBoost models for saving and loading?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a5d89cbae"
+  },
+  {
+    "question": "What are the steps to save an XGBoost model using `save_model`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a5d89cbae"
+  },
+  {
+    "question": "How do I load a binary file containing an XGBoost model back into memory?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a5d89cbae"
+  }
+]

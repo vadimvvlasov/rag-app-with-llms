@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering the error 'Cannot import name OpenAI from openai' in my Python script?",
+    "course": "llm-zoomcamp",
+    "document": "35e1ef85a1"
+  },
+  {
+    "question": "What specific version of the `openai` package should I update to resolve this import issue?",
+    "course": "llm-zoomcamp",
+    "document": "35e1ef85a1"
+  },
+  {
+    "question": "Is upgrading the `openai` library to a version greater than 0.27.0 sufficient to fix the error mentioned?",
+    "course": "llm-zoomcamp",
+    "document": "35e1ef85a1"
+  },
+  {
+    "question": "After updating the `openai` package, will the 'Cannot import name OpenAI' error be completely eliminated?",
+    "course": "llm-zoomcamp",
+    "document": "35e1ef85a1"
+  },
+  {
+    "question": "In the context of Module 1: Introduction to LLMs and RAG from the llm-zoomcamp course, what steps should I follow to rectify the import problem?",
+    "course": "llm-zoomcamp",
+    "document": "35e1ef85a1"
+  }
+]

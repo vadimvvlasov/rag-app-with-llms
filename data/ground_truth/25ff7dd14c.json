@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an 'Expecting value: line 1 column 1 (char 0)' error when trying to send predict-test data to the server?",
+    "course": "machine-learning-zoomcamp",
+    "document": "25ff7dd14c"
+  },
+  {
+    "question": "What is the correct input format for sending data to the model in this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "25ff7dd14c"
+  },
+  {
+    "question": "How can I convert JSON response data into a suitable format like numpy arrays for the model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "25ff7dd14c"
+  },
+  {
+    "question": "What steps should I take to ensure my input data is in the right shape before contacting the server?",
+    "course": "machine-learning-zoomcamp",
+    "document": "25ff7dd14c"
+  },
+  {
+    "question": "Are there common pitfalls when formatting input data that lead to JSON decoding errors in machine learning models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "25ff7dd14c"
+  }
+]

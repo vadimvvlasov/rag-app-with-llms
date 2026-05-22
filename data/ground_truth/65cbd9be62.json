@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does `uv.lock` contain the package after running `uv add`, but `pyproject.toml` still shows an empty dependencies list?",
+    "course": "machine-learning-zoomcamp",
+    "document": "65cbd9be62"
+  },
+  {
+    "question": "What command should I execute to ensure that `pyproject.toml` reflects the packages added with `uv add`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "65cbd9be62"
+  },
+  {
+    "question": "Should I manually edit the `dependencies` section in `pyproject.toml` if `uv.lock` already includes the necessary package?",
+    "course": "machine-learning-zoomcamp",
+    "document": "65cbd9be62"
+  },
+  {
+    "question": "Where must I run the `uv add` command to correctly update both `pyproject.toml` and `uv.lock`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "65cbd9be62"
+  },
+  {
+    "question": "What happens if I try to modify the `dependencies` manually instead of using `uv sync` after adding a package?",
+    "course": "machine-learning-zoomcamp",
+    "document": "65cbd9be62"
+  }
+]

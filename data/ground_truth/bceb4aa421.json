@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What happens when a Docker `docker pull` command is executed for a public image like `postgres:13`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bceb4aa421"
+  },
+  {
+    "question": "Why might I receive an error stating 'requested access to the resource is denied' during a `docker pull`, and how can I resolve it if my incorrect image name was `dbpage/pgadmin4` instead of the correct one?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bceb4aa421"
+  },
+  {
+    "question": "Is a DockerHub login required to fetch images used in the Data Engineering Zoomcamp, given that all mentioned images are public?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bceb4aa421"
+  },
+  {
+    "question": "What steps should be taken if a needed Docker image is located in a private repository that only my DockerHub account can access?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bceb4aa421"
+  },
+  {
+    "question": "Can you explain the difference between pulling an image from a public repository versus a private one in terms of authentication requirements?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bceb4aa421"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs when using the OpenAI Responses API with a non-OpenAI model?",
+    "course": "llm-zoomcamp",
+    "document": "9e7b3f0c25"
+  },
+  {
+    "question": "Why does the 'AttributeError: 'str' object has no attribute 'output'' appear in this context?",
+    "course": "llm-zoomcamp",
+    "document": "9e7b3f0c25"
+  },
+  {
+    "question": "How should I retrieve the response content from a non-OpenAI provider such as Mistral or Groq?",
+    "course": "llm-zoomcamp",
+    "document": "9e7b3f0c25"
+  },
+  {
+    "question": "What is the correct method to call the chat-completions API for a model hosted by a third-party provider?",
+    "course": "llm-zoomcamp",
+    "document": "9e7b3f0c25"
+  },
+  {
+    "question": "How can I adjust the tools schema when making requests to a non-OpenAI model via the OpenAI-compatible APIs?",
+    "course": "llm-zoomcamp",
+    "document": "9e7b3f0c25"
+  }
+]

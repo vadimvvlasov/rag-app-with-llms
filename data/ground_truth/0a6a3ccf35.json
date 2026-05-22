@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering the error 'column c.relhasoids does not exist' when executing the `\\d <database name>` command in pgcli?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a6a3ccf35"
+  },
+  {
+    "question": "What steps should I follow to resolve the 'column c.relhasoids does not exist' error in pgcli?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a6a3ccf35"
+  },
+  {
+    "question": "Is uninstalling and reinstalling pgcli necessary to fix the mentioned error, or are there alternative solutions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a6a3ccf35"
+  },
+  {
+    "question": "After reinstalling pgcli, what additional action is recommended to ensure the changes take effect?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a6a3ccf35"
+  },
+  {
+    "question": "Does restarting my computer after reinstalling pgcli affect any other installed software or configurations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a6a3ccf35"
+  }
+]

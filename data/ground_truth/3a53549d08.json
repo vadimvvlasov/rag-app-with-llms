@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What steps does dlt take when new columns are added to the source schema during data ingestion?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3a53549d08"
+  },
+  {
+    "question": "How does dlt manage changes to existing column data types, and what error handling is provided if coercion fails?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3a53549d08"
+  },
+  {
+    "question": "Can you explain how dlt's local storage of pipeline state enables it to adapt to schema evolutions without manual DDL alterations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3a53549d08"
+  },
+  {
+    "question": "In cases where a new nested field appears in the source data, how does dlt ensure that the corresponding child tables or columns are created automatically?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3a53549d08"
+  },
+  {
+    "question": "Where can I find detailed documentation on schema evolution strategies provided by dlt for handling complex API changes?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3a53549d08"
+  }
+]

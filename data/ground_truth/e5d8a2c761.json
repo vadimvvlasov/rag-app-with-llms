@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the context of the Capstone Project for LLM ZoomCamp, what is meant by 'reproducibility' and why is it important to avoid sharing API keys or hosted-service credentials in the repository?",
+    "course": "llm-zoomcamp",
+    "document": "e5d8a2c761"
+  },
+  {
+    "question": "How can I ensure that a peer reviewer can clone my project repository and recreate the system from scratch using their own API keys without them being exposed in the codebase?",
+    "course": "llm-zoomcamp",
+    "document": "e5d8a2c761"
+  },
+  {
+    "question": "What specific file or configuration should I provide (e.g., `.env.example`) to indicate where reviewers should place their own credentials, and how should I protect these credentials from being tracked by Git?",
+    "course": "llm-zoomcamp",
+    "document": "e5d8a2c761"
+  },
+  {
+    "question": "Which model variants are recommended for project reproducibility during peer review to prevent excessive API usage or cost concerns?",
+    "course": "llm-zoomcamp",
+    "document": "e5d8a2c761"
+  },
+  {
+    "question": "What steps should I take to document and lock down dependencies (e.g., using `requirements.txt` or a lock file) and specify the Python version to guarantee consistent execution across different environments?",
+    "course": "llm-zoomcamp",
+    "document": "e5d8a2c761"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the common causes for unexpected years appearing in `lpep_pickup_datetime` after loading taxi data into BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "52e74f0053"
+  },
+  {
+    "question": "How can I verify if there are unexpected years in the `lpep_pickup_datetime` column of a BigQuery table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "52e74f0053"
+  },
+  {
+    "question": "What SQL query should I run to check the minimum and maximum values of `lpep_pickup_datetime` in my dataset?",
+    "course": "data-engineering-zoomcamp",
+    "document": "52e74f0053"
+  },
+  {
+    "question": "If I find the years outside the expected range (e.g., 2019–2020), what steps should I take to reload the data correctly?",
+    "course": "data-engineering-zoomcamp",
+    "document": "52e74f0053"
+  },
+  {
+    "question": "Why is it recommended to use Parquet format instead of CSV when reloading data into BigQuery to prevent schema interpretation issues?",
+    "course": "data-engineering-zoomcamp",
+    "document": "52e74f0053"
+  }
+]

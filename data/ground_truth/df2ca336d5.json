@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I check if the IDE reports that it cannot find `dbt_project.yml` at `/usr/src/develop/user-70471823426120/environment-70471823422561/repository-70471823410839/dbt_project.yml`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "df2ca336d5"
+  },
+  {
+    "question": "How can I confirm that all packages listed in `packages.yml` contain a corresponding `dbt_project.yml` file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "df2ca336d5"
+  },
+  {
+    "question": "What steps are required to initialize a new dbt project using the Cloud IDE interface?",
+    "course": "data-engineering-zoomcamp",
+    "document": "df2ca336d5"
+  },
+  {
+    "question": "Where can I find detailed instructions for importing an existing dbt project from a Git repository into the Cloud IDE?",
+    "course": "data-engineering-zoomcamp",
+    "document": "df2ca336d5"
+  },
+  {
+    "question": "If `No dbt_project.yml found at expected path` appears, what is the recommended first troubleshooting step according to the FAQ?",
+    "course": "data-engineering-zoomcamp",
+    "document": "df2ca336d5"
+  }
+]

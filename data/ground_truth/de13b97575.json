@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message 'ValueError: Incorrect item instead of a metric or metric preset was passed to Report' indicate in Evidently?",
+    "course": "mlops-zoomcamp",
+    "document": "de13b97575"
+  },
+  {
+    "question": "How can I fix the ValueError that occurs when passing an incorrect item to the Report function in Evidently?",
+    "course": "mlops-zoomcamp",
+    "document": "de13b97575"
+  },
+  {
+    "question": "In the context of monitoring with Evidently, what is the common mistake leading to the ValueError mentioned in the FAQ record?",
+    "course": "mlops-zoomcamp",
+    "document": "de13b97575"
+  },
+  {
+    "question": "Why am I receiving a 'ValueError' related to metrics or metric presets when generating a report using Evidently's monitoring module?",
+    "course": "mlops-zoomcamp",
+    "document": "de13b97575"
+  },
+  {
+    "question": "What step should be added to avoid the ValueError: Incorrect item instead of a metric or metric preset was passed to Report error while creating a Report in Evidently?",
+    "course": "mlops-zoomcamp",
+    "document": "de13b97575"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if the Horizontal Pod Autoscaler (HPA) is not functioning correctly despite having installed the latest Metrics Server via the components.yaml manifest?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f8533d5ffd"
+  },
+  {
+    "question": "How can I resolve situations where HPA targets continue to show as `<unknown>` after installing the Metrics Server?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f8533d5ffd"
+  },
+  {
+    "question": "Is there an alternative command or configuration file that ensures the Metrics Server is properly set up with `--kubelet-insecure-tls` without manual modifications?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f8533d5ffd"
+  },
+  {
+    "question": "What specific steps are required to deploy a metrics server using a predefined YAML file from GitHub that includes necessary TLS options?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f8533d5ffd"
+  },
+  {
+    "question": "After applying a custom metrics-server deployment YAML, what verification steps should be taken to confirm successful operation and correct target visibility within HPA?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f8533d5ffd"
+  }
+]

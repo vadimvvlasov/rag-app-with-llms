@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'unauthorized: You don't have the needed permissions to perform this operation, and you may have invalid credentials.' error when pushing a Docker image to Google Container Registry?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5a7cdb33f2"
+  },
+  {
+    "question": "What is the first step to troubleshoot permission issues while uploading Docker containers to Google's container registry during the Machine Learning ZoomCamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5a7cdb33f2"
+  },
+  {
+    "question": "Could you guide me through the process of granting necessary permissions for Docker image uploads to Google Container Registry in the context of the Machine Learning ZoomCamp curriculum?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5a7cdb33f2"
+  },
+  {
+    "question": "If I encounter unauthorized access errors when trying to push a Docker image to Google Container Registry, what command should I execute after installing the Google Cloud SDK as part of the Machine Learning ZoomCamp exercises?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5a7cdb33f2"
+  },
+  {
+    "question": "What specific procedure should be followed in the Miscellaneous section of the Machine Learning ZoomCamp course to ensure valid credentials for pushing Docker images to Google Container Registry?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5a7cdb33f2"
+  }
+]

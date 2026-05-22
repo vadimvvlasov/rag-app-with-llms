@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When the threshold in a binary classification model using a sigmoid function is set to 1.0, why do both the False Positive Rate (FPR) and True Positive Rate (TPR) become zero?",
+    "course": "machine-learning-zoomcamp",
+    "document": "921879ea38"
+  },
+  {
+    "question": "What happens to the predictions of a churn/not churn model when the decision threshold is increased to 1.0, given that the model's output `g(x)` from a sigmoid function ranges between 0 and 1?",
+    "course": "machine-learning-zoomcamp",
+    "document": "921879ea38"
+  },
+  {
+    "question": "Why does no sample meet the criteria for being classified as churn (positive class) when the threshold is set to 1.0 in a model using a sigmoid activation function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "921879ea38"
+  },
+  {
+    "question": "In a binary classification context with a sigmoid function, how does setting the decision threshold to its maximum possible value (1.0) affect the calculation of FPR and TPR?",
+    "course": "machine-learning-zoomcamp",
+    "document": "921879ea38"
+  },
+  {
+    "question": "Explain why achieving a true positive or false positive rate of zero occurs when the prediction threshold for a churn model is set to 1.0, despite the sigmoid output never exactly reaching these boundary values.",
+    "course": "machine-learning-zoomcamp",
+    "document": "921879ea38"
+  }
+]

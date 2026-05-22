@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I configure Chrome Remote Desktop on a Debian Linux VM running on Google Compute Engine?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1b03f3dadf"
+  },
+  {
+    "question": "What is the purpose of using Chrome Remote Desktop for accessing applications with GUIs in a remote environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1b03f3dadf"
+  },
+  {
+    "question": "Where can I find a detailed guide to set up Chrome Remote Desktop service for a virtual machine instance on Compute Engine?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1b03f3dadf"
+  },
+  {
+    "question": "Which operating system is specifically mentioned in the tutorial for setting up Chrome Remote Desktop on Compute Engine?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1b03f3dadf"
+  },
+  {
+    "question": "In which course section does the information about setting up Chrome Remote Desktop on a Linux VM appear?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1b03f3dadf"
+  }
+]

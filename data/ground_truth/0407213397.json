@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a `FileNotFoundError` when trying to open the table with `db.open_table(\"notion_pages___homework\")`?",
+    "course": "llm-zoomcamp",
+    "document": "0407213397"
+  },
+  {
+    "question": "What is the correct procedure to create a table named \"notion_pages___homework\" before attempting to open it using dlt?",
+    "course": "llm-zoomcamp",
+    "document": "0407213397"
+  },
+  {
+    "question": "In the provided workshop on Open-Source Data Ingestion (dlt) for the llm-zoomcamp course, what specific change must be made in pipeline settings to resolve the table not found error?",
+    "course": "llm-zoomcamp",
+    "document": "0407213397"
+  },
+  {
+    "question": "How can I ensure that all references to \"employee_handbook\" are updated to \"homework\" within my pipeline configuration?",
+    "course": "llm-zoomcamp",
+    "document": "0407213397"
+  },
+  {
+    "question": "What exact line of code should I use to create the \"notion_pages___homework\" table prior to opening it, as suggested in the FAQ for id 0407213397?",
+    "course": "llm-zoomcamp",
+    "document": "0407213397"
+  }
+]

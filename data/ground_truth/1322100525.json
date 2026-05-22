@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the error 'tensorflow/serving:2.7.0' occur when trying to download it on an Apple M1 Mac?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1322100525"
+  },
+  {
+    "question": "What is the alternative Docker image that resolves the downloading issue for TensorFlow Serving on M1 hardware?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1322100525"
+  },
+  {
+    "question": "How should I modify the Docker run command to use the compatible ARM64 version of TensorFlow Serving?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1322100525"
+  },
+  {
+    "question": "Can you provide the exact `docker pull` command needed to obtain the corrected TensorFlow Serving image for M1 Macs?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1322100525"
+  },
+  {
+    "question": "Where can I find additional information or resources related to running TensorFlow Serving on Apple Silicon devices?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1322100525"
+  }
+]

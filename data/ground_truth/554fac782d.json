@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message \"Your Pipfile.lock (221d14) is out of date (939fe0)\" indicate during a Docker build?",
+    "course": "machine-learning-zoomcamp",
+    "document": "554fac782d"
+  },
+  {
+    "question": "How can I delete and rebuild the Pipfile.lock to resolve this issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "554fac782d"
+  },
+  {
+    "question": "If deleting and rebuilding the Pipfile.lock doesn't work, what alternative steps should I take?",
+    "course": "machine-learning-zoomcamp",
+    "document": "554fac782d"
+  },
+  {
+    "question": "What commands are used to remove an existing pipenv environment and recreate it for deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "554fac782d"
+  },
+  {
+    "question": "After recreating the pipenv environment, which command should be executed to attempt the Docker build again?",
+    "course": "machine-learning-zoomcamp",
+    "document": "554fac782d"
+  }
+]

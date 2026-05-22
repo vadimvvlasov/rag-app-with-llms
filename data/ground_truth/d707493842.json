@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can I submit Dataproc jobs from my local machine without setting up a VM on GCP?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d707493842"
+  },
+  {
+    "question": "What tool do I need to install and configure on my local computer to interact with GCP for Dataproc job submissions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d707493842"
+  },
+  {
+    "question": "Where can I find the installation guide for `gsutil` to enable communication between my local system and GCP?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d707493842"
+  },
+  {
+    "question": "Which command should I execute from my local terminal to submit a PySpark job to an existing Dataproc cluster named 'de-zoomcamp-cluster' located in the 'europe-west6' region?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d707493842"
+  },
+  {
+    "question": "How do I specify input and output paths for the Spark SQL script when submitting a job via `gsutil` on GCP?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d707493842"
+  }
+]

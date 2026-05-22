@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the command to install wget on a WSL system?",
+    "course": "mlops-zoomcamp",
+    "document": "23ed7bdf10"
+  },
+  {
+    "question": "Where can I find the download link for Anaconda and how do I use it with wget?",
+    "course": "mlops-zoomcamp",
+    "document": "23ed7bdf10"
+  },
+  {
+    "question": "How do I enable Docker Desktop's WSL 2 backend, and where are the instructions located?",
+    "course": "mlops-zoomcamp",
+    "document": "23ed7bdf10"
+  },
+  {
+    "question": "After cloning a GitHub repository in WSL, what command is used to set up Jupyter?",
+    "course": "mlops-zoomcamp",
+    "document": "23ed7bdf10"
+  },
+  {
+    "question": "If Python version shows as 3.10 after installing Anaconda intended for Python 3.9, what steps should I take to resolve this?",
+    "course": "mlops-zoomcamp",
+    "document": "23ed7bdf10"
+  }
+]

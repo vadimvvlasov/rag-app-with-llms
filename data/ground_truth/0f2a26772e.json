@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can you explain what a generator is in Python and how it differs from regular iterables like lists or tuples?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0f2a26772e"
+  },
+  {
+    "question": "What keyword is used to define a function as a generator in Python?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0f2a26772e"
+  },
+  {
+    "question": "How does a generator improve memory efficiency compared to storing all values in a list or tuple?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0f2a26772e"
+  },
+  {
+    "question": "In which module of the 'data-engineering-zoomcamp' course are generators discussed?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0f2a26772e"
+  },
+  {
+    "question": "What is the primary advantage of using generators when working with large datasets?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0f2a26772e"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Could you explain the step-by-step derivation of the normal equation in linear regression as presented in the video [Normal Equation Derivation for Regression](https://www.youtube.com/watch?v=g8qF61P741w)?",
+    "course": "machine-learning-zoomcamp",
+    "document": "077e2c96ad"
+  },
+  {
+    "question": "What are the key assumptions made during the derivation of the normal equation for solving linear regression problems?",
+    "course": "machine-learning-zoomcamp",
+    "document": "077e2c96ad"
+  },
+  {
+    "question": "How does the normal equation provide a closed-form solution to finding the optimal parameters in linear regression, and under what conditions is it computationally efficient compared to gradient descent?",
+    "course": "machine-learning-zoomcamp",
+    "document": "077e2c96ad"
+  },
+  {
+    "question": "In Module 2 of the 'Machine Learning for Regression' course from 'machine-learning-zoomcamp', how is the concept of the normal equation applied to datasets with multiple features?",
+    "course": "machine-learning-zoomcamp",
+    "document": "077e2c96ad"
+  },
+  {
+    "question": "Can you summarize the advantages and limitations of using the normal equation method for training linear regression models, as discussed in the specified video?",
+    "course": "machine-learning-zoomcamp",
+    "document": "077e2c96ad"
+  }
+]

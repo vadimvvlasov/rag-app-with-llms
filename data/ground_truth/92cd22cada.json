@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the lesson, why was it correct to use `.dot(...)` directly for computing cosine similarity when obtaining embeddings from `model.encode(...)`?",
+    "course": "llm-zoomcamp",
+    "document": "92cd22cada"
+  },
+  {
+    "question": "What assumption about the embeddings allows the dot product to be equivalent to cosine similarity in the lesson?",
+    "course": "llm-zoomcamp",
+    "document": "92cd22cada"
+  },
+  {
+    "question": "For the homework assignments involving classic embeddings like TF-IDF + SVD, why is normalization necessary before calculating cosine similarity?",
+    "course": "llm-zoomcamp",
+    "document": "92cd22cada"
+  },
+  {
+    "question": "If embeddings are not normalized by default, how does this affect the reliability of using dot products as a measure of similarity?",
+    "course": "llm-zoomcamp",
+    "document": "92cd22cada"
+  },
+  {
+    "question": "What specific step must be taken with non-normalized embeddings to ensure that the dot product accurately reflects cosine similarity?",
+    "course": "llm-zoomcamp",
+    "document": "92cd22cada"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the specific error message when attempting to install `tflite_runtime`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8b5cf23fcf"
+  },
+  {
+    "question": "Where can I check for compatible OS-Python versions for `tflite_runtime` installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8b5cf23fcf"
+  },
+  {
+    "question": "How do I manually install a specific version of `tflite_runtime` if it's not listed in the package index?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8b5cf23fcf"
+  },
+  {
+    "question": "What alternative environments or methods are suggested for running code that requires `tflite_runtime`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8b5cf23fcf"
+  },
+  {
+    "question": "Where can I find the example Dockerfile used in the lecture to reference the `tflite_runtime` installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8b5cf23fcf"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific error message indicates an invalid timestamp when loading data from external tables into a materialized table in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1724e08426"
+  },
+  {
+    "question": "How can I define the schema of an external table to avoid parsing errors for timestamp columns during data ingestion in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1724e08426"
+  },
+  {
+    "question": "What steps should be taken to filter out rows with invalid timestamps before importing them into a materialized table in GCP BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1724e08426"
+  },
+  {
+    "question": "After filtering out invalid timestamp rows, what datatype should be specified for the timestamp fields when inserting the cleaned data into a materialized table in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1724e08426"
+  },
+  {
+    "question": "In the context of GCP BQ and materialized tables, why is it necessary to handle timestamp parsing errors during the data loading process?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1724e08426"
+  }
+]

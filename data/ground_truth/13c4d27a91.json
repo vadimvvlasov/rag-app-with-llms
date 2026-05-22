@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What steps are required to create a custom Docker image for Kestra that includes `uv`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "13c4d27a91"
+  },
+  {
+    "question": "How do I modify the `docker-compose.yml` file to use my custom-built Kestra image instead of the default one?",
+    "course": "data-engineering-zoomcamp",
+    "document": "13c4d27a91"
+  },
+  {
+    "question": "Why is it beneficial to have `uv` pre-installed in a custom Kestra Docker container rather than installing it on each flow execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "13c4d27a91"
+  },
+  {
+    "question": "Can you provide a sample Dockerfile that installs `uv` and extends the official Kestra base image?",
+    "course": "data-engineering-zoomcamp",
+    "document": "13c4d27a91"
+  },
+  {
+    "question": "What is the expected outcome after updating the `docker-compose.yml` to build a custom Kestra image with `uv`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "13c4d27a91"
+  }
+]

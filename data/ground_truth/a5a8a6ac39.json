@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I set JAVA_HOME for a JDK installed via Homebrew on an Apple Silicon Mac (M1/M2/M3)?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a5a8a6ac39"
+  },
+  {
+    "question": "What command should I use to install OpenJDK 17 with Homebrew on an M1 Mac?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a5a8a6ac39"
+  },
+  {
+    "question": "Where should I place the `export JAVA_HOME` and `export PATH` lines in my shell configuration file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a5a8a6ac39"
+  },
+  {
+    "question": "After setting `JAVA_HOME`, how can I verify that Java is correctly pointing to the installed JDK location?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a5a8a6ac39"
+  },
+  {
+    "question": "Which versions of Java are supported by Spark 4.x, and how can I install them using Homebrew on an Apple Silicon Mac?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a5a8a6ac39"
+  }
+]

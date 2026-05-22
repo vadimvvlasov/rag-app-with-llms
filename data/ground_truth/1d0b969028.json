@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the steps to install Ollama on a macOS system?",
+    "course": "llm-zoomcamp",
+    "document": "1d0b969028"
+  },
+  {
+    "question": "How can I download and install the Ollama package for Windows?",
+    "course": "llm-zoomcamp",
+    "document": "1d0b969028"
+  },
+  {
+    "question": "What command should I run in a Linux terminal to install Ollama?",
+    "course": "llm-zoomcamp",
+    "document": "1d0b969028"
+  },
+  {
+    "question": "After installation, how do I start the LLaMA 3 model locally using Ollama?",
+    "course": "llm-zoomcamp",
+    "document": "1d0b969028"
+  },
+  {
+    "question": "Where can I find the JSON response indicating successful setup of the Ollama local server?",
+    "course": "llm-zoomcamp",
+    "document": "1d0b969028"
+  }
+]

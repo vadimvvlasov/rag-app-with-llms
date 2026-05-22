@@ -1,0 +1,32 @@
+[
+  {
+    "question": ".",
+    "course": "machine-learning-zoomcamp",
+    "document": "b78f247dc5"
+  },
+  {
+    "question": "What characters in feature names cause the ValueError `feature_names must be string, and may not contain [, ] or <:` when creating a DMatrix?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b78f247dc5"
+  },
+  {
+    "question": "How can I modify feature names containing special characters like `<` and `=` to avoid this error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b78f247dc5"
+  },
+  {
+    "question": "Is it possible to keep an equal sign (`=`) in feature names without triggering the ValueError when using DMatrix?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b78f247dc5"
+  },
+  {
+    "question": "What is an alternative replacement for the substring `=<` in feature names to ensure compatibility with DMatrix?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b78f247dc5"
+  },
+  {
+    "question": "Can you provide a code snippet that safely transforms feature names by replacing `=<` and `=` with underscores, ensuring they meet DMatrix requirements?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b78f247dc5"
+  }
+]

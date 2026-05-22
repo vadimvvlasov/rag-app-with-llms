@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the specific error message encountered when running `docker-compose up --build`?",
+    "course": "mlops-zoomcamp",
+    "document": "007cc84471"
+  },
+  {
+    "question": "Which configuration change in the `adminer` block of `docker-compose.yml` resolves the network address family issue?",
+    "course": "mlops-zoomcamp",
+    "document": "007cc84471"
+  },
+  {
+    "question": "How does modifying the PHP command to include `-S 0.0.0.0:8080 -t /var/www/html` fix the problem?",
+    "course": "mlops-zoomcamp",
+    "document": "007cc84471"
+  },
+  {
+    "question": "In what part of the `docker-compose.yml` file should the corrected command be added for the Adminer service?",
+    "course": "mlops-zoomcamp",
+    "document": "007cc84471"
+  },
+  {
+    "question": "Why does specifying `0.0.0.0` instead of leaving it blank address the 'Address family for hostname not supported' error?",
+    "course": "mlops-zoomcamp",
+    "document": "007cc84471"
+  }
+]

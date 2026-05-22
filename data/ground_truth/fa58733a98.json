@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did my DataFrame end up with 8 partitions after using `df.repartition(6)`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa58733a98"
+  },
+  {
+    "question": "What is the purpose of combining `repartition` and `coalesce` in Spark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa58733a98"
+  },
+  {
+    "question": "How can I ensure that a DataFrame is divided into exactly 6 partitions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa58733a98"
+  },
+  {
+    "question": "In what order should I apply `repartition` followed by `coalesce` to achieve the desired partition count?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa58733a98"
+  },
+  {
+    "question": "What will be the effect on performance if I use both `repartition` and `coalesce` together in my Spark job?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa58733a98"
+  }
+]

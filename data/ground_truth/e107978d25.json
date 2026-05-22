@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the primary advantages of using DictVectorizer over OneHotEncoder for encoding features from dictionary data?",
+    "course": "mlops-zoomcamp",
+    "document": "e107978d25"
+  },
+  {
+    "question": "How does DictVectorizer integrate seamlessly into machine learning pipelines without requiring extra preprocessing steps?",
+    "course": "mlops-zoomcamp",
+    "document": "e107978d25"
+  },
+  {
+    "question": "In what specific scenarios would you prefer to use OneHotEncoder instead of DictVectorizer during feature engineering?",
+    "course": "mlops-zoomcamp",
+    "document": "e107978d25"
+  },
+  {
+    "question": "Can DictVectorizer handle both categorical and numerical features simultaneously, and if so, how does it represent these in the output sparse matrix?",
+    "course": "mlops-zoomcamp",
+    "document": "e107978d25"
+  },
+  {
+    "question": "What potential issues might arise when using OneHotEncoder with unknown categories, and why might these concerns influence the choice between DictVectorizer and OneHotEncoder?",
+    "course": "mlops-zoomcamp",
+    "document": "e107978d25"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Module 4 of the MLOps ZoomCamp course, what should be the entry point for executing a scoring script directly within a Docker container instead of using Flask?",
+    "course": "mlops-zoomcamp",
+    "document": "d00a9ac4ba"
+  },
+  {
+    "question": "How do you configure the Dockerfile to start a bash shell when running a non-Flask scoring script as part of Homework/Question 6?",
+    "course": "mlops-zoomcamp",
+    "document": "d00a9ac4ba"
+  },
+  {
+    "question": "What command is used in the Dockerfile's ENTRYPOINT directive to ensure that the scoring script runs correctly without involving Flask, according to the FAQ record for the MLOps ZoomCamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "d00a9ac4ba"
+  },
+  {
+    "question": "According to the FAQ entry for Module 4 Deployment in the MLOps ZoomCamp course, which executable should replace Flask as the entry point when invoking a standalone scoring script from within a Docker container?",
+    "course": "mlops-zoomcamp",
+    "document": "d00a9ac4ba"
+  },
+  {
+    "question": "For Homework/Question 6 in the MLOps ZoomCamp curriculum, what specific instruction must be added to the Dockerfile to initiate a bash environment for running a scoring script directly?",
+    "course": "mlops-zoomcamp",
+    "document": "d00a9ac4ba"
+  }
+]

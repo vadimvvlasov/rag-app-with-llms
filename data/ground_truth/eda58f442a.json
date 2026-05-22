@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve permission issues in VS Code when editing `dbt_project.yml` after running `docker-compose run dbt-bq-dtc init`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eda58f442a"
+  },
+  {
+    "question": "What command should I use to change the ownership of a directory to fix permission denied errors on Linux?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eda58f442a"
+  },
+  {
+    "question": "If I receive an error stating 'DBT - Internal Error: Profile should not be None if loading is completed' when executing `dbt debug`, what steps should I take to correct it?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eda58f442a"
+  },
+  {
+    "question": "Where should I navigate to in order to modify the profile 'taxi_rides_ny' to 'bq-dbt-workshop' within a dbt project created by Docker?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eda58f442a"
+  },
+  {
+    "question": "In the context of Module 4: Analytics Engineering with dbt from the data-engineering-zoomcamp course, what is the purpose of changing directories to subdirectories like `taxi_rides_ny`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eda58f442a"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do I get different splits of missing values when changing the random seed in my regression task?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0f5754c053"
+  },
+  {
+    "question": "What is the role of the random seed '42' in splitting training and validation dataframes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0f5754c053"
+  },
+  {
+    "question": "How does setting a specific random seed ensure consistent results across multiple runs of the same code?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0f5754c053"
+  },
+  {
+    "question": "If I use a random seed other than 42, such as 9, where will missing values appear in the train/validation/test splits?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0f5754c053"
+  },
+  {
+    "question": "In Module 2's machine learning for regression exercises, how is the random seed value used to manage data splitting behavior?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0f5754c053"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it necessary to run pgcli within a separate Docker container when the PostgreSQL 5432 port is already mapped to my computer's 5432 port?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ddf54cbd0"
+  },
+  {
+    "question": "How can I directly access the PostgreSQL database using pgcli from my local machine in this course setup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ddf54cbd0"
+  },
+  {
+    "question": "What is the purpose of mapping the PostgreSQL 5432 port to my computer's 5432 port during Module 1?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ddf54cbd0"
+  },
+  {
+    "question": "Will running pgcli on my local system provide the same functionality as executing it inside an additional Docker container for data engineering purposes?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ddf54cbd0"
+  },
+  {
+    "question": "Does the configuration described in Module 1 eliminate the need for any extra containerization when using pgcli with PostgreSQL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ddf54cbd0"
+  }
+]

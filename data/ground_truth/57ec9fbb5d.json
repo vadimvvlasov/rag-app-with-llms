@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What happens if I make changes to the Dockerfile locally without committing them before running `eb create`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57ec9fbb5d"
+  },
+  {
+    "question": "How can I deploy my latest local Dockerfile changes using AWS Elastic Beanstalk CLI without first committing them in Git?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57ec9fbb5d"
+  },
+  {
+    "question": "If the Docker image creation fails during an `eb create` operation, what alternative command should I use to still proceed with deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57ec9fbb5d"
+  },
+  {
+    "question": "Can you explain the steps required to add new or modified files to the staging area for deployment via the EB CLI?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57ec9fbb5d"
+  },
+  {
+    "question": "What specific flag or option must be included in the `eb deploy` command to ensure that staged changes are deployed?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57ec9fbb5d"
+  }
+]

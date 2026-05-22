@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the `spark.createDataFrame` function raise a `TypeError` when converting a pandas DataFrame that contains mixed data types in the 'Affiliated_base_number' column?",
+    "course": "data-engineering-zoomcamp",
+    "document": "34ebc2c6de"
+  },
+  {
+    "question": "How can I ensure that Spark accurately infers the correct data type for columns like 'Affiliated_base_number' that contain alphanumeric values when reading a CSV file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "34ebc2c6de"
+  },
+  {
+    "question": "What is the recommended way to handle null values in the 'Affiliated_base_number' column before converting a pandas DataFrame to a PySpark DataFrame to avoid schema conflicts?",
+    "course": "data-engineering-zoomcamp",
+    "document": "34ebc2c6de"
+  },
+  {
+    "question": "When using `spark.read.csv()`, which option should be set to true to prevent data type mismatches during schema inference?",
+    "course": "data-engineering-zoomcamp",
+    "document": "34ebc2c6de"
+  },
+  {
+    "question": "If some rows in the 'affiliated_base_number' column are null, what preprocessing step can I apply to my pandas DataFrame before creating a PySpark DataFrame to resolve the `TypeError`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "34ebc2c6de"
+  }
+]

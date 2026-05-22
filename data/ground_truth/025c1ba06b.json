@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is data leakage in the context of machine learning?",
+    "course": "machine-learning-zoomcamp",
+    "document": "025c1ba06b"
+  },
+  {
+    "question": "How does filling in missing values using an entire dataset before splitting for training/testing/validation lead to data leakage?",
+    "course": "machine-learning-zoomcamp",
+    "document": "025c1ba06b"
+  },
+  {
+    "question": "Which module of the 'machine-learning-zoomcamp' course discusses the issue of data leakage?",
+    "course": "machine-learning-zoomcamp",
+    "document": "025c1ba06b"
+  },
+  {
+    "question": "In which section of Module 6, Decision Trees, Ensembles & Gradient Boosting, is the topic of data leakage addressed?",
+    "course": "machine-learning-zoomcamp",
+    "document": "025c1ba06b"
+  },
+  {
+    "question": "What precaution should be taken to avoid data leakage when handling missing values before model training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "025c1ba06b"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I correctly specify variables in `dbt run` commands to avoid the error about the `-vars` argument expecting a YAML dictionary?",
+    "course": "data-engineering-zoomcamp",
+    "document": "57767e983b"
+  },
+  {
+    "question": "What is the proper syntax for defining variable values when passing them to dbt, ensuring they are interpreted as part of a dictionary?",
+    "course": "data-engineering-zoomcamp",
+    "document": "57767e983b"
+  },
+  {
+    "question": "Why does the environment type option become inaccessible during a Production Deployment in Module 4, and do I need to modify it manually?",
+    "course": "data-engineering-zoomcamp",
+    "document": "57767e983b"
+  },
+  {
+    "question": "In the context of dbt deployments within the Data Engineering Zoom Camp, which deployment type should be selected when following guided video instructions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "57767e983b"
+  },
+  {
+    "question": "What should I do if I encounter an error stating that the `-vars` argument must be a YAML dictionary while attempting to run dbt with specified variables?",
+    "course": "data-engineering-zoomcamp",
+    "document": "57767e983b"
+  }
+]

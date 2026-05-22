@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Confluent Cloud, how do I locate the Stream Governance API section for obtaining the schema registry URL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30fbb4f5b8"
+  },
+  {
+    "question": "What steps are required to access the endpoint URL associated with the schema registry in a specific environment within Confluent Cloud?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30fbb4f5b8"
+  },
+  {
+    "question": "How can I create the necessary credentials after retrieving the schema registry URL from the Stream Governance API in Confluent Cloud?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30fbb4f5b8"
+  },
+  {
+    "question": "Where exactly is the 'Endpoint' listed when navigating to Stream Governance API for an environment in Confluent Cloud?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30fbb4f5b8"
+  },
+  {
+    "question": "What is the process to find and use the schema registry URL under the Stream Governance API section in a custom-named environment of Confluent Cloud?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30fbb4f5b8"
+  }
+]

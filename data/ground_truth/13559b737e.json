@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why are the charts in Grafana not reflecting the latest data from my running metric generation script?",
+    "course": "mlops-zoomcamp",
+    "document": "13559b737e"
+  },
+  {
+    "question": "What steps should I take to ensure that the refresh interval in Grafana is correctly configured for real-time updates?",
+    "course": "mlops-zoomcamp",
+    "document": "13559b737e"
+  },
+  {
+    "question": "How can adjusting the timezone setting within a `pytz.timezone` call resolve issues with delayed chart updates in Grafana?",
+    "course": "mlops-zoomcamp",
+    "document": "13559b737e"
+  },
+  {
+    "question": "If I suspect the problem lies in the timezone configuration, what specific change should I make to match my local timezone?",
+    "course": "mlops-zoomcamp",
+    "document": "13559b737e"
+  },
+  {
+    "question": "What small refresh interval values (e.g., 5, 10, or 30 seconds) are recommended to improve the responsiveness of charts in Grafana?",
+    "course": "mlops-zoomcamp",
+    "document": "13559b737e"
+  }
+]

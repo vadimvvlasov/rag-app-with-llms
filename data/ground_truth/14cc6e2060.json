@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the default executor memory allocated for a Spark session in this course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "14cc6e2060"
+  },
+  {
+    "question": "Why did I encounter the error 'MemoryManager: Total allocation exceeds 95.00% (1,020,054,720 bytes) of heap memory' while processing the homework dataset?",
+    "course": "data-engineering-zoomcamp",
+    "document": "14cc6e2060"
+  },
+  {
+    "question": "How can I increase the executor memory to resolve the memory allocation issue mentioned in the error message?",
+    "course": "data-engineering-zoomcamp",
+    "document": "14cc6e2060"
+  },
+  {
+    "question": "What specific configuration changes should I apply when creating a Spark session to allocate more memory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "14cc6e2060"
+  },
+  {
+    "question": "After applying the suggested memory configurations, what steps must I take to ensure they are effectively applied in a Jupyter notebook environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "14cc6e2060"
+  }
+]

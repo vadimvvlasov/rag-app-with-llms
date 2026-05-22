@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What prerequisites must be met before installing the MCP Inspector?",
+    "course": "llm-zoomcamp",
+    "document": "d09e8d4843"
+  },
+  {
+    "question": "Could you provide the exact command to install the MCP Inspector using npm?",
+    "course": "llm-zoomcamp",
+    "document": "d09e8d4843"
+  },
+  {
+    "question": "In which module of the llm-zoomcamp course is the installation guide for MCP Inspector located?",
+    "course": "llm-zoomcamp",
+    "document": "d09e8d4843"
+  },
+  {
+    "question": "What is the unique identifier for the FAQ record pertaining to the MCP Inspector installation?",
+    "course": "llm-zoomcamp",
+    "document": "d09e8d4843"
+  },
+  {
+    "question": "Is there any additional setup required after running the npm install command for the MCP Inspector?",
+    "course": "llm-zoomcamp",
+    "document": "d09e8d4843"
+  }
+]

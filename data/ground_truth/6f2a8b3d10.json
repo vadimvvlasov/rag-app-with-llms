@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is an effective initial approach to chunk a large corpus consisting of lengthy PDF documents with numerous paragraphs?",
+    "course": "llm-zoomcamp",
+    "document": "6f2a8b3d10"
+  },
+  {
+    "question": "How can I leverage a language model to intelligently segment each document into logical sections for indexing?",
+    "course": "llm-zoomcamp",
+    "document": "6f2a8b3d10"
+  },
+  {
+    "question": "Should I incorporate LLM-generated summaries alongside each chunk, and if so, how might this impact retrieval performance?",
+    "course": "llm-zoomcamp",
+    "document": "6f2a8b3d10"
+  },
+  {
+    "question": "For highly structured long documents such as legal or financial texts, what hybrid search method is recommended to preserve exact wording during semantic matching?",
+    "course": "llm-zoomcamp",
+    "document": "6f2a8b3d10"
+  },
+  {
+    "question": "Which tools are suitable for converting PDFs into clean markdown before applying a chunking strategy, considering trade-offs between speed and quality?",
+    "course": "llm-zoomcamp",
+    "document": "6f2a8b3d10"
+  }
+]

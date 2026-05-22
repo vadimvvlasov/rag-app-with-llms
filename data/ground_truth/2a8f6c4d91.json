@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which non-OpenAI models are confirmed to support tool or function calling in the llm-zoomcamp course?",
+    "course": "llm-zoomcamp",
+    "document": "2a8f6c4d91"
+  },
+  {
+    "question": "What specific model names from Groq are listed as working alternatives for tool calling?",
+    "course": "llm-zoomcamp",
+    "document": "2a8f6c4d91"
+  },
+  {
+    "question": "How does the schema for tool calling on Mistral's models differ from OpenAI's, and what should be considered when adapting code for it?",
+    "course": "llm-zoomcamp",
+    "document": "2a8f6c4d91"
+  },
+  {
+    "question": "What is the process to use Google Gemini's function-calling capabilities through its OpenAI-compatible endpoint?",
+    "course": "llm-zoomcamp",
+    "document": "2a8f6c4d91"
+  },
+  {
+    "question": "Can you provide an example of how to implement tool support with Ollama’s `llama3.1` model in a local setup?",
+    "course": "llm-zoomcamp",
+    "document": "2a8f6c4d91"
+  }
+]

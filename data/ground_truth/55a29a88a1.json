@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why might the accuracy and standard deviation of training loss reported on a Mac laptop differ from those provided in the homework answers?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55a29a88a1"
+  },
+  {
+    "question": "How does the version of the SGD optimizer affect the results when executing the wasp/bee model on different platforms?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55a29a88a1"
+  },
+  {
+    "question": "What steps can be taken to ensure that the model's performance metrics align more closely with the expected homework answers?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55a29a88a1"
+  },
+  {
+    "question": "Is there a specific computational environment, such as Google Colab or a T4 GPU runtime, that yields results more consistent with the homework expectations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55a29a88a1"
+  },
+  {
+    "question": "What message might appear if there is an issue related to using different versions of the SGD optimizer during model execution?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55a29a88a1"
+  }
+]

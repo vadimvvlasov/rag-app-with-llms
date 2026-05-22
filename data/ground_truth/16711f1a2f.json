@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Q5 of the Module 3 homework for machine-learning-zoomcamp, when determining the smallest difference in accuracy due to feature elimination, should we consider the actual negative differences or convert them to their absolute values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "16711f1a2f"
+  },
+  {
+    "question": "For feature elimination assessment in Homework Q5, does a more negative accuracy difference indicate that removing a feature improved model performance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "16711f1a2f"
+  },
+  {
+    "question": "How should we interpret a negative accuracy difference when evaluating feature importance in the Module 3 homework of machine-learning-zoomcamp?",
+    "course": "machine-learning-zoomcamp",
+    "document": "16711f1a2f"
+  },
+  {
+    "question": "In the context of feature elimination for the Module 3 Homework, what criterion defines the 'smallest' difference between accuracies after adding or removing a feature?",
+    "course": "machine-learning-zoomcamp",
+    "document": "16711f1a2f"
+  },
+  {
+    "question": "When comparing accuracy differences resulting from feature removal in the machine-learning-zoomcamp course's Module 3 Homework Q5, does the comparison rely on absolute values rather than signed values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "16711f1a2f"
+  }
+]

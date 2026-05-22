@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'lib_lightgbm.so Reason: image not found' error when Dockerizing a LightGBM model?",
+    "course": "mlops-zoomcamp",
+    "document": "5bf804473e"
+  },
+  {
+    "question": "What specific command should be included in the Dockerfile to fix the missing library issue for LightGBM?",
+    "course": "mlops-zoomcamp",
+    "document": "5bf804473e"
+  },
+  {
+    "question": "Is there any need to adjust the installer command depending on the operating system when deploying LightGBM with Docker?",
+    "course": "mlops-zoomcamp",
+    "document": "5bf804473e"
+  },
+  {
+    "question": "Which package must be installed in the Docker environment to ensure successful execution of LightGBM models?",
+    "course": "mlops-zoomcamp",
+    "document": "5bf804473e"
+  },
+  {
+    "question": "After adding a particular command to the Dockerfile, what additional step might still be necessary for proper deployment of a LightGBM model?",
+    "course": "mlops-zoomcamp",
+    "document": "5bf804473e"
+  }
+]

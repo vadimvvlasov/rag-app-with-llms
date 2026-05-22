@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'FORBIDDEN' error when trying to download the 2021 Yellow Taxi Trip Records from the TLC website?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6affd2987c"
+  },
+  {
+    "question": "What is the direct link to download the January 2021 Yellow Taxi trip data after encountering a downloading error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6affd2987c"
+  },
+  {
+    "question": "Can you provide guidance on unzipping a '.gz' file for the NYC Yellow Taxi dataset?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6affd2987c"
+  },
+  {
+    "question": "Where can I find an alternative backup source for the NYC Yellow Taxi Trip Records if the official TLC site is inaccessible?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6affd2987c"
+  },
+  {
+    "question": "What specific command should I use to unzip the 'yellow_tripdata_2021-01.csv.gz' file provided in the GitHub repository?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6affd2987c"
+  }
+]

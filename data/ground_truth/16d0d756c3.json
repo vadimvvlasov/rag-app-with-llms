@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if WSL2 cannot resolve the host name while trying to connect to a GPC VM using SSH?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16d0d756c3"
+  },
+  {
+    "question": "How can I ensure that WSL2 is referencing the correct `.ssh/config` file from Windows for SSH connections?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16d0d756c3"
+  },
+  {
+    "question": "Could you guide me through creating a `config` file in the home directory of WSL2 with the necessary SSH settings, such as the host name, username, and private key path?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16d0d756c3"
+  },
+  {
+    "question": "What steps are required to set up an SSH configuration file within the WSL2 environment to successfully connect to a remote GPC VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16d0d756c3"
+  },
+  {
+    "question": "Why might WSL2 fail to resolve a host name, and what is the recommended solution involving the `.ssh/config` file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16d0d756c3"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I estimate the token count for a message in the GPT-4o model without an OpenAI API key?",
+    "course": "llm-zoomcamp",
+    "document": "fe8fed31e6"
+  },
+  {
+    "question": "What Python library is recommended for tokenizing text with respect to the GPT-4o model's token limits?",
+    "course": "llm-zoomcamp",
+    "document": "fe8fed31e6"
+  },
+  {
+    "question": "Can you provide a code snippet demonstrating how to use `tiktoken` to determine the number of tokens in a given prompt?",
+    "course": "llm-zoomcamp",
+    "document": "fe8fed31e6"
+  },
+  {
+    "question": "Is there any documentation or guide on integrating `tiktoken` into my existing Groq workflow for token counting?",
+    "course": "llm-zoomcamp",
+    "document": "fe8fed31e6"
+  },
+  {
+    "question": "What specific steps should I follow to install and utilize the `tiktoken` library for accurate token estimation in homework question 6?",
+    "course": "llm-zoomcamp",
+    "document": "fe8fed31e6"
+  }
+]

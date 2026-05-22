@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which Groq models provide tool use capabilities?",
+    "course": "llm-zoomcamp",
+    "document": "0d74a3616f"
+  },
+  {
+    "question": "What are the free models that support tool use for development?",
+    "course": "llm-zoomcamp",
+    "document": "0d74a3616f"
+  },
+  {
+    "question": "How can I access documentation on using tool use with Groq models?",
+    "course": "llm-zoomcamp",
+    "document": "0d74a3616f"
+  },
+  {
+    "question": "Are there any limitations to the free usage of Groq models with tool use support?",
+    "course": "llm-zoomcamp",
+    "document": "0d74a3616f"
+  },
+  {
+    "question": "Where can I find more information about deploying free Groq models with integrated tool functionality?",
+    "course": "llm-zoomcamp",
+    "document": "0d74a3616f"
+  }
+]

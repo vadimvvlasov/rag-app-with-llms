@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the recommended tool for managing Python environments in the course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3b78e09b80"
+  },
+  {
+    "question": "How do I install a specific version of Python using the recommended tool?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3b78e09b80"
+  },
+  {
+    "question": "Can you provide the command to create and activate a virtual environment with uv?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3b78e09b80"
+  },
+  {
+    "question": "What are the steps to add packages like pandas, scikit-learn, and jupyter to my project using uv?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3b78e09b80"
+  },
+  {
+    "question": "Where can I find the workshop that covers setting up uv with FastAPI in Module 5?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3b78e09b80"
+  }
+]

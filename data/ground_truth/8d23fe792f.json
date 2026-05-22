@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I securely store multiple API keys in a YAML file for use in my Jupyter notebook?",
+    "course": "llm-zoomcamp",
+    "document": "8d23fe792f"
+  },
+  {
+    "question": "What steps should I take to ensure that my `api_keys.yml` file is not accidentally committed or shared with others?",
+    "course": "llm-zoomcamp",
+    "document": "8d23fe792f"
+  },
+  {
+    "question": "Which Python library is required to load the API keys from a YAML configuration file, and how do I install it?",
+    "course": "llm-zoomcamp",
+    "document": "8d23fe792f"
+  },
+  {
+    "question": "Can you provide the exact code snippet needed to read and access an API key (e.g., Groq) stored in `api_keys.yml` within my Jupyter notebook?",
+    "course": "llm-zoomcamp",
+    "document": "8d23fe792f"
+  },
+  {
+    "question": "What are the advantages of loading API keys directly from a local YAML file compared to using environment variables?",
+    "course": "llm-zoomcamp",
+    "document": "8d23fe792f"
+  }
+]

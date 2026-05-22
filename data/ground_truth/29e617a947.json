@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why might I see no rows in the PostgreSQL sink table immediately after a Flink tumbling window job completes successfully?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29e617a947"
+  },
+  {
+    "question": "In event-time processing with watermarks, when exactly does the result of a tumbling window get written to an external sink like PostgreSQL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29e617a947"
+  },
+  {
+    "question": "If my Flink job is running correctly but the PostgreSQL table appears empty when queried right after execution, what could be causing this discrepancy?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29e617a947"
+  },
+  {
+    "question": "How can I ensure that my data appears in the PostgreSQL sink table for a streaming job that uses event-time and watermarks?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29e617a947"
+  },
+  {
+    "question": "What steps should I take to verify that the watermark has advanced sufficiently so that window results are emitted to the downstream sink table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29e617a947"
+  }
+]

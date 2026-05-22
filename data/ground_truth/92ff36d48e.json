@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the Jupyter kernel sometimes die during model training in GitHub Codespaces?",
+    "course": "mlops-zoomcamp",
+    "document": "92ff36d48e"
+  },
+  {
+    "question": "How can I prevent the kernel from dying while executing a machine learning experiment in Jupyter Notebook on GitHub Codespaces?",
+    "course": "mlops-zoomcamp",
+    "document": "92ff36d48e"
+  },
+  {
+    "question": "What steps should I take if I encounter a kernel death issue when running my model training script in GitHub Codespaces?",
+    "course": "mlops-zoomcamp",
+    "document": "92ff36d48e"
+  },
+  {
+    "question": "Is there a recommended configuration change to avoid kernel termination during intensive computations in Codespaces?",
+    "course": "mlops-zoomcamp",
+    "document": "92ff36d48e"
+  },
+  {
+    "question": "Are there any costs associated with upgrading the machine type to resolve kernel death problems in GitHub Codespaces?",
+    "course": "mlops-zoomcamp",
+    "document": "92ff36d48e"
+  }
+]

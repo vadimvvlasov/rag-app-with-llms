@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a `FileNotFoundError` for the table `notion_pages___homework` when executing `main()`?",
+    "course": "llm-zoomcamp",
+    "document": "e95bfafc0e"
+  },
+  {
+    "question": "What is the specific error message indicating, and how can I resolve it by creating the missing table?",
+    "course": "llm-zoomcamp",
+    "document": "e95bfafc0e"
+  },
+  {
+    "question": "In which line of my code should I call `db.create_table(\"notion_pages___homework\", data)` to fix the FileNotFoundError?",
+    "course": "llm-zoomcamp",
+    "document": "e95bfafc0e"
+  },
+  {
+    "question": "Could you provide the exact Python statement needed to open the correct table named `notion_pages___homework`?",
+    "course": "llm-zoomcamp",
+    "document": "e95bfafc0e"
+  },
+  {
+    "question": "What steps should I follow in the 'Workshop: Open-Source Data Ingestion (dlt)' course of 'llm-zoomcamp' to ensure the table exists before running `main()`?",
+    "course": "llm-zoomcamp",
+    "document": "e95bfafc0e"
+  }
+]

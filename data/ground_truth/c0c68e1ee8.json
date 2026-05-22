@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can I incorporate external datasets like NY_Taxi into my project for this course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c0c68e1ee8"
+  },
+  {
+    "question": "Are there any restrictions on using the NY_Taxi dataset within our data engineering assignments?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c0c68e1ee8"
+  },
+  {
+    "question": "What specific guidelines does the 'Project' section provide regarding permissible data sources for the assignment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c0c68e1ee8"
+  },
+  {
+    "question": "Does the FAQ explicitly mention any prohibited data sets that should not be used in the project portion of the 'data-engineering-zoomcamp' course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c0c68e1ee8"
+  },
+  {
+    "question": "Is there a reason behind disallowing the NY_Taxi dataset as outlined in the course's project FAQs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c0c68e1ee8"
+  }
+]

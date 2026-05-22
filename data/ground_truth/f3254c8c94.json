@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific steps are outlined in the guide for installing CUDA on Ubuntu 22.04?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f3254c8c94"
+  },
+  {
+    "question": "How can I verify that CUDA and cuDNN have been successfully installed after following the guide?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f3254c8c94"
+  },
+  {
+    "question": "Are there any prerequisites or dependencies required before starting the installation process mentioned in the FAQ record?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f3254c8c94"
+  },
+  {
+    "question": "Does the provided guide include troubleshooting tips for common issues encountered during the CUDA and cuDNN setup on Ubuntu 22.04?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f3254c8c94"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course is the information about installing CUDA and cuDNN located?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f3254c8c94"
+  }
+]

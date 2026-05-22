@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is causing the 'Server Error 500' when trying to log in via GitHub on courses.datatalks.club?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55ffccb945"
+  },
+  {
+    "question": "Is there an alternative login method available if GitHub login fails due to the known bug?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55ffccb945"
+  },
+  {
+    "question": "Will switching from GitHub to Google login retain my previous course progress and data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55ffccb945"
+  },
+  {
+    "question": "If I previously registered using a GitHub account but can no longer access it, what steps should I take to regain entry into the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55ffccb945"
+  },
+  {
+    "question": "Who should I contact and what information is required if I need to transfer my progress from an old GitHub-linked email to a new one due to login issues?",
+    "course": "machine-learning-zoomcamp",
+    "document": "55ffccb945"
+  }
+]

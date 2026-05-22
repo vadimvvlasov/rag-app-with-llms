@@ -1,0 +1,27 @@
+[
+  {
+    "question": "1. What does the warning message 'UserWarning: Trying to unpickle estimator from version X.Y.Z when using version A.B.C' indicate?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2d5c32331e"
+  },
+  {
+    "question": "2. Why might unpickling a model saved with a different scikit-learn version work sometimes but fail other times?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2d5c32331e"
+  },
+  {
+    "question": "3. How can I ensure that the same scikit-learn version used during training is available in my deployment environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2d5c32331e"
+  },
+  {
+    "question": "4. What steps should I take if I am unsure of the scikit-learn version under which my trained model was pickled?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2d5c32331e"
+  },
+  {
+    "question": "5. Is there a risk of errors when unpickling a machine learning model across different versions of scikit-learn, and how can this be mitigated?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2d5c32331e"
+  }
+]

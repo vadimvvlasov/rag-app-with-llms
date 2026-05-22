@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the correct method to obtain feature importance values from an XGBoost model trained using `xgb.train`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c2f713127c"
+  },
+  {
+    "question": "Why does using `model.feature_importances_` result in an AttributeError when working with XGBoost?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c2f713127c"
+  },
+  {
+    "question": "In the context of gradient boosting, which function should be utilized to retrieve feature importances after training a model with `xgb.train`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c2f713127c"
+  },
+  {
+    "question": "How can I access the importance scores for each feature in my XGBoost model without encountering attribute errors?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c2f713127c"
+  },
+  {
+    "question": "What approach is recommended for evaluating and interpreting feature contributions from an XGBoost classifier trained through the `train` function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c2f713127c"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I accurately count tokens for a Gemini model?",
+    "course": "llm-zoomcamp",
+    "document": "4d8c1f5b3a"
+  },
+  {
+    "question": "What is the recommended method for token counting with Hugging Face models?",
+    "course": "llm-zoomcamp",
+    "document": "4d8c1f5b3a"
+  },
+  {
+    "question": "Which tokenizer should be used for Mistral models to get correct token counts?",
+    "course": "llm-zoomcamp",
+    "document": "4d8c1f5b3a"
+  },
+  {
+    "question": "Why is `tiktoken` not suitable as a generic fallback for non-OpenAI models?",
+    "course": "llm-zoomcamp",
+    "document": "4d8c1f5b3a"
+  },
+  {
+    "question": "Can you provide an example of using the native tokenizer for a Meta Llama-3.1 model?",
+    "course": "llm-zoomcamp",
+    "document": "4d8c1f5b3a"
+  }
+]

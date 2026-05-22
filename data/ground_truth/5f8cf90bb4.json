@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When using `pd.read_sql_query()` with SQLAlchemy, why might I encounter the error `'OptionEngine' object has no attribute 'execute'`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f8cf90bb4"
+  },
+  {
+    "question": "What steps should I take to resolve the issue where `read_sql_query()` throws an error about a missing `execute` attribute in the OptionEngine object?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f8cf90bb4"
+  },
+  {
+    "question": "How can I ensure compatibility between SQLAlchemy and pandas when encountering execution errors with `pd.read_sql_query()`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f8cf90bb4"
+  },
+  {
+    "question": "What is the recommended method to wrap a SQL query using SQLAlchemy to avoid the `'OptionEngine' object has no attribute 'execute'` error when reading into a DataFrame?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f8cf90bb4"
+  },
+  {
+    "question": "In the context of data engineering, what upgrade commands should I use for both SQLAlchemy and pandas to potentially fix execution-related errors in `pd.read_sql_query()`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5f8cf90bb4"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What plugin in Kestra allows me to run Docker containers and configure their networking?",
+    "course": "mlops-zoomcamp",
+    "document": "f74891d445"
+  },
+  {
+    "question": "How can I set up a custom network between Docker containers invoked from a Kestra task for local development?",
+    "course": "mlops-zoomcamp",
+    "document": "f74891d445"
+  },
+  {
+    "question": "Is the `host` network mode supported on Windows or macOS when using Docker Desktop, and if not, what alternatives are recommended?",
+    "course": "mlops-zoomcamp",
+    "document": "f74891d445"
+  },
+  {
+    "question": "When deploying MLflow in conjunction with Kestra, should it be run within the same orchestration pipeline or separately, and why?",
+    "course": "mlops-zoomcamp",
+    "document": "f74891d445"
+  },
+  {
+    "question": "What is the recommended method for ensuring stable communication to MLflow running outside a Kestra task in a production environment?",
+    "course": "mlops-zoomcamp",
+    "document": "f74891d445"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific error occurs when attempting to write data from a web source to a Google Cloud Storage (GCS) bucket?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee4a3bc34d"
+  },
+  {
+    "question": "How can I ensure that my data types are compatible with GCS when transferring data via a web application?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee4a3bc34d"
+  },
+  {
+    "question": "Which Pandas data type should I use for columns that may contain missing values during the upload process to prevent errors in GCS?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee4a3bc34d"
+  },
+  {
+    "question": "What steps should be taken to handle nullable fields when uploading datasets from the internet to GCS using Python?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee4a3bc34d"
+  },
+  {
+    "question": "In the context of Module 3 on Data Warehousing for the data-engineering-zoomcamp course, what is the recommended approach to deal with potential null values while writing data to a GCS bucket?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee4a3bc34d"
+  }
+]

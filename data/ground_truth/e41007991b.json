@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What happens if I modify a DataFrame directly inside a function without copying it first?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e41007991b"
+  },
+  {
+    "question": "How can I ensure that my original DataFrame remains unchanged when applying transformations in a function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e41007991b"
+  },
+  {
+    "question": "Why is it recommended to use `df.copy()` before altering data within functions during regression tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e41007991b"
+  },
+  {
+    "question": "What potential issues might arise from inadvertently modifying the input DataFrame inside a machine learning function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e41007991b"
+  },
+  {
+    "question": "In the context of Module 2, Machine Learning for Regression on the Zoomcamp course, what is the best practice to avoid unintended changes to my dataset when using custom functions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e41007991b"
+  }
+]

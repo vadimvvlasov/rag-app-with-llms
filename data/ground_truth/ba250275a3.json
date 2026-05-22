@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'wget: unable to resolve host address raw.githubusercontent.com' error when downloading a dataset from GitHub in a Kaggle notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ba250275a3"
+  },
+  {
+    "question": "What steps are required to enable internet access for `!wget` commands in a Kaggle notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ba250275a3"
+  },
+  {
+    "question": "Is it necessary to verify my phone number to use internet access features in Kaggle notebooks, and why is this verification step implemented?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ba250275a3"
+  },
+  {
+    "question": "After enabling internet access, what should I do if the error persists when trying to download a file using `!wget` from GitHub?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ba250275a3"
+  },
+  {
+    "question": "Where can I find the settings panel to adjust internet access options within a Kaggle notebook environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ba250275a3"
+  }
+]

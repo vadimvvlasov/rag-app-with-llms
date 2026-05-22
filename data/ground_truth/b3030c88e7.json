@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I install wget on Ubuntu to resolve the 'wget is not recognized' error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b3030c88e7"
+  },
+  {
+    "question": "What steps are required to install wget using Homebrew on macOS?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b3030c88e7"
+  },
+  {
+    "question": "On Windows, how do I use Chocolatey or download a binary from GnuWin32 to fix the 'wget is not recognized' issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b3030c88e7"
+  },
+  {
+    "question": "If I prefer using Python, which library should I install to perform similar functions as wget?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b3030c88e7"
+  },
+  {
+    "question": "Are there any recommended alternatives to directly downloading files via a web browser when wget is problematic?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b3030c88e7"
+  }
+]

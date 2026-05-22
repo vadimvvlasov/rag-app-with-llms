@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which specific version of scikit-learn (sklearn) does Alexey employ in the YouTube tutorials for the 'Machine Learning for Regression' module of the Machine Learning ZoomCamp?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ae58046503"
+  },
+  {
+    "question": "What Python interpreter version accompanies sklearn 0.24.2 in the videos related to regression techniques within the Machine Learning ZoomCamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ae58046503"
+  },
+  {
+    "question": "In the context of Module 2 on Machine Learning for Regression from the Machine Learning ZoomCamp, which iteration of scikit-learn is utilized by Alexey in his instructional content?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ae58046503"
+  },
+  {
+    "question": "Could you specify the sklearn release and the corresponding Python version that Alexey references during his regression-focused lectures in the Machine Learning ZoomCamp?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ae58046503"
+  },
+  {
+    "question": "For those following the 'Machine Learning for Regression' segment of the Machine Learning ZoomCamp, what are the exact sklearn and Python versions highlighted by Alexey in his video demonstrations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ae58046503"
+  }
+]

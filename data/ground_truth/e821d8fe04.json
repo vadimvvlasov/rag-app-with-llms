@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a 'Permission denied' error when executing `./build.sh` in the `/docker/spark` directory during Module 7 of the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e821d8fe04"
+  },
+  {
+    "question": "What command should I use to resolve the permission issue for running `build.sh` within the streaming module context of the data engineering ZoomCamp?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e821d8fe04"
+  },
+  {
+    "question": "In the context of Python Kafka and the Streaming module of the data-engineering-zoomcamp, how can I make the `build.sh` script executable in the `/docker/spark` directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e821d8fe04"
+  },
+  {
+    "question": "What specific terminal command is required to grant execution permissions to `build.sh` so that it runs without a 'Permission denied' error during Module 7?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e821d8fe04"
+  },
+  {
+    "question": "For the data-engineering-zoomcamp course, particularly in Module 7 on Streaming with Python Kafka, what step should I take if I face an error stating './build.sh: Permission denied'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e821d8fe04"
+  }
+]

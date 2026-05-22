@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I run in my Jupyter Notebook to install Xgboost?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bc2d83ddc7"
+  },
+  {
+    "question": "Is there a specific version of pip required for installing Xgboost?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bc2d83ddc7"
+  },
+  {
+    "question": "After running the installation command, what additional step might be necessary if my current pip is outdated?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bc2d83ddc7"
+  },
+  {
+    "question": "Where can I find more detailed information about Xgboost installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bc2d83ddc7"
+  },
+  {
+    "question": "Which module of the 'machine-learning-zoomcamp' course covers the installation of Xgboost?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bc2d83ddc7"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I set up SSH port forwarding for my Jupyter server using the terminal?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a8563f2c5c"
+  },
+  {
+    "question": "What specific line should I add to my SSH config file to forward port 8888 locally?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a8563f2c5c"
+  },
+  {
+    "question": "Where is the SSH configuration file located on a typical system, and how do I open it in nano?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a8563f2c5c"
+  },
+  {
+    "question": "After adding the LocalForward directive, what steps are required to apply the changes for remote access?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a8563f2c5c"
+  },
+  {
+    "question": "Which command initiates the SSH connection with the configured port forwarding?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a8563f2c5c"
+  }
+]

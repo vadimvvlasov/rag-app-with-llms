@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I use curl to download a CSV file from a given URL and save it with a specific name in Python?",
+    "course": "data-engineering-zoomcamp",
+    "document": "48cae101d6"
+  },
+  {
+    "question": "What command should I execute in my Python script to fetch data from `https://example.com/data.csv` and store it as `output.csv`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "48cae101d6"
+  },
+  {
+    "question": "In the context of Module 1 on Taxi Data, what is the correct syntax for downloading a file using curl within a Python os.system call?",
+    "course": "data-engineering-zoomcamp",
+    "document": "48cae101d6"
+  },
+  {
+    "question": "If I encounter the error 'curl: (6) Could not resolve host', which parameter might be incorrectly specified in my curl command?",
+    "course": "data-engineering-zoomcamp",
+    "document": "48cae101d6"
+  },
+  {
+    "question": "What steps are required to properly set up a curl command to download data from an online source into a local CSV file during the Data Engineering ZoomCamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "48cae101d6"
+  }
+]

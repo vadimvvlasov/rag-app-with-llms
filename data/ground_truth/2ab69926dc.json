@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I encountered a `ValueError: Unknown label type: 'continuous'` while trying to fit a decision tree model. What did I likely do wrong?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2ab69926dc"
+  },
+  {
+    "question": "When should I use `DecisionTreeClassifier` versus `DecisionTreeRegressor` in scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2ab69926dc"
+  },
+  {
+    "question": "How can I fix the error `ValueError: Unknown label type: 'continuous'` when working with decision trees?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2ab69926dc"
+  },
+  {
+    "question": "What is the difference between classification and regression tasks in the context of decision trees?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2ab69926dc"
+  },
+  {
+    "question": "In Module 6 of the Machine Learning Zoomcamp, which class should I use for a regression problem involving continuous target values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2ab69926dc"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does linear regression typically fail to produce a perfect fit in practical scenarios?",
+    "course": "machine-learning-zoomcamp",
+    "document": "631e3d040c"
+  },
+  {
+    "question": "What is the reason behind the difference between predicted values (`y_pred`) and actual target values (`y`)?",
+    "course": "machine-learning-zoomcamp",
+    "document": "631e3d040c"
+  },
+  {
+    "question": "In lesson 2.8, after obtaining weights from training `X_train`, why doesn't multiplying by `X_train` yield exactly `y`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "631e3d040c"
+  },
+  {
+    "question": "How would you represent a line to fit all data points in a scenario involving a single feature `X` where the relationship appears non-linear?",
+    "course": "machine-learning-zoomcamp",
+    "document": "631e3d040c"
+  },
+  {
+    "question": "What potential issues arise if we attempt to fit all data points perfectly using methods like `scipy.optimize.curve_fit`, and how might this affect model performance on unseen data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "631e3d040c"
+  }
+]

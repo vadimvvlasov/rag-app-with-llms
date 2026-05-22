@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In a Kestra workflow with dependent tasks, why might an upstream task be reported as successful even if a subsequent downstream task encounters an error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "70722b98b6"
+  },
+  {
+    "question": "How does Kestra handle the execution status of individual tasks when some downstream operations fail during workflow processing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "70722b98b6"
+  },
+  {
+    "question": "Can we still access the outputs or logs from an upstream task in Kestra if a later task in the dependency chain fails, and why is this behavior beneficial?",
+    "course": "data-engineering-zoomcamp",
+    "document": "70722b98b6"
+  },
+  {
+    "question": "What mechanism allows each task in a Kestra workflow to be evaluated independently of its successors, ensuring that successful completions are recorded even when downstream tasks fail?",
+    "course": "data-engineering-zoomcamp",
+    "document": "70722b98b6"
+  },
+  {
+    "question": "When using Kestra for orchestration, how does the platform determine the success or failure status of tasks within a workflow that involves multiple dependent steps?",
+    "course": "data-engineering-zoomcamp",
+    "document": "70722b98b6"
+  }
+]

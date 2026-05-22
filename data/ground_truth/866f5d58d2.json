@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I calculate the Area Under the Curve (AUC) when using a numerical feature directly as predicted scores?",
+    "course": "machine-learning-zoomcamp",
+    "document": "866f5d58d2"
+  },
+  {
+    "question": "What happens if the computed AUC from a numerical variable is less than 0.5, and how should I adjust the scores?",
+    "course": "machine-learning-zoomcamp",
+    "document": "866f5d58d2"
+  },
+  {
+    "question": "In the context of computing AUC, does the range of the numerical feature values matter, such as needing them to be between 0 and 1?",
+    "course": "machine-learning-zoomcamp",
+    "document": "866f5d58d2"
+  },
+  {
+    "question": "Can you explain why the ranking of predictions, rather than their absolute magnitudes, is crucial for calculating AUC?",
+    "course": "machine-learning-zoomcamp",
+    "document": "866f5d58d2"
+  },
+  {
+    "question": "What function from the scikit-learn library should I use to compute the AUC when the model's predicted scores are stored in a DataFrame column?",
+    "course": "machine-learning-zoomcamp",
+    "document": "866f5d58d2"
+  }
+]

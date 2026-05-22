@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of using access keys when connecting an S3 bucket to MLflow?",
+    "course": "mlops-zoomcamp",
+    "document": "f192a133f7"
+  },
+  {
+    "question": "How does `boto3` utilize access keys for authentication with AWS servers?",
+    "course": "mlops-zoomcamp",
+    "document": "f192a133f7"
+  },
+  {
+    "question": "If I choose to set my S3 bucket as public, will I still need access keys from `boto3` to connect it to MLflow?",
+    "course": "mlops-zoomcamp",
+    "document": "f192a133f7"
+  },
+  {
+    "question": "Where can I find detailed documentation on managing credentials for `boto3` when connecting an S3 bucket to MLflow?",
+    "course": "mlops-zoomcamp",
+    "document": "f192a133f7"
+  },
+  {
+    "question": "What are the alternative methods to establish a connection between an S3 bucket and MLflow if public access is not preferred?",
+    "course": "mlops-zoomcamp",
+    "document": "f192a133f7"
+  }
+]

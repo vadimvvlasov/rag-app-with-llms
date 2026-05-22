@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I use `curl` to send a JSON payload in an HTTP POST request from the command line?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cde1c48afc"
+  },
+  {
+    "question": "What is the syntax for piping JSON data directly from a file or an echo statement into a `curl` POST request?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cde1c48afc"
+  },
+  {
+    "question": "Can you provide a step-by-step example of testing a POST request to `http://localhost:9696/predict` with specific JSON content using the command line?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cde1c48afc"
+  },
+  {
+    "question": "Is it necessary to install any additional tools on Windows Subsystem for Linux 2 (WSL2) to execute this `curl` command, or does it work out-of-the-box?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cde1c48afc"
+  },
+  {
+    "question": "What flags are required in the `curl` command to ensure the request is interpreted as a JSON POST?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cde1c48afc"
+  }
+]

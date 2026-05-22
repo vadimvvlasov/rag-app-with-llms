@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs when trying to read large parquet files, and what does the index out of bounds message signify?",
+    "course": "mlops-zoomcamp",
+    "document": "ac851e936b"
+  },
+  {
+    "question": "How can I execute my code to avoid the IndexError when reading large parquet files in a Jupyter Notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "ac851e936b"
+  },
+  {
+    "question": "Which library is recommended for handling large data files like parquet efficiently, and why?",
+    "course": "mlops-zoomcamp",
+    "document": "ac851e936b"
+  },
+  {
+    "question": "What method allows me to read parquet files incrementally without loading the entire file into memory, and where can I find more information on this approach?",
+    "course": "mlops-zoomcamp",
+    "document": "ac851e936b"
+  },
+  {
+    "question": "Are there any external resources or blog posts that provide a detailed explanation of processing parquet files in chunks using pyarrow?",
+    "course": "mlops-zoomcamp",
+    "document": "ac851e936b"
+  }
+]

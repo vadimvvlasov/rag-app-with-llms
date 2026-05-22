@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if the MLflow UI at [127.0.0.1:5000](http://127.0.0.1:5000) does not load when running on a remote virtual machine?",
+    "course": "mlops-zoomcamp",
+    "document": "944a62abe6"
+  },
+  {
+    "question": "How can I configure port forwarding for MLflow's default URL (127.0.0.1:5000) when accessing it from VS Code remotely?",
+    "course": "mlops-zoomcamp",
+    "document": "944a62abe6"
+  },
+  {
+    "question": "Why might the MLflow dashboard appear blank at 127.0.0.1:5000, and what alternative URL should I try instead?",
+    "course": "mlops-zoomcamp",
+    "document": "944a62abe6"
+  },
+  {
+    "question": "In the context of Module 2 on Experiment Tracking for the MLOps Zoomcamp course, what specific steps are required to ensure MLflow's interface is accessible when running locally?",
+    "course": "mlops-zoomcamp",
+    "document": "944a62abe6"
+  },
+  {
+    "question": "When troubleshooting an inaccessible MLflow UI, which connection method (remote VM or local) dictates whether port forwarding or a different URL path should be used?",
+    "course": "mlops-zoomcamp",
+    "document": "944a62abe6"
+  }
+]

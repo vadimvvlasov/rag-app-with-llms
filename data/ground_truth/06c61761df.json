@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I encounter a 'service account key creation is disabled' error while trying to create a service account key in GCP?",
+    "course": "data-engineering-zoomcamp",
+    "document": "06c61761df"
+  },
+  {
+    "question": "How can I enable the creation of service account keys at the organizational level using the Google Cloud Platform (GCP) Console?",
+    "course": "data-engineering-zoomcamp",
+    "document": "06c61761df"
+  },
+  {
+    "question": "In what steps must I follow to disable the policy that prevents service account key creation via the GCP Console?",
+    "course": "data-engineering-zoomcamp",
+    "document": "06c61761df"
+  },
+  {
+    "question": "Which roles need to be assigned to my user account in order to modify organization policies related to service account key creation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "06c61761df"
+  },
+  {
+    "question": "What command sequence in the gcloud CLI is required to remove the 'disableServiceAccountKeyCreation' policy for a specific organization?",
+    "course": "data-engineering-zoomcamp",
+    "document": "06c61761df"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Under what conditions is it appropriate to apply a logarithmic transformation to the target variable in regression tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9e300560ca"
+  },
+  {
+    "question": "What method should be used to perform a logarithmic transformation on the target variable, excluding cases with negative values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9e300560ca"
+  },
+  {
+    "question": "How does transforming the target variable using `np.log1p()` affect variables with a long-tail distribution, such as price data spanning a wide range?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9e300560ca"
+  },
+  {
+    "question": "In the context of regression analysis, what potential issue arises if the target variable includes negative values when attempting to apply a logarithmic transformation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9e300560ca"
+  },
+  {
+    "question": "Which module in the 'machine-learning-zoomcamp' course discusses the practical application and limitations of transforming target variables into logarithmic distributions for handling skewed data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9e300560ca"
+  }
+]

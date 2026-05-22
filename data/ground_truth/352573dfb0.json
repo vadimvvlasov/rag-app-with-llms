@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific topics should I master in the Python article to be adequately prepared for this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "352573dfb0"
+  },
+  {
+    "question": "Is there a recommended sequence of learning resources, such as the provided OpenClassrooms course, that can complement the main course material?",
+    "course": "machine-learning-zoomcamp",
+    "document": "352573dfb0"
+  },
+  {
+    "question": "Can you explain what libraries are and why importing them is essential for data analysis in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "352573dfb0"
+  },
+  {
+    "question": "What are variables in programming, and how do they function within the context of running a Jupyter notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "352573dfb0"
+  },
+  {
+    "question": "Could you outline some critical operations related to data analysis that I need to be familiar with before starting this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "352573dfb0"
+  }
+]

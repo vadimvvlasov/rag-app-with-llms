@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When launching the MLflow UI on a remote server, why does the exception 'TypeError: send_file() unexpected keyword 'max_age'' occur and what is the page's loading status?",
+    "course": "mlops-zoomcamp",
+    "document": "ad15f21a9f"
+  },
+  {
+    "question": "What specific version of Flask causes the TypeError during MLflow UI launch, and how can it be avoided?",
+    "course": "mlops-zoomcamp",
+    "document": "ad15f21a9f"
+  },
+  {
+    "question": "If I encounter the MLflow UI launch error related to Flask, should I uninstall and then reinstall Flask on my remote server?",
+    "course": "mlops-zoomcamp",
+    "document": "ad15f21a9f"
+  },
+  {
+    "question": "Does cloning the base conda environment from a server that has an older version of Flask lead to the MLflow UI launch exception, and what is the recommended fix?",
+    "course": "mlops-zoomcamp",
+    "document": "ad15f21a9f"
+  },
+  {
+    "question": "In the context of Module 2: Experiment Tracking for the mlops-zoomcamp course, how does updating Flask resolve the TypeError encountered during MLflow UI initialization?",
+    "course": "mlops-zoomcamp",
+    "document": "ad15f21a9f"
+  }
+]

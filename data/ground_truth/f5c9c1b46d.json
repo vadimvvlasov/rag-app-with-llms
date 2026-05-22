@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the Power user for the dbt VS Code extension continue to prompt installation of dbt core even though dbt is already installed in a virtual environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f5c9c1b46d"
+  },
+  {
+    "question": "What command should I run within my dbt project folder to view the Python interpreter path used by dbt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f5c9c1b46d"
+  },
+  {
+    "question": "How do I activate a virtual environment on macOS or Unix systems before configuring VS Code for dbt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f5c9c1b46d"
+  },
+  {
+    "question": "After running `dbt debug`, where should I copy the displayed Python interpreter path from and where should I paste it in VS Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f5c9c1b46d"
+  },
+  {
+    "question": "If the installation prompt persists after following these steps, what additional troubleshooting actions can be taken to resolve potential conflicting Python environments?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f5c9c1b46d"
+  }
+]

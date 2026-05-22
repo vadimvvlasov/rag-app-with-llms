@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Module 6 Homework, what does it signify when the Root Mean Square Error (RMSE) ceases to improve during a model training process?",
+    "course": "machine-learning-zoomcamp",
+    "document": "66c3aaa71f"
+  },
+  {
+    "question": "For Homework Q3 in the Machine Learning Zoomcamp course, should I identify the number of `n_estimators` at which RMSE first increases or at which RMSE reaches its lowest point after an initial increase?",
+    "course": "machine-learning-zoomcamp",
+    "document": "66c3aaa71f"
+  },
+  {
+    "question": "What is the definition of 'RMSE stops improving' as mentioned in the FAQ for Module 6 Homework of the Machine Learning Zoomcamp program?",
+    "course": "machine-learning-zoomcamp",
+    "document": "66c3aaa71f"
+  },
+  {
+    "question": "When analyzing the behavior of RMSE with respect to `n_estimators`, how should I determine the optimal number of estimators if RMSE initially rises and then stabilizes at a lower value than before?",
+    "course": "machine-learning-zoomcamp",
+    "document": "66c3aaa71f"
+  },
+  {
+    "question": "According to the FAQ record for Module 6 Homework in the Machine Learning Zoomcamp course, what is the criteria for concluding that RMSE has stopped improving?",
+    "course": "machine-learning-zoomcamp",
+    "document": "66c3aaa71f"
+  }
+]

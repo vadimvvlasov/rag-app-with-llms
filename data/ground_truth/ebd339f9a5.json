@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an import error for the evidently package after upgrading NumPy?",
+    "course": "mlops-zoomcamp",
+    "document": "ebd339f9a5"
+  },
+  {
+    "question": "What specific changes in NumPy version 2.0.0 are causing the deprecation warnings related to `np.chararray` and removal of `np.float_`?",
+    "course": "mlops-zoomcamp",
+    "document": "ebd339f9a5"
+  },
+  {
+    "question": "How can I resolve the AttributeError indicating that `np.float_` was removed in NumPy 2.0?",
+    "course": "mlops-zoomcamp",
+    "document": "ebd339f9a5"
+  },
+  {
+    "question": "What command should I run to downgrade NumPy to version 1.26.4 to fix the import error?",
+    "course": "mlops-zoomcamp",
+    "document": "ebd339f9a5"
+  },
+  {
+    "question": "If I want to prevent future compatibility issues, what modification should I make to my requirements.txt file?",
+    "course": "mlops-zoomcamp",
+    "document": "ebd339f9a5"
+  }
+]

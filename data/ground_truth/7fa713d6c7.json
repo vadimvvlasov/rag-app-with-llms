@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I run to verify if my SSL module is correctly configured?",
+    "course": "mlops-zoomcamp",
+    "document": "7fa713d6c7"
+  },
+  {
+    "question": "If the output of the SSL check command is empty, what does that indicate about my configuration?",
+    "course": "mlops-zoomcamp",
+    "document": "7fa713d6c7"
+  },
+  {
+    "question": "After confirming SSL configuration, what specific package do I need to upgrade to resolve the 'module is not available (Can't connect to HTTPS URL)' error?",
+    "course": "mlops-zoomcamp",
+    "document": "7fa713d6c7"
+  },
+  {
+    "question": "In which module of the MLOps ZoomCamp course can I find instructions for handling deployment issues related to HTTPS URLs?",
+    "course": "mlops-zoomcamp",
+    "document": "7fa713d6c7"
+  },
+  {
+    "question": "What environment should I ensure is updated when fixing the 'module is not available (Can't connect to HTTPS URL)' problem?",
+    "course": "mlops-zoomcamp",
+    "document": "7fa713d6c7"
+  }
+]

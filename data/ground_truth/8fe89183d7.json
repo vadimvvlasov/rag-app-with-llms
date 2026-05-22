@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I set as the host name/address in pgAdmin to resolve the connection error 'connection failed: connection to server at \"127.0.0.1\", port 5432 failed' when connecting to a PostgreSQL server running locally?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8fe89183d7"
+  },
+  {
+    "question": "If using 'localhost' does not work for establishing a PostgreSQL connection in pgAdmin, what alternative host names can I try?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8fe89183d7"
+  },
+  {
+    "question": "How can I determine my local IPv4 address on Windows operating system to use as the host name/address in pgAdmin for connecting to a PostgreSQL server?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8fe89183d7"
+  },
+  {
+    "question": "What is an alternative solution if I have installed PostgreSQL locally and disabled data persistence on the PostgreSQL container in Docker, causing connection issues with default port 5432?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8fe89183d7"
+  },
+  {
+    "question": "In case none of 'localhost', 'postgres', or 'host.docker.internal' resolve the PostgreSQL connection in pgAdmin, what fallback option should I consider using?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8fe89183d7"
+  }
+]

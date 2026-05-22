@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the recommended way to resolve the `ConvergenceWarning` for `LogisticRegression` due to `lbfgs` not converging?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c86147699"
+  },
+  {
+    "question": "If I increase `max_iter`, how many iterations should I set to help the convergence of `LogisticRegression`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c86147699"
+  },
+  {
+    "question": "Should I preprocess my feature data before fitting a `LogisticRegression` model to mitigate convergence issues?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c86147699"
+  },
+  {
+    "question": "How can I temporarily suppress the `ConvergenceWarning` during training without altering the model configuration?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c86147699"
+  },
+  {
+    "question": "Why did this warning not appear in older versions of Python and scikit-learn, but it does in the current environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c86147699"
+  }
+]

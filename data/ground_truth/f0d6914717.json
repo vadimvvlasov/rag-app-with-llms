@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is my HW9 prediction value significantly different from the provided answer options, such as 0.0xyz instead of 0.24/0.44/0.64/0.84?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f0d6914717"
+  },
+  {
+    "question": "What preprocessing method should I use for the input data in Homework 9 to align with the model's training process?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f0d6914717"
+  },
+  {
+    "question": "Is the Xception-style preprocessing (`x / 127.5 - 1`) appropriate for Homework 9, or should I apply a different scaling technique?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f0d6914717"
+  },
+  {
+    "question": "Could you clarify whether the homework's model was trained using `[0, 1]` rescaling or another normalization method?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f0d6914717"
+  },
+  {
+    "question": "What is the correct preprocessing function to use for matching the model's training data in HW9?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f0d6914717"
+  }
+]

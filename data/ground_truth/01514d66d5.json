@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error message do I receive if both 'Dockerfile' and 'Dockerrun.aws.json' are missing when creating an AWS ElasticBean environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "01514d66d5"
+  },
+  {
+    "question": "Which command is used to create the AWS ElasticBean environment for the tumor-diagnosis-env?",
+    "course": "machine-learning-zoomcamp",
+    "document": "01514d66d5"
+  },
+  {
+    "question": "Why does the deployment fail when the Dockerfile is not committed in Git?",
+    "course": "machine-learning-zoomcamp",
+    "document": "01514d66d5"
+  },
+  {
+    "question": "What Git operations must be performed to ensure the Dockerfile and necessary files are included in the source bundle for successful deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "01514d66d5"
+  },
+  {
+    "question": "In which module of the machine-learning-zoomcamp course does this issue pertain?",
+    "course": "machine-learning-zoomcamp",
+    "document": "01514d66d5"
+  }
+]

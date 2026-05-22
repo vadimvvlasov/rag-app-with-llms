@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the first step to monitor RAM usage for data pipelines running locally using Windows Subsystem for Linux?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f69163546"
+  },
+  {
+    "question": "How can I view real-time memory consumption while a process executes in WSL Ubuntu?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f69163546"
+  },
+  {
+    "question": "Which command in WSL allows me to check static RAM usage up to the current moment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f69163546"
+  },
+  {
+    "question": "Where should I place the .wslconfig file to allocate more memory and processors to my WSL instance on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f69163546"
+  },
+  {
+    "question": "After modifying the .wslconfig settings, what action is required to apply these changes within the WSL environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4f69163546"
+  }
+]

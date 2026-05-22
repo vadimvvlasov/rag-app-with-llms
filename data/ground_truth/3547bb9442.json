@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I shuffle data in a NumPy array while specifying a random seed using the updated Generator feature?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3547bb9442"
+  },
+  {
+    "question": "What is the correct syntax to create a random generator object with a specific seed for shuffling an index array in NumPy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3547bb9442"
+  },
+  {
+    "question": "Why does the previous `np.random.shuffle` function no longer accept a random seed parameter, and what replacement should be used instead?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3547bb9442"
+  },
+  {
+    "question": "In the context of regression modeling, how do I ensure reproducibility when shuffling training data indices using Numpy’s Generator?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3547bb9442"
+  },
+  {
+    "question": "What are the steps to integrate Numpy’s Generator into my code for achieving consistent random shuffling across multiple runs?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3547bb9442"
+  }
+]

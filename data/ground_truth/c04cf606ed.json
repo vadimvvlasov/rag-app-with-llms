@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does reading a CSV file with Pandas convert the string 'None' to NaN?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c04cf606ed"
+  },
+  {
+    "question": "How can I prevent Pandas from treating 'None' as a missing value when importing a CSV?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c04cf606ed"
+  },
+  {
+    "question": "What parameter should be set in `pd.read_csv()` to preserve literal strings like 'None' in categorical columns?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c04cf606ed"
+  },
+  {
+    "question": "Which values can be specified in the `na_values` argument of `pd.read_csv()` to control how missing values are recognized?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c04cf606ed"
+  },
+  {
+    "question": "In the context of reading a dataset for machine learning, why is it important to distinguish between actual categories such as 'Parent_Education_Level' and genuine missing data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c04cf606ed"
+  }
+]

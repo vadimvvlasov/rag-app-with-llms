@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the command 'waitress-serve' result in 'command not found' error on Windows or Git Bash?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f580e98fdc"
+  },
+  {
+    "question": "What warning is displayed during the installation of the 'waitress' package that indicates a missing path?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f580e98fdc"
+  },
+  {
+    "question": "How can I permanently add the Python Scripts directory to Git Bash's PATH environment variable?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f580e98fdc"
+  },
+  {
+    "question": "After modifying the .bashrc file, what steps should I take to ensure the changes take effect?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f580e98fdc"
+  },
+  {
+    "question": "Is there an alternative method to run 'waitress-serve' without adding its directory to the PATH, especially if using a virtual environment with 'uv'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f580e98fdc"
+  }
+]

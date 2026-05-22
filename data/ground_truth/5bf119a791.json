@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How does Kestra define and implement concurrency in workflow executions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5bf119a791"
+  },
+  {
+    "question": "What is the purpose of setting a concurrency limit in a Kestra flow configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5bf119a791"
+  },
+  {
+    "question": "If a concurrency limit of 1 is set, what happens when another execution attempt occurs while the first one is still running?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5bf119a791"
+  },
+  {
+    "question": "Where can I find details about configuring concurrency behavior in a Kestra YAML workflow definition?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5bf119a791"
+  },
+  {
+    "question": "In which module of the 'data-engineering-zoomcamp' course does the explanation of concurrency in Kestra appear?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5bf119a791"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I configure Visual Studio Code to use tabs instead of spaces for indentation in my Makefile?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5dc51eac9"
+  },
+  {
+    "question": "What is the error message indicating about missing separators in a Makefile, and how does it relate to tab vs. space usage?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5dc51eac9"
+  },
+  {
+    "question": "Where can I find a detailed guide or stack overflow discussion on converting spaces to tabs in Visual Studio Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5dc51eac9"
+  },
+  {
+    "question": "What specific steps are recommended to resolve the 'missing separator' error caused by improper indentation in a Makefile?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5dc51eac9"
+  },
+  {
+    "question": "In the context of setting up my development environment for the data-engineering-zoomcamp course, how do I ensure that all code files use consistent tab spacing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e5dc51eac9"
+  }
+]

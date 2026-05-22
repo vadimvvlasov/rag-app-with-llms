@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific evaluation metrics are covered in Module 4 of the Machine Learning ZoomCamp?",
+    "course": "machine-learning-zoomcamp",
+    "document": "afd915ae5b"
+  },
+  {
+    "question": "How does the module address common pitfalls, such as data leakage and improper validation, when evaluating classification models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "afd915ae5b"
+  },
+  {
+    "question": "Can you explain how precision, recall, ROC curves, and precision‑recall curves are used to critically assess model performance in real‑world scenarios?",
+    "course": "machine-learning-zoomcamp",
+    "document": "afd915ae5b"
+  },
+  {
+    "question": "What strategies does the evaluation module suggest for selecting appropriate metrics based on class balance and the costs associated with different types of errors?",
+    "course": "machine-learning-zoomcamp",
+    "document": "afd915ae5b"
+  },
+  {
+    "question": "How is the conceptual knowledge from Module 4 applied practically in model comparison, threshold selection, and reporting outcomes during actual machine learning projects?",
+    "course": "machine-learning-zoomcamp",
+    "document": "afd915ae5b"
+  }
+]

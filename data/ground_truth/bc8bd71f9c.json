@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I use to check the current GPU memory usage and identify which processes are consuming it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bc8bd71f9c"
+  },
+  {
+    "question": "How can I find the process ID (PID) of a Python script running on my GPU that is using excessive memory?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bc8bd71f9c"
+  },
+  {
+    "question": "What is the exact `kill` command syntax to terminate a specific process by its PID, such as 11208?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bc8bd71f9c"
+  },
+  {
+    "question": "After terminating the problematic process, why did the Jupyter kernel automatically restart, and how does this help free up GPU memory?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bc8bd71f9c"
+  },
+  {
+    "question": "Following the steps outlined, what should I do to verify that the GPU memory usage has been successfully reduced after resolving the OOM issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bc8bd71f9c"
+  }
+]

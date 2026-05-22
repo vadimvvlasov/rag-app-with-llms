@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I use to restart the Ollama server when I get a connection refused error?",
+    "course": "llm-zoomcamp",
+    "document": "c6fc2d4d11"
+  },
+  {
+    "question": "How can I resolve the 'connection refused' issue while executing prompts in the Ollam RAG during the homework assignment?",
+    "course": "llm-zoomcamp",
+    "document": "c6fc2d4d11"
+  },
+  {
+    "question": "In Module 2 of the llm-zoomcamp course, what specific action is recommended if the Ollama server fails to connect as expected?",
+    "course": "llm-zoomcamp",
+    "document": "c6fc2d4d11"
+  },
+  {
+    "question": "What steps are required to ensure successful reinitialization of the Ollama service after encountering a connection error in the notebook environment?",
+    "course": "llm-zoomcamp",
+    "document": "c6fc2d4d11"
+  },
+  {
+    "question": "According to the FAQ for the llm-zoomcamp course under Module 2: Agents, what is the procedure to address a persistent 'connection refused' notification when attempting to run prompts through the Ollam RAG?",
+    "course": "llm-zoomcamp",
+    "document": "c6fc2d4d11"
+  }
+]

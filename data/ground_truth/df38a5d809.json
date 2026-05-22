@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the recommended method to integrate dbt-Core with AWS Athena?",
+    "course": "data-engineering-zoomcamp",
+    "document": "df38a5d809"
+  },
+  {
+    "question": "Where can I find the official documentation for setting up the dbt-Athena Adapter?",
+    "course": "data-engineering-zoomcamp",
+    "document": "df38a5d809"
+  },
+  {
+    "question": "Are Python models supported when using the dbt-Athena Adapter?",
+    "course": "data-engineering-zoomcamp",
+    "document": "df38a5d809"
+  },
+  {
+    "question": "Which features are currently unavailable in the dbt-Athena integration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "df38a5d809"
+  },
+  {
+    "question": "Can you provide a tutorial link that demonstrates how to use dbt-Core with Athena?",
+    "course": "data-engineering-zoomcamp",
+    "document": "df38a5d809"
+  }
+]

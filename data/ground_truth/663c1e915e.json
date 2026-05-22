@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I run to determine the version of my local Spark installation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "663c1e915e"
+  },
+  {
+    "question": "Where in the `build.sh` file do I need to verify that the `SPARK_VERSION` matches my local Spark version?",
+    "course": "data-engineering-zoomcamp",
+    "document": "663c1e915e"
+  },
+  {
+    "question": "How can I confirm that the PySpark package installed via pip is compatible with my locally installed Spark version?",
+    "course": "data-engineering-zoomcamp",
+    "document": "663c1e915e"
+  },
+  {
+    "question": "Which module of the 'data-engineering-zoomcamp' course discusses compatibility checks between local and container Spark versions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "663c1e915e"
+  },
+  {
+    "question": "What specific line or configuration in the Python folder's `build.sh` file ensures alignment between the container Spark version and my local Spark environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "663c1e915e"
+  }
+]

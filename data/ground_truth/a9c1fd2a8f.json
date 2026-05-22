@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Module 3 of the data-engineering-zoomcamp course, after loading files into a bucket, what specific action should be taken to create an external table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a9c1fd2a8f"
+  },
+  {
+    "question": "What tasks are explicitly prohibited when instructed to 'Stop with loading the files into a bucket' in the context of data warehousing homework?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a9c1fd2a8f"
+  },
+  {
+    "question": "Does the instruction to 'Stop with loading the files into a bucket' imply that subsequent data transformations, such as cleaning or converting to Parquet format, should be omitted?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a9c1fd2a8f"
+  },
+  {
+    "question": "Within the framework of the data-engineering-zoomcamp course's Module 3, what is the final step after successfully loading files into a designated bucket?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a9c1fd2a8f"
+  },
+  {
+    "question": "According to the FAQ record for the data-engineering-zoomcamp course, which activities are not part of the homework once files have been loaded into a bucket?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a9c1fd2a8f"
+  }
+]

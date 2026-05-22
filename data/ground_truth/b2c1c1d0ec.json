@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the `KafkaTimeoutError: Failed to update metadata after 60.0 secs.` error indicate in a Python Kafka producer script?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b2c1c1d0ec"
+  },
+  {
+    "question": "Which Docker Compose commands are recommended to resolve this Kafka timeout issue when executing `stream-example/producer.py`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b2c1c1d0ec"
+  },
+  {
+    "question": "After encountering the Kafka timeout error, what sequence of steps should I follow to potentially fix the problem?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b2c1c1d0ec"
+  },
+  {
+    "question": "In the context of the Data Engineering ZoomCamp course, specifically Module 7 on Streaming, how can I address metadata update failures in Kafka?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b2c1c1d0ec"
+  },
+  {
+    "question": "What is a possible troubleshooting method for a persistent metadata update failure when running a Kafka producer example in a Dockerized environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b2c1c1d0ec"
+  }
+]

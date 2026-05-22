@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do when the Google Cloud SDK installer on Windows fails to update my system PATH automatically?",
+    "course": "data-engineering-zoomcamp",
+    "document": "25b0348672"
+  },
+  {
+    "question": "How can I manually add the Google Cloud SDK's `bin/` directory to the Windows system PATH after installation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "25b0348672"
+  },
+  {
+    "question": "After adding the SDK path, what steps are required to make it effective for existing and new terminal sessions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "25b0348672"
+  },
+  {
+    "question": "Which Windows Terminal setup is recommended for running course command-line examples that assume a Unix-like shell?",
+    "course": "data-engineering-zoomcamp",
+    "document": "25b0348672"
+  },
+  {
+    "question": "What are the two alternative methods provided for setting up a Unix-like shell environment on Windows in this course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "25b0348672"
+  }
+]

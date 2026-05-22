@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of using a validation dataset in model optimization?",
+    "course": "machine-learning-zoomcamp",
+    "document": "356445714b"
+  },
+  {
+    "question": "How does the `DictVectorizer` class handle categorical features during fitting?",
+    "course": "machine-learning-zoomcamp",
+    "document": "356445714b"
+  },
+  {
+    "question": "Why should the `fit` method of `DictVectorizer` not be applied to validation data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "356445714b"
+  },
+  {
+    "question": "What are the correct steps to apply `DictVectorizer` when preparing training and validation datasets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "356445714b"
+  },
+  {
+    "question": "What potential problem arises if information leakage occurs due to improper use of validation data during model training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "356445714b"
+  }
+]

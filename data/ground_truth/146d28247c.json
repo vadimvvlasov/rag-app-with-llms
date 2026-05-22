@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the primary input and output types for `pandas.get_dummies` compared to `sklearn.OneHotEncoder`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "146d28247c"
+  },
+  {
+    "question": "How do these two methods differ in their handling of missing values during one-hot encoding?",
+    "course": "machine-learning-zoomcamp",
+    "document": "146d28247c"
+  },
+  {
+    "question": "In what scenarios would you prefer using `pandas.get_dummies` over `sklearn.OneHotEncoder` for categorical variable encoding?",
+    "course": "machine-learning-zoomcamp",
+    "document": "146d28247c"
+  },
+  {
+    "question": "Can you provide an example where the results from `pandas.get_dummies` and `sklearn.OneHotEncoder` are identical despite their methodological differences?",
+    "course": "machine-learning-zoomcamp",
+    "document": "146d28247c"
+  },
+  {
+    "question": "Why might one choose `sklearn.OneHotEncoder` when integrating categorical data into a scikit-learn machine learning pipeline?",
+    "course": "machine-learning-zoomcamp",
+    "document": "146d28247c"
+  }
+]

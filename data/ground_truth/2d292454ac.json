@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I write a PowerShell command that spans multiple lines without breaking the syntax?",
+    "course": "mlops-zoomcamp",
+    "document": "2d292454ac"
+  },
+  {
+    "question": "What character should be used at the end of each line in a multiline PowerShell command to continue it on the next line?",
+    "course": "mlops-zoomcamp",
+    "document": "2d292454ac"
+  },
+  {
+    "question": "Can you provide an example of setting environment variables for a single session in Windows PowerShell?",
+    "course": "mlops-zoomcamp",
+    "document": "2d292454ac"
+  },
+  {
+    "question": "In the provided example, how is the AWS Kinesis `put-record` operation executed with parameters spread across multiple lines?",
+    "course": "mlops-zoomcamp",
+    "document": "2d292454ac"
+  },
+  {
+    "question": "What is the purpose of using `$env:` when defining variables within a multiline PowerShell command?",
+    "course": "mlops-zoomcamp",
+    "document": "2d292454ac"
+  }
+]

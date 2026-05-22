@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are some online platforms I can use if I'm unable to run Jupyter locally on my machine?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ff9126a13"
+  },
+  {
+    "question": "Is there a web-based alternative to installing Jupyter that provides a similar interface?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ff9126a13"
+  },
+  {
+    "question": "How can I access a Jupyter environment without downloading any software, especially if I only have a smartphone?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ff9126a13"
+  },
+  {
+    "question": "Which websites offer free, browser-accessible Jupyter notebooks for students in the Machine Learning Zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ff9126a13"
+  },
+  {
+    "question": "Where can I find a lightweight, JavaScript-based version of Jupyter that runs entirely in the browser?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ff9126a13"
+  }
+]

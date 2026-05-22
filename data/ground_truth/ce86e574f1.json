@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I getting an error about no matching distribution for `mlflow==1.27.0` when running the Dockerfile?",
+    "course": "mlops-zoomcamp",
+    "document": "ce86e574f1"
+  },
+  {
+    "question": "What does the error message `No matching distribution found for mlflow==1.27.0` indicate in the context of the Docker build process?",
+    "course": "mlops-zoomcamp",
+    "document": "ce86e574f1"
+  },
+  {
+    "question": "How can I resolve the package installation failure related to `mlflow` during the Dockerfile execution?",
+    "course": "mlops-zoomcamp",
+    "document": "ce86e574f1"
+  },
+  {
+    "question": "Is there a version compatibility issue causing the `No matching distribution found for mlflow==1.27.0` error, and if so, what should be done?",
+    "course": "mlops-zoomcamp",
+    "document": "ce86e574f1"
+  },
+  {
+    "question": "What steps should I take to troubleshoot and successfully complete the Docker build after encountering an error on line 8 of the Dockerfile due to missing `mlflow` distribution?",
+    "course": "mlops-zoomcamp",
+    "document": "ce86e574f1"
+  }
+]

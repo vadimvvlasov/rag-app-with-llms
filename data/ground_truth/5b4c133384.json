@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I specify which columns to parse as dates when reading a CSV file with `pd.read_csv` in Pandas?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b4c133384"
+  },
+  {
+    "question": "What parameter should be used in `pd.read_csv` to directly convert string column values to datetime objects?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b4c133384"
+  },
+  {
+    "question": "After using `parse_dates` in `pd.read_csv`, how can I verify that the specified columns have been converted to datetime type?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b4c133384"
+  },
+  {
+    "question": "Can you provide an example of reading a CSV file where both 'tpep_pickup_datetime' and 'tpep_dropoff_datetime' are parsed as dates?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b4c133384"
+  },
+  {
+    "question": "What is the benefit of parsing date columns during the `pd.read_csv` operation instead of converting them afterward?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b4c133384"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary emphasis of this machine learning course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79e181d005"
+  },
+  {
+    "question": "Will we derive detailed mathematical formulas for algorithms like logistic regression, or will it be more about practical application?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79e181d005"
+  },
+  {
+    "question": "How extensively will theory be discussed compared to hands-on practice in the sessions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79e181d005"
+  },
+  {
+    "question": "Are there other courses recommended for a deeper dive into the theoretical underpinnings of machine learning algorithms covered here?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79e181d005"
+  },
+  {
+    "question": "Can you provide an example of how theory will be addressed during the course, specifically regarding logistic regression?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79e181d005"
+  }
+]

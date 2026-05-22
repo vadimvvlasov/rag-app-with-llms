@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the steps to install TensorFlow with CUDA support on Ubuntu running in WSL2?",
+    "course": "machine-learning-zoomcamp",
+    "document": "89f4d77539"
+  },
+  {
+    "question": "Which NVIDIA documentation page provides guidance for setting up CUDA within Windows Subsystem for Linux (WSL)?",
+    "course": "machine-learning-zoomcamp",
+    "document": "89f4d77539"
+  },
+  {
+    "question": "How can I ensure that TensorFlow is installed correctly after enabling GPU acceleration through CUDA on my local machine?",
+    "course": "machine-learning-zoomcamp",
+    "document": "89f4d77539"
+  },
+  {
+    "question": "Where can I find instructions to install PyTorch alongside TensorFlow, specifically choosing CUDA 11.7 for the computer platform option?",
+    "course": "machine-learning-zoomcamp",
+    "document": "89f4d77539"
+  },
+  {
+    "question": "If I encounter issues with GPU support during TensorFlow installation on WSL2, what external article might offer additional troubleshooting steps?",
+    "course": "machine-learning-zoomcamp",
+    "document": "89f4d77539"
+  }
+]

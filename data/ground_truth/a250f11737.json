@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I efficiently load large taxi data files into a PostgreSQL database using dbt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a250f11737"
+  },
+  {
+    "question": "What syntax should I use to create a new table named 'taxis' in dbt-postgres for storing taxi-related data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a250f11737"
+  },
+  {
+    "question": "Which parameters must be specified when using the `COPY` command to import CSV data from an external URL into the 'taxis' table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a250f11737"
+  },
+  {
+    "question": "What are the advantages of using the PostgreSQL `COPY FROM PROGRAM` feature over other data loading methods in dbt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a250f11737"
+  },
+  {
+    "question": "Can you provide a step-by-step example of how to configure dbt to automatically upload taxi data from a remote CSV file to a PostgreSQL database?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a250f11737"
+  }
+]

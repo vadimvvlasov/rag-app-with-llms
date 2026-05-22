@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the error 'Error validating 'deployment.yaml' when running kubectl apply' occur?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3a0a22fda9"
+  },
+  {
+    "question": "What command should I use to create a local Kubernetes cluster for this deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3a0a22fda9"
+  },
+  {
+    "question": "How can I verify that my local Kubernetes cluster is successfully running after creation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3a0a22fda9"
+  },
+  {
+    "question": "After creating the cluster, what steps are required to successfully deploy the application using 'kubectl apply -f deployment.yaml'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3a0a22fda9"
+  },
+  {
+    "question": "If validation errors persist despite having an active Kubernetes cluster, what additional checks should be performed regarding the context and YAML file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3a0a22fda9"
+  }
+]

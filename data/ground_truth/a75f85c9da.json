@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is Pipenv taking a long time to lock the file even after deleting the lockfile and restarting my PC?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a75f85c9da"
+  },
+  {
+    "question": "Could using GitHub Codespaces for running the homework alleviate the slow locking issue with Pipenv?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a75f85c9da"
+  },
+  {
+    "question": "What are the compute resources available on GitHub Codespaces that might address the performance problem?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a75f85c9da"
+  },
+  {
+    "question": "Is there any documented experience suggesting that Homework 5 runs smoothly on GitHub Codespaces without speed issues?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a75f85c9da"
+  },
+  {
+    "question": "How does switching to GitHub Codespaces compare to using a local computer for executing this particular homework in terms of efficiency?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a75f85c9da"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I verify that Python and pip are correctly installed on my system before installing Pipenv?",
+    "course": "mlops-zoomcamp",
+    "document": "2c007273b4"
+  },
+  {
+    "question": "What command should I use to install Pipenv for a user-specific installation?",
+    "course": "mlops-zoomcamp",
+    "document": "2c007273b4"
+  },
+  {
+    "question": "After executing the installation command, how do I confirm that Pipenv has been successfully installed?",
+    "course": "mlops-zoomcamp",
+    "document": "2c007273b4"
+  },
+  {
+    "question": "Are there any prerequisites or additional steps required after installing Pipenv to start using it in my project?",
+    "course": "mlops-zoomcamp",
+    "document": "2c007273b4"
+  },
+  {
+    "question": "In which module of the 'mlops-zoomcamp' course will I learn about deploying applications with Pipenv?",
+    "course": "mlops-zoomcamp",
+    "document": "2c007273b4"
+  }
+]

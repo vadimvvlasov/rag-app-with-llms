@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What steps should I take to prepare my development environment before the 'data-engineering-zoomcamp' course begins?",
+    "course": "data-engineering-zoomcamp",
+    "document": "33fc260cd8"
+  },
+  {
+    "question": "How can I obtain a free Google Cloud account for this course, and why is it necessary?",
+    "course": "data-engineering-zoomcamp",
+    "document": "33fc260cd8"
+  },
+  {
+    "question": "Which version manager for Python do you recommend installing, and what are its benefits compared to others?",
+    "course": "data-engineering-zoomcamp",
+    "document": "33fc260cd8"
+  },
+  {
+    "question": "Is there any specific Terraform installation guide provided for the prerequisites of this course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "33fc260cd8"
+  },
+  {
+    "question": "What materials should I review in advance to ensure I am familiar with the foundational topics covered in the syllabus?",
+    "course": "data-engineering-zoomcamp",
+    "document": "33fc260cd8"
+  }
+]

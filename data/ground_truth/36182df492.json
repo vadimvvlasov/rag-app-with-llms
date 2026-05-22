@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I encountered an ImportError stating 'Unable to find a usable engine; tried using: ‘pyarrow’, ‘fastparquet’.' How can I fix this issue?",
+    "course": "mlops-zoomcamp",
+    "document": "36182df492"
+  },
+  {
+    "question": "What command should I execute to install the necessary package that resolves the engine import error in Module 1 of the mlops-zoomcamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "36182df492"
+  },
+  {
+    "question": "After running the installation command for the missing engine, will I be able to proceed with the subsequent exercises in the 'Introduction' section without further errors?",
+    "course": "mlops-zoomcamp",
+    "document": "36182df492"
+  },
+  {
+    "question": "Is there any additional configuration required after installing ‘pyarrow’ to ensure smooth execution of data processing tasks in the course?",
+    "course": "mlops-zoomcamp",
+    "document": "36182df492"
+  },
+  {
+    "question": "Can you confirm that deleting the specific pip install command post-successful installation is safe and will not affect other modules or assignments in the mlops-zoomcamp program?",
+    "course": "mlops-zoomcamp",
+    "document": "36182df492"
+  }
+]

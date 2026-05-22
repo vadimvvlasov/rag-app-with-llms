@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the formula to calculate precision in a classification model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "13102dfe14"
+  },
+  {
+    "question": "How is recall defined in terms of true positives and actual positive instances?",
+    "course": "machine-learning-zoomcamp",
+    "document": "13102dfe14"
+  },
+  {
+    "question": "Can you explain why precision focuses on the accuracy of positive predictions while recall addresses the completeness of identified positive cases?",
+    "course": "machine-learning-zoomcamp",
+    "document": "13102dfe14"
+  },
+  {
+    "question": "In the context of evaluating a binary classifier, what do `TruePositive/PredictedPositive` and `TruePositive/ActualPositive` represent respectively?",
+    "course": "machine-learning-zoomcamp",
+    "document": "13102dfe14"
+  },
+  {
+    "question": "How can one intuitively understand the trade-off between precision and recall for optimizing model performance in practical applications?",
+    "course": "machine-learning-zoomcamp",
+    "document": "13102dfe14"
+  }
+]

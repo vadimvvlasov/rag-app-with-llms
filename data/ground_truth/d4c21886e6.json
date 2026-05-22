@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I resolve the 'api_key not configured' error from WandB when executing the `preprocess_data.py` script?",
+    "course": "mlops-zoomcamp",
+    "document": "d4c21886e6"
+  },
+  {
+    "question": "What steps are required to authenticate my WandB account for running experiments in the `preprocess_data.py` file?",
+    "course": "mlops-zoomcamp",
+    "document": "d4c21886e6"
+  },
+  {
+    "question": "Where can I find my personal API key within my WandB profile settings?",
+    "course": "mlops-zoomcamp",
+    "document": "d4c21886e6"
+  },
+  {
+    "question": "What specific command should be executed in a Jupyter notebook before running `preprocess_data.py` to ensure successful authentication with WandB?",
+    "course": "mlops-zoomcamp",
+    "document": "d4c21886e6"
+  },
+  {
+    "question": "In the context of Module 2: Experiment Tracking for the MLOps ZoomCamp course, what is the precise sequence of actions to enable WandB API access during data preprocessing?",
+    "course": "mlops-zoomcamp",
+    "document": "d4c21886e6"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What function can I use in Python to round a number to a specific decimal place?",
+    "course": "machine-learning-zoomcamp",
+    "document": "59fc88dea8"
+  },
+  {
+    "question": "How do I format a floating-point number to display exactly three decimal places using an f-string?",
+    "course": "machine-learning-zoomcamp",
+    "document": "59fc88dea8"
+  },
+  {
+    "question": "Is there a method in pandas to round all values in a Series to a desired number of decimal places?",
+    "course": "machine-learning-zoomcamp",
+    "document": "59fc88dea8"
+  },
+  {
+    "question": "Can you provide an example of rounding a variable named `number` to four decimal places using the `round()` function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "59fc88dea8"
+  },
+  {
+    "question": "Where can I find more detailed documentation on rounding numeric data with pandas, specifically for Series objects?",
+    "course": "machine-learning-zoomcamp",
+    "document": "59fc88dea8"
+  }
+]

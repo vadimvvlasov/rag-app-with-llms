@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of declaring files under outputFiles in Kestra?",
+    "course": "data-engineering-zoomcamp",
+    "document": "39328a73c7"
+  },
+  {
+    "question": "How does Kestra handle file persistence across task executions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "39328a73c7"
+  },
+  {
+    "question": "Why are files not automatically visible or downloadable after being created within a task?",
+    "course": "data-engineering-zoomcamp",
+    "document": "39328a73c7"
+  },
+  {
+    "question": "In what scenarios should a file be explicitly declared as an output file in a Kestra workflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "39328a73c7"
+  },
+  {
+    "question": "What happens to files that are not declared under outputFiles at the end of a Kestra task execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "39328a73c7"
+  }
+]

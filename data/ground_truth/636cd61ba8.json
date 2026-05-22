@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When is it necessary to specify the `random_state` parameter in scikit-learn functions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "636cd61ba8"
+  },
+  {
+    "question": "How does setting a specific value for `random_state` affect the results of machine learning algorithms that involve random processes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "636cd61ba8"
+  },
+  {
+    "question": "In which scenarios should both `random_state` and `shuffle` be explicitly set when working with datasets in sklearn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "636cd61ba8"
+  },
+  {
+    "question": "What role does the `random_state` parameter play in ensuring reproducibility during model training and evaluation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "636cd61ba8"
+  },
+  {
+    "question": "Can you explain how the `random_state` parameter interacts with other parameters like `shuffle` to control randomness in data splitting or feature selection procedures?",
+    "course": "machine-learning-zoomcamp",
+    "document": "636cd61ba8"
+  }
+]

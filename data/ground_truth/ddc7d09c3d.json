@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the difference between the Sequential Model API and the Functional Model API in Keras for TensorFlow 2?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ddc7d09c3d"
+  },
+  {
+    "question": "How can I create a model using an empty starting point and add layers sequentially in Keras?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ddc7d09c3d"
+  },
+  {
+    "question": "Why might the Functional Model API be preferred over the Sequential Model API, especially in scenarios involving Transfer Learning?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ddc7d09c3d"
+  },
+  {
+    "question": "Where can I find a tutorial that provides a deep learning example with TensorFlow and Keras?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ddc7d09c3d"
+  },
+  {
+    "question": "Is there a practical example of a Sequential model implementation available for reference, such as one used in a Kaggle notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ddc7d09c3d"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I configure API keys so they are automatically applied when entering a specific project directory without needing to re-export them in every terminal session?",
+    "course": "llm-zoomcamp",
+    "document": "8b2f5e9d04"
+  },
+  {
+    "question": "What tool can be used to manage environment variables scoped to a particular project, ensuring they are loaded each time the directory is navigated?",
+    "course": "llm-zoomcamp",
+    "document": "8b2f5e9d04"
+  },
+  {
+    "question": "Could you explain the steps to set up `direnv` for managing API keys in a local project, including installation and configuration details?",
+    "course": "llm-zoomcamp",
+    "document": "8b2f5e9d04"
+  },
+  {
+    "question": "How should I ensure that sensitive files like `.envrc` containing API keys do not get accidentally committed to version control?",
+    "course": "llm-zoomcamp",
+    "document": "8b2f5e9d04"
+  },
+  {
+    "question": "What alternative method is recommended for storing API keys when working with GitHub Codespaces instead of using local environment files?",
+    "course": "llm-zoomcamp",
+    "document": "8b2f5e9d04"
+  }
+]

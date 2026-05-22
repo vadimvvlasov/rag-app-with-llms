@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error messages might appear if the Docker engine crashes continuously after a restart?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5baf3e8a5e"
+  },
+  {
+    "question": "How can I verify whether my current Docker installation is up to date?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5baf3e8a5e"
+  },
+  {
+    "question": "If updating Docker does not resolve the \"failed to fetch extensions\" issue, what should be the next troubleshooting step?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5baf3e8a5e"
+  },
+  {
+    "question": "Will reinstalling Docker affect any existing containers or images that I have already downloaded?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5baf3e8a5e"
+  },
+  {
+    "question": "Are there any specific configurations or settings I need to review after reinstalling Docker to prevent recurrence of the error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5baf3e8a5e"
+  }
+]

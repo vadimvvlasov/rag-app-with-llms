@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is it beneficial to invert variables with ROC AUC scores below a specific threshold when working with negatively correlated features?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6a8dccc107"
+  },
+  {
+    "question": "How does inverting lower-performing features impact the overall importance of features in a machine learning model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6a8dccc107"
+  },
+  {
+    "question": "What problem does aligning feature correlations with algorithm expectations solve during model training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6a8dccc107"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course is the technique of inverting variables based on ROC AUC scores discussed?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6a8dccc107"
+  },
+  {
+    "question": "What specific evaluation metric mentioned in Module 4 pertains to assessing classification models where inverting features might be applied?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6a8dccc107"
+  }
+]

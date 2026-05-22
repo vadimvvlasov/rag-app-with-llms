@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the file size shown in the Kestra Outputs tab differ from the value returned by `os.path.getsize()` in a Python task?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f5a8ca34fa"
+  },
+  {
+    "question": "What units are used to display file sizes in the Kestra Outputs tab versus the raw byte count from a Python task?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f5a8ca34fa"
+  },
+  {
+    "question": "For Homework 2, should I use the human-readable file size shown in the Kestra Outputs tab or the exact byte size printed by the task logs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f5a8ca34fa"
+  },
+  {
+    "question": "Is the UI size displayed in the Kestra Outputs tab reliable for precise file size comparisons?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f5a8ca34fa"
+  },
+  {
+    "question": "How can I obtain the uncompressed file size in bytes for accurate results in data processing tasks within Kestra?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f5a8ca34fa"
+  }
+]

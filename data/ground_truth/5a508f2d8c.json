@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the specific error message encountered when returning a custom object in Mage?",
+    "course": "mlops-zoomcamp",
+    "document": "5a508f2d8c"
+  },
+  {
+    "question": "Why does the error occur specifically with `numpy.ndarray` objects like `y_pred`?",
+    "course": "mlops-zoomcamp",
+    "document": "5a508f2d8c"
+  },
+  {
+    "question": "Where is the expected file path for the custom object that triggers the error?",
+    "course": "mlops-zoomcamp",
+    "document": "5a508f2d8c"
+  },
+  {
+    "question": "How can the issue be resolved by modifying the return type from `numpy.ndarray`?",
+    "course": "mlops-zoomcamp",
+    "document": "5a508f2d8c"
+  },
+  {
+    "question": "Which data structure should be used instead of a `numpy.ndarray` to avoid the loading error in Mage?",
+    "course": "mlops-zoomcamp",
+    "document": "5a508f2d8c"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I calculate the standard deviation of a dataset using Pandas in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8d98b7c098"
+  },
+  {
+    "question": "What is the syntax to compute the standard deviation for a list of numbers with the Pandas library?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8d98b7c098"
+  },
+  {
+    "question": "Can you provide an example that demonstrates how to find the standard deviation of data stored in a Pandas Series?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8d98b7c098"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course would I learn about calculating standard deviation using Pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8d98b7c098"
+  },
+  {
+    "question": "What function should be used within the Pandas library to determine the standard deviation of a numerical list?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8d98b7c098"
+  }
+]

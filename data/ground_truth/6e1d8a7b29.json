@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message 'RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota...','type': 'insufficient_quota'}}' indicate about my OpenAI account?",
+    "course": "llm-zoomcamp",
+    "document": "6e1d8a7b29"
+  },
+  {
+    "question": "If my OpenAI account has no paid credit, how much additional credit should I add to resolve the 'insufficient_quota' error?",
+    "course": "llm-zoomcamp",
+    "document": "6e1d8a7b29"
+  },
+  {
+    "question": "Can I temporarily wait out the 'RateLimitError 429' or is it a permanent issue due to lack of quota?",
+    "course": "llm-zoomcamp",
+    "document": "6e1d8a7b29"
+  },
+  {
+    "question": "What are the recommended alternatives if I prefer not to add credit to my OpenAI account to fix the insufficient quota problem?",
+    "course": "llm-zoomcamp",
+    "document": "6e1d8a7b29"
+  },
+  {
+    "question": "Where can I find a curated list of free or low-cost OpenAI-compatible providers for running LLMs without incurring additional costs?",
+    "course": "llm-zoomcamp",
+    "document": "6e1d8a7b29"
+  }
+]

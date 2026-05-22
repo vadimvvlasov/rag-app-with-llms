@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I enable the choco library installation in PowerShell?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5b78a9f80a"
+  },
+  {
+    "question": "What command sequence is required to install Chocolatey on my system via PowerShell?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5b78a9f80a"
+  },
+  {
+    "question": "Can you guide me through installing the choco library with administrator privileges in a terminal?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5b78a9f80a"
+  },
+  {
+    "question": "What steps should I follow to set up the execution policy and download the choco installer script?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5b78a9f80a"
+  },
+  {
+    "question": "In the context of Module 10 for the machine-learning-zoomcamp course, how do I proceed with installing kind using Chocolatey?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5b78a9f80a"
+  }
+]

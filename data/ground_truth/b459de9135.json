@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I configure the workflow to load FHV trip data only when the taxi type is set to 'fhv'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b459de9135"
+  },
+  {
+    "question": "What SQL commands are used to create a partitioned table for FHV trip data in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b459de9135"
+  },
+  {
+    "question": "Which external table definition reads CSV files from Google Cloud Storage for FHV trip data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b459de9135"
+  },
+  {
+    "question": "How does the MERGE statement ensure that new FHV trip records are inserted without duplicates into the main `fhv_tripdata` table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b459de9135"
+  },
+  {
+    "question": "What trigger schedule is defined to process FHV trip data on a daily basis, and at what specific time?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b459de9135"
+  }
+]

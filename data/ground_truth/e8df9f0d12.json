@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I'm attempting to run a Streamlit application with Docker Compose, but I encounter the error: 'unable to start container process: exec: \"streamlit\": executable file not found in $PATH'. The app functions correctly when executed outside of Docker Compose. How can I troubleshoot and resolve this issue?",
+    "course": "llm-zoomcamp",
+    "document": "e8df9f0d12"
+  },
+  {
+    "question": "In Module 6 of the llm-zoomcamp course, under Best Practices, what steps are recommended to ensure a Streamlit app runs successfully within a Docker Compose setup without encountering missing executable errors?",
+    "course": "llm-zoomcamp",
+    "document": "e8df9f0d12"
+  },
+  {
+    "question": "What specific configuration changes in `docker-compose.yml` are necessary when deploying a Streamlit application inside a Docker container to avoid the error related to the 'streamlit' executable not being found?",
+    "course": "llm-zoomcamp",
+    "document": "e8df9f0d12"
+  },
+  {
+    "question": "After rebuilding and restarting the Docker containers using `docker-compose up --build`, does the Streamlit application continue to operate correctly, or are there additional steps required post-rebuild?",
+    "course": "llm-zoomcamp",
+    "document": "e8df9f0d12"
+  },
+  {
+    "question": "If the initial Dockerfile setup for a Streamlit app is incomplete, what essential instruction should be added to ensure that the 'streamlit' command is recognized within the container environment?",
+    "course": "llm-zoomcamp",
+    "document": "e8df9f0d12"
+  }
+]

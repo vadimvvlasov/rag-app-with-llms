@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I getting a 'Permission denied' error when trying to create the `.ssh` directory in the root folder (`/`) on a GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "51bc7e280d"
+  },
+  {
+    "question": "What is the correct method to create an `.ssh` directory on a GCP VM without encountering permission issues?",
+    "course": "data-engineering-zoomcamp",
+    "document": "51bc7e280d"
+  },
+  {
+    "question": "After navigating to my home directory using `cd ~`, how do I proceed to successfully create the `.ssh` directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "51bc7e280d"
+  },
+  {
+    "question": "Where can I find additional instructions or a video tutorial that demonstrates the process of creating the `.ssh` directory in a GCP VM environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "51bc7e280d"
+  },
+  {
+    "question": "In the context of setting up a GCP VM for data engineering, what specific steps should I follow to avoid permission errors when creating essential directories like `.ssh`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "51bc7e280d"
+  }
+]

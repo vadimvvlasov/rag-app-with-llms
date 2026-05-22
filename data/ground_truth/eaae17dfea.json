@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I integrate a DLT pipeline with Kestra using Python?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eaae17dfea"
+  },
+  {
+    "question": "What is the purpose of the `load_data` function in the provided Kestra YAML configuration for DLT?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eaae17dfea"
+  },
+  {
+    "question": "In the Kestra task definition, what does the `type: io.kestra.plugin.scripts.python.Commands` indicate?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eaae17dfea"
+  },
+  {
+    "question": "How is the DLT pipeline named and configured for destination and dataset within the Kestra task?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eaae17dfea"
+  },
+  {
+    "question": "What command in the Python script retrieves and prints the execution information of the DLT pipeline run?",
+    "course": "data-engineering-zoomcamp",
+    "document": "eaae17dfea"
+  }
+]

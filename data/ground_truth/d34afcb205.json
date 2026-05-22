@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does uploading to S3 fail with the error \"An error occurred (InvalidAccessKeyId) when calling the PutObject operation: The AWS Access Key Id you provided does not exist in our records.\" even though it works using AWS CLI and boto3 in a Jupyter notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "d34afcb205"
+  },
+  {
+    "question": "What environment variable must be set to resolve the InvalidAccessKeyId error during S3 uploads from within the course's deployment module?",
+    "course": "mlops-zoomcamp",
+    "document": "d34afcb205"
+  },
+  {
+    "question": "In Module 4 of the MLOps ZoomCamp, which profile name is used as the default when setting an AWS environment variable for successful S3 uploads via boto3 in a notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "d34afcb205"
+  },
+  {
+    "question": "How can I ensure that my AWS credentials are correctly recognized by boto3 to avoid the InvalidAccessKeyId error while deploying models in the MLOps course?",
+    "course": "mlops-zoomcamp",
+    "document": "d34afcb205"
+  },
+  {
+    "question": "What steps should I follow to configure my system so that `boto3` can successfully interact with S3 after encountering an InvalidAccessKeyId error during a deployment task in Module 4 of the MLOPs ZoomCamp?",
+    "course": "mlops-zoomcamp",
+    "document": "d34afcb205"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do I receive the error 'Unable to import module 'lambda_function': No module named 'tensorflow'' when executing `python test.py`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "eba3d936f6"
+  },
+  {
+    "question": "What specific change should I make to resolve the TensorFlow import issue in my `test.py` script?",
+    "course": "machine-learning-zoomcamp",
+    "document": "eba3d936f6"
+  },
+  {
+    "question": "In the context of serverless deep learning, which alternative import statement replaces `import tensorflow.lite as tflite`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "eba3d936f6"
+  },
+  {
+    "question": "How can I ensure that my code in `test.py` is free from unnecessary TensorFlow dependencies?",
+    "course": "machine-learning-zoomcamp",
+    "document": "eba3d936f6"
+  },
+  {
+    "question": "What is the recommended module to use for TFLite operations instead of directly importing from TensorFlow in a Lambda function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "eba3d936f6"
+  }
+]

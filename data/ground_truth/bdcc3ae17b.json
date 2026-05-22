@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the homework for Module 2, is my RMSE result for question 6 significantly different from the provided options?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bdcc3ae17b"
+  },
+  {
+    "question": "Why does my answer for question 6 deviate so much from the nearest option when previous questions yielded close results?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bdcc3ae17b"
+  },
+  {
+    "question": "What specific step must I include in the code to ensure correct initialization for questions 5 and 6 of the homework?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bdcc3ae17b"
+  },
+  {
+    "question": "Can you clarify the exact line of code needed to reinitialize `Idx` correctly for each iteration of `r` in question 5?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bdcc3ae17b"
+  },
+  {
+    "question": "Is there a common mistake related to variable initialization that could cause a large RMSE discrepancy as observed in my submission?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bdcc3ae17b"
+  }
+]

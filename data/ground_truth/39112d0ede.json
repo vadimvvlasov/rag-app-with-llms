@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does model training appear to be very slow when using a T4 GPU in Google Colab?",
+    "course": "machine-learning-zoomcamp",
+    "document": "39112d0ede"
+  },
+  {
+    "question": "How can I specify the number of workers/threads in the `fit` function to improve performance during model training in Google Colab?",
+    "course": "machine-learning-zoomcamp",
+    "document": "39112d0ede"
+  },
+  {
+    "question": "What is the default value for the `workers` variable in Google Colab's GPU environment, and why might it lead to slow processing?",
+    "course": "machine-learning-zoomcamp",
+    "document": "39112d0ede"
+  },
+  {
+    "question": "By what factor should I increase the `workers` variable to potentially accelerate model training on a T4 GPU within Google Colab?",
+    "course": "machine-learning-zoomcamp",
+    "document": "39112d0ede"
+  },
+  {
+    "question": "Where can I find additional information or a discussion related to determining the number of cores available in Google Colab’s GPU for optimizing model training performance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "39112d0ede"
+  }
+]

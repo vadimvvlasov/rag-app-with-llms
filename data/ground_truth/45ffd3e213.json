@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is `PULocationID` not recognized in PostgreSQL queries while `\"PULocationID\"` works?",
+    "course": "data-engineering-zoomcamp",
+    "document": "45ffd3e213"
+  },
+  {
+    "question": "What determines the case sensitivity of unquoted identifiers in PostgreSQL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "45ffd3e213"
+  },
+  {
+    "question": "Where can I find documentation explaining the rules for identifier quoting in PostgreSQL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "45ffd3e213"
+  },
+  {
+    "question": "How should I correctly quote column names that contain capital letters to ensure they are recognized by the database?",
+    "course": "data-engineering-zoomcamp",
+    "document": "45ffd3e213"
+  },
+  {
+    "question": "In the context of data engineering with Postgres, what is the recommended way to specify column names that include uppercase characters?",
+    "course": "data-engineering-zoomcamp",
+    "document": "45ffd3e213"
+  }
+]

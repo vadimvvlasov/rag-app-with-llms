@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What causes the 'ValueError: The truth value of a DataFrame is ambiguous' error when comparing two DataFrames in a unit test?",
+    "course": "mlops-zoomcamp",
+    "document": "2eb2863faf"
+  },
+  {
+    "question": "How can I correctly compare two Pandas DataFrames during unit testing to avoid the mentioned ValueError?",
+    "course": "mlops-zoomcamp",
+    "document": "2eb2863faf"
+  },
+  {
+    "question": "What method should be used to convert a Pandas DataFrame into a list of dictionaries for comparison purposes?",
+    "course": "mlops-zoomcamp",
+    "document": "2eb2863faf"
+  },
+  {
+    "question": "Can you provide an example of how to assert equality between two converted lists of dictionaries from DataFrames in a unit test?",
+    "course": "mlops-zoomcamp",
+    "document": "2eb2863faf"
+  },
+  {
+    "question": "Where can I find detailed guidance on best practices for comparing DataFrames in tests within the 'mlops-zoomcamp' course?",
+    "course": "mlops-zoomcamp",
+    "document": "2eb2863faf"
+  }
+]

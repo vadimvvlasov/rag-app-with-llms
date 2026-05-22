@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message '(root) Additional property mlflow is not allowed' indicate in the context of Module 3 on Orchestration for the MLOps ZoomCamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "7deae3a8eb"
+  },
+  {
+    "question": "How can I resolve the issue where the Docker Compose file lacks a specific server entry causing the 'Additional property mlflow is not allowed' error?",
+    "course": "mlops-zoomcamp",
+    "document": "7deae3a8eb"
+  },
+  {
+    "question": "In the provided FAQ, which image ID is suggested to fix the 'mlflow' additional property error during orchestration setup in Module 3 of MLOps ZoomCamp?",
+    "course": "mlops-zoomcamp",
+    "document": "7deae3a8eb"
+  },
+  {
+    "question": "Where should I locate or modify the Docker Compose file to eliminate the 'Additional property mlflow is not allowed' error as mentioned in the Module 3 FAQ for MLOps ZoomCamp?",
+    "course": "mlops-zoomcamp",
+    "document": "7deae3a8eb"
+  },
+  {
+    "question": "What steps are required following the identification of the 'mlflow' additional property error in a Docker Compose configuration within Module 3 of the MLOps ZoomCamp curriculum?",
+    "course": "mlops-zoomcamp",
+    "document": "7deae3a8eb"
+  }
+]

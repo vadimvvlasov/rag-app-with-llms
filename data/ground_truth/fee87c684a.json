@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I encounter an error stating that a valid dbt project was not found when running my dbt project in the production environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fee87c684a"
+  },
+  {
+    "question": "How can I ensure that my dbt Cloud run is successful after merging changes from a pull request into the main branch?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fee87c684a"
+  },
+  {
+    "question": "What steps are required to verify that the `dbt_project.yml` file is correctly set up and accessible during a dbt Cloud execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fee87c684a"
+  },
+  {
+    "question": "What should be checked to prevent errors related to dataset naming mismatches between BigQuery and dbt Cloud's production configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fee87c684a"
+  },
+  {
+    "question": "If I receive an error indicating that my dbt project cannot run on production, which version of the repository should I ensure is being used?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fee87c684a"
+  }
+]

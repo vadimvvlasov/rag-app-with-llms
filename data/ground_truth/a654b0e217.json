@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of a `.gitignore` file in a Git repository?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a654b0e217"
+  },
+  {
+    "question": "How can I add a rule to ignore all CSV files using a `.gitignore` file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a654b0e217"
+  },
+  {
+    "question": "If I have already committed some CSV files by mistake, how can I unstage them without deleting them from my local system?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a654b0e217"
+  },
+  {
+    "question": "What command should I use to remove a specific CSV file from Git tracking while keeping it on my local machine?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a654b0e217"
+  },
+  {
+    "question": "Where should I place the `.gitignore` file in my project directory for it to effectively ignore specified file types?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a654b0e217"
+  }
+]

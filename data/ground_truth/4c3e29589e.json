@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is cross-validation and how does it evaluate model performance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4c3e29589e"
+  },
+  {
+    "question": "How is the dataset divided in a typical k-fold cross-validation process?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4c3e29589e"
+  },
+  {
+    "question": "What role does the hyperparameter \"C\" play in models such as Support Vector Machines and logistic regression?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4c3e29589e"
+  },
+  {
+    "question": "Explain the difference between smaller and larger values of the hyperparameter \"C\" in terms of regularization and model fitting.",
+    "course": "machine-learning-zoomcamp",
+    "document": "4c3e29589e"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course is this information about cross-validation and the \"C\" hyperparameter discussed?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4c3e29589e"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the new function name for `dbt_utils.surrogate_key` in recent versions of dbt-utils?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e596dc3cbe"
+  },
+  {
+    "question": "How can I update my existing dbt models that use `dbt_utils.surrogate_key` to avoid deprecation warnings or errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e596dc3cbe"
+  },
+  {
+    "question": "Which staging model files in the course are affected by the rename of `dbt_utils.surrogate_key` to `dbt_utils.generate_surrogate_key`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e596dc3cbe"
+  },
+  {
+    "question": "What arguments can be passed to `dbt_utils.generate_surrogate_key`, and how do they correspond to those of the deprecated `surrogate_key` function?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e596dc3cbe"
+  },
+  {
+    "question": "After renaming `surrogate_key` to `generate_surrogate_key`, will the generated surrogate key values remain consistent with previous outputs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e596dc3cbe"
+  }
+]

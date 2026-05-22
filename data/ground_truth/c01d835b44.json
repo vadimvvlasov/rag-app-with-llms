@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I lose SSH access to my Google Cloud Platform virtual machine because the disk lacks space, and I receive a 'Permission denied (publickey)' error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c01d835b44"
+  },
+  {
+    "question": "Could you provide step-by-step instructions for regaining SSH access to a GCP VM when the system reports that there is insufficient space on the drive and authentication fails with a public key?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c01d835b44"
+  },
+  {
+    "question": "In the context of Module 1: GCP setup & VM from the data-engineering-zoomcamp course, how can I resolve a 'Permission denied (publickey)' error after losing SSH connectivity due to disk space issues?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c01d835b44"
+  },
+  {
+    "question": "What are the recommended troubleshooting steps for recovering SSH access on a Google Cloud Platform instance when the message 'Permission denied (publickey)' appears, and I suspect it's related to low disk space?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c01d835b44"
+  },
+  {
+    "question": "For the data-engineering-zoomcamp course, specifically Module 1: GCP setup & VM, what is the procedure to fix lost SSH access caused by insufficient storage on a GCP virtual machine?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c01d835b44"
+  }
+]

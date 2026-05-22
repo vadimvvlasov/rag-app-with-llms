@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it possible to use Docker Engine within WSL2 (Ubuntu) without installing Docker Desktop?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8c1d06d681"
+  },
+  {
+    "question": "What are the advantages of running Docker directly inside WSL2 compared to using Docker Desktop?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8c1d06d681"
+  },
+  {
+    "question": "Do I need any special configurations to run Docker commands from the WSL2 terminal after installation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8c1d06d681"
+  },
+  {
+    "question": "Can I manage Docker containers and images efficiently through the CLI when Docker is set up in WSL2?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8c1d06d681"
+  },
+  {
+    "question": "Will running Docker in WSL2 impact performance or resource usage on my host machine?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8c1d06d681"
+  }
+]

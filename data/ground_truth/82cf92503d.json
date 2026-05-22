@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs when trying to load `tflite_runtime` in a Docker environment with NumPy 2.2.0?",
+    "course": "machine-learning-zoomcamp",
+    "document": "82cf92503d"
+  },
+  {
+    "question": "How can I resolve the compatibility issue between `tflite_runtime-2.14.0` and NumPy 2.x during installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "82cf92503d"
+  },
+  {
+    "question": "In a Dockerfile, what is the correct sequence of commands to ensure `tflite_runtime-2.14.0` works with NumPy 1.23.1?",
+    "course": "machine-learning-zoomcamp",
+    "document": "82cf92503d"
+  },
+  {
+    "question": "What specific command should be used to install the `tflite_runtime-2.14.0` wheel without pulling in conflicting dependencies?",
+    "course": "machine-learning-zoomcamp",
+    "document": "82cf92503d"
+  },
+  {
+    "question": "Where can I find additional guidance for resolving similar compatibility issues in serverless deep learning deployments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "82cf92503d"
+  }
+]

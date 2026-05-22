@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the limitation on the number of projects in the free developer version of DBT?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7cec1857a9"
+  },
+  {
+    "question": "Can I have multiple projects under a single account using DBT's free developer version?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7cec1857a9"
+  },
+  {
+    "question": "Is there a way to work around the project restriction imposed by DBT's free developer edition?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7cec1857a9"
+  },
+  {
+    "question": "How can I set up additional accounts to utilize more than one project with DBT?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7cec1857a9"
+  },
+  {
+    "question": "What are the options available for users who require more than one project in the free version of dbt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7cec1857a9"
+  }
+]

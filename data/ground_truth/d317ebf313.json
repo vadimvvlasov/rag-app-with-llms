@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is my pipeline failing with the error `[Errno 2] No such file or directory: '/home/src/mage_data/{…} /.variables/{...}/output_1/object.joblib'`?",
+    "course": "mlops-zoomcamp",
+    "document": "d317ebf313"
+  },
+  {
+    "question": "What steps should I take to troubleshoot a missing output file like `object.joblib` in a Mage pipeline?",
+    "course": "mlops-zoomcamp",
+    "document": "d317ebf313"
+  },
+  {
+    "question": "How can I export and import a pipeline as a zip file in Mage to resolve orchestration issues?",
+    "course": "mlops-zoomcamp",
+    "document": "d317ebf313"
+  },
+  {
+    "question": "Where can I check the logs of an upstream block that is supposed to generate `object.joblib` to ensure it completed successfully?",
+    "course": "mlops-zoomcamp",
+    "document": "d317ebf313"
+  },
+  {
+    "question": "What directory should I verify for the existence of the output file `output_1/object.joblib` when debugging a pipeline break?",
+    "course": "mlops-zoomcamp",
+    "document": "d317ebf313"
+  }
+]

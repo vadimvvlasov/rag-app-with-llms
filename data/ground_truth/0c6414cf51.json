@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which dataset should be exclusively used for Exploratory Data Analysis (EDA) during the machine learning classification course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0c6414cf51"
+  },
+  {
+    "question": "Is it permissible to incorporate the validation set when conducting EDA in Module 3 of the Machine Learning for Classification course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0c6414cf51"
+  },
+  {
+    "question": "Why must we avoid inspecting the test dataset during EDA, as instructed in the Machine Learning Zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0c6414cf51"
+  },
+  {
+    "question": "What is the rationale behind treating the test dataset as unseen data during exploratory analysis in this machine learning module?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0c6414cf51"
+  },
+  {
+    "question": "In the context of Module 3 from the Machine Learning Zoomcamp, what are the recommended practices for handling datasets during the EDA phase?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0c6414cf51"
+  }
+]

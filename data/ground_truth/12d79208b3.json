@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I am receiving the error 'Cannot connect to the Docker daemon at unix:///var/run/docker.sock' when attempting to run a Docker command. What could be causing this issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "12d79208b3"
+  },
+  {
+    "question": "How can I ensure that Docker Desktop is properly connected to my WSL Linux distribution to avoid the 'Cannot connect to the Docker daemon' error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "12d79208b3"
+  },
+  {
+    "question": "What specific steps should I follow in Docker Desktop settings to resolve the connection problem with the Docker daemon on WSL?",
+    "course": "machine-learning-zoomcamp",
+    "document": "12d79208b3"
+  },
+  {
+    "question": "If Docker Desktop and WSL are not correctly linked, what configuration change allows Docker to communicate with the Docker daemon without errors?",
+    "course": "machine-learning-zoomcamp",
+    "document": "12d79208b3"
+  },
+  {
+    "question": "After enabling additional distros in Docker Desktop's WSL Integration settings, does anything else need to be done to fully restore Docker functionality?",
+    "course": "machine-learning-zoomcamp",
+    "document": "12d79208b3"
+  }
+]

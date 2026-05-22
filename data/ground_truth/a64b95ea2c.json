@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering multiple thresholds that yield the same F1 score in my Q4 homework?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a64b95ea2c"
+  },
+  {
+    "question": "Is there a standard method to select among several thresholds when they all result in identical F1 scores for the classification task in Module 4?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a64b95ea2c"
+  },
+  {
+    "question": "Should I opt for the lowest threshold value when multiple thresholds produce the same F1 score, or is there another criterion to consider?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a64b95ea2c"
+  },
+  {
+    "question": "How can I confirm the correctness of my computed thresholds and corresponding F1 scores using scikit-learn's `classification_report` function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a64b95ea2c"
+  },
+  {
+    "question": "Where can I find detailed documentation on utilizing scikit-learn’s `classification_report` to evaluate precision, recall, and F1-score for my machine learning homework?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a64b95ea2c"
+  }
+]

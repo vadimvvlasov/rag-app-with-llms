@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What tools are recommended for completing the dlt homework?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d7abe28e77"
+  },
+  {
+    "question": "Where can I find the starter code provided by the instructor for the dlt homework?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d7abe28e77"
+  },
+  {
+    "question": "Is it possible to use a local setup instead of Colab for the dlt homework, and if so, what are the requirements?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d7abe28e77"
+  },
+  {
+    "question": "How do I access the pre-configured Jupyter Notebook for the dlt homework on Google Colab?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d7abe28e77"
+  },
+  {
+    "question": "What specific notebook file should I open in Google Colab to begin working on the dlt homework?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d7abe28e77"
+  }
+]

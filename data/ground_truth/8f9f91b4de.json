@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error message indicates a quota project issue during the Google Cloud SDK installation on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8f9f91b4de"
+  },
+  {
+    "question": "Which command should be executed to set up a quota project for Application Default Credentials after installing the GCP SDK?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8f9f91b4de"
+  },
+  {
+    "question": "How can I verify that the Google Cloud SDK has been successfully installed on my Windows machine?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8f9f91b4de"
+  },
+  {
+    "question": "What steps are required to initialize and authenticate the GCP SDK using `gcloud` commands?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8f9f91b4de"
+  },
+  {
+    "question": "Where can I find the comprehensive guide for installing the Windows SDK as referenced in the FAQ?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8f9f91b4de"
+  }
+]

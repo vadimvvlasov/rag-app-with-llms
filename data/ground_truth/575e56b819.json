@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Explain how label encoding differs from one-hot encoding in handling categorical data.",
+    "course": "mlops-zoomcamp",
+    "document": "575e56b819"
+  },
+  {
+    "question": "What tool or method can be used to apply one-hot encoding in Pandas?",
+    "course": "mlops-zoomcamp",
+    "document": "575e56b819"
+  },
+  {
+    "question": "In what scenario would label encoding be more appropriate than one-hot encoding?",
+    "course": "mlops-zoomcamp",
+    "document": "575e56b819"
+  },
+  {
+    "question": "Which Scikit-learn class is specifically designed for performing one-hot encoding?",
+    "course": "mlops-zoomcamp",
+    "document": "575e56b819"
+  },
+  {
+    "question": "Why might it be necessary to reset a dataset into objects before applying one-hot encoding?",
+    "course": "mlops-zoomcamp",
+    "document": "575e56b819"
+  }
+]

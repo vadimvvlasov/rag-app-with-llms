@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I configure the Google provider in Terraform to use service account credentials securely?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa8cbc8f40"
+  },
+  {
+    "question": "What is the correct syntax for specifying a variable file path for GCP credentials within a Terraform configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa8cbc8f40"
+  },
+  {
+    "question": "In a Terraform script, how should I assign values to the `project` and `zone` parameters of the Google provider?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa8cbc8f40"
+  },
+  {
+    "question": "Where can I find detailed instructions on integrating Google Cloud Platform (GCP) with Terraform using a service account key file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa8cbc8f40"
+  },
+  {
+    "question": "What steps are necessary to ensure that Terraform reads GCP credentials from an external JSON key file in my project directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa8cbc8f40"
+  }
+]

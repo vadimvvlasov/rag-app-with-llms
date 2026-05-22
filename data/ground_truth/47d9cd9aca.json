@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the issue of not being able to access Jupyter Notebook on AWS from my desktop when using a non-Visual Studio environment?",
+    "course": "mlops-zoomcamp",
+    "document": "47d9cd9aca"
+  },
+  {
+    "question": "What command should I execute to generate the necessary configuration for running Jupyter Notebook in AWS?",
+    "course": "mlops-zoomcamp",
+    "document": "47d9cd9aca"
+  },
+  {
+    "question": "Which specific line must be added to the `jupyter_notebook_config.py` file located at `/home/ubuntu/.jupyter/` to enable remote access to the Jupyter Notebook server?",
+    "course": "mlops-zoomcamp",
+    "document": "47d9cd9aca"
+  },
+  {
+    "question": "After editing the Jupyter Notebook configuration file, what setting should be applied to allow connections from any IP address?",
+    "course": "mlops-zoomcamp",
+    "document": "47d9cd9aca"
+  },
+  {
+    "question": "In the context of setting up Jupyter on AWS without Visual Studio, what is the significance of running `jupyter notebook --generate-config`?",
+    "course": "mlops-zoomcamp",
+    "document": "47d9cd9aca"
+  }
+]

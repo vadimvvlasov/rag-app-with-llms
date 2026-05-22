@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why are some columns in the green taxi data failing to cast to INT64?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9f2048fc73"
+  },
+  {
+    "question": "What specific columns are causing casting errors, and what are their types in the Parquet file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9f2048fc73"
+  },
+  {
+    "question": "How do whole number values stored as floats (e.g., 1.0) lead to \"Bad int64 value\" errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9f2048fc73"
+  },
+  {
+    "question": "What is a recommended approach using `safe_cast` to handle casting failures for the `ehail_fee` column?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9f2048fc73"
+  },
+  {
+    "question": "If I control the upstream data ingestion, what step should I take to ensure columns like `ehail_fee` are stored as INT64 in Parquet?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9f2048fc73"
+  }
+]

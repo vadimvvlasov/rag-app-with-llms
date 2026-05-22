@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error message appears when trying to run a Docker container interactively on Windows without `winpty`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ed8dcfbb5a"
+  },
+  {
+    "question": "How can I resolve the \"the input device is not a TTY\" error when executing a Docker command in Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ed8dcfbb5a"
+  },
+  {
+    "question": "Which prefix should be added before the `docker run` command to fix the TTY issue on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ed8dcfbb5a"
+  },
+  {
+    "question": "What configuration change should be made to my shell profile (`~/.bashrc` or `~/.bash_profile`) to avoid manually typing `winpty` each time I use Docker on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ed8dcfbb5a"
+  },
+  {
+    "question": "Where can I find the original source that provides this solution for the Docker TTY problem on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ed8dcfbb5a"
+  }
+]

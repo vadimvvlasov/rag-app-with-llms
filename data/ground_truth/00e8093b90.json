@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I identify which files or directories are consuming the most disk space on a GCP VM running Kestra with Postgres?",
+    "course": "data-engineering-zoomcamp",
+    "document": "00e8093b90"
+  },
+  {
+    "question": "What command should I use to clean up unused Docker images and volumes that might be bloating my VM's storage?",
+    "course": "data-engineering-zoomcamp",
+    "document": "00e8093b90"
+  },
+  {
+    "question": "Could you explain how to manually purge old execution data in Kestra to free up additional space, especially if the scheduled purge is not sufficient?",
+    "course": "data-engineering-zoomcamp",
+    "document": "00e8093b90"
+  },
+  {
+    "question": "What steps are required to drop unnecessary backup tables or compact existing ones in a Postgres database after multiple backfills?",
+    "course": "data-engineering-zoomcamp",
+    "document": "00e8093b90"
+  },
+  {
+    "question": "If I've exhausted all cleanup options and still need more disk capacity, what is the process for resizing the boot disk of my GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "00e8093b90"
+  }
+]

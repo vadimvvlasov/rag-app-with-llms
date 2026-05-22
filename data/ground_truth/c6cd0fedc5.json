@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I enable nested virtualization for an Intel CPU when running a MacOS/Windows 11 VM on top of Linux?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c6cd0fedc5"
+  },
+  {
+    "question": "What command should be executed to allow nested virtualization for an AMD CPU in a similar VM configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c6cd0fedc5"
+  },
+  {
+    "question": "Why is nested virtualization necessary to install Docker within a VM running on Linux?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c6cd0fedc5"
+  },
+  {
+    "question": "Are there any additional steps required after executing the modprobe commands to successfully enable nested virtualization?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c6cd0fedc5"
+  },
+  {
+    "question": "Which specific module of the 'data-engineering-zoomcamp' course covers the procedure for installing Docker in a nested virtualized environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c6cd0fedc5"
+  }
+]

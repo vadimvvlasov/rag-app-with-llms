@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I ensure that my Python script correctly reads AWS credentials from environment variables when running a Docker container?",
+    "course": "mlops-zoomcamp",
+    "document": "884bb9afb7"
+  },
+  {
+    "question": "What is the correct order for passing environment variables such as `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` to a Docker run command?",
+    "course": "mlops-zoomcamp",
+    "document": "884bb9afb7"
+  },
+  {
+    "question": "Can I use an `.env` file to provide necessary environment variables instead of specifying them manually in the `docker run` command?",
+    "course": "mlops-zoomcamp",
+    "document": "884bb9afb7"
+  },
+  {
+    "question": "What steps should I follow if my container needs access to AWS configuration files located at `~/.aws/credentials` and `~/.aws/config`?",
+    "course": "mlops-zoomcamp",
+    "document": "884bb9afb7"
+  },
+  {
+    "question": "Is there a way to map local AWS credential files into a Docker container to make them accessible during runtime?",
+    "course": "mlops-zoomcamp",
+    "document": "884bb9afb7"
+  }
+]

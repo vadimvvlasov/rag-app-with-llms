@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In BigQuery SQL Editor, how can I ensure my queries are preserved if the browser crashes unexpectedly?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b98d573ce2"
+  },
+  {
+    "question": "What is the recommended frequency for saving queries in Google Cloud Platform's BigQuery environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b98d573ce2"
+  },
+  {
+    "question": "Where will my saved queries be accessible after using the save button within the BigQuery SQL Editor?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b98d573ce2"
+  },
+  {
+    "question": "Besides clicking the save button, what alternative method can I use to safeguard my query code while working on it?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b98d573ce2"
+  },
+  {
+    "question": "Which text editors support syntax highlighting for `.sql` files that could help in managing my BigQuery queries outside the console?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b98d573ce2"
+  }
+]

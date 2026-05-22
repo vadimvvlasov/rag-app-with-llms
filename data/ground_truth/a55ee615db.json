@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the `AttributeError: module 'pyarrow' has no attribute '__version__'` when reading Parquet files with Pandas?",
+    "course": "mlops-zoomcamp",
+    "document": "a55ee615db"
+  },
+  {
+    "question": "What specific version of NumPy should I use to avoid compatibility issues with a module compiled using older NumPy versions while working on the `mlops-zoomcamp` course in Module 1: Introduction?",
+    "course": "mlops-zoomcamp",
+    "document": "a55ee615db"
+  },
+  {
+    "question": "Could you guide me through the steps required to downgrade my NumPy installation to resolve conflicts when executing code that relies on a NumPy 1.x compiled module?",
+    "course": "mlops-zoomcamp",
+    "document": "a55ee615db"
+  },
+  {
+    "question": "Why is it necessary to uninstall and remove existing NumPy installations via pip, conda commands, and clean operations before reinstalling an older version in this context?",
+    "course": "mlops-zoomcamp",
+    "document": "a55ee615db"
+  },
+  {
+    "question": "What potential risks are associated with running a module compiled using an older version of NumPy (e.g., NumPy 1.x) within the newer NumPy 2.2.4 environment during the `mlops-zoomcamp` course?",
+    "course": "mlops-zoomcamp",
+    "document": "a55ee615db"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the steps to set up a notebook for deep learning on Kaggle?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7ab955e247"
+  },
+  {
+    "question": "How can I access accelerated computing resources like T4 GPUs in my Kaggle notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7ab955e247"
+  },
+  {
+    "question": "Where is the option located in the interface to change the hardware accelerator of my Kaggle notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7ab955e247"
+  },
+  {
+    "question": "Which specific GPU type should I select for efficient deep learning tasks in Kaggle?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7ab955e247"
+  },
+  {
+    "question": "What initial action must be taken before accessing advanced hardware options on Kaggle?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7ab955e247"
+  }
+]

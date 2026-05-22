@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should be done if the taxi data file has a `.csv.gz` extension?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d677df9ccb"
+  },
+  {
+    "question": "How can I extract the file name from a URL for use with `pandas.read_csv`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d677df9ccb"
+  },
+  {
+    "question": "Which function in pandas can directly read a compressed CSV file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d677df9ccb"
+  },
+  {
+    "question": "Where can I find a video tutorial that demonstrates handling gzip-compressed taxi data files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d677df9ccb"
+  },
+  {
+    "question": "What modification is required to the line `csv_name = \"output.csv\"` when using a `.csv.gz` file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d677df9ccb"
+  }
+]

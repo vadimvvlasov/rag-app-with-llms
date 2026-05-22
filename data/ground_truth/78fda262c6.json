@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What mechanism does dbt use to manage dependencies between models?",
+    "course": "data-engineering-zoomcamp",
+    "document": "78fda262c6"
+  },
+  {
+    "question": "How can other models be referenced within a dbt model's SQL code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "78fda262c6"
+  },
+  {
+    "question": "Does dbt automatically determine the execution order of dependent models?",
+    "course": "data-engineering-zoomcamp",
+    "document": "78fda262c6"
+  },
+  {
+    "question": "What keyword is used in dbt to establish relationships between models?",
+    "course": "data-engineering-zoomcamp",
+    "document": "78fda262c6"
+  },
+  {
+    "question": "Can you explain how dbt ensures that models are executed in the correct sequence based on their dependencies?",
+    "course": "data-engineering-zoomcamp",
+    "document": "78fda262c6"
+  }
+]

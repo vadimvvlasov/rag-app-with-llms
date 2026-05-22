@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'Missing close double quote (\") character' error when loading data into BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "21e010f826"
+  },
+  {
+    "question": "What is the correct command to upload CSV files from Google Cloud Storage to a BigQuery dataset using the BigQuery Cloud Shell?",
+    "course": "data-engineering-zoomcamp",
+    "document": "21e010f826"
+  },
+  {
+    "question": "In the command `bq load --autodetect --allow_quoted_newlines --source_format=CSV dataset_name.table_name \"gs://dtc-data-lake-bucketname/fhv/fhv_tripdata_2019-*.csv.gz\"`, what does each flag represent?",
+    "course": "data-engineering-zoomcamp",
+    "document": "21e010f826"
+  },
+  {
+    "question": "Which flags are necessary to handle quoted newlines and automatically detect the schema of CSV files when loading data into BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "21e010f826"
+  },
+  {
+    "question": "Where should I specify the source path for my compressed CSV files in the `bq load` command to upload them to the specified dataset and table in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "21e010f826"
+  }
+]

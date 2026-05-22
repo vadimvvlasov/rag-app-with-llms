@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the error indicating that my Pipfile.lock is out of date during a Docker container installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "efae76d03c"
+  },
+  {
+    "question": "What command should I use within the Docker RUN instruction to install packages while ignoring discrepancies between the Pipfile and Pipfile.lock?",
+    "course": "machine-learning-zoomcamp",
+    "document": "efae76d03c"
+  },
+  {
+    "question": "After running `pipenv lock`, why does the deployment still fail with an outdated Pipfile.lock error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "efae76d03c"
+  },
+  {
+    "question": "In the context of Module 5 on deploying machine learning models, what specific flag in `pipenv install` allows installation despite an inconsistent Pipfile.lock?",
+    "course": "machine-learning-zoomcamp",
+    "document": "efae76d03c"
+  },
+  {
+    "question": "When encountering a 'Your Pipfile.lock (65dad0) is out of date' error, which alternative installation method ensures successful package deployment inside a Docker container?",
+    "course": "machine-learning-zoomcamp",
+    "document": "efae76d03c"
+  }
+]

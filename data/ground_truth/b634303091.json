@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the command `echo ${REMOTE_URI}` return an empty output in Unit 9.6?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b634303091"
+  },
+  {
+    "question": "How can I set a local variable to correctly store the URI address for logging into the registry without it being lost after session termination?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b634303091"
+  },
+  {
+    "question": "What is the correct syntax to assign a value to the environment variable `REMOTE_URI` on an Ubuntu terminal as demonstrated in the solution?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b634303091"
+  },
+  {
+    "question": "Is there any difference in using `echo $REMOTE_URI` versus `echo ${REMOTE_URI}` when checking the variable's value, and why does one work but not the other?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b634303091"
+  },
+  {
+    "question": "What steps should I follow to ensure that the URI address is correctly logged into the registry after setting the environment variable as shown in the provided example?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b634303091"
+  }
+]

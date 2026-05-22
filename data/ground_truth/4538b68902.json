@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When I try to clone the 'clothing-dataset-small' repository using SSH, I encounter a 'Host key verification failed' error. What could be causing this issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4538b68902"
+  },
+  {
+    "question": "How can I resolve the 'Host key verification failed' message when attempting to clone the GitHub repository for the clothing dataset in Module 8 of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4538b68902"
+  },
+  {
+    "question": "What alternative URL should I use to clone the 'clothing-dataset-small' repository if my SSH keys are not properly configured, as indicated by the error during cloning?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4538b68902"
+  },
+  {
+    "question": "In the context of Module 8 from the machine-learning-zoomcamp course, what steps are required to successfully download the clothing dataset when encountering a host key verification failure with SSH?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4538b68902"
+  },
+  {
+    "question": "Why does switching from an SSH URL to an HTTPS URL eliminate the 'Host key verification failed' error when cloning the repository for the clothing dataset in my deep learning project?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4538b68902"
+  }
+]

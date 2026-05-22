@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of evaluating the importance of features in relation to predicting a binary target variable?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1b89887a15"
+  },
+  {
+    "question": "How did you identify which numerical features to consider for feature importance evaluation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1b89887a15"
+  },
+  {
+    "question": "Can you explain the steps involved in calculating the AUC for each numerical feature using `roc_auc_score`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1b89887a15"
+  },
+  {
+    "question": "What does the sorted data frame with feature names and ROC AUC scores tell us about the most influential numerical feature?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1b89887a15"
+  },
+  {
+    "question": "Why might the ROC curve graph not display the model line when computing `roc_curve(df_train['age'], y)`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1b89887a15"
+  }
+]

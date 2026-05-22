@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the permission error `[Errno 13] Permission denied: '~/.config/pgcli'` indicate?",
+    "course": "data-engineering-zoomcamp",
+    "document": "05e6bff42c"
+  },
+  {
+    "question": "Why might running `pgcli` with `sudo` earlier cause this permission issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "05e6bff42c"
+  },
+  {
+    "question": "How can I restore ownership of the `~/.config/pgcli` directory to my user account?",
+    "course": "data-engineering-zoomcamp",
+    "document": "05e6bff42c"
+  },
+  {
+    "question": "What is recommended instead of using `sudo` for installing and running `pgcli`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "05e6bff42c"
+  },
+  {
+    "question": "How can I ensure that `pgcli` is installed in an isolated environment to avoid permission problems?",
+    "course": "data-engineering-zoomcamp",
+    "document": "05e6bff42c"
+  }
+]

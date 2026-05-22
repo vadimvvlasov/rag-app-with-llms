@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which specific Evidently AI version is utilized in the course materials for the current cohort (2025)?",
+    "course": "mlops-zoomcamp",
+    "document": "28676cfdf9"
+  },
+  {
+    "question": "Will code examples from the video remain functional with Evidently AI versions up to which release?",
+    "course": "mlops-zoomcamp",
+    "document": "28676cfdf9"
+  },
+  {
+    "question": "If I use a newer version of Evidently AI beyond 0.6.7, will the provided code still execute correctly?",
+    "course": "mlops-zoomcamp",
+    "document": "28676cfdf9"
+  },
+  {
+    "question": "What changes have been made in newer Evidently AI releases that might affect the compatibility of the course code?",
+    "course": "mlops-zoomcamp",
+    "document": "28676cfdf9"
+  },
+  {
+    "question": "Is there any guidance on adapting the course examples to work with Evidently AI versions after 0.6.7?",
+    "course": "mlops-zoomcamp",
+    "document": "28676cfdf9"
+  }
+]

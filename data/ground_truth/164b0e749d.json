@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What warning is displayed by mlflow when loading a model inside a Lambda function?",
+    "course": "mlops-zoomcamp",
+    "document": "164b0e749d"
+  },
+  {
+    "question": "Which specific error message does the mlflow library encounter during dependency detection in this scenario?",
+    "course": "mlops-zoomcamp",
+    "document": "164b0e749d"
+  },
+  {
+    "question": "Why might increasing the memory of the Lambda function resolve the encountered AttributeError related to 'dataclasses'? ",
+    "course": "mlops-zoomcamp",
+    "document": "164b0e749d"
+  },
+  {
+    "question": "In which module of the MLOps Zoomcamp course is this issue discussed?",
+    "course": "mlops-zoomcamp",
+    "document": "164b0e749d"
+  },
+  {
+    "question": "How can one obtain a more detailed traceback for the warning mentioned when using mlflow's pyfunc.load_model in a Lambda environment?",
+    "course": "mlops-zoomcamp",
+    "document": "164b0e749d"
+  }
+]

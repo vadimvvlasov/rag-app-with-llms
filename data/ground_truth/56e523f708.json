@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific transformations are commonly used in data augmentation for neural networks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56e523f708"
+  },
+  {
+    "question": "How does exposing a model to transformed data help prevent overfitting during training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56e523f708"
+  },
+  {
+    "question": "Can you explain the process by which data augmentation artificially expands the training dataset?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56e523f708"
+  },
+  {
+    "question": "In what ways might flipping, cropping, and adjusting brightness or contrast improve a model's robustness?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56e523f708"
+  },
+  {
+    "question": "Which module of the 'machine-learning-zoomcamp' course covers techniques to enhance model performance through augmented datasets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "56e523f708"
+  }
+]

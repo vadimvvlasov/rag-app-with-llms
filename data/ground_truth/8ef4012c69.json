@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why might I encounter a 'Table does not exist' error in downstream Bruin assets despite the upstream ingestion asset completing successfully?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ef4012c69"
+  },
+  {
+    "question": "What is the recommended way to reference tables created by Upstream Bruin assets to avoid schema-related errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ef4012c69"
+  },
+  {
+    "question": "How can I verify which schemas and tables have been created by previous Bruin ingestion tasks?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ef4012c69"
+  },
+  {
+    "question": "Can you provide an example of incorrectly referencing a table in a downstream asset that leads to a 'Table does not exist' error, and how to correct it?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ef4012c69"
+  },
+  {
+    "question": "What command should I use within Bruin to list all available tables along with their respective schemas for verification purposes?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ef4012c69"
+  }
+]

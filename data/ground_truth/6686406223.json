@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Where should I execute the `mlflow ui` command to correctly set up Artifacts folders?",
+    "course": "mlops-zoomcamp",
+    "document": "6686406223"
+  },
+  {
+    "question": "What happens if I run `mlflow ui` from an incorrect directory regarding Artifact storage?",
+    "course": "mlops-zoomcamp",
+    "document": "6686406223"
+  },
+  {
+    "question": "Is there a specific directory requirement for using `mlflow server` to manage Artifacts effectively?",
+    "course": "mlops-zoomcamp",
+    "document": "6686406223"
+  },
+  {
+    "question": "How can I verify that my current working directory is appropriate before launching the MLflow UI?",
+    "course": "mlops-zoomcamp",
+    "document": "6686406223"
+  },
+  {
+    "question": "What steps should I follow to ensure proper setup of Artifacts folders when starting MLflow?",
+    "course": "mlops-zoomcamp",
+    "document": "6686406223"
+  }
+]

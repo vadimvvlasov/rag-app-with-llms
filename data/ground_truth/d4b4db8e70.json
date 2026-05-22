@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it possible to load data from a URL without writing it to disk first?",
+    "course": "mlops-zoomcamp",
+    "document": "d4b4db8e70"
+  },
+  {
+    "question": "Can Pandas directly read data files stored on remote servers?",
+    "course": "mlops-zoomcamp",
+    "document": "d4b4db8e70"
+  },
+  {
+    "question": "What is the recommended method for accessing datasets hosted online during an MLOps project?",
+    "course": "mlops-zoomcamp",
+    "document": "d4b4db8e70"
+  },
+  {
+    "question": "Does the course provide examples of reading data directly from URLs using Python libraries?",
+    "course": "mlops-zoomcamp",
+    "document": "d4b4db8e70"
+  },
+  {
+    "question": "Are there performance considerations when fetching and processing large datasets over a network instead of from local storage?",
+    "course": "mlops-zoomcamp",
+    "document": "d4b4db8e70"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": ". How can I configure my computer to execute a particular Python script automatically when the system starts up?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a3776dc060"
+  },
+  {
+    "question": ". What steps are required to set an environment variable for running a custom Python program at login?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a3776dc060"
+  },
+  {
+    "question": ". Could you explain the process of modifying system settings so that a specified Python file runs each time Windows boots?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a3776dc060"
+  },
+  {
+    "question": ". In data engineering, what method allows me to ensure my Python startup script is triggered upon logging into my user account?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a3776dc060"
+  },
+  {
+    "question": ". What modification to the Python environment setting enables the automatic initiation of a designated Python program at user login?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a3776dc060"
+  }
+]

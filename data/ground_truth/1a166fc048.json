@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I verify to resolve the 'Missing Authentication Token' error when testing the API Gateway locally?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1a166fc048"
+  },
+  {
+    "question": "How can I construct the correct URL format for invoking a deployed Lambda function through API Gateway in AWS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1a166fc048"
+  },
+  {
+    "question": "Where can I find the deployed API URL specific to my Lambda function's path after following the steps in [9.7 - API Gateway: Exposing the Lambda Function](https://www.youtube.com/watch?v=wyZ9aqQOXvs&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1a166fc048"
+  },
+  {
+    "question": "What command should I run to test the API locally, and what modifications might be necessary to avoid authentication errors?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1a166fc048"
+  },
+  {
+    "question": "In the context of Module 9. Serverless Deep Learning for the machine-learning-zoomcamp course, which region's execute-api URL should I use for the US East (N. Virginia) region?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1a166fc048"
+  }
+]

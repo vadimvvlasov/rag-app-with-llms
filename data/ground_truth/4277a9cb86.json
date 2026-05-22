@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving a 'column does not exist' error in my PostgreSQL query using Psycopg2 on a MacBook Pro M2?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4277a9cb86"
+  },
+  {
+    "question": "How can I correctly specify column names in a JOIN query to avoid the 'column does not exist' error with Psycopg2?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4277a9cb86"
+  },
+  {
+    "question": "What is the difference between single quotes and double quotes when naming columns in a PostgreSQL query via Psycopg2?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4277a9cb86"
+  },
+  {
+    "question": "Is there a specific syntax or convention for quoting column identifiers that should be used with Psycopg2 on macOS devices?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4277a9cb86"
+  },
+  {
+    "question": "After encountering a 'column does not exist' error, what steps should I follow to ensure my column names are properly referenced in a join operation using Psycopg2?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4277a9cb86"
+  }
+]

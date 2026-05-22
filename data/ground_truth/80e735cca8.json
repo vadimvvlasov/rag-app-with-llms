@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are some strategies for dealing with missing values before training a regression model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80e735cca8"
+  },
+  {
+    "question": "Can certain algorithms inherently manage missing data during the training process?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80e735cca8"
+  },
+  {
+    "question": "Is it advisable to delete rows or columns containing missing information, and when might this be appropriate?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80e735cca8"
+  },
+  {
+    "question": "How can feature engineering techniques assist in addressing incomplete datasets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80e735cca8"
+  },
+  {
+    "question": "Which imputation methods—such as mean, median, or mode—are most effective for filling in absent values prior to model training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80e735cca8"
+  }
+]

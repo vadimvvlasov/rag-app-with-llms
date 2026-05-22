@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What causes backpressure in a Flink streaming job and how can it impact the system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b7e9d1c052"
+  },
+  {
+    "question": "How can I increase consumer parallelism to mitigate backpressure in my Flink job?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b7e9d1c052"
+  },
+  {
+    "question": "Which metrics should I monitor to identify if backpressure is occurring during execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b7e9d1c052"
+  },
+  {
+    "question": "What is the recommended approach for adjusting the number of partitions on the source topic to alleviate backpressure?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b7e9d1c052"
+  },
+  {
+    "question": "How do I set the parallelism level in a PyFlink environment to prevent excessive backpressure?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b7e9d1c052"
+  }
+]

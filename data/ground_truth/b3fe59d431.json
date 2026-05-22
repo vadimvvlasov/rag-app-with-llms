@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the RMSE chart fail to display in Video 3.3.4 despite following the tutorial steps?",
+    "course": "mlops-zoomcamp",
+    "document": "b3fe59d431"
+  },
+  {
+    "question": "What specific callback is responsible for tracking experiments in the XGBoost pipeline that is absent in the Scikit-learn pipeline?",
+    "course": "mlops-zoomcamp",
+    "document": "b3fe59d431"
+  },
+  {
+    "question": "Could you provide the exact lines of code required to resolve the KeyError: ‘rmse_LinearRegression’ issue mentioned in the FAQ?",
+    "course": "mlops-zoomcamp",
+    "document": "b3fe59d431"
+  },
+  {
+    "question": "Where can I find the similar commit reference that includes the necessary modifications for adding the missing callback?",
+    "course": "mlops-zoomcamp",
+    "document": "b3fe59d431"
+  },
+  {
+    "question": "After implementing the suggested changes, how should I verify that the RMSE metric now appears correctly in the training metrics chart?",
+    "course": "mlops-zoomcamp",
+    "document": "b3fe59d431"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I set up a Cloud Function to automatically load CSV.gz files from GitHub directly into a BigQuery table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7cbadfe131"
+  },
+  {
+    "question": "What are the necessary configurations for defining the schema when loading CSV data into BigQuery using a Python Cloud Function?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7cbadfe131"
+  },
+  {
+    "question": "How do I determine whether to use WRITE_APPEND or WRITE_TRUNCATE in the LoadJobConfig for loading monthly data into an existing BigQuery table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7cbadfe131"
+  },
+  {
+    "question": "Can you explain the purpose of creating a temporary file within the Cloud Function when uploading the gzipped CSV file to BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7cbadfe131"
+  },
+  {
+    "question": "What steps are required to ensure that the data from multiple months of CSV.gz files are appended correctly to a single BigQuery table using this function?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7cbadfe131"
+  }
+]

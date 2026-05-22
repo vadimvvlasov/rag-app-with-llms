@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the recommended approach to keep my forked repository synchronized with the original public repository without losing my own commits?",
+    "course": "mlops-zoomcamp",
+    "document": "d1b7664c6c"
+  },
+  {
+    "question": "Which GitHub interface option should I select to pull in the latest changes from the upstream (original) repository while preserving my local modifications?",
+    "course": "mlops-zoomcamp",
+    "document": "d1b7664c6c"
+  },
+  {
+    "question": "In the provided Git configuration, what does the '[remote \"origin\"]' section specify about the connection to the original repository?",
+    "course": "mlops-zoomcamp",
+    "document": "d1b7664c6c"
+  },
+  {
+    "question": "After making edits and committing them to my own repo, how can I ensure that subsequent updates from the public repo are integrated without overwriting my existing work?",
+    "course": "mlops-zoomcamp",
+    "document": "d1b7664c6c"
+  },
+  {
+    "question": "What specific steps should I follow on GitHub to fetch recent commits from the public repository after cloning it and implementing my changes locally?",
+    "course": "mlops-zoomcamp",
+    "document": "d1b7664c6c"
+  }
+]

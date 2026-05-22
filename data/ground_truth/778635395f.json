@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I not getting any output when I run the command `dbt run --models stg_green_tripdata --var 'is_test_run: false'`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "778635395f"
+  },
+  {
+    "question": "What is the correct syntax to execute dbt with a variable for a specific model, such as `stg_green_tripdata`, ensuring the test run flag is set to false?",
+    "course": "data-engineering-zoomcamp",
+    "document": "778635395f"
+  },
+  {
+    "question": "In Module 4 of the data-engineering-zoomcamp course, which command should I use to run dbt on the `stg_green_tripdata` models without triggering a test run?",
+    "course": "data-engineering-zoomcamp",
+    "document": "778635395f"
+  },
+  {
+    "question": "How can I properly specify variable values when invoking dbt for model-specific tasks in the context of the provided FAQ?",
+    "course": "data-engineering-zoomcamp",
+    "document": "778635395f"
+  },
+  {
+    "question": "What alternative approach is recommended in the FAQ for executing dbt with variables when the tutorial command fails to produce results?",
+    "course": "data-engineering-zoomcamp",
+    "document": "778635395f"
+  }
+]

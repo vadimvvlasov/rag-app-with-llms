@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does using `wc -l` on a gzipped CSV file from Hadoop give a different line count compared to the video demonstration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cd5d3e8423"
+  },
+  {
+    "question": "What command should I use to obtain the correct number of lines in `fhvhv_tripdata_2021-01.csv.gz` after decompressing it?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cd5d3e8423"
+  },
+  {
+    "question": "In Module 6 of the data-engineering-zoomcamp course, why is the result from `wc -l fhvhv_tripdata_2021-01.csv.gz` not matching the video output?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cd5d3e8423"
+  },
+  {
+    "question": "How can I verify the actual line count of a CSV file processed in Hadoop when the file is compressed with gzip?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cd5d3e8423"
+  },
+  {
+    "question": "When working with the `fhvhv_tripdata_2021-01.csv.gz` dataset in the data-engineering-zoomcamp course, what step must be taken before using `wc -l` to ensure accurate results?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cd5d3e8423"
+  }
+]

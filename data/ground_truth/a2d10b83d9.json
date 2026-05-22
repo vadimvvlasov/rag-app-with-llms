@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if `pipenv install` fails with an AttributeError related to the 'collections' module?",
+    "course": "mlops-zoomcamp",
+    "document": "a2d10b83d9"
+  },
+  {
+    "question": "How can I resolve the error `AttributeError: module 'collections' has no attribute 'MutableMapping'` when using pipenv on a system with Python 3.10?",
+    "course": "mlops-zoomcamp",
+    "document": "a2d10b83d9"
+  },
+  {
+    "question": "If pipenv was previously installed via `apt-get`, what command should I use to remove it before reinstalling?",
+    "course": "mlops-zoomcamp",
+    "document": "a2d10b83d9"
+  },
+  {
+    "question": "What are the steps to ensure that pipenv works correctly after installing Anaconda or Miniconda?",
+    "course": "mlops-zoomcamp",
+    "document": "a2d10b83d9"
+  },
+  {
+    "question": "After removing pipenv and installing a non-system Python, which command do I need to execute to reinstall pipenv?",
+    "course": "mlops-zoomcamp",
+    "document": "a2d10b83d9"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I install udocker to enable Docker usage within a Google Colab notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c4ad81910b"
+  },
+  {
+    "question": "What specific pip command should be executed in Google Colab to install udocker?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c4ad81910b"
+  },
+  {
+    "question": "After installing udocker, what additional step is required using the `--allow-root` flag?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c4ad81910b"
+  },
+  {
+    "question": "Which command can be used in Google Colab to verify that udocker has been successfully installed and configured?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c4ad81910b"
+  },
+  {
+    "question": "Where can I find further information or an example for running a Docker container (e.g., 'hello-world') in Google Colab?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c4ad81910b"
+  }
+]

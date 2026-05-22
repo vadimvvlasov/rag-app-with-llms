@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does Terraform fail to reach the provider registry in regions like Iraq?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dec5edee6a"
+  },
+  {
+    "question": "What specific error messages indicate that Terraform cannot query available provider packages due to a restricted region?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dec5edee6a"
+  },
+  {
+    "question": "How can I configure my system to allow Terraform to access the online provider registry when running in a restricted region?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dec5edee6a"
+  },
+  {
+    "question": "Is using a VPN browser extension enough to resolve the 'Invalid provider registry host' error during `terraform init`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dec5edee6a"
+  },
+  {
+    "question": "After setting up a VPN, what command should I run to attempt fetching provider packages again?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dec5edee6a"
+  }
+]

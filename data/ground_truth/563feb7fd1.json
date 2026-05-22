@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the steps to update the mage version displayed in the UI after starting the container?",
+    "course": "mlops-zoomcamp",
+    "document": "563feb7fd1"
+  },
+  {
+    "question": "Where can I find information about whether a specific fix is relevant to our ZoomCamp coursework before updating?",
+    "course": "mlops-zoomcamp",
+    "document": "563feb7fd1"
+  },
+  {
+    "question": "How do I cancel and manually pull a new mage image if the automated rebuild does not show the updated version?",
+    "course": "mlops-zoomcamp",
+    "document": "563feb7fd1"
+  },
+  {
+    "question": "What is the difference between the 'alpha' and 'latest' mage images in terms of stability and release readiness?",
+    "course": "mlops-zoomcamp",
+    "document": "563feb7fd1"
+  },
+  {
+    "question": "After pulling a new mage image, what command should I execute to restart the Docker container with the updated version?",
+    "course": "mlops-zoomcamp",
+    "document": "563feb7fd1"
+  }
+]

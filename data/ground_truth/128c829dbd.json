@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the context of reproducibility, what is the instructor's expectation regarding running all provided files or code snippets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "128c829dbd"
+  },
+  {
+    "question": "If I encounter difficulties in executing certain neural network models due to computational constraints, what alternative measures can I take to ensure reproducibility of my results?",
+    "course": "machine-learning-zoomcamp",
+    "document": "128c829dbd"
+  },
+  {
+    "question": "What specific elements should be included in a submission to guarantee that others can successfully reproduce my experiments without ambiguity?",
+    "course": "machine-learning-zoomcamp",
+    "document": "128c829dbd"
+  },
+  {
+    "question": "Are there any built-in safeguards or checks mentioned for identifying potential errors when attempting to recreate the experiments autonomously?",
+    "course": "machine-learning-zoomcamp",
+    "document": "128c829dbd"
+  },
+  {
+    "question": "How does the instructor suggest balancing between hands-on execution and preparatory steps when aiming for reproducibility within this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "128c829dbd"
+  }
+]

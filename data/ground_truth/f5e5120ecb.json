@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an ImportError when trying to import `load_img` from `tensorflow.keras.preprocessing.image`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f5e5120ecb"
+  },
+  {
+    "question": "What is the correct way to import the `load_img` function in TensorFlow Keras as of the latest version?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f5e5120ecb"
+  },
+  {
+    "question": "Has the location of the `load_img` utility changed recently, and if so, where should I now find it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f5e5120ecb"
+  },
+  {
+    "question": "In which module or utility namespace does the updated `load_img` function reside after the recent TensorFlow/Keras migration?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f5e5120ecb"
+  },
+  {
+    "question": "Can you provide an example of how to correctly use the new import path for `load_img` in a TensorFlow Keras script?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f5e5120ecb"
+  }
+]

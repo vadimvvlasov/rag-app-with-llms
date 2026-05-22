@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary purpose of using Jan/Feb/March for Train/Test/Validation Purposes?",
+    "course": "mlops-zoomcamp",
+    "document": "d30594cef3"
+  },
+  {
+    "question": "How does this split approach help in assessing seasonal effects in the data?",
+    "course": "mlops-zoomcamp",
+    "document": "d30594cef3"
+  },
+  {
+    "question": "Why are \"Out of Time\" validations considered important for model evaluation?",
+    "course": "mlops-zoomcamp",
+    "document": "d30594cef3"
+  },
+  {
+    "question": "In what way can a random sample train/test split lead to data leakage and poor model performance?",
+    "course": "mlops-zoomcamp",
+    "document": "d30594cef3"
+  },
+  {
+    "question": "What role does the validation process play in reporting model metrics and analyzing target drift?",
+    "course": "mlops-zoomcamp",
+    "document": "d30594cef3"
+  }
+]

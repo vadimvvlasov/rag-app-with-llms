@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of repartitioning a DataFrame in Spark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a71d2105aa"
+  },
+  {
+    "question": "How does the number of partitions affect the output when writing a DataFrame to Parquet files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a71d2105aa"
+  },
+  {
+    "question": "Can you explain how Spark utilizes parallelism during the write operation to disk?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a71d2105aa"
+  },
+  {
+    "question": "If I have a large dataset, how might splitting it into multiple parquet files impact performance?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a71d2105aa"
+  },
+  {
+    "question": "What are the benefits of having each partition written as a separate file in terms of data processing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a71d2105aa"
+  }
+]

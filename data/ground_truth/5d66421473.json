@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do Kestra tasks fail to connect to Postgres using `host.docker.internal` on a Linux Docker setup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5d66421473"
+  },
+  {
+    "question": "What is the recommended method to resolve inter-container communication between Kestra and Postgres in a `docker-compose.yml` file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5d66421473"
+  },
+  {
+    "question": "How can I modify the `pluginDefaults` section of my YAML configuration to refer to Postgres by its service name instead of using `host.docker.internal`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5d66421473"
+  },
+  {
+    "question": "If I need Kestra to communicate with a service running on the host machine, what configuration change should I make in the Kestra service definition within `docker-compose.yml`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5d66421473"
+  },
+  {
+    "question": "What additional property must be added to a Docker task runner configuration to ensure that `host.docker.internal` resolves correctly on Linux?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5d66421473"
+  }
+]

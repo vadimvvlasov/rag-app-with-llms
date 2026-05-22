@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I upload a large dataset to my GitHub repository without encountering size limitations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "307139bab1"
+  },
+  {
+    "question": "What tool or method is recommended for handling big files when collaborating on a machine learning project hosted on GitHub?",
+    "course": "machine-learning-zoomcamp",
+    "document": "307139bab1"
+  },
+  {
+    "question": "I'm facing difficulties loading a substantial data file into my GitHub repo. Is there an alternative approach suggested in the course for GitHub projects?",
+    "course": "machine-learning-zoomcamp",
+    "document": "307139bab1"
+  },
+  {
+    "question": "For the midterm and capstone assignments, what solution does the 'machine-learning-zoomcamp' course propose to manage datasets that exceed typical GitHub repository size constraints?",
+    "course": "machine-learning-zoomcamp",
+    "document": "307139bab1"
+  },
+  {
+    "question": "In the context of the 'Projects (Midterm and Capstone)' section of the 'machine-learning-zoomcamp' course, what specific tool is advised for dealing with large files in a GitHub environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "307139bab1"
+  }
+]

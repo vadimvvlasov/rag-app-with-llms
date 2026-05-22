@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the reason for the 'Access Denied' error when trying to access Localhost on port 5000?",
+    "course": "mlops-zoomcamp",
+    "document": "e75e477ce2"
+  },
+  {
+    "question": "How can I resolve the authorization issue preventing me from viewing the page at 127.0.0.1:5000?",
+    "course": "mlops-zoomcamp",
+    "document": "e75e477ce2"
+  },
+  {
+    "question": "If I am using Google Chrome, what specific steps should I follow to fix the socket pool problem related to this access denial?",
+    "course": "mlops-zoomcamp",
+    "document": "e75e477ce2"
+  },
+  {
+    "question": "Where can I find the visual guide (image) referenced in the FAQ for troubleshooting the Localhost access issue?",
+    "course": "mlops-zoomcamp",
+    "document": "e75e477ce2"
+  },
+  {
+    "question": "In which module of the 'mlops-zoomcamp' course does this FAQ entry belong, and how is it relevant to experiment tracking?",
+    "course": "mlops-zoomcamp",
+    "document": "e75e477ce2"
+  }
+]

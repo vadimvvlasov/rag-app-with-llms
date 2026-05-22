@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the standard TensorFlow Serving Docker image fail to work on a MacBook with an Apple M1 chip?",
+    "course": "data-engineering-zoomcamp",
+    "document": "47f7c8310a"
+  },
+  {
+    "question": "What alternative Docker image should I use for TensorFlow Serving when running on an Apple Silicon processor?",
+    "course": "data-engineering-zoomcamp",
+    "document": "47f7c8310a"
+  },
+  {
+    "question": "How do I configure the `serving_dir` directory and set up the necessary environment variables to run the modified TensorFlow Serving container on my Macbook with an M1 chip?",
+    "course": "data-engineering-zoomcamp",
+    "document": "47f7c8310a"
+  },
+  {
+    "question": "What specific command should I execute to start the TensorFlow Serving container using the `emacski/tensorflow-serving` image after configuring the `serving_dir`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "47f7c8310a"
+  },
+  {
+    "question": "Are there any newer, more performant options available for running Docker containers on macOS with Apple Silicon since October 2024, and if so, what are they?",
+    "course": "data-engineering-zoomcamp",
+    "document": "47f7c8310a"
+  }
+]

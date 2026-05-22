@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is the `wget` command not recognized in my Windows notebook for downloading files?",
+    "course": "mlops-zoomcamp",
+    "document": "47c771de0d"
+  },
+  {
+    "question": "How can I use `wget` to download data or Python scripts within a Visual Studio notebook on Windows?",
+    "course": "mlops-zoomcamp",
+    "document": "47c771de0d"
+  },
+  {
+    "question": "What should I do if `pip` is not recognized when using a Python virtual environment in the provided notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "47c771de0d"
+  },
+  {
+    "question": "Is there a way to execute standard Python modules like `pip` or `wget` from within the notebook environment?",
+    "course": "mlops-zoomcamp",
+    "document": "47c771de0d"
+  },
+  {
+    "question": "What command should I use to ensure that tools such as `pip` and `wget` function correctly inside the Visual Studio Python notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "47c771de0d"
+  }
+]

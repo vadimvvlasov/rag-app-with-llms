@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Are all FastAPI and uv updates incorporated into the repository at once, or are they added as the course progresses?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f9c9e0b9eb"
+  },
+  {
+    "question": "Will older theory videos remain unchanged throughout the course, even if new implementation materials are released?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f9c9e0b9eb"
+  },
+  {
+    "question": "How can students access the most recent workshops and video updates for FastAPI and PyTorch as new versions are released?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f9c9e0b9eb"
+  },
+  {
+    "question": "If a significant update occurs during the course, will instructors notify us and replace or annotate the corresponding learning resources?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f9c9e0b9eb"
+  },
+  {
+    "question": "Is there a centralized location where I can check for any newly linked updated materials for FastAPI, uv, and PyTorch throughout the cohort?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f9c9e0b9eb"
+  }
+]

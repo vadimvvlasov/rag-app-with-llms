@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific versions of Flask and Werkzeug are causing the `TypeError: __init__() got an unexpected keyword argument 'unbound_message'` during a Docker run and Python gateway.py execution?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b062fc29e5"
+  },
+  {
+    "question": "How can I verify the currently installed versions of Flask and Werkzeug in my project to identify the compatibility issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b062fc29e5"
+  },
+  {
+    "question": "What command should I use to downgrade the Flask version to resolve the conflict with Werkzeug 2.2.2?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b062fc29e5"
+  },
+  {
+    "question": "After downgrading Flask, will any other dependencies or configurations need adjustment to ensure smooth operation of the Docker container and Python gateway script?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b062fc29e5"
+  },
+  {
+    "question": "Is there a more comprehensive guide or documentation available for handling similar version conflicts between Flask and its dependencies in Kubernetes environments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b062fc29e5"
+  }
+]

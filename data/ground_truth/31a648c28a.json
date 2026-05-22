@@ -1,0 +1,32 @@
+[
+  {
+    "question": ".",
+    "course": "mlops-zoomcamp",
+    "document": "31a648c28a"
+  },
+  {
+    "question": "What command should I use to downgrade the protobuf module version to resolve the mlflow error?",
+    "course": "mlops-zoomcamp",
+    "document": "31a648c28a"
+  },
+  {
+    "question": "After downgrading protobuf, what is the next step to successfully run the mlflow command in the terminal?",
+    "course": "mlops-zoomcamp",
+    "document": "31a648c28a"
+  },
+  {
+    "question": "Why does installing mlflow from a fresh environment with `requirements.txt` cause the protobuf compatibility issue?",
+    "course": "mlops-zoomcamp",
+    "document": "31a648c28a"
+  },
+  {
+    "question": "Which specific protobuf version (3.20.x or higher) must be installed to ensure smooth operation of mlflow without errors?",
+    "course": "mlops-zoomcamp",
+    "document": "31a648c28a"
+  },
+  {
+    "question": "How can I verify that the protobuf module has been successfully downgraded to the required version before running mlflow?",
+    "course": "mlops-zoomcamp",
+    "document": "31a648c28a"
+  }
+]

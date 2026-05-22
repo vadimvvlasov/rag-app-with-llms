@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the exact error message when using DATE() in a BigQuery query?",
+    "course": "data-engineering-zoomcamp",
+    "document": "49b5277d77"
+  },
+  {
+    "question": "How can I resolve a PARTITION BY expression error related to DATE() in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "49b5277d77"
+  },
+  {
+    "question": "What function should I use to convert timestamp columns before applying DATE() in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "49b5277d77"
+  },
+  {
+    "question": "Can you provide an example of converting a column to datetime format in Python for BigQuery compatibility?",
+    "course": "data-engineering-zoomcamp",
+    "document": "49b5277d77"
+  },
+  {
+    "question": "What are the valid expressions allowed for the PARTITION BY clause when using DATE() in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "49b5277d77"
+  }
+]

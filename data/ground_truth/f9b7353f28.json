@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How does columnar storage in BigQuery affect the data scanned during a query?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f9b7353f28"
+  },
+  {
+    "question": "What impact does selecting fewer columns have on the cost of a BigQuery query?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f9b7353f28"
+  },
+  {
+    "question": "Why is it beneficial to specify only necessary columns when querying in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f9b7353f28"
+  },
+  {
+    "question": "In what way does BigQuery's storage format contribute to reducing query execution time and expense?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f9b7353f28"
+  },
+  {
+    "question": "How can minimizing the number of selected columns optimize resource usage in data queries?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f9b7353f28"
+  }
+]

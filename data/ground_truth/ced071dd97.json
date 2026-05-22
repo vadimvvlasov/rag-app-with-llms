@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did my Docker build fail with an error on the COPY instruction referencing Pipfile and Pipfile.lock?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ced071dd97"
+  },
+  {
+    "question": "What is the correct syntax for specifying multiple files in a COPY command within a Dockerfile?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ced071dd97"
+  },
+  {
+    "question": "How can I resolve the issue when using single quotes instead of double quotes around filenames in a Dockerfile?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ced071dd97"
+  },
+  {
+    "question": "What steps should I take to ensure successful copying of Pipfile, Pipfile.lock, q5_predict.py, model1.bin, and dv.bin during a Docker build?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ced071dd97"
+  },
+  {
+    "question": "In Module 5 of the machine-learning-zoomcamp course, what specific change is required to fix the COPY [Pipfile, Pipfile.lock] error in the provided Dockerfile example?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ced071dd97"
+  }
+]

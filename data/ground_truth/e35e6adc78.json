@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How does OneHotEncoder convert categorical data into numerical format compared to DictVectorizer?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e35e6adc78"
+  },
+  {
+    "question": "What type of input does OneHotEncoder accept versus DictVectorizer for transforming categorical features?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e35e6adc78"
+  },
+  {
+    "question": "In terms of output, do both OneHotEncoder and DictVectorizer yield the same encoded feature set, or are there differences in ordering?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e35e6adc78"
+  },
+  {
+    "question": "If I prefer a specific order of features in the encoded output, which tool should I choose between OneHotEncoder and DictVectorizer?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e35e6adc78"
+  },
+  {
+    "question": "What is the primary distinction between using an array input for OneHotEncoder and a dictionary input for DictVectorizer?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e35e6adc78"
+  }
+]

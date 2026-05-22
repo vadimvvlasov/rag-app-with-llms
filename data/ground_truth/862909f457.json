@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When should I prefer using FeatureHasher over DictVectorizer for categorical features?",
+    "course": "machine-learning-zoomcamp",
+    "document": "862909f457"
+  },
+  {
+    "question": "What memory considerations influence the choice between FeatureHasher and DictVectorizer?",
+    "course": "machine-learning-zoomcamp",
+    "document": "862909f457"
+  },
+  {
+    "question": "How does the cardinality of categorical features affect the decision to use FeatureHasher or DictVectorizer?",
+    "course": "machine-learning-zoomcamp",
+    "document": "862909f457"
+  },
+  {
+    "question": "If maintaining feature names is important and the dataset has a limited number of unique values, which transformer should I select?",
+    "course": "machine-learning-zoomcamp",
+    "document": "862909f457"
+  },
+  {
+    "question": "Where can I find additional guidance on comparing FeatureHasher and DictVectorizer for text classification tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "862909f457"
+  }
+]

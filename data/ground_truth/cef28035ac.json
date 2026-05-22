@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What configuration option should be set to disable automatic offset committing in a Kafka consumer?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cef28035ac"
+  },
+  {
+    "question": "Can you describe the sequence of steps required to manually commit offsets after processing each message in a Kafka consumer?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cef28035ac"
+  },
+  {
+    "question": "Why is manual offset management beneficial for ensuring reliable message processing in Kafka?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cef28035ac"
+  },
+  {
+    "question": "In case an exception occurs during message processing, what happens to the corresponding message offset and how does this affect subsequent processing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cef28035ac"
+  },
+  {
+    "question": "How can one ensure that a message is only committed as an offset once its business logic has been successfully executed without errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cef28035ac"
+  }
+]

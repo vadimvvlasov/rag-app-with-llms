@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the specific error occurring in the `accepted_values_stg_green_tripdata_Payment_type__False___var_payment_type_values_` test located in `models/staging/schema.yml`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8bfd724e4f"
+  },
+  {
+    "question": "Which macro in the `tests/generic/builtin.sql` file is responsible for triggering this error during testing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8bfd724e4f"
+  },
+  {
+    "question": "What variable must be added to the `dbt_project.yml` configuration file to resolve the 'NoneType' object is not iterable' compilation error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8bfd724e4f"
+  },
+  {
+    "question": "Could you provide the exact value list that should be assigned to the `payment_type_values` variable in the `dbt_project.yml` file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8bfd724e4f"
+  },
+  {
+    "question": "In which module of the 'data-engineering-zoomcamp' course is this issue addressed?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8bfd724e4f"
+  }
+]

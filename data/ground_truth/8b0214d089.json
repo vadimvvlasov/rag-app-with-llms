@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do shell scripts (*.sh) cause problems for Windows users outside of WSL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8b0214d089"
+  },
+  {
+    "question": "What issues might arise if I try to run the *.sh scripts using Git Bash or MINGW64 on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8b0214d089"
+  },
+  {
+    "question": "Is it necessary to set up a Windows Subsystem for Linux (WSL) environment before starting the course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8b0214d089"
+  },
+  {
+    "question": "Can I complete the data-engineering-zoomcamp course without installing WSL, or will I encounter significant obstacles?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8b0214d089"
+  },
+  {
+    "question": "What alternative environments could I use besides Git Bash and MINGW64 to successfully run the shell scripts provided in the course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8b0214d089"
+  }
+]

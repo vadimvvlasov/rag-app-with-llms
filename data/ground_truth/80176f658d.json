@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of annotating a graph in Matplotlib?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80176f658d"
+  },
+  {
+    "question": "Which method should I use to annotate specific coordinates on a plot with text and an arrow?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80176f658d"
+  },
+  {
+    "question": "How can I specify the position of the annotation text relative to the target point on the plot?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80176f658d"
+  },
+  {
+    "question": "What parameters are required when using `plt.annotate()` to label a point with its optimal threshold and F1 score?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80176f658d"
+  },
+  {
+    "question": "Can you provide an example of how to annotate a graph at the coordinates corresponding to the optimal threshold and maximum F1 score?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80176f658d"
+  }
+]

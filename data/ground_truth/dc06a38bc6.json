@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the first step to set up Git and GitHub for this course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dc06a38bc6"
+  },
+  {
+    "question": "How can I clone the course repository onto my local machine?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dc06a38bc6"
+  },
+  {
+    "question": "Where can I find a tutorial on creating my own repositories for my notes?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dc06a38bc6"
+  },
+  {
+    "question": "What should I include in a `.gitignore` file to avoid storing sensitive information?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dc06a38bc6"
+  },
+  {
+    "question": "Are there any specific files or extensions that I should always ignore when using Git?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dc06a38bc6"
+  }
+]

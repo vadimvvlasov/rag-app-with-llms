@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I create a function to prepare dataframes more efficiently in Module 2 of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1712cc9d5"
+  },
+  {
+    "question": "What is the benefit of defining a `prepare_df` function with parameters like `initial_df`, `seed`, and `fill_na_type` for regression tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1712cc9d5"
+  },
+  {
+    "question": "In the 'Machine Learning for Regression' section, how can I apply the `fillna()` operation before splitting an initial dataframe using the prepared function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1712cc9d5"
+  },
+  {
+    "question": "Which functions from the class notebook can be reused to streamline the training process in linear regression models within this module?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1712cc9d5"
+  },
+  {
+    "question": "What steps should I follow to implement a reusable `rmse()` and `train_linear_regression(X, y, r)` functions as suggested in Module 2 of the machine-learning-zoomcamp curriculum?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1712cc9d5"
+  }
+]

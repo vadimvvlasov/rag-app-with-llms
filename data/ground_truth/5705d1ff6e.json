@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the minimum Python version required to run the course materials without compatibility issues?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5705d1ff6e"
+  },
+  {
+    "question": "If I use a Python version older than 3.10, will I still be able to access all the course resources and complete assignments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5705d1ff6e"
+  },
+  {
+    "question": "Where can I find information on which Python versions are currently receiving security updates for my installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5705d1ff6e"
+  },
+  {
+    "question": "How can I verify whether my installed Python version is supported for the duration of the course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5705d1ff6e"
+  },
+  {
+    "question": "Besides performance improvements, what other benefits does using a newer Python version (e.g., 3.11 or above) provide for this machine learning course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5705d1ff6e"
+  }
+]

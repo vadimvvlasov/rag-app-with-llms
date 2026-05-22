@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why are my test methods not displaying triangle icons next to them in VS Code while working on a Java Kafka project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d039adfb76"
+  },
+  {
+    "question": "What steps should I follow in VS Code to ensure that test methods for a Java Kafka application are recognized and shown with the expected triangle icons?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d039adfb76"
+  },
+  {
+    "question": "If I don't see the expected triangle icons indicating tests in my Java files within VS Code, what is the recommended procedure to resolve this issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d039adfb76"
+  },
+  {
+    "question": "How can I clean the workspace in VS Code to restore the visibility of triangle icons next to test methods for a Java project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d039adfb76"
+  },
+  {
+    "question": "What specific action should be taken after opening the options next to 'JAVA PROJECTS' in the Explorer to confirm and apply changes that make test methods appear correctly in a Java Kafka environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d039adfb76"
+  }
+]

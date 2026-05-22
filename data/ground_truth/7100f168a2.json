@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I receive a 'Permission denied' error while configuring the server in GitHub Codespaces during Module 3 of the MLOps ZoomCamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "7100f168a2"
+  },
+  {
+    "question": "Where can I find guidance for resolving permission issues when executing shell scripts in the context of setting up an environment in GitHub Codespaces as part of the MLOps ZoomCamp curriculum?",
+    "course": "mlops-zoomcamp",
+    "document": "7100f168a2"
+  },
+  {
+    "question": "How can I troubleshoot a 'permission denied' problem that arises while running setup scripts for the orchestration module within the MLOps ZoomCamp learning path?",
+    "course": "mlops-zoomcamp",
+    "document": "7100f168a2"
+  },
+  {
+    "question": "What is the recommended solution to address permission-related errors encountered during the server initialization process in GitHub Codespaces, specifically for Module 3 of the MLOps ZoomCamp program?",
+    "course": "mlops-zoomcamp",
+    "document": "7100f168a2"
+  },
+  {
+    "question": "Could you provide the link to a resource that explains how to handle permission denied messages when trying to execute scripts in GitHub Codespaces as outlined in the MLOps ZoomCamp module on orchestration?",
+    "course": "mlops-zoomcamp",
+    "document": "7100f168a2"
+  }
+]

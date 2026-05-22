@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the MLflow autolog warning related to Setuptools replacing Distutils?",
+    "course": "mlops-zoomcamp",
+    "document": "4cff59a281"
+  },
+  {
+    "question": "What specific version of setuptools should I downgrade to in order to fix the warning during MLflow autologging?",
+    "course": "mlops-zoomcamp",
+    "document": "4cff59a281"
+  },
+  {
+    "question": "In the context of Module 2 on Experiment Tracking for the MLOps ZoomCamp course, what action is recommended when encountering the Setuptools Replacing Distutils issue with MLflow autolog?",
+    "course": "mlops-zoomcamp",
+    "document": "4cff59a281"
+  },
+  {
+    "question": "What exact steps are provided to address the warning message that appears while using MLflow's autolog feature in the listed module and course?",
+    "course": "mlops-zoomcamp",
+    "document": "4cff59a281"
+  },
+  {
+    "question": "Which version of setuptools was originally causing the compatibility problem with MLflow's autolog, and which lower version resolves it according to the FAQ record?",
+    "course": "mlops-zoomcamp",
+    "document": "4cff59a281"
+  }
+]

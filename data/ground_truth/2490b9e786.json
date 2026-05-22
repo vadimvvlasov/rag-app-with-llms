@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'Python 3.11 was not found on your system' warning when running a Docker file in Windows instead of WSL/Linux?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2490b9e786"
+  },
+  {
+    "question": "What steps are required to ensure that Python 3.11 is recognized by Pipenv or asdf when executing the Docker file on a Windows environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2490b9e786"
+  },
+  {
+    "question": "After adding the Python 3.11 installation folder to the PATH and restarting my system, why did I still encounter issues while rerunning the Docker file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2490b9e786"
+  },
+  {
+    "question": "Is there an alternative method to specify Python versions without relying on Pipenv or asdf if they are not detected by the Docker file execution process?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2490b9e786"
+  },
+  {
+    "question": "What potential pitfalls should I be aware of when attempting to maintain reproducibility across different operating systems, such as Windows and WSL/Linux, for machine learning projects?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2490b9e786"
+  }
+]

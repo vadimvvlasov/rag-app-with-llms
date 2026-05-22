@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I configure a Docker container to run both Flask with Gunicorn and an MLFlow server simultaneously?",
+    "course": "mlops-zoomcamp",
+    "document": "9ee43d55d0"
+  },
+  {
+    "question": "What is the correct way to define multiple services (Flask + Gunicorn, MLFlow) in a single Dockerfile?",
+    "course": "mlops-zoomcamp",
+    "document": "9ee43d55d0"
+  },
+  {
+    "question": "Can you provide example shell script commands for starting each of the services inside the container?",
+    "course": "mlops-zoomcamp",
+    "document": "9ee43d55d0"
+  },
+  {
+    "question": "How should I set up a wrapper script to ensure both service processes are started and managed correctly?",
+    "course": "mlops-zoomcamp",
+    "document": "9ee43d55d0"
+  },
+  {
+    "question": "Which Dockerfile command should be used at the end to execute the wrapper script, and which ports must be exposed?",
+    "course": "mlops-zoomcamp",
+    "document": "9ee43d55d0"
+  }
+]

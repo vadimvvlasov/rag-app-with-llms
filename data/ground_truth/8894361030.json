@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message `<2855951x515 sparse matrix of type '<class 'numpy.float64'>' with 0 stored elements in Compressed Sparse Row format>` indicate?",
+    "course": "mlops-zoomcamp",
+    "document": "8894361030"
+  },
+  {
+    "question": "Why might a dictionary vectorizer or categorical feature transformation fail, resulting in a sparse matrix with zero elements?",
+    "course": "mlops-zoomcamp",
+    "document": "8894361030"
+  },
+  {
+    "question": "How can I convert floating-point numerical data into categorical data suitable for vectorization to avoid the aforementioned error?",
+    "course": "mlops-zoomcamp",
+    "document": "8894361030"
+  },
+  {
+    "question": "What specific steps should I take to ensure my dataframe columns intended for vectorization are properly formatted as integers before applying transformations?",
+    "course": "mlops-zoomcamp",
+    "document": "8894361030"
+  },
+  {
+    "question": "If I encounter the issue described, which code snippet provided in the FAQ record will effectively resolve it by converting relevant dataframe columns?",
+    "course": "mlops-zoomcamp",
+    "document": "8894361030"
+  }
+]

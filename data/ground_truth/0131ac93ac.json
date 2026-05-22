@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What precautions should I take when using BigQuery to avoid unexpected charges?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0131ac93ac"
+  },
+  {
+    "question": "How did the creator of this FAQ experience a significant bill from BigQuery, and what was its amount?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0131ac93ac"
+  },
+  {
+    "question": "What is the recommended action to prevent billing issues after creating datasets in BigQuery during a free trial?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0131ac93ac"
+  },
+  {
+    "question": "Why is it important to monitor billing activity daily when using cloud services like GCP?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0131ac93ac"
+  },
+  {
+    "question": "What specific steps should be followed post-creation of a dataset in BigQuery to avoid additional costs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0131ac93ac"
+  }
+]

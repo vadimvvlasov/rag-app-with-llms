@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is Spark included in the curriculum of the Machine Learning ZoomCamp?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2453bf4760"
+  },
+  {
+    "question": "Does the course provide training on big-data technologies such as Spark?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2453bf4760"
+  },
+  {
+    "question": "What specific big-data tooling, if any, is addressed in this machine learning program?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2453bf4760"
+  },
+  {
+    "question": "Are there modules dedicated to deploying machine learning models using tools like Kubernetes or TensorFlow Serving?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2453bf4760"
+  },
+  {
+    "question": "Will students learn about serverless deployment options for ML models within this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2453bf4760"
+  }
+]

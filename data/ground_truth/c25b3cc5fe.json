@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'Descriptors cannot not be created directly' error when running `gateway.py` in a virtual environment set up with pipenv?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c25b3cc5fe"
+  },
+  {
+    "question": "What is the recommended version of the protobuf package to use if I encounter compatibility issues with newer releases when trying to run TensorFlow Serving-related scripts?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c25b3cc5fe"
+  },
+  {
+    "question": "Is there an environment variable that can be set to bypass the protobuf version mismatch without regenerating my protocol buffer files, and what is its name?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c25b3cc5fe"
+  },
+  {
+    "question": "Which command should I execute within a pipenv-managed virtual environment to ensure backward compatibility with older protobuf versions while installing TensorFlow and related dependencies?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c25b3cc5fe"
+  },
+  {
+    "question": "Where can I find additional details or official documentation regarding the changes in Google's Protocol Buffers for Python that led to this versioning issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c25b3cc5fe"
+  }
+]

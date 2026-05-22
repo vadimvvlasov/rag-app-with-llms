@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary reason the course opts for Google Cloud Platform (GCP) instead of Amazon Web Services (AWS) or Azure?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a8219681ec"
+  },
+  {
+    "question": "Does using BigQuery in the course limit options for other cloud providers, and are there any workarounds for students who prefer AWS or Azure?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a8219681ec"
+  },
+  {
+    "question": "Are most participants expected to have existing GCP accounts that facilitate easy access to course materials?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a8219681ec"
+  },
+  {
+    "question": "How do the foundational concepts taught (such as data warehousing and infrastructure-as-code) apply if we decide to use a different cloud provider like AWS or Azure?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a8219681ec"
+  },
+  {
+    "question": "Where can students find detailed information about the trade-offs if they choose to implement their project using AWS, Snowflake, or Azure?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a8219681ec"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if my calculated answer for a homework problem doesn't correspond to any of the provided choices?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ab183bd688"
+  },
+  {
+    "question": "Could applying an incorrect filter or selecting the wrong column segment lead to a mismatch with the given options in my machine learning assignment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ab183bd688"
+  },
+  {
+    "question": "Is it possible that omitting or unnecessarily using a logarithmic transformation could cause my homework response to diverge from the listed alternatives?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ab183bd688"
+  },
+  {
+    "question": "Why might rounding intermediate results prematurely affect the alignment of my answer with the available options in the course homework?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ab183bd688"
+  },
+  {
+    "question": "How can discrepancies in software versions such as those for scikit-learn, NumPy, or Python potentially result in a homework answer that doesn't fit any option?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ab183bd688"
+  }
+]

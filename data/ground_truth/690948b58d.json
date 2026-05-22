@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I register the best model in Mlflow after the `list_experiments` method was deprecated?",
+    "course": "mlops-zoomcamp",
+    "document": "690948b58d"
+  },
+  {
+    "question": "What is the correct syntax to register a model using an MLflow client when `list_experiments` is no longer available?",
+    "course": "mlops-zoomcamp",
+    "document": "690948b58d"
+  },
+  {
+    "question": "Where can I find updated documentation for registering models with MLflow post deprecation of `list_experiments`?",
+    "course": "mlops-zoomcamp",
+    "document": "690948b58d"
+  },
+  {
+    "question": "Which function should I use instead of `list_experiments` to manage experiments in MLflow version 1.29 and later?",
+    "course": "mlops-zoomcamp",
+    "document": "690948b58d"
+  },
+  {
+    "question": "What changes were made to the MLflow API that affect how I list and register experiments in recent versions?",
+    "course": "mlops-zoomcamp",
+    "document": "690948b58d"
+  }
+]

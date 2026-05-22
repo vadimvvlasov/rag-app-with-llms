@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What naming convention does DLT apply to column names in a database table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9950018686"
+  },
+  {
+    "question": "How can I find the actual normalized column names when they have been converted by DLT?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9950018686"
+  },
+  {
+    "question": "What error might occur if I try to query a column using its original mixed-case name after DLT normalization?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9950018686"
+  },
+  {
+    "question": "Is it possible to reference non-normalized column names directly without altering them, and if so, how?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9950018686"
+  },
+  {
+    "question": "Which SQL command can be used to inspect the schema and verify the exact normalized column names in the `taxi_data` database?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9950018686"
+  }
+]

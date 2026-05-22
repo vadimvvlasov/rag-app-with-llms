@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What type of error do I encounter if `feature_names` is set to a numpy array when creating an `xgb.DMatrix`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "23f66acd0a"
+  },
+  {
+    "question": "Why does using `list(dv.get_feature_names_out())` cause a ValueError in `xgb.DMatrix`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "23f66acd0a"
+  },
+  {
+    "question": "How can I clean feature names that contain symbols like `[`, `]`, or `<` to use them with XGBoost?",
+    "course": "machine-learning-zoomcamp",
+    "document": "23f66acd0a"
+  },
+  {
+    "question": "Is it possible to avoid specifying `feature_names=` when constructing an `xgb.DMatrix` without losing important information?",
+    "course": "machine-learning-zoomcamp",
+    "document": "23f66acd0a"
+  },
+  {
+    "question": "What regex pattern should I apply to remove incompatible symbols from feature names for compatibility with XGBoost?",
+    "course": "machine-learning-zoomcamp",
+    "document": "23f66acd0a"
+  }
+]

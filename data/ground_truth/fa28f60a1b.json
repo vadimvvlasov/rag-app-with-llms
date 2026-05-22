@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I encounter a `NameError` stating 'np is not defined' while trying to use NumPy functions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fa28f60a1b"
+  },
+  {
+    "question": "How can I resolve the issue where Python reports that 'np' is an undefined name when importing and using NumPy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fa28f60a1b"
+  },
+  {
+    "question": "In the context of Module 1 on Machine Learning, what is the correct way to import NumPy or pandas to avoid a 'name 'np'' is not defined' error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fa28f60a1b"
+  },
+  {
+    "question": "Why does my code raise a `NameError` for 'np', and how can I prevent this from happening in the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fa28f60a1b"
+  },
+  {
+    "question": "What step must be taken before using NumPy arrays in a Python script to ensure that the library is properly recognized and avoid errors like 'name 'np' is not defined'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fa28f60a1b"
+  }
+]

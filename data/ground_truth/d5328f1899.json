@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the exact sequence of steps to integrate the Bruin MCP server with VS Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d5328f1899"
+  },
+  {
+    "question": "When selecting how to add the server, what distinguishes the 'Globally' option from the 'Remotely/Workspace' option?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d5328f1899"
+  },
+  {
+    "question": "After entering the command `bruin mcp`, what name should I assign to the newly added server in VS Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d5328f1899"
+  },
+  {
+    "question": "How can I verify that the Bruin MCP server has been successfully added and is recognized by VS Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d5328f1899"
+  },
+  {
+    "question": "In Module 5: Data Platforms (Bruin) of the data-engineering-zoomcamp course, which command palette action initiates the addition of the Bruin MCP server?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d5328f1899"
+  }
+]

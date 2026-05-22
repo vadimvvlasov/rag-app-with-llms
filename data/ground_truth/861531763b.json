@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I compute accuracy, precision, recall, F1-score, and ROC AUC for a classification model using scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "861531763b"
+  },
+  {
+    "question": "What are the advantages of using scikit-learn's built-in evaluation metrics over manual calculations with numpy and pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "861531763b"
+  },
+  {
+    "question": "Can you provide an example code snippet to evaluate a trained model on validation data using scikit-learn's metric functions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "861531763b"
+  },
+  {
+    "question": "Which specific functions from scikit-learn should I import to calculate common classification evaluation metrics?",
+    "course": "machine-learning-zoomcamp",
+    "document": "861531763b"
+  },
+  {
+    "question": "In the context of module 4 on evaluation metrics for classification, how do accuracy, precision, recall, F1-score, and ROC AUC differ in measuring model performance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "861531763b"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do I get a '[Errno 13] Permission denied' error when executing AWS CLI commands as the `ubuntu` user?",
+    "course": "mlops-zoomcamp",
+    "document": "b396205ad7"
+  },
+  {
+    "question": "What is the reason for encountering permission issues with the `.aws/credentials` file after installing AWS CLI v2 on Linux?",
+    "course": "mlops-zoomcamp",
+    "document": "b396205ad7"
+  },
+  {
+    "question": "How can I create the necessary `credentials` and `config` files in the `.aws` directory to resolve permission errors when running AWS commands?",
+    "course": "mlops-zoomcamp",
+    "document": "b396205ad7"
+  },
+  {
+    "question": "What steps should I follow to modify file permissions for the `.aws` folder so that the `ubuntu` user can read and write the `credentials` and `config` files?",
+    "course": "mlops-zoomcamp",
+    "document": "b396205ad7"
+  },
+  {
+    "question": "After setting up the AWS CLI, how do I ensure that my access key and secret are correctly saved in the `credentials` file to avoid permission denied errors?",
+    "course": "mlops-zoomcamp",
+    "document": "b396205ad7"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I install and upgrade nbconvert to resolve the 'Failed to spawn' error when using uv with Jupyter notebooks?",
+    "course": "data-engineering-zoomcamp",
+    "document": "35d7874a8d"
+  },
+  {
+    "question": "What command should I use to add nbconvert support specifically for uv in a Jupyter notebook workflow, and how do I execute nbconvert from within uv?",
+    "course": "data-engineering-zoomcamp",
+    "document": "35d7874a8d"
+  },
+  {
+    "question": "If I encounter persistent issues with the 'Failed to spawn: `nbconvert`' error after installing nbconvert, what alternative steps can I take to convert my notebook to a Python script using uv?",
+    "course": "data-engineering-zoomcamp",
+    "document": "35d7874a8d"
+  },
+  {
+    "question": "What is the exact command to directly convert a Jupyter Notebook file (e.g., notebook.ipynb) to a Python script using nbconvert without integrating with uv?",
+    "course": "data-engineering-zoomcamp",
+    "document": "35d7874a8d"
+  },
+  {
+    "question": "In the context of the data-engineering-zoomcamp course, where can I find additional troubleshooting steps for converting notebooks that involve uv integration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "35d7874a8d"
+  }
+]

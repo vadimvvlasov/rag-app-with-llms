@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What package is required to access Google Cloud Storage (GCS) files directly in pandas?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e3ce42af1a"
+  },
+  {
+    "question": "Could you provide the command syntax for reading a CSV file from GCS using pandas?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e3ce42af1a"
+  },
+  {
+    "question": "Are there any prerequisites or installation steps before I can read data from GCS with pandas?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e3ce42af1a"
+  },
+  {
+    "question": "Does the `gcsfs` library need to be installed separately, and if so, how is it installed?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e3ce42af1a"
+  },
+  {
+    "question": "Can you explain the exact URI path format that should be used when reading a file from GCS in pandas?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e3ce42af1a"
+  }
+]

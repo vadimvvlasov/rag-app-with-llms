@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error code 412 from Terraform indicate when dealing with Google Cloud Storage buckets?",
+    "course": "data-engineering-zoomcamp",
+    "document": "64d0d03a6f"
+  },
+  {
+    "question": "Why is Uniform Bucket-Level Access (UBLA) required for a Google Cloud Storage bucket in this context?",
+    "course": "data-engineering-zoomcamp",
+    "document": "64d0d03a6f"
+  },
+  {
+    "question": "How can I enable Uniform Bucket-Level Access for a specific Google Cloud Storage bucket using Terraform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "64d0d03a6f"
+  },
+  {
+    "question": "What changes should be made to the `google_storage_bucket` resource block in my Terraform configuration to resolve the 412 error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "64d0d03a6f"
+  },
+  {
+    "question": "After enabling UBLA, what steps should I follow to ensure that the Terraform apply process completes successfully without the constraint violation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "64d0d03a6f"
+  }
+]

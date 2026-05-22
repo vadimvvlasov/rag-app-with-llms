@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I save a Docker image to my local machine in tar format?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5d9aed1fd0"
+  },
+  {
+    "question": "What is the command syntax for exporting a Docker image using `docker image save`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5d9aed1fd0"
+  },
+  {
+    "question": "After saving a Docker image to a tar file, how do I view its individual layers and filesystem contents?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5d9aed1fd0"
+  },
+  {
+    "question": "In which module of the Machine Learning Zoomcamp course does this procedure belong?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5d9aed1fd0"
+  },
+  {
+    "question": "What specific CLI argument is used to specify the output filename when exporting a Docker image?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5d9aed1fd0"
+  }
+]

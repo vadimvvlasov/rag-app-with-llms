@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I determine the correct Terraform version to download for my Linux system according to the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d0f76f4669"
+  },
+  {
+    "question": "What is the URL where I can find all available Terraform releases, as mentioned in the FAQ record?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d0f76f4669"
+  },
+  {
+    "question": "Which file should I select from the Terraform release page for a standard x86_64 Linux machine?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d0f76f4669"
+  },
+  {
+    "question": "On ARM-based machines, such as a Raspberry Pi, what specific zip file should I choose to download Terraform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d0f76f4669"
+  },
+  {
+    "question": "After downloading and extracting the Terraform binary, where should I place it to ensure it is accessible via the command line?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d0f76f4669"
+  }
+]

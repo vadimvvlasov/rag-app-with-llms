@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the first step to enable downloading CSV data from Kaggle using a Jupyter Notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "85fa1b961a"
+  },
+  {
+    "question": "How should I place the `kaggle.json` file to ensure it works with my Jupyter environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "85fa1b961a"
+  },
+  {
+    "question": "Which command is used to set the appropriate permissions for the `kaggle.json` file in the terminal?",
+    "course": "machine-learning-zoomcamp",
+    "document": "85fa1b961a"
+  },
+  {
+    "question": "What Python code snippet sets the Kaggle configuration directory variable before downloading data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "85fa1b961a"
+  },
+  {
+    "question": "Which shell command downloads a specific dataset, such as 'bank-credit-scoring', from Kaggle via the API?",
+    "course": "machine-learning-zoomcamp",
+    "document": "85fa1b961a"
+  }
+]

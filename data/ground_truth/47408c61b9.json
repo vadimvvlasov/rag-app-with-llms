@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What causes the 'TypeError: Descriptors cannot not be created directly.' error when running `gateway.py`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "47408c61b9"
+  },
+  {
+    "question": "Which versions of `protoc` and `protobuf` are recommended to resolve this protobuf-related issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "47408c61b9"
+  },
+  {
+    "question": "How can I regenerate my .proto files to fix the outdated generated protobuf code?",
+    "course": "machine-learning-zoomcamp",
+    "document": "47408c61b9"
+  },
+  {
+    "question": "What command should I use to downgrade the `protobuf` package to version 3.20.1 if regeneration is not possible?",
+    "course": "machine-learning-zoomcamp",
+    "document": "47408c61b9"
+  },
+  {
+    "question": "If downgrading `protobuf` does not work, which environment variable setting can be used as an alternative solution?",
+    "course": "machine-learning-zoomcamp",
+    "document": "47408c61b9"
+  }
+]

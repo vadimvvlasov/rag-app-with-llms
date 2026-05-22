@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is ridge regression and how does it address multicollinearity in linear models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ef52b72189"
+  },
+  {
+    "question": "Can you explain the purpose of the 'sag' solver in Ridge regression and why it is efficient for large datasets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ef52b72189"
+  },
+  {
+    "question": "How does the alpha parameter influence the regularization strength in Ridge regression, and what happens when its value is increased?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ef52b72189"
+  },
+  {
+    "question": "In a Python implementation using scikit-learn, how would you specify the ridge regression model with the sag solver and set a random state for reproducibility?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ef52b72189"
+  },
+  {
+    "question": "What are the key differences between using the 'sag' solver versus other solvers like 'lbfgs' or 'svd' in Ridge regression?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ef52b72189"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What parameter in XGBoost allows us to retrieve training and validation metrics after each boosting round?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7ec4b76943"
+  },
+  {
+    "question": "How can we store the evaluation results obtained from XGBoost for easier visualization or further analysis?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7ec4b76943"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course do we learn about extracting AUC metrics from XGBoost's output?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7ec4b76943"
+  },
+  {
+    "question": "What is a simpler method to obtain training and validation AUC values during an XGBoost training session as demonstrated in the lesson?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7ec4b76943"
+  },
+  {
+    "question": "Can you describe how the `evals_result` parameter functions within XGBoost when tracking model performance across boosting iterations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7ec4b76943"
+  }
+]

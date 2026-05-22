@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I verify to prevent the loss from skyrocketing after applying data augmentation during model training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57e17a3e5f"
+  },
+  {
+    "question": "How can I ensure that my `ImageDataGenerator` maintains the correct settings when resuming a training session following augmentation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57e17a3e5f"
+  },
+  {
+    "question": "Why does my model's accuracy drop to about 0.5 after augmenting the dataset, resulting in performance comparable to random guessing?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57e17a3e5f"
+  },
+  {
+    "question": "What specific parameter in the `ImageDataGenerator` might be missing or incorrectly set if the loss exceeds 1000 during the first epoch post-augmentation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57e17a3e5f"
+  },
+  {
+    "question": "In the context of Module 8 on Neural Networks and Deep Learning for the machine-learning-zoomcamp course, what corrective action is recommended to address a sudden high loss and poor accuracy after data augmentation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57e17a3e5f"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving the 'NotSupportedError' when trying to run `eb local` with my current setup?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ba1e7ba64"
+  },
+  {
+    "question": "What specific changes need to be made in the `.elasticbeanstalk/config.yml` file to resolve the 'NotSupportedError' for the Docker platform?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ba1e7ba64"
+  },
+  {
+    "question": "How do I reinitialize my Elastic Beanstalk environment to correctly support the 'eb local' command?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ba1e7ba64"
+  },
+  {
+    "question": "What is the recommended alternative flag to use with `eb init` to ensure compatibility with `eb local run` in a 64bit Amazon Linux environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ba1e7ba64"
+  },
+  {
+    "question": "Where can I find additional troubleshooting steps for similar initialization errors encountered during the deployment of machine learning models in AWS Elastic Beanstalk?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5ba1e7ba64"
+  }
+]

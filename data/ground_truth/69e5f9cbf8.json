@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the exact command to start a FastAPI application named `your_script_fastapi_app.py` that contains an instance of `FastAPI` called `app`, ensuring it runs on port 9696 with reload enabled?",
+    "course": "machine-learning-zoomcamp",
+    "document": "69e5f9cbf8"
+  },
+  {
+    "question": "If I encounter a startup error when deploying my FastAPI app locally, what should I verify first regarding the script and module definitions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "69e5f9cbf8"
+  },
+  {
+    "question": "How can I troubleshoot if the specified port (e.g., 9696) is already in use by another application while trying to start the FastAPI server?",
+    "course": "machine-learning-zoomcamp",
+    "document": "69e5f9cbf8"
+  },
+  {
+    "question": "What does the `--host 0.0.0.0` flag accomplish when running an Uvicorn server for a FastAPI app, and why might it be necessary?",
+    "course": "machine-learning-zoomcamp",
+    "document": "69e5f9cbf8"
+  },
+  {
+    "question": "Apart from ensuring the correct module import syntax (`uvicorn your_script_fastapi_app:app`), what additional steps should I take to prevent common FastAPI startup errors during local deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "69e5f9cbf8"
+  }
+]

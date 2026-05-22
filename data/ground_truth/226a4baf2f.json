@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which framework replaces Flask for the deployment module in the 2025 edition?",
+    "course": "machine-learning-zoomcamp",
+    "document": "226a4baf2f"
+  },
+  {
+    "question": "What library is now used to teach neural networks, replacing the Keras theory videos?",
+    "course": "machine-learning-zoomcamp",
+    "document": "226a4baf2f"
+  },
+  {
+    "question": "Instead of TensorFlow Lite, which tool is employed for deep learning deployment on AWS Lambda?",
+    "course": "machine-learning-zoomcamp",
+    "document": "226a4baf2f"
+  },
+  {
+    "question": "Are there still any Keras-related video tutorials available alongside the new PyTorch implementation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "226a4baf2f"
+  },
+  {
+    "question": "What significant updates have been made to the course content for the 2025 edition?",
+    "course": "machine-learning-zoomcamp",
+    "document": "226a4baf2f"
+  }
+]

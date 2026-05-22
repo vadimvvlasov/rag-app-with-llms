@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the -i flag in `docker run -it` accomplish?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa905a3e7b"
+  },
+  {
+    "question": "What is the purpose of the -t flag when used with `docker run`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa905a3e7b"
+  },
+  {
+    "question": "How do the -i and -t flags interact when both are specified together in a Docker command?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa905a3e7b"
+  },
+  {
+    "question": "Can you provide an example demonstrating the use of `-i` to send input to a running container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa905a3e7b"
+  },
+  {
+    "question": "Why would one typically use both `-it` flags for interactive shell sessions in Docker?",
+    "course": "data-engineering-zoomcamp",
+    "document": "fa905a3e7b"
+  }
+]

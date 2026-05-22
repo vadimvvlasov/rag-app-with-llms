@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a 'Bad character (ASCII 0)' error when querying my dataset in GCS Bucket?",
+    "course": "data-engineering-zoomcamp",
+    "document": "33184c75bd"
+  },
+  {
+    "question": "How can I verify that the schema of my dataset is correctly defined to prevent query errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "33184c75bd"
+  },
+  {
+    "question": "What formatting issues might cause a 'Bad character (ASCII 0)' error during dataset queries?",
+    "course": "data-engineering-zoomcamp",
+    "document": "33184c75bd"
+  },
+  {
+    "question": "Should I upload CSV.GZ files directly to the GCS Bucket without using pandas for processing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "33184c75bd"
+  },
+  {
+    "question": "Is it recommended to use `wget` for downloading and uploading files to ensure proper format integrity?",
+    "course": "data-engineering-zoomcamp",
+    "document": "33184c75bd"
+  }
+]

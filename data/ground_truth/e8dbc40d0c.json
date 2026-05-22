@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the error message indicating when there is a mismatch in the number of features between `X` and the model expecting?",
+    "course": "mlops-zoomcamp",
+    "document": "e8dbc40d0c"
+  },
+  {
+    "question": "Why does the `DictVectorizer` create an initial mapping for the features, and how can this cause a dimensionality problem?",
+    "course": "mlops-zoomcamp",
+    "document": "e8dbc40d0c"
+  },
+  {
+    "question": "How should I transform a validation dataset to ensure that only the features already seen during training are used?",
+    "course": "mlops-zoomcamp",
+    "document": "e8dbc40d0c"
+  },
+  {
+    "question": "What is the difference between calling `fit_transform` and `transform` on a `DictVectorizer`, and why is it important for the test set?",
+    "course": "mlops-zoomcamp",
+    "document": "e8dbc40d0c"
+  },
+  {
+    "question": "If I encounter a `ValueError` stating that `X` has 526 features but my model expects 525, what steps should I take to resolve this issue?",
+    "course": "mlops-zoomcamp",
+    "document": "e8dbc40d0c"
+  }
+]

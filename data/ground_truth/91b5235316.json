@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if `pipenv install` fails with the error 'Failed to lock Pipfile.lock'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "91b5235316"
+  },
+  {
+    "question": "How can I resolve the issue when `pipenv install` reports 'Python X.Y was not found'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "91b5235316"
+  },
+  {
+    "question": "If a required Python version is missing, what are the steps to either install it or adjust the Pipfile?",
+    "course": "machine-learning-zoomcamp",
+    "document": "91b5235316"
+  },
+  {
+    "question": "What alternative methods can I use if the Pipfile.lock locking process is slow or hangs during installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "91b5235316"
+  },
+  {
+    "question": "In case of local resolution problems with Pipenv, which environment cleanup command should I execute before retrying `pipenv install`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "91b5235316"
+  }
+]

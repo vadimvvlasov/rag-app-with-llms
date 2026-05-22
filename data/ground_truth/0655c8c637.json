@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can you explain the main advantages of using `rest_api_source({...})` over `@dlt.resource` in dlt for standard APIs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0655c8c637"
+  },
+  {
+    "question": "In what scenarios would I need to choose `@dlt.resource` instead of `rest_api_source({...})` due to dynamic or inconsistent API responses?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0655c8c637"
+  },
+  {
+    "question": "How does the execution lifecycle differ between `rest_api_source({...})` and `@dlt.resource` when running a pipeline with `pipeline.run(...)`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0655c8c637"
+  },
+  {
+    "question": "What specific custom logic can be implemented using `@dlt.resource` that cannot be achieved with `rest_api_source({...})`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0655c8c637"
+  },
+  {
+    "question": "If I prioritize speed of setup and have a simple, consistent API, which source function should I prefer, and why?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0655c8c637"
+  }
+]

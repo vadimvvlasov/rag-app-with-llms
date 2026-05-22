@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What causes the `java.io.FileNotFoundException` when using `df.write.parquet(pq_path, mode=\"overwrite\")` in Apache Spark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ef01c39d63"
+  },
+  {
+    "question": "How does Spark's lazy evaluation affect the execution of a DataFrame write operation that overwrites existing Parquet files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ef01c39d63"
+  },
+  {
+    "question": "What is a recommended workaround to avoid deleting the intended Parquet files during an overwrite operation in Spark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ef01c39d63"
+  },
+  {
+    "question": "In the context of modular data engineering with PySpark, how can you ensure that a new set of Parquet files is written without inadvertently removing the original dataset?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ef01c39d63"
+  },
+  {
+    "question": "When encountering a `FileNotFoundException` while overwriting Parquet files in Spark, which parameter or approach should be modified to resolve the issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ef01c39d63"
+  }
+]

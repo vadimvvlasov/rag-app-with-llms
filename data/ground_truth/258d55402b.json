@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I execute to free up disk space when encountering the 'no disk space left' error during `docker compose up`?",
+    "course": "mlops-zoomcamp",
+    "document": "258d55402b"
+  },
+  {
+    "question": "How can I identify which Docker resources (containers, images, etc.) are occupying the most disk space before cleaning them up?",
+    "course": "mlops-zoomcamp",
+    "document": "258d55402b"
+  },
+  {
+    "question": "Is there a way to selectively remove only unused build cache and dangling images without affecting running containers?",
+    "course": "mlops-zoomcamp",
+    "document": "258d55402b"
+  },
+  {
+    "question": "What is the purpose of the `docker system prune` command in relation to resolving disk space issues?",
+    "course": "mlops-zoomcamp",
+    "document": "258d55402b"
+  },
+  {
+    "question": "After executing `docker system df`, which types of Docker objects can I inspect for potential disk usage inefficiencies?",
+    "course": "mlops-zoomcamp",
+    "document": "258d55402b"
+  }
+]

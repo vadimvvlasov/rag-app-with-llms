@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which countries are currently supported by Google Cloud Platform (GCP) for the Data Engineering ZoomCamp?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e834a2ff3e"
+  },
+  {
+    "question": "If my payment card is rejected when trying to sign up for GCP, what alternative virtual or bank cards have been successful for other students?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e834a2ff3e"
+  },
+  {
+    "question": "Are there any specific banks or types of cards that commonly work with GCP for enrolling in the course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e834a2ff3e"
+  },
+  {
+    "question": "What should I do if I am unable to create a GCP account due to country restrictions or card rejection, and I still want to complete most of the course modules?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e834a2ff3e"
+  },
+  {
+    "question": "Is it possible to finish Module 3's homework without access to BigQuery, given limitations with GCP availability?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e834a2ff3e"
+  }
+]

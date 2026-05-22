@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error 'Terraform: Error acquiring the state lock' indicate, and where can I find detailed information about it?",
+    "course": "data-engineering-zoomcamp",
+    "document": "feb57d99da"
+  },
+  {
+    "question": "In the context of the 'data-engineering-zoomcamp' course under Module 1: Terraform, which GitHub issue provides further details regarding the state lock error mentioned in the FAQ record?",
+    "course": "data-engineering-zoomcamp",
+    "document": "feb57d99da"
+  },
+  {
+    "question": "How can I resolve the 'Terraform: Error acquiring the state lock' when working with Terraform modules as covered in Module 1 of the 'data-engineering-zoomcamp' course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "feb57d99da"
+  },
+  {
+    "question": "Where should I look for troubleshooting steps related to the Terraform state lock error (ID: feb57d99da) within the course materials for Module 1?",
+    "course": "data-engineering-zoomcamp",
+    "document": "feb57d99da"
+  },
+  {
+    "question": "What specific GitHub URL is referenced in the FAQ record to address the Terraform state lock error encountered during Module 1 of the 'data-engineering-zoomcamp' course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "feb57d99da"
+  }
+]

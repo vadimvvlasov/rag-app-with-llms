@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I encounter the error 'dbt_utils not found' while working on a dbt project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "95b01285f5"
+  },
+  {
+    "question": "How can I specify the version of the `dbt-utils` package in my dbt configuration file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "95b01285f5"
+  },
+  {
+    "question": "What is the purpose of creating a `packages.yml` file in the main directory of a dbt project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "95b01285f5"
+  },
+  {
+    "question": "Which command do I need to execute after adding a package to the `packages.yml` file to resolve the missing package error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "95b01285f5"
+  },
+  {
+    "question": "In the context of resolving the 'dbt_utils not found' error, what version of the `dbt-utils` package is specified in the provided FAQ?",
+    "course": "data-engineering-zoomcamp",
+    "document": "95b01285f5"
+  }
+]

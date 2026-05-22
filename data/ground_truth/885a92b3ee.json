@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the exact syntax to replace `sns.distplot(df_train[\"duration\"])` with `sns.histplot` while maintaining a similar visual output?",
+    "course": "mlops-zoomcamp",
+    "document": "885a92b3ee"
+  },
+  {
+    "question": "Which parameters should be set in `sns.histplot` to replicate the kernel density estimate (KDE) shown by `sns.distplot`?",
+    "course": "mlops-zoomcamp",
+    "document": "885a92b3ee"
+  },
+  {
+    "question": "How can I adjust the number of bins and transparency (`alpha`) when using `sns.histplot` as a substitute for `sns.distplot`?",
+    "course": "mlops-zoomcamp",
+    "document": "885a92b3ee"
+  },
+  {
+    "question": "What keyword arguments (`kde_kws`, `stat`, etc.) are necessary in `sns.histplot` to achieve density scaling similar to `sns.distplot`?",
+    "course": "mlops-zoomcamp",
+    "document": "885a92b3ee"
+  },
+  {
+    "question": "In the provided example, what is the purpose of setting `edgecolor` and `cut` within the `kde_kws` dictionary when using `sns.histplot`?",
+    "course": "mlops-zoomcamp",
+    "document": "885a92b3ee"
+  }
+]

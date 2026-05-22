@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I handle a certificate verification error when using `wget` on macOS to download a file from a website?",
+    "course": "data-engineering-zoomcamp",
+    "document": "542abbcb6a"
+  },
+  {
+    "question": "What command should I use in a Jupyter Notebook to ensure the `wget` utility is recognized before downloading a resource?",
+    "course": "data-engineering-zoomcamp",
+    "document": "542abbcb6a"
+  },
+  {
+    "question": "If I encounter a certificate issue while downloading via `wget`, which flag can I append to bypass the verification?",
+    "course": "data-engineering-zoomcamp",
+    "document": "542abbcb6a"
+  },
+  {
+    "question": "Can you provide the exact syntax for invoking `python -m wget` to download a URL without encountering SSL certificate problems on macOS?",
+    "course": "data-engineering-zoomcamp",
+    "document": "542abbcb6a"
+  },
+  {
+    "question": "When running `wget` from the command line on a Mac, what alternative method allows me to proceed with the download despite a certificate error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "542abbcb6a"
+  }
+]

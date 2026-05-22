@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What causes a KeyError when attempting to drop features after they have been one-hot encoded?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1fe12ec81c"
+  },
+  {
+    "question": "How can I correctly remove columns that were created by one-hot encoding from my DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1fe12ec81c"
+  },
+  {
+    "question": "If I one-hot encode a categorical feature like 'marital', which new columns should I drop to avoid a KeyError?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1fe12ec81c"
+  },
+  {
+    "question": "What is the relationship between the original column name and the resulting one-hot encoded columns, and how does this affect dropping them?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1fe12ec81c"
+  },
+  {
+    "question": "After performing one-hot encoding on a dataset, what steps should I take to safely eliminate all redundant or unnecessary columns without triggering a KeyError?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1fe12ec81c"
+  }
+]

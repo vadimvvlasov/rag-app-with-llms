@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I configure a Spark Session to read data from multiple Kafka topics simultaneously?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ce77e05d24"
+  },
+  {
+    "question": "What is the correct sequence of operations to start streaming queries for multiple topics in a single Spark session?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ce77e05d24"
+  },
+  {
+    "question": "In the provided code, what does `spark.streams.resetTerminated()` accomplish when setting up multiple stream queries?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ce77e05d24"
+  },
+  {
+    "question": "If I have three separate stream queries (`query1`, `query2`, and `query3`), how should I initiate each of them within the same Spark session?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ce77e05d24"
+  },
+  {
+    "question": "What is the purpose of `spark.streams.awaitAnyTermination()` in managing asynchronous streaming operations from multiple topics?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ce77e05d24"
+  }
+]

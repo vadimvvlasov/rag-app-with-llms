@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I ensure Pipenv uses Python version 3.11 for my project?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a173b94288"
+  },
+  {
+    "question": "What command do I use with `uv` to install Python 3.11 specifically?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a173b94288"
+  },
+  {
+    "question": "After installing a particular Python version via `uv`, how do I set Pipenv to utilize that interpreter?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a173b94288"
+  },
+  {
+    "question": "Is there a way to directly specify the path of an installed Python 3.11 binary when initializing a Pipenv environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a173b94288"
+  },
+  {
+    "question": "What precautions should be taken when configuring Pipenv to avoid conflicts with other virtual environments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a173b94288"
+  }
+]

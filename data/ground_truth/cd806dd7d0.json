@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I launch Jupyter Notebooks within Visual Studio Code?",
+    "course": "mlops-zoomcamp",
+    "document": "cd806dd7d0"
+  },
+  {
+    "question": "What extension should I install to work with Jupyter notebooks in VSCode?",
+    "course": "mlops-zoomcamp",
+    "document": "cd806dd7d0"
+  },
+  {
+    "question": "Can you guide me through setting up Jupyter support inside Visual Studio Code for my machine learning projects?",
+    "course": "mlops-zoomcamp",
+    "document": "cd806dd7d0"
+  },
+  {
+    "question": "Is there a specific method recommended by the MLOps ZoomCamp course to open notebooks using VSCode?",
+    "course": "mlops-zoomcamp",
+    "document": "cd806dd7d0"
+  },
+  {
+    "question": "After installing an extension, what steps follow to successfully run a Jupyter notebook in VS Code per the module one instructions?",
+    "course": "mlops-zoomcamp",
+    "document": "cd806dd7d0"
+  }
+]

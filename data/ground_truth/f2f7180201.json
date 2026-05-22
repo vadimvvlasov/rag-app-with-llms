@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the `ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))` issue when deploying my Flask application using Docker?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f2f7180201"
+  },
+  {
+    "question": "What specific configuration changes are required in the Flask app and Dockerfile to ensure that the application is accessible via localhost after deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f2f7180201"
+  },
+  {
+    "question": "In Module 5 of the 'machine-learning-zoomcamp' course, what steps should I follow to correctly set up the host for seamless local access to my deployed machine learning model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f2f7180201"
+  },
+  {
+    "question": "What value must be assigned to the `host` parameter in both the Flask application configuration and the Dockerfile to eliminate connection errors during deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f2f7180201"
+  },
+  {
+    "question": "When deploying machine learning models as described in Module 5 of the 'machine-learning-zoomcamp' course, why is it necessary to use `0.0.0.0` for the host setting, and how does this affect accessing the service through localhost?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f2f7180201"
+  }
+]

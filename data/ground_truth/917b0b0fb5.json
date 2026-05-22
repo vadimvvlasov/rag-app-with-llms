@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the process to synchronize data from a PostgreSQL database to Google BigQuery for conducting analytical tasks?",
+    "course": "data-engineering-zoomcamp",
+    "document": "917b0b0fb5"
+  },
+  {
+    "question": "Can you provide a Python script example that demonstrates how to connect to PostgreSQL and load data into a BigQuery dataset?",
+    "course": "data-engineering-zoomcamp",
+    "document": "917b0b0fb5"
+  },
+  {
+    "question": "What are the necessary prerequisites to ensure successful data synchronization between PostgreSQL and BigQuery, such as service account credentials and dataset existence?",
+    "course": "data-engineering-zoomcamp",
+    "document": "917b0b0fb5"
+  },
+  {
+    "question": "Does the location setting (e.g., US or EU) in BigQuery need to match during the data ingestion process, and why is this important?",
+    "course": "data-engineering-zoomcamp",
+    "document": "917b0b0fb5"
+  },
+  {
+    "question": "How does this method of data syncing benefit users who wish to perform scalable analytics while keeping the data extraction process localized?",
+    "course": "data-engineering-zoomcamp",
+    "document": "917b0b0fb5"
+  }
+]

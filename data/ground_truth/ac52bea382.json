@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I ensure that my server configurations and query history in pgAdmin persist across container restarts?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ac52bea382"
+  },
+  {
+    "question": "What is the recommended method to store pgAdmin configuration data outside of the Docker container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ac52bea382"
+  },
+  {
+    "question": "If I decide to use a host-bind mount for storing pgAdmin data, what steps are required to correctly set file permissions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ac52bea382"
+  },
+  {
+    "question": "Will using a named volume instead of a host-bind mount solve permission issues on cloud VMs like those provided by GCP?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ac52bea382"
+  },
+  {
+    "question": "What environment variables must be set when running the dpage/pgadmin4 image to configure default user credentials?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ac52bea382"
+  }
+]

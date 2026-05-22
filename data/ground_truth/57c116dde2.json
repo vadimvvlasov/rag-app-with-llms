@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific older kindest/node image should I use to successfully create a Kind cluster in Module 10?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57c116dde2"
+  },
+  {
+    "question": "Why does the exercise guidance recommend using an older node image for creating the Kind cluster?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57c116dde2"
+  },
+  {
+    "question": "If I encounter issues while creating the Kind cluster, what steps should I take after ensuring Docker is running and network access is available?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57c116dde2"
+  },
+  {
+    "question": "How can I identify if the problem persists despite using the suggested older node image, and what alternative versions might be compatible with the module's environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57c116dde2"
+  },
+  {
+    "question": "Where can I find additional notes or recommendations regarding node image versions for troubleshooting Kind cluster creation in Module 10?",
+    "course": "machine-learning-zoomcamp",
+    "document": "57c116dde2"
+  }
+]

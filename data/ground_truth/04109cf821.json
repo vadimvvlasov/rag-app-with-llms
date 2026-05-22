@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I visualize a trained decision tree using Scikit-learn and Graphviz?",
+    "course": "machine-learning-zoomcamp",
+    "document": "04109cf821"
+  },
+  {
+    "question": "What specific function in Scikit-learn exports a decision tree to Graphviz format?",
+    "course": "machine-learning-zoomcamp",
+    "document": "04109cf821"
+  },
+  {
+    "question": "Can you provide an example code snippet for visualizing a decision tree with the `export_graphviz` method?",
+    "course": "machine-learning-zoomcamp",
+    "document": "04109cf821"
+  },
+  {
+    "question": "Is there another built-in Scikit-learn function besides `export_graphviz` that can plot a decision tree directly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "04109cf821"
+  },
+  {
+    "question": "Which parameters should I set in `tree.export_graphviz` to generate a filled and labeled decision tree diagram?",
+    "course": "machine-learning-zoomcamp",
+    "document": "04109cf821"
+  }
+]

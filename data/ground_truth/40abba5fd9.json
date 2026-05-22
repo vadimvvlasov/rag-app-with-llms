@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Homework 3, Week 3's 'test_train_split' question, should I set `random_state` to 42 for both the training and testing data splits?",
+    "course": "machine-learning-zoomcamp",
+    "document": "40abba5fd9"
+  },
+  {
+    "question": "Does the FAQ indicate whether using a specific random seed value is required for reproducibility in the dataset splitting process of Homework 3?",
+    "course": "machine-learning-zoomcamp",
+    "document": "40abba5fd9"
+  },
+  {
+    "question": "When performing the data split exercise in Homework 3, am I expected to maintain consistency by applying `random_state=42` across all instances where randomness is involved?",
+    "course": "machine-learning-zoomcamp",
+    "document": "40abba5fd9"
+  },
+  {
+    "question": "Is there guidance on the necessity of using a fixed random seed throughout the homework assignments, particularly for ensuring identical results when running the code multiple times?",
+    "course": "machine-learning-zoomcamp",
+    "document": "40abba5fd9"
+  },
+  {
+    "question": "For the splitting operation described in Homework 3's Week 3 assignment, does the FAQ specify that the `random_state` parameter must be uniformly set to 42 for guaranteeing repeatable outcomes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "40abba5fd9"
+  }
+]

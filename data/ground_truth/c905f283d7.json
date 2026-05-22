@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs if I omit the `target='duration_min'` when using the RegressionQualityMetric()?",
+    "course": "mlops-zoomcamp",
+    "document": "c905f283d7"
+  },
+  {
+    "question": "How should I modify my current_data to ensure compatibility with RegressionQualityMetric()?",
+    "course": "mlops-zoomcamp",
+    "document": "c905f283d7"
+  },
+  {
+    "question": "Why is it necessary to include a `target='duration_min'` for regression quality metrics in Module 5 of the MLOps ZoomCamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "c905f283d7"
+  },
+  {
+    "question": "What specific attribute must be added to `current_data` to avoid errors when applying RegressionQualityMetric() as per the monitoring section?",
+    "course": "mlops-zoomcamp",
+    "document": "c905f283d7"
+  },
+  {
+    "question": "In the context of Module 5 Monitoring of the MLOPs ZoomCamp, what is the purpose of requiring a `target='duration_min'` for regression quality metrics?",
+    "course": "mlops-zoomcamp",
+    "document": "c905f283d7"
+  }
+]

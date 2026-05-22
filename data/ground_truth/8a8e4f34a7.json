@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an error stating that the image size of 460x93139 pixels exceeds the maximum allowed dimension of 2^16?",
+    "course": "mlops-zoomcamp",
+    "document": "8a8e4f34a7"
+  },
+  {
+    "question": "What specific version of XGBoost is responsible for causing this issue with `mlflow.xgboost.autolog()`?",
+    "course": "mlops-zoomcamp",
+    "document": "8a8e4f34a7"
+  },
+  {
+    "question": "How can I downgrade the XGBoost library to resolve the problem mentioned in the error message?",
+    "course": "mlops-zoomcamp",
+    "document": "8a8e4f34a7"
+  },
+  {
+    "question": "What command should I execute in my terminal or command prompt to install XGBoost version 1.6.0?",
+    "course": "mlops-zoomcamp",
+    "document": "8a8e4f34a7"
+  },
+  {
+    "question": "If I choose not to manually specify the XGBoost version, how should I modify my requirements file to prevent this error?",
+    "course": "mlops-zoomcamp",
+    "document": "8a8e4f34a7"
+  }
+]

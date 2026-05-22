@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is TensorFlow 2.15 compatible with Python 3.11 for AWS deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "71a682959a"
+  },
+  {
+    "question": "What specific version of TensorFlow should I use if I encounter issues with TensorFlow 2.15 on AWS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "71a682959a"
+  },
+  {
+    "question": "Which Python versions are supported when installing TensorFlow 2.4.4?",
+    "course": "machine-learning-zoomcamp",
+    "document": "71a682959a"
+  },
+  {
+    "question": "Will installing an unsupported Python version cause problems when using TensorFlow 2.4.4?",
+    "course": "machine-learning-zoomcamp",
+    "document": "71a682959a"
+  },
+  {
+    "question": "In Module 9: Serverless Deep Learning of the machine-learning-zoomcamp course, what is the recommended TensorFlow version for AWS deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "71a682959a"
+  }
+]

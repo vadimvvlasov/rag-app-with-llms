@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the command `pipenv run waitress-serve --listen=localhost:9696 q4-predict:app` result in a 'Malformed application' error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "748ffe7992"
+  },
+  {
+    "question": "What specific issue causes Waitress to reject the Python file name containing a dash, such as `q4-predict.py`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "748ffe7992"
+  },
+  {
+    "question": "How should I modify the filename of my module to avoid encountering the ValueError when serving with Waitress?",
+    "course": "machine-learning-zoomcamp",
+    "document": "748ffe7992"
+  },
+  {
+    "question": "After renaming the file, what is the correct command to run the application without the 'Malformed application' error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "748ffe7992"
+  },
+  {
+    "question": "In the context of deploying machine learning models for Module 5, what naming convention should be followed for Python files to ensure compatibility with Waitress?",
+    "course": "machine-learning-zoomcamp",
+    "document": "748ffe7992"
+  }
+]

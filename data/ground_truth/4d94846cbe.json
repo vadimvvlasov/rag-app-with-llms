@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs when attempting to connect to 'localhost:9696/predict' without a protocol scheme?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4d94846cbe"
+  },
+  {
+    "question": "How should the URL be formatted to successfully establish a connection for making predictions in this module?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4d94846cbe"
+  },
+  {
+    "question": "Why does including the `http://` prefix resolve the issue with no connection adapters found?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4d94846cbe"
+  },
+  {
+    "question": "What case sensitivity rule applies to the protocol scheme when configuring the Requests library?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4d94846cbe"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course is the solution for connecting to a local prediction endpoint discussed?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4d94846cbe"
+  }
+]

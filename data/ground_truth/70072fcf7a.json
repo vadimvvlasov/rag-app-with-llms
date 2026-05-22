@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why should I avoid installing the `dbt-athena-adapter` package when working on a dbt-Athena project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "70072fcf7a"
+  },
+  {
+    "question": "How can I ensure that the `dbt-core` and `dbt-athena-community` packages are compatible with each other?",
+    "course": "data-engineering-zoomcamp",
+    "document": "70072fcf7a"
+  },
+  {
+    "question": "What is the recommended way to specify version constraints for `dbt-core` and `dbt-athena-community` in my project's `requirements.txt` file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "70072fcf7a"
+  },
+  {
+    "question": "Where can I find the compatibility matrix for checking which versions of `dbt-athena-community` work with specific versions of `dbt-core`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "70072fcf7a"
+  },
+  {
+    "question": "What steps should I take to prevent conflicts between `dbt-athena-adapter` and `dbt-athena-community` in my development environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "70072fcf7a"
+  }
+]

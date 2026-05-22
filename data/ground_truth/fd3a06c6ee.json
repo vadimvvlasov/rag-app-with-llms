@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an error stating 'no nodes found for cluster \"kind\"' when attempting to load a Docker image using the command `kind load docker-image`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fd3a06c6ee"
+  },
+  {
+    "question": "What flag should be used with the `kind` command to specify the name of the Kubernetes cluster when loading a Docker image?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fd3a06c6ee"
+  },
+  {
+    "question": "How can I resolve the issue where Kind fails to find nodes in the cluster while trying to load a specific Docker image named `zoomcamp-10-model:xception-v4-001`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fd3a06c6ee"
+  },
+  {
+    "question": "In the context of Module 10 on Kubernetes and TensorFlow Serving for the machine-learning-zoomcamp course, what is the correct syntax to load a Docker image into a Kind cluster with a custom cluster name?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fd3a06c6ee"
+  },
+  {
+    "question": "When using Kind to deploy a model, what additional argument must be included alongside `load docker-image` to ensure the command targets the intended cluster named `clothing-model`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fd3a06c6ee"
+  }
+]

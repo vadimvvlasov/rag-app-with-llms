@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How does the `source()` function in dbt differ from `ref()` when referencing tables?",
+    "course": "data-engineering-zoomcamp",
+    "document": "742e16e6bc"
+  },
+  {
+    "question": "What types of tables are typically referenced using the `source()` macro in a dbt project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "742e16e6bc"
+  },
+  {
+    "question": "Where are raw or external tables defined when using the `source()` function, and what file is involved?",
+    "course": "data-engineering-zoomcamp",
+    "document": "742e16e6bc"
+  },
+  {
+    "question": "What role does `ref()` play in managing dependencies and execution order among dbt models?",
+    "course": "data-engineering-zoomcamp",
+    "document": "742e16e6bc"
+  },
+  {
+    "question": "Can you provide an example of how to use both `source()` and `ref()` macros in a dbt SQL query?",
+    "course": "data-engineering-zoomcamp",
+    "document": "742e16e6bc"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an error stating 'Could not parse the dbt project' when running the Environment on the master branch?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ab8329fea"
+  },
+  {
+    "question": "What steps are required to resolve the issue of an invalid dbt project detection during environment setup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ab8329fea"
+  },
+  {
+    "question": "How can I ensure that my dbt project is recognized as valid when configuring the development environment for a specific branch?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ab8329fea"
+  },
+  {
+    "question": "What should I do if the system indicates that the repository lacks a valid dbt project configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ab8329fea"
+  },
+  {
+    "question": "When setting up the Environment, what checkbox must be activated and what branch name should be entered to prevent parsing errors with a dbt project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8ab8329fea"
+  }
+]

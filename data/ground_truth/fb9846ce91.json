@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does VS Code crash when I try to connect to a Jupyter notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "fb9846ce91"
+  },
+  {
+    "question": "What type of EC2 instance should I use to prevent crashes while running Jupyter in Visual Studio Code?",
+    "course": "mlops-zoomcamp",
+    "document": "fb9846ce91"
+  },
+  {
+    "question": "How can I monitor my EC2 instance's performance to ensure it meets the requirements for running Jupyter with VS Code?",
+    "course": "mlops-zoomcamp",
+    "document": "fb9846ce91"
+  },
+  {
+    "question": "What minimum compute capabilities are recommended for a stable connection between VS Code and Jupyter?",
+    "course": "mlops-zoomcamp",
+    "document": "fb9846ce91"
+  },
+  {
+    "question": "Where can I find information about adjusting my AWS EC2 settings to avoid crashes during Jupyter notebook sessions in Visual Studio Code?",
+    "course": "mlops-zoomcamp",
+    "document": "fb9846ce91"
+  }
+]

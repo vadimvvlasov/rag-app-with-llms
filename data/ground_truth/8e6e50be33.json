@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When using the AWS CLI with LocalStack to list S3 buckets, why do I receive a `<botocore.awsrequest.AWSRequest object at 0x74c89c3562d0>` type message instead of bucket details?",
+    "course": "mlops-zoomcamp",
+    "document": "8e6e50be33"
+  },
+  {
+    "question": "What configuration steps are necessary in the AWS CLI to avoid receiving an unhandled request object when interacting with LocalStack's S3 service via its endpoint URL?",
+    "course": "mlops-zoomcamp",
+    "document": "8e6e50be33"
+  },
+  {
+    "question": "If I encounter a `<botocore.awsrequest.AWSRequest object at 0x74c89c3562d0>` error while listing S3 buckets through the AWS CLI, what should be set in the AWS configuration to resolve it?",
+    "course": "mlops-zoomcamp",
+    "document": "8e6e50be33"
+  },
+  {
+    "question": "How can I ensure that my AWS CLI commands are properly configured with LocalStack's credentials so that listing or creating S3 buckets does not result in a type error message?",
+    "course": "mlops-zoomcamp",
+    "document": "8e6e50be33"
+  },
+  {
+    "question": "In the context of using LocalStack's Docker container for AWS services, which Access Key ID, Secret Access Key, and region should be used when configuring the AWS CLI to prevent request object errors?",
+    "course": "mlops-zoomcamp",
+    "document": "8e6e50be33"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I color the background of a pandas DataFrame's correlation matrix based on numerical values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "06248fbd4b"
+  },
+  {
+    "question": "What method in pandas allows me to apply a gradient color scheme to a DataFrame, such as a correlation matrix?",
+    "course": "machine-learning-zoomcamp",
+    "document": "06248fbd4b"
+  },
+  {
+    "question": "Which color map options are available when using `pandas.io.formats.style.Styler.background_gradient` for visualizing a correlation matrix?",
+    "course": "machine-learning-zoomcamp",
+    "document": "06248fbd4b"
+  },
+  {
+    "question": "Is it necessary to ensure that the DataFrame contains only numerical values before calculating and styling its correlation matrix?",
+    "course": "machine-learning-zoomcamp",
+    "document": "06248fbd4b"
+  },
+  {
+    "question": "Can you provide an example of how to use `df_numerical_only.corr()` in conjunction with `style.background_gradient(cmap='viridis')` to visualize a correlation matrix?",
+    "course": "machine-learning-zoomcamp",
+    "document": "06248fbd4b"
+  }
+]

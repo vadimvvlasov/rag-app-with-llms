@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'UnidentifiedImageError: cannot identify image file' when loading an image from a GitHub URL in my local Python script?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9db0f62601"
+  },
+  {
+    "question": "What modification should I apply to the GitHub image URL to ensure successful identification by the `preprocessor.from_url()` function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9db0f62601"
+  },
+  {
+    "question": "When encountering the error 'cannot identify image file <_io.BytesIO object at 0x7f797010a590>' during model testing with a test-image, what is the recommended fix according to the provided solution?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9db0f62601"
+  },
+  {
+    "question": "In the context of deploying a machine learning model locally, why does adding `?raw=true` to the GitHub image URL eliminate the unidentified image error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9db0f62601"
+  },
+  {
+    "question": "What specific change in the URL syntax will enable the `preprocessor.from_url()` method to correctly fetch and process an image hosted on GitHub during local testing?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9db0f62601"
+  }
+]

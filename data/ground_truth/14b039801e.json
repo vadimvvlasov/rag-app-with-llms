@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is the Spark jobs UI not accessible at localhost?",
+    "course": "data-engineering-zoomcamp",
+    "document": "14b039801e"
+  },
+  {
+    "question": "What command can I use to determine which port the Spark UI is currently using?",
+    "course": "data-engineering-zoomcamp",
+    "document": "14b039801e"
+  },
+  {
+    "question": "How can I resolve a conflict if another process is occupying the expected port for the Spark UI?",
+    "course": "data-engineering-zoomcamp",
+    "document": "14b039801e"
+  },
+  {
+    "question": "Is there a way to ensure that no other notebooks or processes interfere with the Spark UI's designated port?",
+    "course": "data-engineering-zoomcamp",
+    "document": "14b039801e"
+  },
+  {
+    "question": "What steps should I take to clean up resources and prevent port conflicts when running multiple Spark jobs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "14b039801e"
+  }
+]

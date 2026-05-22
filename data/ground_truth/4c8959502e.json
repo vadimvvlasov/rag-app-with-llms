@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I unable to execute `pip install` within a Docker container running on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4c8959502e"
+  },
+  {
+    "question": "What specific error message indicates that pip installation is failing in a Docker container on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4c8959502e"
+  },
+  {
+    "question": "How can adding `--dns=8.8.8.8` when running the Docker command resolve network-related issues during pip installations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4c8959502e"
+  },
+  {
+    "question": "What is the purpose of using `winpty` before the `docker run` command in this context?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4c8959502e"
+  },
+  {
+    "question": "Which Docker image tag (`python:3.9`) and DNS server (`8.8.8.8`) are recommended to fix pip installation problems on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4c8959502e"
+  }
+]

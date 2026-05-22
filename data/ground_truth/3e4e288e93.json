@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message 'pipenv' is not recognized as an internal or external command, operable program or batch file mean?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e4e288e93"
+  },
+  {
+    "question": "Why might I encounter this error when running `pipenv --version` or `pipenv shell`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e4e288e93"
+  },
+  {
+    "question": "What steps should I follow to resolve this issue on Windows if `pipenv` is installed but not accessible from the PATH?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e4e288e93"
+  },
+  {
+    "question": "Which specific directories need to be added to the PATH environment variable to fix the `pipenv` command recognition problem on Windows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e4e288e93"
+  },
+  {
+    "question": "Is Anaconda a recommended alternative for users encountering persistent issues with `pipenv` on Windows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e4e288e93"
+  }
+]

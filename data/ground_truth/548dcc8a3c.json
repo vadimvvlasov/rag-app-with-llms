@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What parameter should I use instead of `sparse` when initializing a OneHotEncoder in scikit-learn version 1.2 or later?",
+    "course": "machine-learning-zoomcamp",
+    "document": "548dcc8a3c"
+  },
+  {
+    "question": "How can I obtain a dense array output from the OneHotEncoder in the updated scikit-learn API?",
+    "course": "machine-learning-zoomcamp",
+    "document": "548dcc8a3c"
+  },
+  {
+    "question": "If my code previously specified `OneHotEncoder(sparse=False)`, what exact modification is required to avoid a TypeError?",
+    "course": "machine-learning-zoomcamp",
+    "document": "548dcc8a3c"
+  },
+  {
+    "question": "What type of data structure does the OneHotEncoder return when `sparse_output=True`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "548dcc8a3c"
+  },
+  {
+    "question": "How can I convert a sparse matrix output from the OneHotEncoder into a dense array?",
+    "course": "machine-learning-zoomcamp",
+    "document": "548dcc8a3c"
+  }
+]

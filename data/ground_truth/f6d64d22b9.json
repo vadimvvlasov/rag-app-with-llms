@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I encounter a `ValueError: Path not found or generated` error after running `pipenv shell`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6d64d22b9"
+  },
+  {
+    "question": "How can I correctly exit the Pipenv virtual environment on Windows before removing it with `pipenv --rm`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6d64d22b9"
+  },
+  {
+    "question": "What commands are needed to fix the PATH on Windows after an incorrect use of `pipenv`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6d64d22b9"
+  },
+  {
+    "question": "How do I manually recreate a deleted Pipenv environment folder located at `C:/Users/username/.virtualenvs/removed-envname`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6d64d22b9"
+  },
+  {
+    "question": "Where can I find more information about managing and troubleshooting Pipenv environments in Module 5 of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6d64d22b9"
+  }
+]

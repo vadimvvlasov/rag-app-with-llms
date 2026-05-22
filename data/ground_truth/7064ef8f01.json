@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I check the version of a Python package installed in a Jupyter Notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7064ef8f01"
+  },
+  {
+    "question": "What command should I use within a Jupyter cell to print the version of a specific library, such as `numpy`, during the deployment of machine learning models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7064ef8f01"
+  },
+  {
+    "question": "In Module 5 of the 'Machine Learning ZoomCamp' course, what is the recommended approach to verify which version of the `waitress` package is currently active in my notebook environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7064ef8f01"
+  },
+  {
+    "question": "Could you explain the syntax for querying the version attribute of any library within a Jupyter Notebook, as demonstrated in the provided FAQ record?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7064ef8f01"
+  },
+  {
+    "question": "When deploying machine learning models in Jupyter, how do I programmatically display the installed version of a third-party module like `matplotlib`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7064ef8f01"
+  }
+]

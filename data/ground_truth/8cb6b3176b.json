@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving the 'unknown flag: --build' error when trying to start services with `docker compose up --build` in Linux?",
+    "course": "mlops-zoomcamp",
+    "document": "8cb6b3176b"
+  },
+  {
+    "question": "What is the correct command to build and run Docker Compose services in a Linux environment where docker-compose is installed separately?",
+    "course": "mlops-zoomcamp",
+    "document": "8cb6b3176b"
+  },
+  {
+    "question": "How can I resolve the issue of monitoring services not starting properly after executing `docker compose up --build` in Module 5 of the MLOps Zoomcamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "8cb6b3176b"
+  },
+  {
+    "question": "In the context of the MLOPs Zoomcamp, specifically Module 5 on Monitoring, what should I do if the Docker Compose command fails with an 'unknown flag: --build' message when attempting to start services?",
+    "course": "mlops-zoomcamp",
+    "document": "8cb6b3176b"
+  },
+  {
+    "question": "What steps are necessary to successfully initiate monitoring services using Docker Compose in Linux as demonstrated in video 5.2 of the MLOps Zoomcamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "8cb6b3176b"
+  }
+]

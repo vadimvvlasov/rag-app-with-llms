@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific connector package do I need to install to enable Spark integration with BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2b59e8e6c1"
+  },
+  {
+    "question": "Can you provide the exact PySpark command to read data from a BigQuery table into a Spark DataFrame?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2b59e8e6c1"
+  },
+  {
+    "question": "How should I specify the output table when writing a Spark DataFrame back to BigQuery, including project and dataset identifiers?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2b59e8e6c1"
+  },
+  {
+    "question": "What are the essential prerequisites for successfully configuring GCP credentials before using Spark with BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2b59e8e6c1"
+  },
+  {
+    "question": "Are there any additional considerations regarding dataset locations or pre-existing datasets that I must address before executing read/write operations between Spark and BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2b59e8e6c1"
+  }
+]

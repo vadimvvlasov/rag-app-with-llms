@@ -1,0 +1,27 @@
+[
+  {
+    "question": ". Why does dbt append 'bt_marts' to the target schema when I set it to 'marts'? ",
+    "course": "data-engineering-zoomcamp",
+    "document": "58586a16a6"
+  },
+  {
+    "question": ". How can I configure dbt to use the exact schema name 'marts' instead of automatically creating 'dbt_marts'? ",
+    "course": "data-engineering-zoomcamp",
+    "document": "58586a16a6"
+  },
+  {
+    "question": ". What is the purpose of the `generate_schema_name.sql` macro in dbt? ",
+    "course": "data-engineering-zoomcamp",
+    "document": "58586a16a6"
+  },
+  {
+    "question": ". Where should I place the `generate_schema_name.sql` macro file within a dbt project directory? ",
+    "course": "data-engineering-zoomcamp",
+    "document": "58586a16a6"
+  },
+  {
+    "question": ". How do I reference the `custom_schema_name` and `node` variables inside the `generate_schema_name.sql` macro?",
+    "course": "data-engineering-zoomcamp",
+    "document": "58586a16a6"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my code using scikit-learn or NumPy fail when running with Python 3.13 or 3.14?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4e51151a36"
+  },
+  {
+    "question": "What is the recommended solution if I encounter compatibility issues with machine learning libraries after upgrading to Python 3.13?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4e51151a36"
+  },
+  {
+    "question": "How can I revert to a stable Python version that ensures compatibility with common ML packages like scikit-learn and NumPy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4e51151a36"
+  },
+  {
+    "question": "Which specific changes in Python 3.13 and 3.14 caused the breakage of existing machine learning codebases?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4e51151a36"
+  },
+  {
+    "question": "What are the exact steps to install and pin Python 3.11 using `uv python install 3.11` or `pyenv install 3.11` for my project?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4e51151a36"
+  }
+]

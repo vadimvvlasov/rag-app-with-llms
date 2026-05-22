@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary distinction between native tables and external tables in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16b4ae94ef"
+  },
+  {
+    "question": "How do I create an external table that references Parquet files stored in a Google Cloud Storage bucket?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16b4ae94ef"
+  },
+  {
+    "question": "Can I directly point an external table to data hosted on a public URL, such as nyc.gov, without transferring it to GCS first?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16b4ae94ef"
+  },
+  {
+    "question": "What trade-offs exist when choosing native tables over external tables in terms of query performance and cost?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16b4ae94ef"
+  },
+  {
+    "question": "After creating an external table from Parquet files, how can I convert its data into a native table for faster subsequent queries?",
+    "course": "data-engineering-zoomcamp",
+    "document": "16b4ae94ef"
+  }
+]

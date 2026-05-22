@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the issue when Docker fails to start or gets stuck in settings on Windows 10/11?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3549528659"
+  },
+  {
+    "question": "What steps should I take if upgrading Docker through the menu does not work?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3549528659"
+  },
+  {
+    "question": "Where can I download the latest version of Docker for Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3549528659"
+  },
+  {
+    "question": "How do I switch between different container backends (Windows vs. Linux) when Docker is stuck starting?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3549528659"
+  },
+  {
+    "question": "What specific configurations are required to enable Hyper-V or WSL2 backend for Docker on Windows 10/11 Pro Edition?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3549528659"
+  }
+]

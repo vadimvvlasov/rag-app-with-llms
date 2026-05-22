@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What makes accuracy an unreliable metric for classification models, particularly in datasets with imbalanced class distributions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6aa440092"
+  },
+  {
+    "question": "Can you explain why a model that always predicts the majority class in an imbalanced dataset can still achieve high accuracy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6aa440092"
+  },
+  {
+    "question": "Which alternative metrics are recommended over accuracy when evaluating the performance of a classification model on imbalanced data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6aa440092"
+  },
+  {
+    "question": "How do precision, recall, F1-score, and AUROC provide more insight into a model's ability to handle minority classes compared to accuracy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6aa440092"
+  },
+  {
+    "question": "In what scenarios might using accuracy as an evaluation metric lead to misleading conclusions about a model's effectiveness?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f6aa440092"
+  }
+]

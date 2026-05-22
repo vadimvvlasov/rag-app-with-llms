@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In TensorFlow's `flow_from_directory`, how are numeric class labels assigned to folders when using binary classification mode?",
+    "course": "machine-learning-zoomcamp",
+    "document": "98f2d2b078"
+  },
+  {
+    "question": "What does the single probability output by a binary Keras model represent, and how is it related to the class probabilities?",
+    "course": "machine-learning-zoomcamp",
+    "document": "98f2d2b078"
+  },
+  {
+    "question": "If I have two folders named `dino` and `dragon` in my dataset directory, what will be their respective class labels when processed with `flow_from_directory` in alphabetical order?",
+    "course": "machine-learning-zoomcamp",
+    "document": "98f2d2b078"
+  },
+  {
+    "question": "How can I compute the probability of class 0 if a binary Keras model outputs the probability for class 1 using a sigmoid activation function in the final dense layer?",
+    "course": "machine-learning-zoomcamp",
+    "document": "98f2d2b078"
+  },
+  {
+    "question": "When making predictions with a binary classification Keras model, what does an output value of 0.8 signify regarding the likelihood of each class?",
+    "course": "machine-learning-zoomcamp",
+    "document": "98f2d2b078"
+  }
+]

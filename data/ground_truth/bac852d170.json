@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I correctly reference a column named 'Zone' in a PostgreSQL query if it starts with an uppercase letter?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bac852d170"
+  },
+  {
+    "question": "What is the appropriate syntax to select all records from the 'zones' table where the 'Zone' column equals 'Astoria Zone', considering potential naming issues?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bac852d170"
+  },
+  {
+    "question": "If my database contains a zone labeled only as 'Astoria' instead of 'Astoria Zone', how should I modify the SQL query to retrieve the correct data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bac852d170"
+  },
+  {
+    "question": "Why does enclosing the column name in double quotes resolve the error related to the non-existent 'Zone' column in the `SELECT * FROM zones_taxi WHERE Zone='Astoria Zone';` query?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bac852d170"
+  },
+  {
+    "question": "What steps should I take to verify whether a specific zone label exists in my dataset before executing an SQL query targeting that label?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bac852d170"
+  }
+]

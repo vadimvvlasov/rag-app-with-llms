@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I unable to create a new experiment despite following the video instructions?",
+    "course": "mlops-zoomcamp",
+    "document": "aed2f8ddb9"
+  },
+  {
+    "question": "What could be causing the inconsistency between the Jupyter notebook indicating successful experiment creation and my inability to see it in the interface?",
+    "course": "mlops-zoomcamp",
+    "document": "aed2f8ddb9"
+  },
+  {
+    "question": "How does the recommended setting of the tracking URI differ from what was shown in the tutorial, and why is this change necessary?",
+    "course": "mlops-zoomcamp",
+    "document": "aed2f8ddb9"
+  },
+  {
+    "question": "Could differences in the 'mlflow' package versions between the video and our current setup be responsible for the issue I'm encountering?",
+    "course": "mlops-zoomcamp",
+    "document": "aed2f8ddb9"
+  },
+  {
+    "question": "Where can I find the updated documentation that specifies using `mlflow.set_tracking_uri(uri=\"http://127.0.0.1:5000\")` to resolve experiment creation problems?",
+    "course": "mlops-zoomcamp",
+    "document": "aed2f8ddb9"
+  }
+]

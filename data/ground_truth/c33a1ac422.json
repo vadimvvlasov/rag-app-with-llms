@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can you explain what the eta hyperparameter controls in XGBoost?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c33a1ac422"
+  },
+  {
+    "question": "How does adjusting the learning rate (eta) affect the training process of an XGBoost model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c33a1ac422"
+  },
+  {
+    "question": "What is the role of learning rate in gradient descent within XGBoost's boosting algorithm?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c33a1ac422"
+  },
+  {
+    "question": "Why might we need to tune the learning rate when using XGBoost for a machine learning task?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c33a1ac422"
+  },
+  {
+    "question": "In the context of gradient boosting, how does the eta parameter influence the convergence of the model toward minimizing feature weights?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c33a1ac422"
+  }
+]

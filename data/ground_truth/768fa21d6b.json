@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What directories does Pipenv use to store virtual environments on different operating systems?",
+    "course": "machine-learning-zoomcamp",
+    "document": "768fa21d6b"
+  },
+  {
+    "question": "How is the name of a Pipenv-created environment determined based on the project directory?",
+    "course": "machine-learning-zoomcamp",
+    "document": "768fa21d6b"
+  },
+  {
+    "question": "Can you provide an example of how Pipenv names an environment when installed in a specific folder, such as `~/home/user/Churn-Flask-app`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "768fa21d6b"
+  },
+  {
+    "question": "What command do I need to execute to activate the virtual environment created by Pipenv after installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "768fa21d6b"
+  },
+  {
+    "question": "Where exactly is the path for a Pipenv environment located on Windows compared to macOS/Linux?",
+    "course": "machine-learning-zoomcamp",
+    "document": "768fa21d6b"
+  }
+]

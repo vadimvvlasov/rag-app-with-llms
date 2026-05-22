@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my Postgres container fail to launch with exit code (1) when using docker-compose?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d3c860aa46"
+  },
+  {
+    "question": "What is the reason behind the initialization of the Postgres database before running `docker-compose up -d`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d3c860aa46"
+  },
+  {
+    "question": "Can you provide a command to initialize a PostgreSQL database for use with Docker Compose, specifically for a dataset named 'ny_taxi' with user 'root' and password 'root'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d3c860aa46"
+  },
+  {
+    "question": "How can I configure the PostgreSQL container to map data from the local directory `/path/to/data` into the container's `/var/lib/postgresql/data` volume during initialization?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d3c860aa46"
+  },
+  {
+    "question": "What network setting should be applied to ensure that the Postgres container can communicate with other containers in the same Docker Compose setup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d3c860aa46"
+  }
+]

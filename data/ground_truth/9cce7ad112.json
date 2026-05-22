@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In my automated flow for green and yellow data spanning the years 2019 and 2020, why does each month's data overwrite the previous month instead of appending?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9cce7ad112"
+  },
+  {
+    "question": "What is the purpose of the `if_exists` parameter when transferring data from GCS to BigQuery, and how does it affect cumulative dataset growth over time?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9cce7ad112"
+  },
+  {
+    "question": "If I set `if_exists=\"replace\"` during an initial test run of my monthly data flow, what will happen to previously loaded months' data in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9cce7ad112"
+  },
+  {
+    "question": "How can I ensure that all monthly datasets from 2019 and 2020 are retained in BigQuery after modifying the automated pipeline?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9cce7ad112"
+  },
+  {
+    "question": "What specific configuration change should I apply to guarantee that new monthly fact trips are added to existing tables rather than replacing them?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9cce7ad112"
+  }
+]

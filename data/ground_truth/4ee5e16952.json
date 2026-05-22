@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Where can I find the data dictionary for New York City's Yellow Taxi trip records?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ee5e16952"
+  },
+  {
+    "question": "What is the URL to access the data dictionary for Green Trips in NYC's taxi dataset?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ee5e16952"
+  },
+  {
+    "question": "Which document provides the detailed field definitions for Yellow Taxi trip data in the NY Taxi dataset?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ee5e16952"
+  },
+  {
+    "question": "How do I locate the data dictionary for the LPEP Trip Records of Green Trips updated on May 1, 2018?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ee5e16952"
+  },
+  {
+    "question": "In which module of the 'data-engineering-zoomcamp' course can I find information about accessing NYC taxi data dictionaries?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ee5e16952"
+  }
+]

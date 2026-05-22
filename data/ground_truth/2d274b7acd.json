@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is the Faust library currently supported for use in the streaming module of the course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d274b7acd"
+  },
+  {
+    "question": "What are the recommended alternatives to the Faust library if I am not familiar with Java?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d274b7acd"
+  },
+  {
+    "question": "Where can I find the Python streaming materials that use Kafka or Redpanda within the course repository?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d274b7acd"
+  },
+  {
+    "question": "Will learning the Java streaming concepts from the videos still be beneficial even if I choose not to implement them in code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d274b7acd"
+  },
+  {
+    "question": "Why was the decision made to discontinue recommending the Faust library for this course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d274b7acd"
+  }
+]

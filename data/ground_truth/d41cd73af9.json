@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the cause of the HTTPError 403 when calling apply_model() in score.ipynb?",
+    "course": "mlops-zoomcamp",
+    "document": "d41cd73af9"
+  },
+  {
+    "question": "How can I resolve the 'Forbidden' error encountered during the model application step?",
+    "course": "mlops-zoomcamp",
+    "document": "d41cd73af9"
+  },
+  {
+    "question": "What modification should be made to the input file URL to avoid the 403 error while running the notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "d41cd73af9"
+  },
+  {
+    "question": "In which module of the MLOps Zoomcamp course does this issue occur?",
+    "course": "mlops-zoomcamp",
+    "document": "d41cd73af9"
+  },
+  {
+    "question": "Which specific line in the code needs to be updated to fix the HTTPError 403 problem?",
+    "course": "mlops-zoomcamp",
+    "document": "d41cd73af9"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How does the KFold cross-validation technique split the dataset, and what is its purpose in evaluating model performance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "24d2042733"
+  },
+  {
+    "question": "In the provided code snippet `KFold(n_splits=n_splits, shuffle=True, random_state=1)`, what role does the `random_state` parameter play, and why might changing it affect the results?",
+    "course": "machine-learning-zoomcamp",
+    "document": "24d2042733"
+  },
+  {
+    "question": "Should the KFold object be instantiated inside or outside a loop that iterates over different regularization parameters, and why does this placement matter?",
+    "course": "machine-learning-zoomcamp",
+    "document": "24d2042733"
+  },
+  {
+    "question": "What is the significance of using `shuffle=True` in the KFold setup, and how does it influence the training and validation splits across folds?",
+    "course": "machine-learning-zoomcamp",
+    "document": "24d2042733"
+  },
+  {
+    "question": "Where can I find more detailed information about the implementation and usage of KFold as described in the scikit-learn documentation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "24d2042733"
+  }
+]

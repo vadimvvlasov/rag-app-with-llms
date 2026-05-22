@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why don't the methods `pd.to_numeric(..., downcast=integer)` and `astype(int)` correctly convert `'DOlocationID'` to an integer type in a pandas DataFrame?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c58d3563a6"
+  },
+  {
+    "question": "What is the specific syntax required to ensure that the column `'DOlocationID'` in a pandas DataFrame is converted to the `Int64` nullable integer type?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c58d3563a6"
+  },
+  {
+    "question": "In the context of data warehousing with pandas, what distinguishes the `Int64` type from regular integer types like `int32` or `int64`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c58d3563a6"
+  },
+  {
+    "question": "If I attempt to convert the `'DOlocationID'` column using `df['DOlocationID'] = df['DOlocationID'].astype(int)`, why might this approach lead to incorrect results, and what should be used instead?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c58d3563a6"
+  },
+  {
+    "question": "How does the use of `df['DOlocationID'] = pd.to_numeric(df['DOlocationID'], downcast=integer)` affect the data type of `'DOlocationID'`, and why is it not suitable for ensuring an `Int64` representation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c58d3563a6"
+  }
+]

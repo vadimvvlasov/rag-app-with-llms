@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is it important to avoid data leakage when preparing features for machine learning classification tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "03e27c386a"
+  },
+  {
+    "question": "What are the recommended practices outlined in the scikit-learn documentation regarding the timing of feature transformation steps like `DictVectorizer` or one-hot encoding relative to splitting the dataset into training, validation, and test sets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "03e27c386a"
+  },
+  {
+    "question": "Could performing feature transformations such as `DictVectorizer` or one-hot encoding before splitting the data potentially compromise model evaluation results?",
+    "course": "machine-learning-zoomcamp",
+    "document": "03e27c386a"
+  },
+  {
+    "question": "How does the order of operations—splitting the dataset versus transforming features—affect the fairness of cross-validation in classification models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "03e27c386a"
+  },
+  {
+    "question": "What specific pitfalls related to data leakage are highlighted in the scikit-learn common pitfalls documentation, and why should these be avoided when using text or categorical feature encoding methods?",
+    "course": "machine-learning-zoomcamp",
+    "document": "03e27c386a"
+  }
+]

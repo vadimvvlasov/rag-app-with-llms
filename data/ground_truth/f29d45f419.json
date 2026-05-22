@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the issue of my Google Cloud Platform (GCP) Virtual Machine not starting due to insufficient resources?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f29d45f419"
+  },
+  {
+    "question": "What steps should I follow to create an image of my existing VM in GCP when facing resource limitations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f29d45f419"
+  },
+  {
+    "question": "After creating an image, where do I find the option to generate a new VM instance using that image?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f29d45f419"
+  },
+  {
+    "question": "In the settings for the newly created VM instance from an image, how can I modify its location within GCP?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f29d45f419"
+  },
+  {
+    "question": "What is the purpose of changing the location setting for a new VM instance in GCP when my original VM is unable to start?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f29d45f419"
+  }
+]

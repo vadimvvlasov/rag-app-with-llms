@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary purpose of having a separate 'Clean' layer in a layered data warehouse architecture?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a198f6959c"
+  },
+  {
+    "question": "How are data quality checks implemented in the 'Data Quality (DQ)' layer of the pipeline, and what specific issues do they address?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a198f6959c"
+  },
+  {
+    "question": "Can you describe the typical transformations applied in the 'Analytics' layer to generate aggregated views from cleaned data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a198f6959c"
+  },
+  {
+    "question": "What tools or technologies are recommended for implementing each SQL transformation layer when using PostgreSQL and BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a198f6959c"
+  },
+  {
+    "question": "How does separating the layers (raw, clean, DQ, analytics, mart) facilitate debugging and testing of the batch pipeline?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a198f6959c"
+  }
+]

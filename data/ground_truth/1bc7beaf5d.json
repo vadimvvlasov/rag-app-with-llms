@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I install Docker in a Windows Subsystem for Linux (WSL2) environment without using Docker Desktop?",
+    "course": "mlops-zoomcamp",
+    "document": "1bc7beaf5d"
+  },
+  {
+    "question": "What specific commands are required to set up Docker on WSL2 after installing it manually?",
+    "course": "mlops-zoomcamp",
+    "document": "1bc7beaf5d"
+  },
+  {
+    "question": "After running the installation script for Docker, why must I add my user to the Docker group and what command is used for this step?",
+    "course": "mlops-zoomcamp",
+    "document": "1bc7beaf5d"
+  },
+  {
+    "question": "Once Docker is installed in WSL2, how can I verify that both Docker and Docker Compose are functioning correctly on Windows?",
+    "course": "mlops-zoomcamp",
+    "document": "1bc7beaf5d"
+  },
+  {
+    "question": "If Docker does not start automatically after a system restart within WSL2, what additional configuration should be added to my shell profile file?",
+    "course": "mlops-zoomcamp",
+    "document": "1bc7beaf5d"
+  }
+]

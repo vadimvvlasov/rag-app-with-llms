@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific foundational concepts are we covering before diving into Langchain?",
+    "course": "llm-zoomcamp",
+    "document": "b7cdde6b25"
+  },
+  {
+    "question": "How does learning the basics of LLMs and retrieval-augmented generation (RAG) compare to learning front-end web development languages like HTML, CSS, and JavaScript prior to using frameworks such as React or Angular?",
+    "course": "llm-zoomcamp",
+    "document": "b7cdde6b25"
+  },
+  {
+    "question": "Why is it beneficial to master the underlying principles of large language models (LLMs) and RAG before engaging with advanced tooling like Langchain?",
+    "course": "llm-zoomcamp",
+    "document": "b7cdde6b25"
+  },
+  {
+    "question": "What core topics will be addressed in Module 1 to prepare us for understanding and utilizing Langchain effectively later in the course?",
+    "course": "llm-zoomcamp",
+    "document": "b7cdde6b25"
+  },
+  {
+    "question": "In what ways does delaying the use of Langchain enhance our ability to build more robust and tailored LLM-powered applications?",
+    "course": "llm-zoomcamp",
+    "document": "b7cdde6b25"
+  }
+]

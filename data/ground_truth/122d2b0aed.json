@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific command should I run in a Jupyter notebook to install the `dlt[duckdb]` package?",
+    "course": "data-engineering-zoomcamp",
+    "document": "122d2b0aed"
+  },
+  {
+    "question": "Is there an additional step required before installing the `duckdb` package if I am working locally rather than within a Jupyter environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "122d2b0aed"
+  },
+  {
+    "question": "After executing the installation command, how can I verify that the `dlt[duckdb]` package has been successfully installed and is ready for use in my project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "122d2b0aed"
+  },
+  {
+    "question": "What potential issues might arise during the installation of `dlt[duckdb]`, and how can I troubleshoot them if they occur?",
+    "course": "data-engineering-zoomcamp",
+    "document": "122d2b0aed"
+  },
+  {
+    "question": "Are there any alternative methods or packages I could consider if installing `dlt[duckdb]` does not work as expected on my system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "122d2b0aed"
+  }
+]

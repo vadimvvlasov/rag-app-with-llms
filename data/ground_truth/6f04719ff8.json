@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific data quality issues in the NYC Taxi dataset cause extremely large values when computing `max(trip_distance)` in Spark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6f04719ff8"
+  },
+  {
+    "question": "How do GPS errors, sensor faults, corrupted trip records, and incorrect meter readings contribute to these unrealistic `trip_distance` values?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6f04719ff8"
+  },
+  {
+    "question": "What is the recommended method to filter out outliers before calculating the maximum `trip_distance` in a Spark DataFrame?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6f04719ff8"
+  },
+  {
+    "question": "What example code can be used to filter rows with plausible `trip_distance` values (e.g., greater than 0 and less than 200) before computing the maximum?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6f04719ff8"
+  },
+  {
+    "question": "How should one adjust the filtering threshold (`200` in the provided example) to ensure it reflects realistic trip distances for their specific dataset?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6f04719ff8"
+  }
+]

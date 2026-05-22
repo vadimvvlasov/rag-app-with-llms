@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How can I identify the process that is currently using port 5000 on my machine?",
+    "course": "mlops-zoomcamp",
+    "document": "186389973c"
+  },
+  {
+    "question": "What command should I run in Terminal to terminate the process occupying port 5000?",
+    "course": "mlops-zoomcamp",
+    "document": "186389973c"
+  },
+  {
+    "question": "Is there a universal Unix command to kill all processes listening on a specific TCP port, such as 5000?",
+    "course": "mlops-zoomcamp",
+    "document": "186389973c"
+  },
+  {
+    "question": "",
+    "course": "mlops-zoomcamp",
+    "document": "186389973c"
+  },
+  {
+    "question": "If the port 5000 is already occupied, how can I configure MLflow UI to start on an alternative port like 5001?",
+    "course": "mlops-zoomcamp",
+    "document": "186389973c"
+  },
+  {
+    "question": "Where can I find additional resources or documentation for resolving conflicts with port usage in MLflow?",
+    "course": "mlops-zoomcamp",
+    "document": "186389973c"
+  }
+]

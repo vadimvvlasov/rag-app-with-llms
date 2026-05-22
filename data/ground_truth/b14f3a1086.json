@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is causing the 'TypeError: Unable to convert function return value to a Python type!' when I try to import tensorflow?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b14f3a1086"
+  },
+  {
+    "question": "How can I resolve the incompatibility between numpy 2.x and older versions of TensorFlow?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b14f3a1086"
+  },
+  {
+    "question": "Which version of TensorFlow is compatible with numpy 2.x?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b14f3a1086"
+  },
+  {
+    "question": "If upgrading TensorFlow does not solve the issue, what alternative step can I take regarding numpy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b14f3a1086"
+  },
+  {
+    "question": "After applying a fix for this error, do I need to restart my Python kernel?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b14f3a1086"
+  }
+]

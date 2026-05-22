@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why isn't my Spark UI visible at localhost:4040 when I have a running notebook?",
+    "course": "data-engineering-zoomcamp",
+    "document": "772aea0210"
+  },
+  {
+    "question": "How can I determine which port is currently being used by my Spark application if multiple notebooks are active?",
+    "course": "data-engineering-zoomcamp",
+    "document": "772aea0210"
+  },
+  {
+    "question": "What command should I execute in Python to retrieve the URL of the current Spark application's web UI?",
+    "course": "data-engineering-zoomcamp",
+    "document": "772aea0210"
+  },
+  {
+    "question": "If the expected port (e.g., 4040) does not display my running Spark job, what steps should I take to troubleshoot?",
+    "course": "data-engineering-zoomcamp",
+    "document": "772aea0210"
+  },
+  {
+    "question": "After closing a notebook or stopping a Spark session, what cleanup process ensures that unused ports are released for future runs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "772aea0210"
+  }
+]

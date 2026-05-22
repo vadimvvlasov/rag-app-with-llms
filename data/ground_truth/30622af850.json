@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of creating a common network named `pg-network` in the ingestion pipeline setup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30622af850"
+  },
+  {
+    "question": "How should I specify environment variables when running the Postgres container to ensure successful database creation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30622af850"
+  },
+  {
+    "question": "What command do I need to execute to build the Docker container for the ingestion script located in the `/pipeline` directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30622af850"
+  },
+  {
+    "question": "Which flags must be included in the `docker run` command for the ingestion container to connect to the Postgres instance correctly?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30622af850"
+  },
+  {
+    "question": "After running the ingestion process, what SQL query can I use within pgcli to verify the number of records inserted into the `yellow_taxi_trips` table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "30622af850"
+  }
+]

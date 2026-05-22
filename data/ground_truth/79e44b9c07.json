@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I view all the networks created in my Docker environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "79e44b9c07"
+  },
+  {
+    "question": "What command is used to list Docker networks along with their details?",
+    "course": "data-engineering-zoomcamp",
+    "document": "79e44b9c07"
+  },
+  {
+    "question": "Where can I find the official documentation for the `docker network ls` command?",
+    "course": "data-engineering-zoomcamp",
+    "document": "79e44b9c07"
+  },
+  {
+    "question": "Which section of the 'data-engineering-zoomcamp' course covers Docker networking commands?",
+    "course": "data-engineering-zoomcamp",
+    "document": "79e44b9c07"
+  },
+  {
+    "question": "What specific instruction should I follow to retrieve the name of a Docker network?",
+    "course": "data-engineering-zoomcamp",
+    "document": "79e44b9c07"
+  }
+]

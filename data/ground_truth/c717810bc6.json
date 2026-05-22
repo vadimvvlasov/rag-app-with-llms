@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is the backfill process appearing as executed in Kestra but not producing any results or appearing in the execution logs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c717810bc6"
+  },
+  {
+    "question": "Is there a known issue causing backfills to fail silently without showing up in the executions list?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c717810bc6"
+  },
+  {
+    "question": "What specific change should be made to the script triggers to resolve the problem of missing backfill results?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c717810bc6"
+  },
+  {
+    "question": "Where can I find more detailed information about this bug related to backfill execution in Kestra?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c717810bc6"
+  },
+  {
+    "question": "Has there been an official update or fix published for the bug that prevents backfills from showing up in executions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c717810bc6"
+  }
+]

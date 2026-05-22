@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the specific rate limits for free-tier Gemini when generating a ground-truth dataset, and how does `time.sleep(4)` affect them?",
+    "course": "llm-zoomcamp",
+    "document": "c1e9f4b820"
+  },
+  {
+    "question": "If I encounter both per-minute and per-day rate limits while creating the ground-truth dataset, which paid option is recommended to handle high request volumes affordably?",
+    "course": "llm-zoomcamp",
+    "document": "c1e9f4b820"
+  },
+  {
+    "question": "How can I configure my script to save progress periodically during a long-running generation process to avoid losing work if the per-day quota is exceeded?",
+    "course": "llm-zoomcamp",
+    "document": "c1e9f4b820"
+  },
+  {
+    "question": "What are the pros and cons of using Groq's free tier (`llama-3.3-70b-versatile`) compared to paying for OpenAI’s `gpt-4o-mini` when generating embeddings or large datasets?",
+    "course": "llm-zoomcamp",
+    "document": "c1e9f4b820"
+  },
+  {
+    "question": "In a multi-threaded approach, what concurrency settings should I use to prevent hitting rate limits while still making efficient API calls?",
+    "course": "llm-zoomcamp",
+    "document": "c1e9f4b820"
+  }
+]

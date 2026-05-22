@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the two primary methods for installing Docker on macOS?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b2eabcd7dc"
+  },
+  {
+    "question": "How can I download Docker Desktop for Mac, and where should I obtain it from?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b2eabcd7dc"
+  },
+  {
+    "question": "If I choose to install Docker using Homebrew, what precautions should I take regarding potential conflicts with command-line tools?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b2eabcd7dc"
+  },
+  {
+    "question": "Could you provide the exact Homebrew commands needed to install Docker Desktop and its associated command line tools?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b2eabcd7dc"
+  },
+  {
+    "question": "Where can I find further reading or a detailed article on setting up Docker in macOS?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b2eabcd7dc"
+  }
+]

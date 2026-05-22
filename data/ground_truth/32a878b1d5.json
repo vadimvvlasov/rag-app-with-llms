@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'Permission denied (publickey)' error when starting the server in DBT Cloud?",
+    "course": "data-engineering-zoomcamp",
+    "document": "32a878b1d5"
+  },
+  {
+    "question": "What steps are required to add a deploy key from DBT Cloud to my repository on GitHub?",
+    "course": "data-engineering-zoomcamp",
+    "document": "32a878b1d5"
+  },
+  {
+    "question": "Where can I locate DBT Cloud’s SSH public key within the platform settings?",
+    "course": "data-engineering-zoomcamp",
+    "document": "32a878b1d5"
+  },
+  {
+    "question": "After adding the SSH key to GitHub, what should be done next to ensure successful server startup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "32a878b1d5"
+  },
+  {
+    "question": "Does restarting DBT Cloud after configuring the SSH keys guarantee that the permission issue will be resolved?",
+    "course": "data-engineering-zoomcamp",
+    "document": "32a878b1d5"
+  }
+]

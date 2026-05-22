@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What warning appears when unpickling a DictVectorizer from version 1.1.1 to use with version 0.24.2?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e8e58afd7b"
+  },
+  {
+    "question": "How can I ensure compatibility between the Scikit-Learn version used for training and deployment of my machine learning model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e8e58afd7b"
+  },
+  {
+    "question": "What steps should I follow to resolve potential issues arising from using different versions of Scikit-Learn during model prediction?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e8e58afd7b"
+  },
+  {
+    "question": "When executing `pipenv run gunicorn --bind 0.0.0.0:9696 predict:app`, what precaution should I take regarding the virtual environment's Scikit-Learn version?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e8e58afd7b"
+  },
+  {
+    "question": "What risk is associated with using a mismatched version of DictVectorizer in my machine learning application?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e8e58afd7b"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What function in scikit-learn provides a comprehensive report of classification metrics such as precision, recall, F1 score, and accuracy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "234fd096e4"
+  },
+  {
+    "question": "Where can I find the documentation for generating a detailed classification report using scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "234fd096e4"
+  },
+  {
+    "question": "Which module in our machine learning course covers evaluation metrics specifically for classification tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "234fd096e4"
+  },
+  {
+    "question": "How can I simultaneously obtain multiple performance measures (precision, recall, F1 score, accuracy) for a classifier in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "234fd096e4"
+  },
+  {
+    "question": "What is the identifier for the FAQ entry that explains how to retrieve all classification metrics in the 'machine-learning-zoomcamp' course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "234fd096e4"
+  }
+]

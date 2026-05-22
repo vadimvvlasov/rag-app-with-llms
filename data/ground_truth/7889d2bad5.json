@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I troubleshoot the SSH connection error 'Permission denied (publickey)' when accessing a VM from VS Code on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7889d2bad5"
+  },
+  {
+    "question": "What steps should I follow to copy my `.ssh` folder from a Linux environment to a Windows machine for remote access via SSH?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7889d2bad5"
+  },
+  {
+    "question": "What exact modification is required in the `config` file within the `.ssh` directory to correctly reference a private key located at `C:\\Users\\<username>\\.ssh\\gcp` on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7889d2bad5"
+  },
+  {
+    "question": "Is there a specific formatting or additional line that must be included at the end of my private key file (`C:\\Users\\<username>\\.ssh\\gcp`) to ensure successful SSH authentication?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7889d2bad5"
+  },
+  {
+    "question": "After setting up the `.ssh` directory and modifying the `config` file, what is the recommended method to verify that the SSH connection to \"de-zoomcamp\" now works without permission denied errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7889d2bad5"
+  }
+]

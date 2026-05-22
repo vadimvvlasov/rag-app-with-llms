@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the unit \"m\" signify in CPU specifications for a Kubernetes deployment.yaml file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c65bb4c0c"
+  },
+  {
+    "question": "How is 100m interpreted in terms of CPU core allocation within a K8s container?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c65bb4c0c"
+  },
+  {
+    "question": "If a container requests 500m of CPU, what fraction of a single CPU core does it correspond to?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c65bb4c0c"
+  },
+  {
+    "question": "Why are CPU values expressed using milliCPU units instead of whole numbers in Kubernetes manifests?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c65bb4c0c"
+  },
+  {
+    "question": "Can you explain the relationship between milliCPUs and actual physical CPU cores available on a node?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c65bb4c0c"
+  }
+]

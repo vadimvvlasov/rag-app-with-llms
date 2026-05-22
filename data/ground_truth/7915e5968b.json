@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do I receive a `ValueError` when trying to load weights saved in HDF5 format into a subclassed Keras Model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7915e5968b"
+  },
+  {
+    "question": "What steps should I follow to successfully load pre-saved model weights into a subclassed TensorFlow/Keras Model without encountering the error mentioned?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7915e5968b"
+  },
+  {
+    "question": "In what order must I evaluate and then load weights for a subclassed Model in TensorFlow to avoid the `ValueError` related to variable creation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7915e5968b"
+  },
+  {
+    "question": "Can you explain why calling the Model before loading weights is necessary when using HDF5 format with a subclassed Model in deep learning frameworks like Keras?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7915e5968b"
+  },
+  {
+    "question": "What specific code change ensures that variables are created in a subclassed Model prior to loading weights, thus preventing the `ValueError` during model restoration?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7915e5968b"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What SQL query can I use to retrieve the DDL for a specific native table named 'yellow_tripdata_parquet' in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7df3102580"
+  },
+  {
+    "question": "How do I modify the query to get the DDL for an external table called 'yellow_tripdata_parquet_ext'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7df3102580"
+  },
+  {
+    "question": "Can the INFORMATION_SCHEMA.TABLES be used to obtain DDL for both native and external tables, and what fields does it return?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7df3102580"
+  },
+  {
+    "question": "What is the exact syntax for a CREATE TABLE statement that recreates a BigQuery native table based on the retrieved DDL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7df3102580"
+  },
+  {
+    "question": "Where can I find additional documentation or examples for querying the information_schema-tables in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7df3102580"
+  }
+]

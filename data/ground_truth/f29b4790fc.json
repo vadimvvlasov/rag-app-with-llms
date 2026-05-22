@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How does Stratified k-fold maintain class balance during dataset splitting?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f29b4790fc"
+  },
+  {
+    "question": "What is the purpose of using Stratified k-fold in multiclass classification tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f29b4790fc"
+  },
+  {
+    "question": "Where can I find the implementation details of Stratified k-fold in scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f29b4790fc"
+  },
+  {
+    "question": "Which module of the 'machine-learning-zoomcamp' course covers Stratified k-fold?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f29b4790fc"
+  },
+  {
+    "question": "What is the ID associated with the FAQ record explaining Stratified k-fold?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f29b4790fc"
+  }
+]

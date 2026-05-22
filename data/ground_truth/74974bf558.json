@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an 'Invalid choice' error when trying to login to AWS ECR using the AWS CLI on Windows?",
+    "course": "mlops-zoomcamp",
+    "document": "74974bf558"
+  },
+  {
+    "question": "What is the correct command to authenticate Docker with Amazon ECR via the AWS CLI in a Windows environment?",
+    "course": "mlops-zoomcamp",
+    "document": "74974bf558"
+  },
+  {
+    "question": "How can I verify that my AWS CLI version is up-to-date before attempting to log into ECR?",
+    "course": "mlops-zoomcamp",
+    "document": "74974bf558"
+  },
+  {
+    "question": "Which AWS documentation page provides detailed instructions for logging into ECR using the `get-login-password` command?",
+    "course": "mlops-zoomcamp",
+    "document": "74974bf558"
+  },
+  {
+    "question": "What specific placeholders (`<region>` and `<aws_account_id>`) must be replaced in the Docker login command to successfully connect to my private ECR repository?",
+    "course": "mlops-zoomcamp",
+    "document": "74974bf558"
+  }
+]

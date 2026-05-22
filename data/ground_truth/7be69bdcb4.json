@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How does dlt handle file compression when exporting data to a GCS filesystem, and what are the implications for reading these files in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7be69bdcb4"
+  },
+  {
+    "question": "If I specify `loader_file_format=\"parquet\"` while exporting to a GCS filesystem, will BigQuery automatically manage any compressed files without additional configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7be69bdcb4"
+  },
+  {
+    "question": "What steps should I take to prevent file compression when exporting data to a GCS filesystem if I intend to use JSONL or CSV formats in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7be69bdcb4"
+  },
+  {
+    "question": "Where can I find detailed guidance on configuring dlt to disable file compression for specific export formats as mentioned in the FAQ?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7be69bdcb4"
+  },
+  {
+    "question": "Is there any performance impact or trade-off associated with disabling file compression during data exports from dlt to a GCS filesystem?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7be69bdcb4"
+  }
+]

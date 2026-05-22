@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is causing the 'image manifest, config or layer media type' not supported error when deploying a Docker image to AWS Lambda?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1cb53ac6a"
+  },
+  {
+    "question": "How can I verify if my Docker image uses the new format (application/vnd.docker.distribution.manifest.v2+json) instead of the old OCI image index format?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1cb53ac6a"
+  },
+  {
+    "question": "What command should I run after rebuilding my Docker container to ensure it produces a manifest v2-compatible image for use with AWS Lambda?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1cb53ac6a"
+  },
+  {
+    "question": "What are the essential flags in the `docker build` command to force the creation of a manifest v2-compatible image suitable for AWS Lambda?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1cb53ac6a"
+  },
+  {
+    "question": "What additional steps must be taken after pushing a correctly formatted Docker image to ECR to successfully create an AWS Lambda function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1cb53ac6a"
+  }
+]

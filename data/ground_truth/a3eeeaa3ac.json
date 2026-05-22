@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does RMSE measure in the context of regression models, and why is it important?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a3eeeaa3ac"
+  },
+  {
+    "question": "How is RMSE calculated from the Mean Squared Error (MSE) for a set of predictions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a3eeeaa3ac"
+  },
+  {
+    "question": "Can you provide an example calculation of RMSE using a small dataset of house prices with actual values and model predictions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a3eeeaa3ac"
+  },
+  {
+    "question": "What does an R² value of 75% indicate about the performance of a regression model in terms of explaining variability?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a3eeeaa3ac"
+  },
+  {
+    "question": "How can an unusually high R² value suggest potential overfitting in a regression model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a3eeeaa3ac"
+  }
+]

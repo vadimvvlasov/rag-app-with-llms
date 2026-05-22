@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Should we use green taxi data instead of yellow taxi data for the experiment in question 6 of the homework?",
+    "course": "mlops-zoomcamp",
+    "document": "b1a18890f2"
+  },
+  {
+    "question": "Why does the current preprocessing code assume green taxi data when the question specifies yellow taxi data?",
+    "course": "mlops-zoomcamp",
+    "document": "b1a18890f2"
+  },
+  {
+    "question": "Has there been an official confirmation regarding the need to switch from yellow to green taxi data for this specific experiment?",
+    "course": "mlops-zoomcamp",
+    "document": "b1a18890f2"
+  },
+  {
+    "question": "What are the potential consequences if we continue using yellow taxi data despite the preprocessing expectations for green taxi data?",
+    "course": "mlops-zoomcamp",
+    "document": "b1a18890f2"
+  },
+  {
+    "question": "Are there any updates or clarifications expected regarding whether to use green taxi data for the upcoming run of the experiment in question 6?",
+    "course": "mlops-zoomcamp",
+    "document": "b1a18890f2"
+  }
+]

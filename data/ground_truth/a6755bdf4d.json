@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the effective date for discontinuing support for launch configurations by AWS EC2 Auto Scaling?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a6755bdf4d"
+  },
+  {
+    "question": "Why are launch configurations being phased out in favor of launch templates?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a6755bdf4d"
+  },
+  {
+    "question": "How will this change affect existing accounts that currently use launch configurations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a6755bdf4d"
+  },
+  {
+    "question": "Where can I find detailed information about migrating from launch configurations to launch templates?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a6755bdf4d"
+  },
+  {
+    "question": "What error message might appear if an attempt is made to create a launch configuration after October 1, 2024?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a6755bdf4d"
+  }
+]

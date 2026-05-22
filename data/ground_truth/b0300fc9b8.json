@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the specific issue causing a `ValueError: Invalid endpoint` error when using Boto3 with Docker Compose services?",
+    "course": "mlops-zoomcamp",
+    "document": "b0300fc9b8"
+  },
+  {
+    "question": "Which characters in Docker Compose service names are incompatible with Boto3 endpoints, leading to this error?",
+    "course": "mlops-zoomcamp",
+    "document": "b0300fc9b8"
+  },
+  {
+    "question": "How can I modify my Docker Compose configuration to resolve the `ValueError: Invalid endpoint` issue when integrating with Boto3?",
+    "course": "mlops-zoomcamp",
+    "document": "b0300fc9b8"
+  },
+  {
+    "question": "What is the recommended naming convention for Docker Compose services to ensure compatibility with Boto3?",
+    "course": "mlops-zoomcamp",
+    "document": "b0300fc9b8"
+  },
+  {
+    "question": "Where can I find additional details or examples regarding the underscore restriction in service names that affect Boto3 functionality?",
+    "course": "mlops-zoomcamp",
+    "document": "b0300fc9b8"
+  }
+]

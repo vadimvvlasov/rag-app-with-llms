@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the specific steps to install WSL on Windows 10?",
+    "course": "machine-learning-zoomcamp",
+    "document": "accd08bead"
+  },
+  {
+    "question": "How do I configure a specific Linux distribution like Ubuntu during WSL installation on Windows 11?",
+    "course": "machine-learning-zoomcamp",
+    "document": "accd08bead"
+  },
+  {
+    "question": "Can you explain how to verify that the \"Virtual Machine Platform\" feature is activated for WSL installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "accd08bead"
+  },
+  {
+    "question": "After installing WSL, how can I set my current Windows folder as the default starting directory in the Linux terminal?",
+    "course": "machine-learning-zoomcamp",
+    "document": "accd08bead"
+  },
+  {
+    "question": "What should I do if I encounter the error `Can't link /usr/lib/wsl/lib/libnvoptix_loader.so.1 to libnvoptix.so.1` while trying to install pipenv?",
+    "course": "machine-learning-zoomcamp",
+    "document": "accd08bead"
+  }
+]

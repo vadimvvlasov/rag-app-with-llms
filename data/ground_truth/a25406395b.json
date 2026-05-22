@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I enable Private Google Access for the 'default' subnetwork in order to support Dataproc clusters with 'internal_ip_only' set to 'true'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a25406395b"
+  },
+  {
+    "question": "What is the step-by-step process to modify an existing subnetwork in Google Cloud Console to allow Private Google Access?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a25406395b"
+  },
+  {
+    "question": "In which tab of Google Cloud Console should I look for the list of subnets when preparing a new Dataproc cluster with private IP addresses only?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a25406395b"
+  },
+  {
+    "question": "Which specific setting within a subnet configuration must be toggled on to enable access to Private Google APIs from Dataproc clusters?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a25406395b"
+  },
+  {
+    "question": "What will happen if 'internal_ip_only' is set to 'false' instead of enabling Private Google Access for the subnetwork?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a25406395b"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my Random Forest model produce identical RMSE scores across different numbers of estimators?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a9dddac58b"
+  },
+  {
+    "question": "What mistake might cause the same untrained model to be scored repeatedly in each iteration of an n_estimators loop?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a9dddac58b"
+  },
+  {
+    "question": "How can using `predict_proba` instead of `predict` affect the evaluation of a regression task with a Random Forest?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a9dddac58b"
+  },
+  {
+    "question": "If I set `max_depth=1` for all trees, what implicit effect does this have on the ensemble's performance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a9dddac58b"
+  },
+  {
+    "question": "What steps should I ensure to correctly train and validate each RandomForestRegressor within a loop over n_estimators?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a9dddac58b"
+  }
+]

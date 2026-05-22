@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Does the course cover comprehensive system design topics separately, or is system design integrated into other modules?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9198d40c17"
+  },
+  {
+    "question": "Are there specific lessons dedicated to designing scalable architectures for machine learning applications?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9198d40c17"
+  },
+  {
+    "question": "Will I learn how to deploy ML models on platforms like web services, AWS Lambda, and Kubernetes as part of the curriculum?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9198d40c17"
+  },
+  {
+    "question": "Is there any material provided that explains best practices for integrating ML models into production systems without a standalone system design section?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9198d40c17"
+  },
+  {
+    "question": "Can students expect guidance on handling the operational aspects of machine learning projects, such as monitoring and scalability, even though system design is not explicitly taught?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9198d40c17"
+  }
+]

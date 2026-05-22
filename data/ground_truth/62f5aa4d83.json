@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Will the curriculum include hands-on projects that simulate real-world machine learning engineering tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "62f5aa4d83"
+  },
+  {
+    "question": "Does the program cover deployment technologies such as FastAPI, AWS Lambda, and Kubernetes, which are essential for ML engineers?",
+    "course": "machine-learning-zoomcamp",
+    "document": "62f5aa4d83"
+  },
+  {
+    "question": "How does the evaluation process in this course align with industry standards for assessing ML model performance and reliability?",
+    "course": "machine-learning-zoomcamp",
+    "document": "62f5aa4d83"
+  },
+  {
+    "question": "Can participants expect to work on data engineering pipelines within the same project flow that integrates machine learning components?",
+    "course": "machine-learning-zoomcamp",
+    "document": "62f5aa4d83"
+  },
+  {
+    "question": "Is there a focus on monitoring and maintaining deployed models, reflecting the ongoing responsibilities of DS/ML engineers?",
+    "course": "machine-learning-zoomcamp",
+    "document": "62f5aa4d83"
+  }
+]

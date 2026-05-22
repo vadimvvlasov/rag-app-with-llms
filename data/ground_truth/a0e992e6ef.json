@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What operating systems are compatible with the Data Engineering ZoomCamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a0e992e6ef"
+  },
+  {
+    "question": "Is Linux preferred over other operating systems for smoother execution during the course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a0e992e6ef"
+  },
+  {
+    "question": "Do students need to install any additional tools on Windows to ensure seamless completion of shell scripts in later modules?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a0e992e6ef"
+  },
+  {
+    "question": "Are Git Bash and MINGW64 adequate for running the shell scripts used in the latter parts of the course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a0e992e6ef"
+  },
+  {
+    "question": "Which specific WSL2 distribution is recommended for optimal performance when using Windows as the operating system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a0e992e6ef"
+  }
+]

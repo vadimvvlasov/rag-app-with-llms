@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When connecting to a GCP VM using VSCode on Windows, what error message do I encounter if there's an issue with the install script?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b92da7c113"
+  },
+  {
+    "question": "How can I resolve the connection problem to \"MyServerName\" by modifying settings in the Windows registry?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b92da7c113"
+  },
+  {
+    "question": "What specific registry path should I navigate to when changing the 'Autorun' value to fix the VSCode connection issue on a GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b92da7c113"
+  },
+  {
+    "question": "If I prefer not to modify the registry, where is the known_hosts file located on Windows and how can I remove the problematic server entry?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b92da7c113"
+  },
+  {
+    "question": "On a Windows machine, what are the exact steps to open the Registry Editor using keyboard shortcuts?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b92da7c113"
+  }
+]

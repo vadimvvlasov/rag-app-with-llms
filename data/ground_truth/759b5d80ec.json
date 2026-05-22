@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Where can I locate the `rides.csv` file referenced in the Kafka Python producer script for Module 7?",
+    "course": "data-engineering-zoomcamp",
+    "document": "759b5d80ec"
+  },
+  {
+    "question": "What is the content and structure of the `rides.csv` dataset used by the `producer.py` program in the Data Engineering Zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "759b5d80ec"
+  },
+  {
+    "question": "Is there a URL provided to download the `rides.csv` data that `producer.py` utilizes during the streaming exercises?",
+    "course": "data-engineering-zoomcamp",
+    "document": "759b5d80ec"
+  },
+  {
+    "question": "Could you explain if the `rides.csv` file is available online for accessing the Kafka Python examples in Week 6 of the course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "759b5d80ec"
+  },
+  {
+    "question": "For Module 7's streaming exercises, where should I go to find the complete `rides.csv` dataset used by the Python producer scripts?",
+    "course": "data-engineering-zoomcamp",
+    "document": "759b5d80ec"
+  }
+]

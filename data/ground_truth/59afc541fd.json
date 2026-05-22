@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the installation of `grpcio==1.42.0` and `tensorflow-protobuf==2.7.0` fail to lock in Module 10?",
+    "course": "machine-learning-zoomcamp",
+    "document": "59afc541fd"
+  },
+  {
+    "question": "What are the alternative pinned versions that resolve successfully on Python 3.11+ for the Docker environment in this module?",
+    "course": "machine-learning-zoomcamp",
+    "document": "59afc541fd"
+  },
+  {
+    "question": "How can I configure my local setup if I am using macOS Apple Silicon to avoid the perpetual locking issue mentioned in the FAQ?",
+    "course": "machine-learning-zoomcamp",
+    "document": "59afc541fd"
+  },
+  {
+    "question": "If I choose to use newer pins for `grpcio` and `tensorflow-protobuf`, which specific versions should I specify in the `Pipfile` or `requirements.txt`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "59afc541fd"
+  },
+  {
+    "question": "What is the recommended approach to proceed with the course if I cannot lock the dependencies locally on my operating system?",
+    "course": "machine-learning-zoomcamp",
+    "document": "59afc541fd"
+  }
+]

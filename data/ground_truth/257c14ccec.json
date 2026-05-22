@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the role of the learning_rate parameter in XGBoost and how should I choose its value?",
+    "course": "machine-learning-zoomcamp",
+    "document": "257c14ccec"
+  },
+  {
+    "question": "How does adjusting n_estimators affect the performance of an XGBoost model, especially in relation to learning_rate?",
+    "course": "machine-learning-zoomcamp",
+    "document": "257c14ccec"
+  },
+  {
+    "question": "What is the purpose of max_depth in XGBoost, and what guidelines can help in selecting an appropriate depth?",
+    "course": "machine-learning-zoomcamp",
+    "document": "257c14ccec"
+  },
+  {
+    "question": "How does the subsample parameter influence the training of individual trees within an XGBoost ensemble, and why is it important for generalization?",
+    "course": "machine-learning-zoomcamp",
+    "document": "257c14ccec"
+  },
+  {
+    "question": "After tuning learning_rate, n_estimators, max_depth, and subsample, which additional parameters might I consider to fine-tune my XGBoost model further?",
+    "course": "machine-learning-zoomcamp",
+    "document": "257c14ccec"
+  }
+]

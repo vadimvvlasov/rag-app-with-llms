@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it permissible to implement the neural network assignments using PyTorch instead of Keras?",
+    "course": "machine-learning-zoomcamp",
+    "document": "05c264fddf"
+  },
+  {
+    "question": "What are the main differences in syntax between using Keras and PyTorch for constructing a convolutional neural network as covered in Module 8?",
+    "course": "machine-learning-zoomcamp",
+    "document": "05c264fddf"
+  },
+  {
+    "question": "Could I submit a pull request that provides a PyTorch version of the CNN examples from the 'Writing CNNs from Scratch in PyTorch' tutorial for the course assignments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "05c264fddf"
+  },
+  {
+    "question": "Will learning how to build models with both Keras and PyTorch be beneficial for understanding deep learning concepts covered in this machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "05c264fddf"
+  },
+  {
+    "question": "Are there any specific guidelines or preferences regarding which deep learning framework (Keras vs. PyTorch) should be used for homework submissions in Module 8?",
+    "course": "machine-learning-zoomcamp",
+    "document": "05c264fddf"
+  }
+]

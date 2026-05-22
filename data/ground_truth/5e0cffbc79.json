@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does reading parquet files directly from a cloudfront URL cause an 'Out of bounds' error in pandas?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5e0cffbc79"
+  },
+  {
+    "question": "What specific data anomaly leads to the 'timestamp[us] to timestamp[ns]' conversion issue resulting in this error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5e0cffbc79"
+  },
+  {
+    "question": "How can I use pyarrow to read parquet files into pandas when encountering out-of-bounds datetime columns?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5e0cffbc79"
+  },
+  {
+    "question": "What steps should I take if some datetime values (e.g., `dropOff_datetime` set to 3019) exceed the allowable range for `pd.Timestamp`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5e0cffbc79"
+  },
+  {
+    "question": "Is there a method to filter out-of-bound datetime records during the parquet file reading process using pyarrow and pandas?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5e0cffbc79"
+  }
+]

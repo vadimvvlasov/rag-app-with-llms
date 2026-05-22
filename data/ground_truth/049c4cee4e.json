@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the specific class in scikit-learn for performing regression using Random Forest?",
+    "course": "machine-learning-zoomcamp",
+    "document": "049c4cee4e"
+  },
+  {
+    "question": "How does the RandomForestRegressor differ from RandomForestClassifier when dealing with numerical target variables?",
+    "course": "machine-learning-zoomcamp",
+    "document": "049c4cee4e"
+  },
+  {
+    "question": "Where can I find detailed documentation on implementing a RandomForestRegressor for regression tasks in scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "049c4cee4e"
+  },
+  {
+    "question": "Which module of the machine-learning-zoomcamp course covers the application of Random Forest to regression problems?",
+    "course": "machine-learning-zoomcamp",
+    "document": "049c4cee4e"
+  },
+  {
+    "question": "Is there an official scikit-learn reference that explains the usage of RandomForestRegressor with examples?",
+    "course": "machine-learning-zoomcamp",
+    "document": "049c4cee4e"
+  }
+]

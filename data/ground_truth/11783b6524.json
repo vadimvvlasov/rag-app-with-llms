@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can you explain how Random Forest implements bagging in the context of ensemble learning?",
+    "course": "machine-learning-zoomcamp",
+    "document": "11783b6524"
+  },
+  {
+    "question": "How does XGBoost utilize boosting to improve model performance sequentially?",
+    "course": "machine-learning-zoomcamp",
+    "document": "11783b6524"
+  },
+  {
+    "question": "What are the primary advantages and disadvantages of using bagging compared to boosting?",
+    "course": "machine-learning-zoomcamp",
+    "document": "11783b6524"
+  },
+  {
+    "question": "In what scenarios might one choose Random Forest over XGBoost for a predictive modeling task?",
+    "course": "machine-learning-zoomcamp",
+    "document": "11783b6524"
+  },
+  {
+    "question": "Could you describe how observation weights are adjusted during the boosting process in XGBoost?",
+    "course": "machine-learning-zoomcamp",
+    "document": "11783b6524"
+  }
+]

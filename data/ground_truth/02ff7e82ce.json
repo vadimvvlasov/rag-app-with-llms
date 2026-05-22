@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my pre-commit hook return a 'module not found' error when I try to import custom packages from my source code?",
+    "course": "mlops-zoomcamp",
+    "document": "02ff7e82ce"
+  },
+  {
+    "question": "What is the correct project structure to avoid import errors in pytest hooks for custom modules located under `/sources`?",
+    "course": "mlops-zoomcamp",
+    "document": "02ff7e82ce"
+  },
+  {
+    "question": "How can I modify the `pytest-check` hook configuration to properly include my custom package directory in the Python path during testing?",
+    "course": "mlops-zoomcamp",
+    "document": "02ff7e82ce"
+  },
+  {
+    "question": "Could you provide an example of a shell script (`run.sh`) that sets the PYTHONPATH and runs pytest from within the tests directory while ensuring all modules are correctly imported?",
+    "course": "mlops-zoomcamp",
+    "document": "02ff7e82ce"
+  },
+  {
+    "question": "What steps should I take to ensure that `pipenv run pytest` executes successfully when invoked from a custom hook in my pre-commit configuration?",
+    "course": "mlops-zoomcamp",
+    "document": "02ff7e82ce"
+  }
+]

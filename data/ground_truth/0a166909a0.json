@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which tool is best suited for running Kubernetes clusters within Docker containers during local development?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a166909a0"
+  },
+  {
+    "question": "What single-node Kubernetes cluster solution can be used directly on a personal computer without virtualization overhead?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a166909a0"
+  },
+  {
+    "question": "Among the lightweight Kubernetes distributions, which one is recommended for quick setup and minimal resource usage in a local environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a166909a0"
+  },
+  {
+    "question": "Is MicroK8s considered a suitable option for developers looking to deploy TensorFlow Serving models locally without extensive system resources?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a166909a0"
+  },
+  {
+    "question": "Does Docker Desktop provide an integrated Kubernetes server that can be utilized for hands-on practice with model deployment in the course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a166909a0"
+  }
+]

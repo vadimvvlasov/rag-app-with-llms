@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving a warning that Python 3.12 is not found on my system when neither 'pyenv' nor 'asdf' could be used to install it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c8d2668615"
+  },
+  {
+    "question": "What specific version of Python should I specify in the Dockerfile to match the one expected by the Pipfile?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c8d2668615"
+  },
+  {
+    "question": "How can I ensure compatibility between the local Python version shown in the Pipfile and the container's Python version after updating the Dockerfile?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c8d2668615"
+  },
+  {
+    "question": "Where in the video tutorial can I find details about managing environments with Docker for this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c8d2668615"
+  },
+  {
+    "question": "What steps should I take if my current container is running a different Python version, such as 3.8.12-slim, instead of the required Python 3.12?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c8d2668615"
+  }
+]

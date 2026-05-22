@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the exact command to set the MLFlow tracking URI for our project?",
+    "course": "mlops-zoomcamp",
+    "document": "0afee51849"
+  },
+  {
+    "question": "In which module of the mlops-zoomcamp course do we configure the MLFlow tracking URI?",
+    "course": "mlops-zoomcamp",
+    "document": "0afee51849"
+  },
+  {
+    "question": "Which part of the Docker file snippet from Homework Question 6 should be used to set the MLFlow tracking URI?",
+    "course": "mlops-zoomcamp",
+    "document": "0afee51849"
+  },
+  {
+    "question": "What protocol and port does the suggested MLFlow tracking URI use?",
+    "course": "mlops-zoomcamp",
+    "document": "0afee51849"
+  },
+  {
+    "question": "How can I verify that the MLFlow tracking URI has been correctly configured in my Python script?",
+    "course": "mlops-zoomcamp",
+    "document": "0afee51849"
+  }
+]

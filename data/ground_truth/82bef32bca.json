@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why are the CPU metrics displayed as 'Unknown' in my Horizontal Pod Autoscaler (HPA) configuration?",
+    "course": "machine-learning-zoomcamp",
+    "document": "82bef32bca"
+  },
+  {
+    "question": "What steps should I follow to resolve the issue where the HPA fails to retrieve CPU utilization metrics?",
+    "course": "machine-learning-zoomcamp",
+    "document": "82bef32bca"
+  },
+  {
+    "question": "How do I delete the existing HPA named `credit-hpa` before applying a new configuration?",
+    "course": "machine-learning-zoomcamp",
+    "document": "82bef32bca"
+  },
+  {
+    "question": "Where can I find and apply the Metrics Server configuration YAML file to enable CPU metric reporting in Kubernetes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "82bef32bca"
+  },
+  {
+    "question": "After deleting the HPA and applying the Metrics Server, what command should I execute to recreate the HPA for it to function correctly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "82bef32bca"
+  }
+]

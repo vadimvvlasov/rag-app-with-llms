@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What functions from numpy are used to determine the intersection point between precision and recall curves?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fed6cad07b"
+  },
+  {
+    "question": "Could you provide a step-by-step guide on how to locate the threshold where precision equals recall using numpy's `diff` and `sign` functions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fed6cad07b"
+  },
+  {
+    "question": "Given a DataFrame named `df_scores` with columns 'threshold', 'precision', and 'recall', how can I identify the index of intersection between these two metrics?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fed6cad07b"
+  },
+  {
+    "question": "What does the expression `np.sign(np.array(df_scores['precision']) - np.array(df_scores['recall']))` compute, and why is it necessary for finding the intersection?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fed6cad07b"
+  },
+  {
+    "question": "How do I extract and display the threshold value where precision and recall curves intersect after identifying the relevant index in `df_scores`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fed6cad07b"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What operator is used for matrix-matrix multiplication in NumPy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ef50b0d88"
+  },
+  {
+    "question": "How does the `@` operator differ from the `*` operator when working with matrices in NumPy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ef50b0d88"
+  },
+  {
+    "question": "Which function or operator should be used to perform element-wise multiplication of two matrices in NumPy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ef50b0d88"
+  },
+  {
+    "question": "In NumPy, what method provides a way to multiply multiple arrays together in a single operation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ef50b0d88"
+  },
+  {
+    "question": "When scaling a matrix by a scalar value, which approach is recommended—using the `*` operator or the `numpy.multiply()` function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ef50b0d88"
+  }
+]

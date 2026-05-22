@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I compute precision, recall, and F1 score using the scikit-learn library without manually calculating true positives, true negatives, false positives, and false negatives?",
+    "course": "machine-learning-zoomcamp",
+    "document": "02cd286eb8"
+  },
+  {
+    "question": "What are the specific functions in scikit-learn to calculate precision, recall, and F1 score for a binary classification problem?",
+    "course": "machine-learning-zoomcamp",
+    "document": "02cd286eb8"
+  },
+  {
+    "question": "Can you provide an example code snippet showing how to use `precision_score`, `recall_score`, and `f1_score` from scikit-learn with the parameters `y_true` and `y_pred`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "02cd286eb8"
+  },
+  {
+    "question": "What does the `average` parameter do in the precision, recall, and F1 score functions of scikit-learn, and which value should be used for a binary classification task?",
+    "course": "machine-learning-zoomcamp",
+    "document": "02cd286eb8"
+  },
+  {
+    "question": "Which module of the 'machine-learning-zoomcamp' course covers the evaluation metrics for classification using scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "02cd286eb8"
+  }
+]

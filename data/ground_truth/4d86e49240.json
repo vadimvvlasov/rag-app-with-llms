@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are some key features offered by AI Platform Predictions with Cloud Monitoring & Logging on Google Cloud Platform for monitoring machine learning models?",
+    "course": "mlops-zoomcamp",
+    "document": "4d86e49240"
+  },
+  {
+    "question": "How does Azure Machine Learning support the continuous monitoring of machine learning model performance in production environments?",
+    "course": "mlops-zoomcamp",
+    "document": "4d86e49240"
+  },
+  {
+    "question": "Can you describe the specific functionalities provided by Amazon SageMaker Model Monitor for ensuring data quality and model reliability after deployment?",
+    "course": "mlops-zoomcamp",
+    "document": "4d86e49240"
+  },
+  {
+    "question": "Apart from Evidently, which other cloud-based services are commonly used for end-to-end MLOps workflows, including training, deployment, and monitoring?",
+    "course": "mlops-zoomcamp",
+    "document": "4d86e49240"
+  },
+  {
+    "question": "In the context of Module 5 on Monitoring within the MLOps Zoom Camp course, what considerations should be taken into account when selecting a cloud platform alternative to Evidently for model performance tracking?",
+    "course": "mlops-zoomcamp",
+    "document": "4d86e49240"
+  }
+]

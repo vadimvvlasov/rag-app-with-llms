@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did the TensorFlow Serving Docker image fail to build and test successfully while the Flask image succeeded?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c04524a66d"
+  },
+  {
+    "question": "What specific version compatibility issue between TensorFlow and TensorFlow Serving could cause a failure during local testing with Docker on Apple Silicon?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c04524a66d"
+  },
+  {
+    "question": "How does the error message `/usr/bin/tf_serving_entrypoint.sh: line 3:     7 Illegal instruction` relate to the TensorFlow Serving binary on Apple Silicon systems?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c04524a66d"
+  },
+  {
+    "question": "What GitHub comment provides a solution for resolving the illegal instruction error when running TF-Serving locally with Docker on an Apple Silicon machine?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c04524a66d"
+  },
+  {
+    "question": "How does the introduction of Docker VMM Beta in release 4.35.0 for Mac affect the compatibility and execution of native TensorFlow Serving images?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c04524a66d"
+  }
+]

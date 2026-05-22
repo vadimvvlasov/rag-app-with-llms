@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did SSH stop working on my GCP VM after it was restarted?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cdbabdd71a"
+  },
+  {
+    "question": "What is the most common reason for SSH connections to fail on a GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cdbabdd71a"
+  },
+  {
+    "question": "How can I check if disk space is running low on my GCP VM's filesystem?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cdbabdd71a"
+  },
+  {
+    "question": "What command should I use in the serial console to view detailed disk usage information?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cdbabdd71a"
+  },
+  {
+    "question": "After freeing up disk space, what step should I take to restore SSH access on the GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "cdbabdd71a"
+  }
+]

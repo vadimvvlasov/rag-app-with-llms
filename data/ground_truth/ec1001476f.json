@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I set up a DataProc cluster using Airflow's operators?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec1001476f"
+  },
+  {
+    "question": "Which specific roles must be granted to the service account for managing DataProc via Airflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec1001476f"
+  },
+  {
+    "question": "What steps are required to include the BigQuery Connector when submitting a PySpark job through `DataprocSubmitPySparkJobOperator`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec1001476f"
+  },
+  {
+    "question": "Where can I find detailed documentation on the Airflow providers for Google Cloud, specifically for DataProc operations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec1001476f"
+  },
+  {
+    "question": "Can you explain why using Workload Identity might result in 'user not authorized to act as service account' errors when interacting with DataProc?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec1001476f"
+  }
+]

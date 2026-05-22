@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What steps are required to bind-mount a local directory for Kestra flows so that they can be edited outside the container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "958ab42c43"
+  },
+  {
+    "question": "How do you configure Kestra's file watcher to automatically import flow definitions from a mounted directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "958ab42c43"
+  },
+  {
+    "question": "Which environment variable controls the file-watcher settings in Kestra, and what should its value look like?",
+    "course": "data-engineering-zoomcamp",
+    "document": "958ab42c43"
+  },
+  {
+    "question": "If I edit a flow directly through the Kestra web UI, will those changes be reflected in the local YAML files on my host?",
+    "course": "data-engineering-zoomcamp",
+    "document": "958ab42c43"
+  },
+  {
+    "question": "Can you provide a complete example of a `docker-compose.yml` configuration that includes both the bind-mount and file-watcher setup for Kestra flows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "958ab42c43"
+  }
+]

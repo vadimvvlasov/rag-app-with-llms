@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I integrate a dbt project into a Kestra workflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e14f6a8ed9"
+  },
+  {
+    "question": "What are the benefits of orchestrating dbt runs using Kestra?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e14f6a8ed9"
+  },
+  {
+    "question": "Does Kestra provide monitoring and alerting features for dbt projects?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e14f6a8ed9"
+  },
+  {
+    "question": "Can I manage my dbt project triggers and changes through Git within Kestra?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e14f6a8ed9"
+  },
+  {
+    "question": "In which module of the data-engineering-zoomcamp course is the integration of dbt with Kestra covered?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e14f6a8ed9"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What function should I use to merge two pandas DataFrames containing training and validation data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "19a42e2005"
+  },
+  {
+    "question": "How can I concatenate two NumPy arrays representing target labels for train and validation sets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "19a42e2005"
+  },
+  {
+    "question": "Where can I find the documentation for the `pandas.concat` method used in combining datasets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "19a42e2005"
+  },
+  {
+    "question": "Which parameters are required when using `numpy.concatenate` to join label arrays from training and validation splits?",
+    "course": "machine-learning-zoomcamp",
+    "document": "19a42e2005"
+  },
+  {
+    "question": "In Module 2 of the Machine Learning ZoomCamp course, what code snippet correctly combines a training DataFrame with a validation DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "19a42e2005"
+  }
+]

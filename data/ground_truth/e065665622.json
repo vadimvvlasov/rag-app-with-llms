@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is the Mage Dashboard on unit_3 not displaying any charts even though my runs have completed successfully?",
+    "course": "mlops-zoomcamp",
+    "document": "e065665622"
+  },
+  {
+    "question": "What error message am I encountering when attempting to view charts in the Mage Dashboard after the pipelines finish running?",
+    "course": "mlops-zoomcamp",
+    "document": "e065665622"
+  },
+  {
+    "question": "Could there be a data type conversion issue, specifically casting a DatetimeArray to dtype float64, that prevents chart visualization on the Mage Dashboard?",
+    "course": "mlops-zoomcamp",
+    "document": "e065665622"
+  },
+  {
+    "question": "After ensuring all pipelines have run successfully, what additional information should I provide if the error persists and charts still do not appear in the Mage Dashboard?",
+    "course": "mlops-zoomcamp",
+    "document": "e065665622"
+  },
+  {
+    "question": "In the context of Module 3: Orchestration for the MLOps ZoomCamp course, what steps should I take to troubleshoot the `Cannot cast DatetimeArray to dtype float64` error that blocks chart rendering on the Mage Dashboard?",
+    "course": "mlops-zoomcamp",
+    "document": "e065665622"
+  }
+]

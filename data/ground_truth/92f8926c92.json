@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the procedure to install Kind using the Go package if I encounter issues with Windows Powershell or Choco Library?",
+    "course": "machine-learning-zoomcamp",
+    "document": "92f8926c92"
+  },
+  {
+    "question": "How can I verify that Go has been successfully installed on my system before proceeding with Kind installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "92f8926c92"
+  },
+  {
+    "question": "Which specific version of Kind should I install via the Go command, and what is the exact Go command to execute?",
+    "course": "machine-learning-zoomcamp",
+    "document": "92f8926c92"
+  },
+  {
+    "question": "After installing Kind through Go, how do I confirm that the installation was successful?",
+    "course": "machine-learning-zoomcamp",
+    "document": "92f8926c92"
+  },
+  {
+    "question": "Are there any additional steps or considerations needed after confirming the installation of Kind using Go in a Kubernetes environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "92f8926c92"
+  }
+]

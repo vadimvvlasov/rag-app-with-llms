@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I download a dataset directly into my Kaggle Notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a4f9065b1"
+  },
+  {
+    "question": "What command is used to fetch a CSV file from GitHub using `wget` in Kaggle Notebooks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a4f9065b1"
+  },
+  {
+    "question": "After downloading a dataset with `wget`, how do I load it into a pandas DataFrame within Kaggle Notebooks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a4f9065b1"
+  },
+  {
+    "question": "Is the `!` symbol necessary before the `wget` command when downloading files in Kaggle Notebooks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a4f9065b1"
+  },
+  {
+    "question": "What is the specific URL format required for `wget` to successfully retrieve a dataset from GitHub's raw repository in a Kaggle Notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a4f9065b1"
+  }
+]

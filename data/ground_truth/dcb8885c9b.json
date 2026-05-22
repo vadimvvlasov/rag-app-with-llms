@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I free up space on my VM if it runs out of storage during data processing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dcb8885c9b"
+  },
+  {
+    "question": "What command should I use to identify processes that are still holding onto deleted files, preventing disk space from being reclaimed?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dcb8885c9b"
+  },
+  {
+    "question": "What is the process for installing and using `ncdu` to visually inspect file system usage on a Linux-based VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dcb8885c9b"
+  },
+  {
+    "question": "Which common components typically consume large amounts of disk space in a data engineering environment, and how can I clean them up (e.g., Docker images, pipeline caches, old logs)?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dcb8885c9b"
+  },
+  {
+    "question": "If my pipeline tool's cache continues to grow unchecked, what alternative strategies can I implement to manage storage usage effectively?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dcb8885c9b"
+  }
+]

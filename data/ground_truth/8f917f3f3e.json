@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I activate code auto-completion functionality within Jupyter Notebook when the Tab key does not respond?",
+    "course": "mlops-zoomcamp",
+    "document": "8f917f3f3e"
+  },
+  {
+    "question": "What specific package should be installed via pip to facilitate auto-completion in a Jupyter environment?",
+    "course": "mlops-zoomcamp",
+    "document": "8f917f3f3e"
+  },
+  {
+    "question": "What is the exact command required in a Jupyter cell to upgrade the Jedi library for enhanced auto-completion features?",
+    "course": "mlops-zoomcamp",
+    "document": "8f917f3f3e"
+  },
+  {
+    "question": "Which version of the Jedi library must be installed or upgraded to ensure proper Tab-based code completion works in Jupyter Notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "8f917f3f3e"
+  },
+  {
+    "question": "In the context of enabling auto-completion for Python code in Jupyter, what prerequisite software package installation is necessary?",
+    "course": "mlops-zoomcamp",
+    "document": "8f917f3f3e"
+  }
+]

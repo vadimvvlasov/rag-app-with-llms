@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did my tool raise a validation error when I passed a float as input?",
+    "course": "llm-zoomcamp",
+    "document": "5beafdd0c8"
+  },
+  {
+    "question": "What does FastMCP use to validate the types of inputs for tools?",
+    "course": "llm-zoomcamp",
+    "document": "5beafdd0c8"
+  },
+  {
+    "question": "How can I ensure that the values in the JSON payload match the expected types defined in the tool's schema?",
+    "course": "llm-zoomcamp",
+    "document": "5beafdd0c8"
+  },
+  {
+    "question": "In the context of FastMCP, what is the difference between using 'number' and other data types like 'string' or 'boolean'?",
+    "course": "llm-zoomcamp",
+    "document": "5beafdd0c8"
+  },
+  {
+    "question": "Can you provide an example of how to structure a JSON input so that it adheres to a tool's declaration where the property 'temp' expects a numeric value?",
+    "course": "llm-zoomcamp",
+    "document": "5beafdd0c8"
+  }
+]

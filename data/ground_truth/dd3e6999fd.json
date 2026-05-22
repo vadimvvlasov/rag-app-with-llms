@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving a '400 Bad Request' error with an 'Invalid JWT Token' when executing `terraform apply` in WSL2?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dd3e6999fd"
+  },
+  {
+    "question": "What is causing the discrepancy in JWT validation resulting from time desynchronization on my machine during Terraform operations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dd3e6999fd"
+  },
+  {
+    "question": "Could you explain how system time synchronization affects the validity of JWT tokens used by Terraform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dd3e6999fd"
+  },
+  {
+    "question": "How can I resolve the 'Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe' error message encountered while running `terraform apply` on WSL2?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dd3e6999fd"
+  },
+  {
+    "question": "What specific command should I execute to synchronize the system time and eliminate the JWT validation issue during Terraform execution within a Windows Subsystem for Linux (WSL) environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dd3e6999fd"
+  }
+]

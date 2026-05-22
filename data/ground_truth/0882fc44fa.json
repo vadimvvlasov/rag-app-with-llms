@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary method for controlling access to datasets and tables in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0882fc44fa"
+  },
+  {
+    "question": "Which roles are available for managing permissions on BigQuery resources, and what actions do they permit?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0882fc44fa"
+  },
+  {
+    "question": "How can I implement fine-grained access control over specific columns within a table in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0882fc44fa"
+  },
+  {
+    "question": "What strategies should I use to ensure that users have only the necessary permissions without compromising security?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0882fc44fa"
+  },
+  {
+    "question": "Are there tools or views provided by BigQuery to monitor and audit who accesses data and performs queries?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0882fc44fa"
+  }
+]

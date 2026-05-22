@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific error message do I encounter when trying to create a bucket in LocalStack using Boto3?",
+    "course": "mlops-zoomcamp",
+    "document": "5137e6c204"
+  },
+  {
+    "question": "Why does the unspecified location constraint lead to an exception during bucket creation?",
+    "course": "mlops-zoomcamp",
+    "document": "5137e6c204"
+  },
+  {
+    "question": "Which parameter should be added to the `create_bucket` method to resolve the compatibility issue with the region endpoint?",
+    "course": "mlops-zoomcamp",
+    "document": "5137e6c204"
+  },
+  {
+    "question": "What is the correct syntax for specifying the `CreateBucketConfiguration` when creating a bucket in AWS using Boto3?",
+    "course": "mlops-zoomcamp",
+    "document": "5137e6c204"
+  },
+  {
+    "question": "How can I ensure that my bucket creation request aligns with the region-specific endpoint requirements in LocalStack?",
+    "course": "mlops-zoomcamp",
+    "document": "5137e6c204"
+  }
+]

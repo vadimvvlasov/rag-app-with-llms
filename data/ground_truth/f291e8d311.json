@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the error 'Postgres: bind: address already in use' when starting a Docker Postgres container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f291e8d311"
+  },
+  {
+    "question": "What command should I execute to find out which service is currently using port 5432 on my system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f291e8d311"
+  },
+  {
+    "question": "After identifying the conflicting service, what specific command do I need to run to stop it?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f291e8d311"
+  },
+  {
+    "question": "If I want to avoid future port conflicts with the Postgres container, which configuration change should I make in my Docker setup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f291e8d311"
+  },
+  {
+    "question": "When mapping a local port to a different container port in Docker, where should I specify this mapping (`Dockerfile` or `docker-compose.yml`)?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f291e8d311"
+  }
+]

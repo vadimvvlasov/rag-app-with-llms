@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I am encountering an error while trying to import xgboost in Python on my Mac, specifically the message 'library not loaded: @rpath/libomp.dylib'. What should I do to resolve this issue?",
+    "course": "mlops-zoomcamp",
+    "document": "a0ac7f4f77"
+  },
+  {
+    "question": "During the installation of xgboost for a machine learning project using Python on macOS, I receive a library loading error related to libomp. How can I fix this problem?",
+    "course": "mlops-zoomcamp",
+    "document": "a0ac7f4f77"
+  },
+  {
+    "question": "While setting up an XGBoost model in Python on my Mac computer, I get an error stating 'library not loaded: @rpath/libomp.dylib'. Could you guide me through the necessary steps to resolve it?",
+    "course": "mlops-zoomcamp",
+    "document": "a0ac7f4f77"
+  },
+  {
+    "question": "I am working through a module on Experiment Tracking for the MLOps ZoomCamp course and face an issue importing xgboost on macOS. The error message mentions '@rpath/libomp.dylib'. What command should I execute to solve this?",
+    "course": "mlops-zoomcamp",
+    "document": "a0ac7f4f77"
+  },
+  {
+    "question": "In the context of Module 2: Experiment Tracking of the MLOPs ZoomCamp, users report difficulties with the xgboost library on a Mac due to a missing 'libomp.dylib' file. What is the recommended solution provided in the FAQ?",
+    "course": "mlops-zoomcamp",
+    "document": "a0ac7f4f77"
+  }
+]

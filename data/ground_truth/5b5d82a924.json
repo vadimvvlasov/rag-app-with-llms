@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How many records are loaded after executing the provided Python code for the DLT workshop?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b5d82a924"
+  },
+  {
+    "question": "What is the age of the individual with ID 3 among the loaded records?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b5d82a924"
+  },
+  {
+    "question": "Which occupation values need to be filtered out before calculating the sum of ages?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b5d82a924"
+  },
+  {
+    "question": "Why does specifying a raw string with `file:///` in the `os.environ['DESTINATION__FILESYSTEM__BUCKET_URL']` resolve the issue of DLT files being saved to the C drive?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b5d82a924"
+  },
+  {
+    "question": "After running the pipeline, how can I verify that Parquet files have been correctly generated in the specified folder?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5b5d82a924"
+  }
+]

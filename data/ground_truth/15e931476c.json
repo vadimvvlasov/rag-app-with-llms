@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an 'OSError: [WinError 126]' when trying to import PyTorch in my Windows environment?",
+    "course": "llm-zoomcamp",
+    "document": "15e931476c"
+  },
+  {
+    "question": "What specific DLL file is causing the failure to load, and where is it located on my system?",
+    "course": "llm-zoomcamp",
+    "document": "15e931476c"
+  },
+  {
+    "question": "How can I resolve the issue by installing the Visual C++ Redistributable package?",
+    "course": "llm-zoomcamp",
+    "document": "15e931476c"
+  },
+  {
+    "question": "Is it necessary to install the full version of Visual Studio instead of just Visual Studio Code to fix this error?",
+    "course": "llm-zoomcamp",
+    "document": "15e931476c"
+  },
+  {
+    "question": "Can you provide a direct link or additional resources for troubleshooting missing fbgemm.dll dependencies in PyTorch on Windows?",
+    "course": "llm-zoomcamp",
+    "document": "15e931476c"
+  }
+]

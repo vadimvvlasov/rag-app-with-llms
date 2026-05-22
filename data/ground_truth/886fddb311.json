@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did using a fitted `OneHotEncoder` result in a higher RMSE on the test set compared to `DictVectorizer`?",
+    "course": "mlops-zoomcamp",
+    "document": "886fddb311"
+  },
+  {
+    "question": "What specific difference between `OneHotEncoder` and `DictVectorizer` could cause discrepancies when handling categorical features from training to validation sets?",
+    "course": "mlops-zoomcamp",
+    "document": "886fddb311"
+  },
+  {
+    "question": "How should unknown categories be treated by both `OneHotEncoder` and `DictVectorizer` during feature encoding, and why might this lead to different RMSE values?",
+    "course": "mlops-zoomcamp",
+    "document": "886fddb311"
+  },
+  {
+    "question": "In the context of encoding categorical variables without sequences of strings in each row, what behaviors are expected from `OneHotEncoder` and `DictVectorizer` post-fitting on the training set?",
+    "course": "mlops-zoomcamp",
+    "document": "886fddb311"
+  },
+  {
+    "question": "What potential issue could arise when applying a `OneHotEncoder` fitted on the training data to the validation data that would affect the model's RMSE performance?",
+    "course": "mlops-zoomcamp",
+    "document": "886fddb311"
+  }
+]

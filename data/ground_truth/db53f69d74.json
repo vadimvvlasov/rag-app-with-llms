@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve permission issues when mounting a volume for pgAdmin in Docker?",
+    "course": "data-engineering-zoomcamp",
+    "document": "db53f69d74"
+  },
+  {
+    "question": "What specific ownership change is required for the local directory to allow pgAdmin access inside a Docker container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "db53f69d74"
+  },
+  {
+    "question": "Why does pgAdmin require explicit permission settings unlike Postgres in a Docker environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "db53f69d74"
+  },
+  {
+    "question": "Which user ID should be set as the owner of the local pgAdmin data directory to fix the 'permission denied' error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "db53f69d74"
+  },
+  {
+    "question": "Can you provide a reliable resource or link that explains how to correctly configure permissions for pgAdmin volumes in Docker?",
+    "course": "data-engineering-zoomcamp",
+    "document": "db53f69d74"
+  }
+]

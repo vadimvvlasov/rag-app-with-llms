@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I add to my `.gitignore` file to exclude large directories when uploading projects to GitHub?",
+    "course": "mlops-zoomcamp",
+    "document": "a76d315b86"
+  },
+  {
+    "question": "How can I prevent the `mlruns` and specific experiment tracking folders from being tracked by Git during a repository upload?",
+    "course": "mlops-zoomcamp",
+    "document": "a76d315b86"
+  },
+  {
+    "question": "Which directories related to experiment tracking in Module 2 of the MLOps ZoomCamp course need to be ignored for efficient GitHub uploads?",
+    "course": "mlops-zoomcamp",
+    "document": "a76d315b86"
+  },
+  {
+    "question": "What is the correct syntax for specifying multiple directories, such as `mlruns` and `artifacts`, within a `.gitignore` file for a project located in Module 2 of the MLOps ZoomCamp curriculum?",
+    "course": "mlops-zoomcamp",
+    "document": "a76d315b86"
+  },
+  {
+    "question": "In the context of the MLOps ZoomCamp's Module 2 on Experiment Tracking, how do you configure your repository to avoid exceeding GitHub's size limits during uploads?",
+    "course": "mlops-zoomcamp",
+    "document": "a76d315b86"
+  }
+]

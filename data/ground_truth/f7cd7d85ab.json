@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a `FileNotFoundError` when attempting to start the MLflow UI after installing it via pip on a Windows machine?",
+    "course": "mlops-zoomcamp",
+    "document": "f7cd7d85ab"
+  },
+  {
+    "question": "What specific PATH modification is required to resolve the 'The system cannot find the file specified' error for `mlflow ui` on Windows?",
+    "course": "mlops-zoomcamp",
+    "document": "f7cd7d85ab"
+  },
+  {
+    "question": "Could you provide the exact directory that needs to be appended to the system's PATH variable to enable `mlflow ui` functionality post-installation on a Windows OS?",
+    "course": "mlops-zoomcamp",
+    "document": "f7cd7d85ab"
+  },
+  {
+    "question": "After installing MLflow with pip on Windows, what additional configuration step is necessary to allow the `mlflow ui` command to execute without errors?",
+    "course": "mlops-zoomcamp",
+    "document": "f7cd7d85ab"
+  },
+  {
+    "question": "What should I do if running `mlflow ui` results in a FileNotFoundError on Windows after using `pip install mlflow`, according to the course FAQ for Module 2?",
+    "course": "mlops-zoomcamp",
+    "document": "f7cd7d85ab"
+  }
+]

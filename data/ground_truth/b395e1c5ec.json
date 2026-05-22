@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do I receive an invalid mount configuration error when attempting to run `docker compose up` directly from the mage repository?",
+    "course": "mlops-zoomcamp",
+    "document": "b395e1c5ec"
+  },
+  {
+    "question": "What is the recommended command to execute instead of `docker compose up` for setting up the mage environment?",
+    "course": "mlops-zoomcamp",
+    "document": "b395e1c5ec"
+  },
+  {
+    "question": "Where should I find and use the `start.sh` script within the mage project directory?",
+    "course": "mlops-zoomcamp",
+    "document": "b395e1c5ec"
+  },
+  {
+    "question": "How can I ensure that essential environment variables such as `PROJECT_NAME` and `MAGE_CODE_PATH` are correctly configured when starting a new mage project like in a capstone?",
+    "course": "mlops-zoomcamp",
+    "document": "b395e1c5ec"
+  },
+  {
+    "question": "What steps should I take if my new mage project does not include a `start.sh` script or the `scripts` directory?",
+    "course": "mlops-zoomcamp",
+    "document": "b395e1c5ec"
+  }
+]

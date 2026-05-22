@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can I execute a separate Python script while my web server is already running in the terminal?",
+    "course": "machine-learning-zoomcamp",
+    "document": "de0726d5ea"
+  },
+  {
+    "question": "What steps are required to run another script that interacts with an existing web server without interrupting it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "de0726d5ea"
+  },
+  {
+    "question": "How do I initiate a new terminal session to allow concurrent execution of additional scripts alongside an active web-server process?",
+    "course": "machine-learning-zoomcamp",
+    "document": "de0726d5ea"
+  },
+  {
+    "question": "Is there a specific method to ensure a Python script can make requests to a web server that was started in a different terminal window?",
+    "course": "machine-learning-zoomcamp",
+    "document": "de0726d5ea"
+  },
+  {
+    "question": "What is the recommended approach for running multiple scripts, including one that communicates with a web server, without causing conflicts or stopping the server?",
+    "course": "machine-learning-zoomcamp",
+    "document": "de0726d5ea"
+  }
+]

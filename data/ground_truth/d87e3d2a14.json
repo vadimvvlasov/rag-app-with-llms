@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering the error 'ERRO[0000] error waiting for container: context canceled' when using Docker?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d87e3d2a14"
+  },
+  {
+    "question": "How can I check if Docker was installed via snap, and what should I do if it was?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d87e3d2a14"
+  },
+  {
+    "question": "What command should I run to verify the installation method of Docker on my system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d87e3d2a14"
+  },
+  {
+    "question": "If the snap status command fails with 'unknown command \"status\"', how do I proceed to fix the Docker installation issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d87e3d2a14"
+  },
+  {
+    "question": "Where can I find the official guide to install Docker correctly when the snap installation seems problematic?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d87e3d2a14"
+  }
+]

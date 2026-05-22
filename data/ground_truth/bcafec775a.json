@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is written per partition when a Spark DataFrame is repartitioned and saved in Parquet format?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bcafec775a"
+  },
+  {
+    "question": "How can one determine the number of rows contained in each output Parquet file after repartitioning?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bcafec775a"
+  },
+  {
+    "question": "Does the distribution of total rows across partitions depend on both the dataset size and the chosen number of partitions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bcafec775a"
+  },
+  {
+    "question": "What function allows you to inspect which input file a particular row originated from for debugging partition sizes?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bcafec775a"
+  },
+  {
+    "question": "When using `df.repartition(num_partitions).write.parquet(\"output/\")`, what command can be executed post-write to verify the row count in each generated Parquet file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bcafec775a"
+  }
+]

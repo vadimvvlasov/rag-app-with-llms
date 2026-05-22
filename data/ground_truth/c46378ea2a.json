@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving unexpected predictions from a partitioned or clustered table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c46378ea2a"
+  },
+  {
+    "question": "Could the formatting of dates in my query be causing discrepancies in the expected outcome?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c46378ea2a"
+  },
+  {
+    "question": "What steps should I take to troubleshoot issues with date formats when working with partitioned/clustered tables in data warehousing?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c46378ea2a"
+  },
+  {
+    "question": "In the context of Module 3 on Data Warehousing for the data-engineering-zoomcamp course, how does the format of dates influence table predictions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c46378ea2a"
+  },
+  {
+    "question": "What specific consideration regarding date formatting is highlighted in the FAQ to resolve mismatched predictions from partitioned or clustered tables?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c46378ea2a"
+  }
+]

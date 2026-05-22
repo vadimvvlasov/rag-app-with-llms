@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Ridge regression using Scikit-Learn, what parameter is used to specify the regularization strength?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ff258b230"
+  },
+  {
+    "question": "How does increasing the `alpha` parameter in `sklearn.Ridge()` affect the model's coefficients?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ff258b230"
+  },
+  {
+    "question": "What is the mathematical form of the loss function minimized by `sklearn.Ridge()`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ff258b230"
+  },
+  {
+    "question": "In the provided lesson notebook, how is regularization implemented when computing the inverse matrix?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ff258b230"
+  },
+  {
+    "question": "Where can I find additional documentation on using the `Ridge` class from Scikit-Learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ff258b230"
+  }
+]

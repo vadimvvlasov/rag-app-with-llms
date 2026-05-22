@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I increase the amount of RAM allocated to my WSL2 environment if the error message indicates insufficient memory?",
+    "course": "llm-zoomcamp",
+    "document": "f3dd94f323"
+  },
+  {
+    "question": "What steps are required to modify the `.wslconfig` file to allocate more system memory for WSL2 on Windows?",
+    "course": "llm-zoomcamp",
+    "document": "f3dd94f323"
+  },
+  {
+    "question": "After allocating additional RAM via the `.wslconfig` file, what command should I run to restart WSL and apply the changes?",
+    "course": "llm-zoomcamp",
+    "document": "f3dd94f323"
+  },
+  {
+    "question": "Where should I place the `.wslconfig` file in my Windows user profile directory to ensure it affects my WSL2 configuration?",
+    "course": "llm-zoomcamp",
+    "document": "f3dd94f323"
+  },
+  {
+    "question": "What verification method can I use within WSL to confirm that the increased RAM allocation has been successfully implemented?",
+    "course": "llm-zoomcamp",
+    "document": "f3dd94f323"
+  }
+]

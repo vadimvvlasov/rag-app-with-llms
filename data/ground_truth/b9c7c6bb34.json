@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a 'Missing required parameter: 'tools[0].function'' error when using Azure OpenAI?",
+    "course": "llm-zoomcamp",
+    "document": "b9c7c6bb34"
+  },
+  {
+    "question": "What modification should I make to the `get_weather_tool` JSON to resolve the missing required parameter issue?",
+    "course": "llm-zoomcamp",
+    "document": "b9c7c6bb34"
+  },
+  {
+    "question": "How can I correctly define the function parameters in the `get_weather_tool` JSON for the Azure OpenAI service?",
+    "course": "llm-zoomcamp",
+    "document": "b9c7c6bb34"
+  },
+  {
+    "question": "Which specific JSON structure is necessary for the `function` field within `get_weather_tool` to avoid the 400 error code?",
+    "course": "llm-zoomcamp",
+    "document": "b9c7c6bb34"
+  },
+  {
+    "question": "What is the exact JSON configuration needed for the `tools[0].function` parameter to ensure proper functioning with Azure OpenAI?",
+    "course": "llm-zoomcamp",
+    "document": "b9c7c6bb34"
+  }
+]

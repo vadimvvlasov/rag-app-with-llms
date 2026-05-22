@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an ERR_EMPTY_RESPONSE error when trying to access Kestra through http://localhost:8080 in GitHub Codespaces?",
+    "course": "data-engineering-zoomcamp",
+    "document": "91a298833a"
+  },
+  {
+    "question": "How can I correctly identify and use the forwarded port URL provided by Codespaces to reach my running Kestra instance inside a Docker container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "91a298833a"
+  },
+  {
+    "question": "What steps should I take if Kestra appears to be running but remains inaccessible via the forwarded port URL in GitHub Codespaces?",
+    "course": "data-engineering-zoomcamp",
+    "document": "91a298833a"
+  },
+  {
+    "question": "Where can I find the list of forwarded ports for my Codespaces environment, and how does it differ from using http://localhost:8080 directly?",
+    "course": "data-engineering-zoomcamp",
+    "document": "91a298833a"
+  },
+  {
+    "question": "If restarting the Kestra container resolves connectivity issues after accessing it through the forwarded URL, what should I check first to confirm that Kestra was listening on the correct port?",
+    "course": "data-engineering-zoomcamp",
+    "document": "91a298833a"
+  }
+]

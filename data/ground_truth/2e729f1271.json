@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I ensure that a user can only provide feedback once per submission using Streamlit's `st.session_state`?",
+    "course": "llm-zoomcamp",
+    "document": "2e729f1271"
+  },
+  {
+    "question": "What is the correct way to disable feedback buttons after they have been pressed once, given the issue with `st.session.submitted` being reassigned unexpectedly?",
+    "course": "llm-zoomcamp",
+    "document": "2e729f1271"
+  },
+  {
+    "question": "In Streamlit, how do I maintain a flag (`st.session.submitted`) that accurately reflects whether a user has already submitted feedback to prevent multiple submissions?",
+    "course": "llm-zoomcamp",
+    "document": "2e729f1271"
+  },
+  {
+    "question": "Where can I find a detailed solution or discussion on why `st.session.submitted` might be getting reset and how to properly handle session state for single feedback submission in Streamlit?",
+    "course": "llm-zoomcamp",
+    "document": "2e729f1271"
+  },
+  {
+    "question": "What steps should I follow to implement a mechanism in my Streamlit app that tracks user submissions and disables further feedback options immediately after one response is given?",
+    "course": "llm-zoomcamp",
+    "document": "2e729f1271"
+  }
+]

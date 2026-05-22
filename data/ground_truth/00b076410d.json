@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I receive the error 'Jupyter command `jupyter-nbconvert` not found' when trying to convert a Jupyter notebook to a Python script?",
+    "course": "mlops-zoomcamp",
+    "document": "00b076410d"
+  },
+  {
+    "question": "How can I verify that I am in the correct directory before attempting to convert my Jupyter notebook using `nbconvert`?",
+    "course": "mlops-zoomcamp",
+    "document": "00b076410d"
+  },
+  {
+    "question": "What specific package do I need to install if `jupyter nbconvert` is not recognized after ensuring I'm in the right directory?",
+    "course": "mlops-zoomcamp",
+    "document": "00b076410d"
+  },
+  {
+    "question": "After installing the necessary package, what exact command should I use to convert a `.ipynb` file to a Python script with `nbconvert`?",
+    "course": "mlops-zoomcamp",
+    "document": "00b076410d"
+  },
+  {
+    "question": "Is there any difference between using `--to script` and `--to python` when converting a Jupyter notebook via `jupyter nbconvert`?",
+    "course": "mlops-zoomcamp",
+    "document": "00b076410d"
+  }
+]

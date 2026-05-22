@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message 'ERROR [internal] load metadata for public.ecr.aws/lambda/python:3.8' indicate when building a Docker image using the Amazon Python base image?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f14bb9c2ba"
+  },
+  {
+    "question": "How can updating Docker Desktop potentially resolve the metadata loading issue during image construction?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f14bb9c2ba"
+  },
+  {
+    "question": "What steps should be taken after installing the latest version of Docker Desktop to address the error mentioned in the FAQ?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f14bb9c2ba"
+  },
+  {
+    "question": "If restarting Docker Desktop and the terminal does not fix the problem, what specific command should be executed to disable Docker BuildKit and successfully build the image?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f14bb9c2ba"
+  },
+  {
+    "question": "Within the context of Module 9: Serverless Deep Learning of the machine-learning-zoomcamp course, where can this specific error typically occur during the learning process?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f14bb9c2ba"
+  }
+]

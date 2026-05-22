@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How much will it cost to run an AWS instance for the duration of the MLOps ZoomCamp course if I stop the instance after each work session?",
+    "course": "mlops-zoomcamp",
+    "document": "9f6380d76b"
+  },
+  {
+    "question": "What is the method to update my SSH Config file when a new public IP address is assigned each time I restart my AWS instance?",
+    "course": "mlops-zoomcamp",
+    "document": "9f6380d76b"
+  },
+  {
+    "question": "Can I receive email notifications from AWS if my monthly expenses exceed a certain threshold, and how do I configure this feature?",
+    "course": "mlops-zoomcamp",
+    "document": "9f6380d76b"
+  },
+  {
+    "question": "Using the current pricing rates as of May 20, 2023, what is the estimated monthly cost for a t3a.xlarge instance with 2 hours of daily usage and 30GB EBS storage?",
+    "course": "mlops-zoomcamp",
+    "document": "9f6380d76b"
+  },
+  {
+    "question": "Where can I find an AWS resource to manually calculate the expected expenses for my specific configuration before starting the course?",
+    "course": "mlops-zoomcamp",
+    "document": "9f6380d76b"
+  }
+]

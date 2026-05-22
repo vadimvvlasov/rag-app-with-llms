@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does PySpark on Windows display the error 'Python was not found; run without arguments to install from the Microsoft Store' when executing UDFs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "59ad389756"
+  },
+  {
+    "question": "What is the purpose of the `PYSPARK_PYTHON` environment variable in configuring PySpark on a Windows system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "59ad389756"
+  },
+  {
+    "question": "How can I ensure that PySpark uses the correct Python interpreter installed in my virtual environment on Windows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "59ad389756"
+  },
+  {
+    "question": "Is there a way to set the Python executable for both worker processes and the driver separately in PySpark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "59ad389756"
+  },
+  {
+    "question": "What alternative method can be used to run Python scripts with PySpark on Windows without encountering the missing Python interpreter error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "59ad389756"
+  }
+]

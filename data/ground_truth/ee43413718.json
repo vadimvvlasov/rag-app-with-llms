@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it possible to substitute Groq for OpenAI in our course projects without requiring paid services?",
+    "course": "llm-zoomcamp",
+    "document": "ee43413718"
+  },
+  {
+    "question": "How can I modify the provided codebase to work with alternative LLM platforms like Groq?",
+    "course": "llm-zoomcamp",
+    "document": "ee43413718"
+  },
+  {
+    "question": "Does the homework assignment accommodate local execution of models from different providers such as Groq?",
+    "course": "llm-zoomcamp",
+    "document": "ee43413718"
+  },
+  {
+    "question": "What resources or documentation should I consult to adapt the existing code for using Groq instead of OpenAI?",
+    "course": "llm-zoomcamp",
+    "document": "ee43413718"
+  },
+  {
+    "question": "Are there any specific adjustments needed in the project setup to ensure compatibility with non-OpenAI LLMs like Groq?",
+    "course": "llm-zoomcamp",
+    "document": "ee43413718"
+  }
+]

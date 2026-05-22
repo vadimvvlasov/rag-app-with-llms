@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I run to install `numpy`, `scikit-learn==0.24.2`, and `flask` within a Pipenv virtual environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "af2a35cdf2"
+  },
+  {
+    "question": "Why might someone using Python 3.11 or later encounter an error when locking files with `Pipfile.lock` during the installation of libraries in lesson 5.5?",
+    "course": "machine-learning-zoomcamp",
+    "document": "af2a35cdf2"
+  },
+  {
+    "question": "Which specific version of `scikit-learn` should be installed to resolve the lock file error encountered by users on Python 3.11 or later?",
+    "course": "machine-learning-zoomcamp",
+    "document": "af2a35cdf2"
+  },
+  {
+    "question": "What steps should I follow if the issue persists after attempting the initial solution provided for the `Pipfile.lock` error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "af2a35cdf2"
+  },
+  {
+    "question": "How can I completely remove a Pipenv environment and associated files (`Pipfile`, `Pipfile.lock`) if all other troubleshooting methods fail?",
+    "course": "machine-learning-zoomcamp",
+    "document": "af2a35cdf2"
+  }
+]

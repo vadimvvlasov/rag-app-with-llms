@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does running `zcat` on the downloaded CSV files produce gibberish output?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7bff88dbd7"
+  },
+  {
+    "question": "What is the reason behind the compression error when using `zcat` with the files from the NYT website in Video 5.3.3?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7bff88dbd7"
+  },
+  {
+    "question": "How can I correctly download and save the CSV files from the course repository without causing a double compression issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7bff88dbd7"
+  },
+  {
+    "question": "What modification should be made to the provided bash script to ensure that `zcat` works properly on the saved `csv.gz` files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7bff88dbd7"
+  },
+  {
+    "question": "In the context of Module 6: Spark for the data-engineering-zoomcamp course, what is the recommended approach to handle gzipped CSV files to avoid gibberish output from `zcat`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7bff88dbd7"
+  }
+]

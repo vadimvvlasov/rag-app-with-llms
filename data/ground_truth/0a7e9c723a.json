@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the 'LinAlgError: Singular matrix' indicate when encountered during the course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a7e9c723a"
+  },
+  {
+    "question": "Why might I receive a Singular Matrix error while following the regression videos?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a7e9c723a"
+  },
+  {
+    "question": "Is encountering a Singular Matrix error considered normal during the Machine Learning for Regression module of the Machine-Learning-Zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a7e9c723a"
+  },
+  {
+    "question": "Could repeatedly inverting matrix `X` in my code lead to a Singular Matrix error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a7e9c723a"
+  },
+  {
+    "question": "How is the issue of a singular matrix addressed in the Regularization video of Module 2?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0a7e9c723a"
+  }
+]

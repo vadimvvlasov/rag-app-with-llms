@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What could cause my table to fail creation in PostgreSQL when I submit a job?",
+    "course": "data-engineering-zoomcamp",
+    "document": "56d8f7ae9a"
+  },
+  {
+    "question": "Are there any common issues related to database connections that might prevent table creation during job execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "56d8f7ae9a"
+  },
+  {
+    "question": "How can I ensure that the necessary code for creating tables is included and executed properly within the job submission process?",
+    "course": "data-engineering-zoomcamp",
+    "document": "56d8f7ae9a"
+  },
+  {
+    "question": "Is it advisable to pre-create tables in PostgreSQL before running jobs, and why?",
+    "course": "data-engineering-zoomcamp",
+    "document": "56d8f7ae9a"
+  },
+  {
+    "question": "What SQL statement should I use to safely create a table only if it does not already exist, preventing runtime errors during job execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "56d8f7ae9a"
+  }
+]

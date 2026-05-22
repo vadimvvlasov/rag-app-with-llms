@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving the error '5432 is not of type 'integer'' when setting up the `profiles.yml` file for dbt-postgres using Jinja templates with environment variables?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5d92a0583a"
+  },
+  {
+    "question": "How can I ensure that the port number defined by an environment variable in my `profiles.yml` configuration is correctly interpreted as an integer by dbt-postgres?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5d92a0583a"
+  },
+  {
+    "question": "What syntax should I use in Jinja within a `profiles.yml` file to convert an environment variable value (e.g., `DB_PORT`) to an integer for the database connection port?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5d92a0583a"
+  },
+  {
+    "question": "In the context of dbt-postgres, what common mistake leads to the 'Credentials ... invalid: '5432' is not of type 'integer'' error message when using environment variables in Jinja templates?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5d92a0583a"
+  },
+  {
+    "question": "How do I properly format a `profiles.yml` entry to leverage an environment variable for the database port while avoiding type mismatch errors during dbt execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5d92a0583a"
+  }
+]

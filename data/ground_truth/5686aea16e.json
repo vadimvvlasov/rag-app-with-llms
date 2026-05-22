@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a `TypeError: 'numpy.float64' object is not callable` when using `accuracy_score(y_val, y_pred >= 0.5)` in Jupyter?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5686aea16e"
+  },
+  {
+    "question": "In the context of binary classification with sklearn, how should I correctly compute the accuracy score for predicted probabilities compared to true labels?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5686aea16e"
+  },
+  {
+    "question": "What import statement resolves the issue where directly calling `accuracy_score` from `sklearn.metrics` results in a `TypeError: 'numpy.float64' object is not callable'` error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5686aea16e"
+  },
+  {
+    "question": "How does importing `metrics` from `sklearn` instead of directly using `accuracy_score` from `sklearn` affect the execution of my classification evaluation code?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5686aea16e"
+  },
+  {
+    "question": "Within Module 3 of the machine-learning-zoomcamp course, what is the recommended approach to avoid the `TypeError: 'numpy.float64' object is not callable` when evaluating model accuracy in a Jupyter notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5686aea16e"
+  }
+]

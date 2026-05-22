@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I configure the MLflow CLI to connect to my SQLite tracking database?",
+    "course": "mlops-zoomcamp",
+    "document": "03f9c129fc"
+  },
+  {
+    "question": "What environment variable should I set to enable the MLflow CLI to access experiments tracked in a local SQLite file?",
+    "course": "mlops-zoomcamp",
+    "document": "03f9c129fc"
+  },
+  {
+    "question": "After setting the `MLFLOW_TRACKING_URI`, which command can I use to list all available experiments from the terminal?",
+    "course": "mlops-zoomcamp",
+    "document": "03f9c129fc"
+  },
+  {
+    "question": "If I need to manually specify the tracking URI for certain MLflow CLI commands, how would that be done?",
+    "course": "mlops-zoomcamp",
+    "document": "03f9c129fc"
+  },
+  {
+    "question": "Why might some MLflow CLI commands still fail to recognize the tracking URI even after environment variable setup?",
+    "course": "mlops-zoomcamp",
+    "document": "03f9c129fc"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if the direct URL to the NYC TLC trip data bucket returns an 'Access Denied' error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6435e27634"
+  },
+  {
+    "question": "Can you guide me through using the GitHub CLI to download the NYC TLC trip data from the official GitHub repository?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6435e27634"
+  },
+  {
+    "question": "After downloading the trip data files via GitHub CLI, how can I manually upload them to a Google Cloud Storage (GCS) bucket?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6435e27634"
+  },
+  {
+    "question": "Are there specific commands in the GitHub CLI that I need to execute to ensure the correct data is downloaded and prepared for upload?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6435e27634"
+  },
+  {
+    "question": "Once the data is downloaded from GitHub, what is the recommended method to transfer these files into my GCS bucket?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6435e27634"
+  }
+]

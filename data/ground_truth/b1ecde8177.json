@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I configure multiple layers and their parameters in a single call when creating a CNN model using Keras?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1ecde8177"
+  },
+  {
+    "question": "What function in Keras allows for the simultaneous specification of several model parameters during Sequential model construction?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1ecde8177"
+  },
+  {
+    "question": "In the context of serverless deep learning, which Keras method enables bulk parameter setting for a neural network model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1ecde8177"
+  },
+  {
+    "question": "When building a Convolutional Neural Network (CNN) within a serverless architecture, what approach should I adopt to input numerous parameters at once?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1ecde8177"
+  },
+  {
+    "question": "For the module on Serverless Deep Learning in the Machine Learning Zoomcamp course, how is it possible to define many CNN parameters concurrently using Keras?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b1ecde8177"
+  }
+]

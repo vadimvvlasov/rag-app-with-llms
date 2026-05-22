@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is the workshop material from the 'Open-Source Data Ingestion (dlt)' module in the LLM Zoomcamp course freely available for personal use?",
+    "course": "llm-zoomcamp",
+    "document": "d850a0e7ea"
+  },
+  {
+    "question": "Can I distribute or share the dlt workshop content with fellow students or colleagues outside of the Zoomcamp program?",
+    "course": "llm-zoomcamp",
+    "document": "d850a0e7ea"
+  },
+  {
+    "question": "Does the open-source nature of dlt allow me to integrate its components into a capstone project without licensing restrictions?",
+    "course": "llm-zoomcamp",
+    "document": "d850a0e7ea"
+  },
+  {
+    "question": "Are there any limitations on using dlt's materials for projects in other Zoomcamps, such as the MLOps Zoomcamp?",
+    "course": "llm-zoomcamp",
+    "document": "d850a0e7ea"
+  },
+  {
+    "question": "What should I do if I encounter issues while trying to use the dlt workshop content in my own data-related projects?",
+    "course": "llm-zoomcamp",
+    "document": "d850a0e7ea"
+  }
+]

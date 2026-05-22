@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs when `pipenv install` is run and how can it be resolved?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a8f00802a"
+  },
+  {
+    "question": "In a Pipfile, which lines should be removed to fix the `ValidationError` related to `python_version` and `python_full_version`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a8f00802a"
+  },
+  {
+    "question": "After modifying the Pipfile, what command must be executed to regenerate the `Pipfile.lock` file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a8f00802a"
+  },
+  {
+    "question": "Which text editor can be used to open and edit the Pipfile mentioned in the error resolution steps?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a8f00802a"
+  },
+  {
+    "question": "What are the exact keystrokes needed to save changes and exit the Nano text editor as described in the FAQ?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a8f00802a"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": ". what does the ModuleNotFoundError indicate in this context? ",
+    "course": "machine-learning-zoomcamp",
+    "document": "fe5fb33959"
+  },
+  {
+    "question": ". how can I resolve the version mismatch between the training environment and the deployment environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fe5fb33959"
+  },
+  {
+    "question": ". which specific versions of numpy should I use to ensure compatibility with sklearn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fe5fb33959"
+  },
+  {
+    "question": ". if I am using Docker, where should I pin the required versions for consistency across environments?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fe5fb33959"
+  },
+  {
+    "question": ". what command is used to install a specific version of numpy within a pipenv environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fe5fb33959"
+  }
+]

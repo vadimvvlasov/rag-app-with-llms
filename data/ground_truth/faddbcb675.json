@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the error message indicating when trying to join tables on `LocationID`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "faddbcb675"
+  },
+  {
+    "question": "Why does the error occur due to a mismatch between string and integer types for `LocationID`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "faddbcb675"
+  },
+  {
+    "question": "Which dbt function should be used to convert a string field like `PULocationID` to an integer in order to resolve the joining issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "faddbcb675"
+  },
+  {
+    "question": "What is the exact syntax for casting `PULocationID` as an integer using dbt's `safe_cast` method?",
+    "course": "data-engineering-zoomcamp",
+    "document": "faddbcb675"
+  },
+  {
+    "question": "How can I ensure that both tables have compatible data types for the `LocationID` field before performing a join?",
+    "course": "data-engineering-zoomcamp",
+    "document": "faddbcb675"
+  }
+]

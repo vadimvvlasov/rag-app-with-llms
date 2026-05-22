@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific steps are required to ensure that an experiment is completely removed from the MLFlow database after deleting it via the UI?",
+    "course": "mlops-zoomcamp",
+    "document": "2dab05f2be"
+  },
+  {
+    "question": "Which package must be installed to execute SQL queries directly within a Jupyter Notebook for modifying the MLFlow database?",
+    "course": "mlops-zoomcamp",
+    "document": "2dab05f2be"
+  },
+  {
+    "question": "How do I load the SQL magic extension in a Jupyter Notebook environment?",
+    "course": "mlops-zoomcamp",
+    "document": "2dab05f2be"
+  },
+  {
+    "question": "What command should I use to connect to an SQLite database named `nameofdatabase.db` from within a Python cell in a Jupyter Notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "2dab05f2be"
+  },
+  {
+    "question": "Where can I find a detailed guide or example for writing the SQL script needed to permanently delete an experiment from the MLFlow database?",
+    "course": "mlops-zoomcamp",
+    "document": "2dab05f2be"
+  }
+]

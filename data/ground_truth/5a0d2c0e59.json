@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the distinction that Kestra makes between execution logs and structured outputs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5a0d2c0e59"
+  },
+  {
+    "question": "Why are values printed to standard output (stdout) considered logs in Kestra?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5a0d2c0e59"
+  },
+  {
+    "question": "How can a student ensure that a value generated in one task is available for use in subsequent tasks within a workflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5a0d2c0e59"
+  },
+  {
+    "question": "According to the course 'data-engineering-zoomcamp', what mechanism must be employed to persist or reuse values across different tasks in a Kestra workflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5a0d2c0e59"
+  },
+  {
+    "question": "In Module 2: Workflow Orchestration of the data-engineering-zoomcamp, what is the reason for requiring explicit output definitions instead of relying on automatic conversion of printed task outputs into variables?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5a0d2c0e59"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I open the current directory in Windows Explorer from the WSL terminal for uploading files to GitHub?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e53752c5b7"
+  },
+  {
+    "question": "What command can I execute in a WSL terminal to navigate directly to the corresponding folder in File Explorer?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e53752c5b7"
+  },
+  {
+    "question": "If I am working within the Windows Subsystem for Linux and need to access the current project folder via the Windows file explorer, which bash command should I issue?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e53752c5b7"
+  },
+  {
+    "question": "To quickly view my current directory in Windows Explorer while using WSL, what specific command is recommended?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e53752c5b7"
+  },
+  {
+    "question": "What is the quickest method to open a terminal-controlled directory in the standard Windows Explorer interface, suitable for GitHub uploads?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e53752c5b7"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message `mkdir /var/lib/docker/overlay2/...-init: read-only file system` indicate when running Docker?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fdcf991009"
+  },
+  {
+    "question": "How can I fix the read-only file system issue that causes the Docker run error mentioned in Module 9 of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fdcf991009"
+  },
+  {
+    "question": "After encountering a Docker run error, what specific action should be taken to resolve it within the Serverless Deep Learning module?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fdcf991009"
+  },
+  {
+    "question": "What is the precise command or procedure recommended to address the `docker: Error response from daemon` problem related to an inaccessible overlay2 directory?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fdcf991009"
+  },
+  {
+    "question": "In the context of Module 9 for the machine-learning-zoomcamp course, which service restart resolves the Docker run error due to a read-only file system?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fdcf991009"
+  }
+]

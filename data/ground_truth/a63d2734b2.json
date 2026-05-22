@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my SSH connection to the Google Cloud Platform (GCP) VM time out even though I connected successfully last week?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a63d2734b2"
+  },
+  {
+    "question": "How can I verify that my GCP virtual machine (VM) is currently running and accessible via its external IP address?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a63d2734b2"
+  },
+  {
+    "question": "What steps should I take to update my SSH configuration file with the current external IP address of my GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a63d2734b2"
+  },
+  {
+    "question": "Could you provide a command to open and edit the SSH configuration file using Visual Studio Code from within the terminal?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a63d2734b2"
+  },
+  {
+    "question": "If the connection request continues to timeout after ensuring the VM is running, where can I check for additional troubleshooting steps related to network or firewall settings?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a63d2734b2"
+  }
+]

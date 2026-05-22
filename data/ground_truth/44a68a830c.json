@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error message appears when a column is selected from the table in Grafana?",
+    "course": "mlops-zoomcamp",
+    "document": "44a68a830c"
+  },
+  {
+    "question": "Why does the 'no time column: no time column found' error occur?",
+    "course": "mlops-zoomcamp",
+    "document": "44a68a830c"
+  },
+  {
+    "question": "How can I resolve the 'no time column' error in Grafana's UI?",
+    "course": "mlops-zoomcamp",
+    "document": "44a68a830c"
+  },
+  {
+    "question": "Which type of column needs to be added in the query builder to fix the timestamp issue?",
+    "course": "mlops-zoomcamp",
+    "document": "44a68a830c"
+  },
+  {
+    "question": "What specific step should be taken in the query builder to eliminate the 'no time column found' message?",
+    "course": "mlops-zoomcamp",
+    "document": "44a68a830c"
+  }
+]

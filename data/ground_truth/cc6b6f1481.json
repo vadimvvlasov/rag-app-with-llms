@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering the error 'mapping values are not allowed in this context' during every commit?",
+    "course": "mlops-zoomcamp",
+    "document": "cc6b6f1481"
+  },
+  {
+    "question": "What is the correct indentation required for the `.pre-commit-config.yaml` file to prevent this error?",
+    "course": "mlops-zoomcamp",
+    "document": "cc6b6f1481"
+  },
+  {
+    "question": "Could an incorrectly indented `repo` statement within `.pre-commit-config.yaml` be causing pre-commit hooks to fail at each commit?",
+    "course": "mlops-zoomcamp",
+    "document": "cc6b6f1481"
+  },
+  {
+    "question": "How can I verify that my `.pre-commit-config.yaml` file adheres to the proper formatting guidelines for MLOps Zoomcamp Module 6?",
+    "course": "mlops-zoomcamp",
+    "document": "cc6b6f1481"
+  },
+  {
+    "question": "What specific steps should I take to troubleshoot and resolve the indentation issue in `.pre-commit-config.yaml` related to pre-commit hooks?",
+    "course": "mlops-zoomcamp",
+    "document": "cc6b6f1481"
+  }
+]

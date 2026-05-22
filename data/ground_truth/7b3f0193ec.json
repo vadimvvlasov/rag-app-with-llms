@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command is used to set up Codex in the dlt environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7b3f0193ec"
+  },
+  {
+    "question": "After running the setup command, which file is initially generated?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7b3f0193ec"
+  },
+  {
+    "question": "How can I ensure that Codex recognizes the agent configuration file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7b3f0193ec"
+  },
+  {
+    "question": "What terminal command do I need to execute to rename the initial file to match Codex's expectations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7b3f0193ec"
+  },
+  {
+    "question": "In Workshop 1 of the data-engineering-zoomcamp course, what specific plural naming convention does Codex require for the agents file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7b3f0193ec"
+  }
+]

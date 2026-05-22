@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it necessary for me to remove my Google Cloud instance during the course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a697cb2dee"
+  },
+  {
+    "question": "Will I need to recreate my Google Cloud instance if I follow Alexey's example and delete it as shown in this lecture [In this lecture](https://www.youtube.com/watch?v=ae-CV2KfoN0&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a697cb2dee"
+  },
+  {
+    "question": "What will happen if I decide not to delete my instance in Google Cloud Platform while going through the week 1 readings?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a697cb2dee"
+  },
+  {
+    "question": "Could deleting my Google Cloud instance affect the completion of tasks for Module 1: GCP setup & VM in the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a697cb2dee"
+  },
+  {
+    "question": "After viewing Alexey's demonstration, should I proceed with deleting or preserving my Google Cloud instance to ensure smooth progress in the course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a697cb2dee"
+  }
+]

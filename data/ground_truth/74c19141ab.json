@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is there any difference in functionality between having the Python script create the server and running Gunicorn directly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "74c19141ab"
+  },
+  {
+    "question": "Does executing the setup through a script require fewer steps compared to initiating Gunicorn manually?",
+    "course": "machine-learning-zoomcamp",
+    "document": "74c19141ab"
+  },
+  {
+    "question": "Will both methods yield identical results when deploying a web application using Flask or similar frameworks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "74c19141ab"
+  },
+  {
+    "question": "Are there performance implications if we opt for the scripted approach over direct Gunicorn invocation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "74c19141ab"
+  },
+  {
+    "question": "Can you confirm that choosing either method will not affect the core operation of our machine learning service?",
+    "course": "machine-learning-zoomcamp",
+    "document": "74c19141ab"
+  }
+]

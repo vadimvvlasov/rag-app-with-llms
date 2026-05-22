@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What function should I use to perform matrix multiplication in NumPy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b72a4be56d"
+  },
+  {
+    "question": "Why is the order of matrices important when using `np.dot` for multiplication?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b72a4be56d"
+  },
+  {
+    "question": "How can I ensure that the dimensions of my arrays are compatible for matrix multiplication?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b72a4be56d"
+  },
+  {
+    "question": "What happens if the number of columns in the first matrix does not match the number of rows in the second matrix during `np.dot`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b72a4be56d"
+  },
+  {
+    "question": "Can you provide an example of how to rearrange matrices to avoid dimension mismatch errors in `np.dot`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b72a4be56d"
+  }
+]

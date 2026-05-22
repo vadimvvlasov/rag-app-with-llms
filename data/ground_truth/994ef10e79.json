@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the process for storing account-specific secrets that will be accessible in GitHub Codespaces?",
+    "course": "data-engineering-zoomcamp",
+    "document": "994ef10e79"
+  },
+  {
+    "question": "Where can I find detailed instructions on managing secrets specifically for GitHub Codespaces?",
+    "course": "data-engineering-zoomcamp",
+    "document": "994ef10e79"
+  },
+  {
+    "question": "How are account-specific secrets defined and utilized within the GitHub Codespaces environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "994ef10e79"
+  },
+  {
+    "question": "Which documentation section from GitHub provides guidance on configuring secrets for use in Codespaces?",
+    "course": "data-engineering-zoomcamp",
+    "document": "994ef10e79"
+  },
+  {
+    "question": "What URL points to the official guide for setting up account-specific secrets for GitHub Codespaces?",
+    "course": "data-engineering-zoomcamp",
+    "document": "994ef10e79"
+  }
+]

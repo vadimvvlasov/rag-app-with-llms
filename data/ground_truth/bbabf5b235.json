@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does my Docker container throw the error 'gunicorn: executable file not found in $PATH'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bbabf5b235"
+  },
+  {
+    "question": "How can I resolve the missing `gunicorn` executable when running a Docker container for deploying a machine learning model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bbabf5b235"
+  },
+  {
+    "question": "What steps should I take to ensure that `gunicorn` is available inside my Docker image after modifying the Pipfile?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bbabf5b235"
+  },
+  {
+    "question": "After adding `gunicorn = \"*\"` under `[packages]` in the Pipfile, what command do I need to run to update the lockfile and rebuild the Docker container?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bbabf5b235"
+  },
+  {
+    "question": "If I am using Windows and prefer `waitress` over `gunicorn`, what changes should I make to my Pipfile to avoid deployment errors?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bbabf5b235"
+  }
+]

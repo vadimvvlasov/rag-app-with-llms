@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an AttributeError stating that 'DataFrame' object has no attribute 'TotalCharges' after executing the cell again?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e8177805be"
+  },
+  {
+    "question": "What caused the column name 'TotalCharges' to be changed to 'totalcharges' in my DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e8177805be"
+  },
+  {
+    "question": "How can I prevent the error from occurring when trying to access 'TotalCharges' after running the column renaming code twice?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e8177805be"
+  },
+  {
+    "question": "Is there a way to ensure that the column renaming operation is applied only once, even if the cell is executed multiple times?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e8177805be"
+  },
+  {
+    "question": "What are the recommended approaches to handle idempotent operations on DataFrame columns within Module 3 of the Machine Learning Zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "e8177805be"
+  }
+]

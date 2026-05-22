@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Module 5 of the machine-learning-zoomcamp course, should I complete the Pipenv + Flask version or the uv + FastAPI workshop for deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "29ada2d598"
+  },
+  {
+    "question": "Which deployment workshop is considered the canonical path for current cohorts in Module 5?",
+    "course": "machine-learning-zoomcamp",
+    "document": "29ada2d598"
+  },
+  {
+    "question": "Are the original Pipenv + Flask lectures still relevant, or have they been replaced by the new uv + FastAPI workshop?",
+    "course": "machine-learning-zoomcamp",
+    "document": "29ada2d598"
+  },
+  {
+    "question": "If I follow the homework assignments after Module 5, which version of the deployment workshop should I use to ensure compatibility?",
+    "course": "machine-learning-zoomcamp",
+    "document": "29ada2d598"
+  },
+  {
+    "question": "What is the purpose of keeping the original Pipenv + Flask lectures in the course repository if the uv + FastAPI workshop is now recommended?",
+    "course": "machine-learning-zoomcamp",
+    "document": "29ada2d598"
+  }
+]

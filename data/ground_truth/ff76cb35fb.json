@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the steps to establish a connection between BigQuery and Looker Studio?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ff76cb35fb"
+  },
+  {
+    "question": "How can I authorize access from Looker Studio to my Google Cloud project when connecting to BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ff76cb35fb"
+  },
+  {
+    "question": "Which specific roles (e.g., Data Viewer, Editor) should be assigned for seamless BI tool integration with BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ff76cb35fb"
+  },
+  {
+    "question": "What considerations should be taken into account when selecting tables or views in BigQuery for reporting purposes in Tableau?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ff76cb35fb"
+  },
+  {
+    "question": "Are there recommended data preparation steps in BigQuery before using it with BI tools like Tableau and Looker Studio?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ff76cb35fb"
+  }
+]

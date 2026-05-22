@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What causes the ValueError mentioning 'channel dimension of the inputs should be defined' while reloading a TensorFlow model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2ab8be1a97"
+  },
+  {
+    "question": "How can I prevent this error when defining the input shape for a neural network in TensorFlow?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2ab8be1a97"
+  },
+  {
+    "question": "In the provided example, what specific line of code resolves the missing channel value issue during model reloading?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2ab8be1a97"
+  },
+  {
+    "question": "What is the significance of specifying the number of channels (e.g., 3 for RGB images) in the Input layer's shape parameter?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2ab8be1a97"
+  },
+  {
+    "question": "Can you explain why setting `training=False` on a base model within the architecture helps avoid channel dimension errors?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2ab8be1a97"
+  }
+]

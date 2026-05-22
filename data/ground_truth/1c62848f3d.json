@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the warning about using an outdated pip version mean when building a Docker image with `docker build -t dino-dragon-model`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c62848f3d"
+  },
+  {
+    "question": "Why might I see this pip version warning if Alex's video demonstrates a compatible wheel for Python 8 but I am working with Python 9?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c62848f3d"
+  },
+  {
+    "question": "How can I correctly download the required wheel file to avoid errors due to an incorrect link?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c62848f3d"
+  },
+  {
+    "question": "What is the correct raw format link for obtaining the `tflite_runtime-2.7.0-cp39-cp39-linux_x86_64.whl` wheel file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c62848f3d"
+  },
+  {
+    "question": "What command should I use to update pip to resolve the version warning encountered during the Docker build process?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1c62848f3d"
+  }
+]

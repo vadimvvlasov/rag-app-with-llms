@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When configuring `train_gen.flow_from_directory`, how does Keras determine the class labels for image data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c51e7d7bb"
+  },
+  {
+    "question": "If I organize my training images into separate folders named after each class, what will happen when `flow_from_directory` processes this structure?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c51e7d7bb"
+  },
+  {
+    "question": "Can you explain why the folder names in a directory used with Keras' `flow_from_directory` function represent class categories?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c51e7d7bb"
+  },
+  {
+    "question": "What is the significance of the tutorial [here](https://vijayabhaskar96.medium.com/tutorial-image-classification-with-keras-flow-from-directory-and-generators-95f75ebe5720) regarding class naming in Keras' image data loading process?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c51e7d7bb"
+  },
+  {
+    "question": "In the context of using `flow_from_directory` for neural network training, how exactly does Keras infer the number of classes present?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6c51e7d7bb"
+  }
+]

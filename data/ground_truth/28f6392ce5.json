@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What issue did you encounter when trying to load the yellow trip data for 2019 using the provided script?",
+    "course": "data-engineering-zoomcamp",
+    "document": "28f6392ce5"
+  },
+  {
+    "question": "Why did directly downloading and uploading the Parquet files to GCS still cause a schema inconsistency problem when creating the BigQuery table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "28f6392ce5"
+  },
+  {
+    "question": "Which alternative solution did Victoria recommend for efficiently loading the 2019 and 2020 yellow and green trip data into BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "28f6392ce5"
+  },
+  {
+    "question": "Where can I find the YouTube video that demonstrates the hack suggested by Victoria for loading data to BigQuery in Week 4 of the course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "28f6392ce5"
+  },
+  {
+    "question": "What specific schema changes are required at the end of the YouTube tutorial to successfully create the BigQuery table for the trip data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "28f6392ce5"
+  }
+]

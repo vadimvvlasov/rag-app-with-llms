@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the exact filename required for a Dockerfile to be correctly recognized during image building?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9802179265"
+  },
+  {
+    "question": "Why does adding an extension like `.dockerfile` to the file name cause a failure when reading the Dockerfile?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9802179265"
+  },
+  {
+    "question": "Can you provide an example of how to properly name and create a Dockerfile in a project directory?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9802179265"
+  },
+  {
+    "question": "What error message do I encounter if I mistakenly include an extension with the Dockerfile name, and how can this be avoided?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9802179265"
+  },
+  {
+    "question": "In the context of deploying machine learning models via Docker, what should be the precise file naming convention for the Dockerfile to prevent build failures?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9802179265"
+  }
+]

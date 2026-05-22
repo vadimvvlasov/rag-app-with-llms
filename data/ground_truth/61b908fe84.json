@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving an error stating \"Cannot read and write in different locations\" when attempting to load data from a Google Cloud Storage (GCS) bucket into a BigQuery dataset?",
+    "course": "data-engineering-zoomcamp",
+    "document": "61b908fe84"
+  },
+  {
+    "question": "How can I verify the region of my GCS bucket in order to ensure compatibility with a BigQuery dataset for data loading?",
+    "course": "data-engineering-zoomcamp",
+    "document": "61b908fe84"
+  },
+  {
+    "question": "What steps should I follow to create a BigQuery dataset that matches the region of an existing GCS bucket to avoid location mismatch errors during data import?",
+    "course": "data-engineering-zoomcamp",
+    "document": "61b908fe84"
+  },
+  {
+    "question": "If my GCS bucket is located in the `EU` region, what specific settings must I configure when creating a new BigQuery dataset to successfully load data from this bucket?",
+    "course": "data-engineering-zoomcamp",
+    "document": "61b908fe84"
+  },
+  {
+    "question": "What should I do if my project uses both US and Asia regions for different datasets and buckets, leading to location mismatch errors during data loading operations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "61b908fe84"
+  }
+]

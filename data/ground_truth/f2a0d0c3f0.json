@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What consensus algorithm does Redpanda utilize in its architecture?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f2a0d0c3f0"
+  },
+  {
+    "question": "How does Redpanda's performance compare to that of Kafka?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f2a0d0c3f0"
+  },
+  {
+    "question": "In what ways is Redpanda considered a low-latency alternative to Kafka?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f2a0d0c3f0"
+  },
+  {
+    "question": "Can you describe the log-centric design principle behind Redpanda's functionality?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f2a0d0c3f0"
+  },
+  {
+    "question": "Apart from being built on top of Raft, what distinguishes Redpanda's underlying principles from those of Kafka?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f2a0d0c3f0"
+  }
+]

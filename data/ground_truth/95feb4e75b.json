@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How does normalizing vectors to unit length affect cosine similarity calculations?",
+    "course": "llm-zoomcamp",
+    "document": "95feb4e75b"
+  },
+  {
+    "question": "In what way can matrix multiplication be used to efficiently compute cosine similarities between a query and multiple document embeddings?",
+    "course": "llm-zoomcamp",
+    "document": "95feb4e75b"
+  },
+  {
+    "question": "What is the relationship between normalized vector magnitudes and cosine similarity in the context of information retrieval?",
+    "course": "llm-zoomcamp",
+    "document": "95feb4e75b"
+  },
+  {
+    "question": "Why are dot products appropriate for measuring alignment between cosine-similarity-processed vectors?",
+    "course": "llm-zoomcamp",
+    "document": "95feb4e75b"
+  },
+  {
+    "question": "How does Module 3 of the 'llm-zoomcamp' course explain the computational advantages of using matrix operations for cosine similarity in large-scale text analysis?",
+    "course": "llm-zoomcamp",
+    "document": "95feb4e75b"
+  }
+]

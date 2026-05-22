@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a compilation error stating that the model '<model_name>' located at '<model_path>' depends on a node named '<seed_name>', which is not found in the Production Environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d17397995"
+  },
+  {
+    "question": "What steps should I take to resolve the issue where my model references a seed that appears missing during production deployment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d17397995"
+  },
+  {
+    "question": "How can I ensure that the seed file referenced by my dbt model is correctly included in the `seeds` directory and properly tracked in Git?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d17397995"
+  },
+  {
+    "question": "What potential configuration in the `.gitignore` file might prevent a CSV seed file from being recognized during the production build process, and how should it be adjusted?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d17397995"
+  },
+  {
+    "question": "After creating a pull request from my Development branch to the Production branch, why does dbt still report that a required seed is not found, and what further checks should I perform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2d17397995"
+  }
+]

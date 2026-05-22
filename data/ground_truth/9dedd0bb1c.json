@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I encountered an `ImportError` stating 'cannot import name 'ColumnMapping'' from 'evidently' when trying to run the command `from evidently import ColumnMapping`. How can I resolve this issue?",
+    "course": "mlops-zoomcamp",
+    "document": "9dedd0bb1c"
+  },
+  {
+    "question": "What specific version of the `evidently` package should I install to avoid the import error related to `ColumnMapping`?",
+    "course": "mlops-zoomcamp",
+    "document": "9dedd0bb1c"
+  },
+  {
+    "question": "After uninstalling the latest version of `evidently`, which command do I need to execute to reinstall a compatible older version that includes `ColumnMapping`?",
+    "course": "mlops-zoomcamp",
+    "document": "9dedd0bb1c"
+  },
+  {
+    "question": "In addition to installing an older version of `evidently`, what additional step is recommended to ensure the environment recognizes the changes made?",
+    "course": "mlops-zoomcamp",
+    "document": "9dedd0bb1c"
+  },
+  {
+    "question": "Where can I find documentation or further guidance on resolving import errors related to specific modules within the `evidently` package during module 6 of the MLOps ZoomCamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "9dedd0bb1c"
+  }
+]

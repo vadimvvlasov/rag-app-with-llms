@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I unzip a downloaded `csv.gz` file for the taxi dataset?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8585d2d7f4"
+  },
+  {
+    "question": "What command should I use in the terminal to decompress a `csv.gz` file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8585d2d7f4"
+  },
+  {
+    "question": "Is it possible to import a gzipped CSV file directly into pandas without first unzipping it?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8585d2d7f4"
+  },
+  {
+    "question": "In the Python script `ingest_data.py`, how do I modify the `main(params)` function to handle a Parquet file instead of a CSV?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8585d2d7f4"
+  },
+  {
+    "question": "What steps are required to download a Parquet file, convert it to CSV, and save it with the same naming convention used in other parts of the code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "8585d2d7f4"
+  }
+]

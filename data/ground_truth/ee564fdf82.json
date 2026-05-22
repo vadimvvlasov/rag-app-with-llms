@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I execute to install all the necessary dependencies for running the starter Jupyter Notebook in a fresh new Codespace or local machine with a new virtual environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee564fdf82"
+  },
+  {
+    "question": "Is there an alternative way to install the required packages if I prefer using a `requirements.txt` file instead of executing a direct pip command?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee564fdf82"
+  },
+  {
+    "question": "Which specific packages are listed as optional, and when would I need them for additional functionality such as Parquet support?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee564fdf82"
+  },
+  {
+    "question": "After running the provided installation command or setting up the `requirements.txt`, how can I confirm that all dependencies have been successfully installed?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee564fdf82"
+  },
+  {
+    "question": "If I encounter missing package errors after attempting to run the Jupyter Notebook, what troubleshooting steps should I follow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ee564fdf82"
+  }
+]

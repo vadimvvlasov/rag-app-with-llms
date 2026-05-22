@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the `pipenv` command not work after installation when using the `--user` option?",
+    "course": "mlops-zoomcamp",
+    "document": "b53176b742"
+  },
+  {
+    "question": "How can I resolve the issue of `pipenv` being inaccessible following its installation with `--user`?",
+    "course": "mlops-zoomcamp",
+    "document": "b53176b742"
+  },
+  {
+    "question": "What steps are necessary to ensure that pipenv commands are recognized system-wide post-installation with `--user`?",
+    "course": "mlops-zoomcamp",
+    "document": "b53176b742"
+  },
+  {
+    "question": "Which file should be edited on my operating system to include the path for pipenv installed with `--user`, and how should it be formatted?",
+    "course": "mlops-zoomcamp",
+    "document": "b53176b742"
+  },
+  {
+    "question": "If I prefer a system-wide solution, what command can I use to reinstall pipenv so that all users have access?",
+    "course": "mlops-zoomcamp",
+    "document": "b53176b742"
+  }
+]

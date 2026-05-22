@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a SIGILL error when executing the most recent Kestra image on a Mac with an M4 chip running MacOS version 15.2/3?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5db9bca6a9"
+  },
+  {
+    "question": "What specific environment variable should I set in my Kestra container to resolve the SIGILL issue in the Java Runtime Environment on MacOS M4?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5db9bca6a9"
+  },
+  {
+    "question": "Can you provide the exact Docker run command that includes the necessary `-e JAVA_OPTS=\"-XX:UseSVE=0\"` flag for running Kestra without encountering SIGILL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5db9bca6a9"
+  },
+  {
+    "question": "How do I configure a Docker Compose file to include the required `JAVA_OPTS: \"-XX:UseSVE=0\"` setting to prevent SIGILL in Kestra on MacOS M4?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5db9bca6a9"
+  },
+  {
+    "question": "Is there any additional setup or consideration needed besides adding `-e JAVA_OPTS=\"-XX:UseSVE=0\"` when running Kestra on a Mac with an M4 processor and the specified MacOS version?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5db9bca6a9"
+  }
+]

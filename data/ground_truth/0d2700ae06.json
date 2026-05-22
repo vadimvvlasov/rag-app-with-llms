@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which Seaborn function is generally faster for visualizing outliers in large datasets, `seaborn.boxplot` or `seaborn.histplot`?",
+    "course": "mlops-zoomcamp",
+    "document": "0d2700ae06"
+  },
+  {
+    "question": "Why does `seaborn.boxplot` perform better than `seaborn.histplot` when dealing with large datasets?",
+    "course": "mlops-zoomcamp",
+    "document": "0d2700ae06"
+  },
+  {
+    "question": "Can you explain the computational reason behind the speed difference between `seaborn.boxplot` and `seaborn.histplot` for large datasets?",
+    "course": "mlops-zoomcamp",
+    "document": "0d2700ae06"
+  },
+  {
+    "question": "In scenarios where speed is crucial, which visualization method should be preferred for outlier detection in extensive data collections using Seaborn?",
+    "course": "mlops-zoomcamp",
+    "document": "0d2700ae06"
+  },
+  {
+    "question": "What summary statistics does `seaborn.boxplot` utilize to represent a dataset, and how does this contribute to its efficiency compared to `seaborn.histplot`?",
+    "course": "mlops-zoomcamp",
+    "document": "0d2700ae06"
+  }
+]

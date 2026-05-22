@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What steps are required to ensure reproducibility in TensorFlow training runs?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ee14ae778d"
+  },
+  {
+    "question": "How can I set a random seed for consistent results across multiple executions of my TensorFlow script?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ee14ae778d"
+  },
+  {
+    "question": "Where can I find the official TensorFlow documentation that details how to enable deterministic operations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ee14ae778d"
+  },
+  {
+    "question": "What specific function from tf.keras.utils is used to establish a global random seed in TensorFlow?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ee14ae778d"
+  },
+  {
+    "question": "In which part of the `tensorflow` package can I locate the method to enable operation determinism for reproducible training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ee14ae778d"
+  }
+]

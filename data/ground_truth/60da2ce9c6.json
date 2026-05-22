@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific error message appears when executing `./scripts/start.sh` due to an invalid docker-compose file?",
+    "course": "mlops-zoomcamp",
+    "document": "60da2ce9c6"
+  },
+  {
+    "question": "Which unsupported configuration options are causing the error in the `docker-compose.yml` file?",
+    "course": "mlops-zoomcamp",
+    "document": "60da2ce9c6"
+  },
+  {
+    "question": "What is the command to download the latest version of Docker Compose using curl?",
+    "course": "mlops-zoomcamp",
+    "document": "60da2ce9c6"
+  },
+  {
+    "question": "How should permissions be set for the newly downloaded Docker Compose binary to make it executable?",
+    "course": "mlops-zoomcamp",
+    "document": "60da2ce9c6"
+  },
+  {
+    "question": "In which module of the 'mlops-zoomcamp' course does this issue and its solution pertain?",
+    "course": "mlops-zoomcamp",
+    "document": "60da2ce9c6"
+  }
+]

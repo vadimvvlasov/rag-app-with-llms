@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How should I handle NaN values in `PUlocationID` and `DOlocationID` when performing one-hot encoding with `pd.get_dummies`?",
+    "course": "mlops-zoomcamp",
+    "document": "63fb307920"
+  },
+  {
+    "question": "What data type transformation is required for `PUlocationID` and `DOlocationID` to enable effective one-hot encoding using `DictVectorizer`?",
+    "course": "mlops-zoomcamp",
+    "document": "63fb307920"
+  },
+  {
+    "question": "Does the specific string representation used for NaN values (e.g., \"-1\" vs. \"nan\") affect the RMSE when applying `DictVectorizer` for one-hot encoding?",
+    "course": "mlops-zoomcamp",
+    "document": "63fb307920"
+  },
+  {
+    "question": "Are there alternative string representations for NaN values in `PUlocationID` and `DOlocationID` that would yield similar results with `DictVectorizer`?",
+    "course": "mlops-zoomcamp",
+    "document": "63fb307920"
+  },
+  {
+    "question": "What is the impact of converting numeric NaN values to strings on the subsequent one-hot encoding process using `pd.get_dummies`?",
+    "course": "mlops-zoomcamp",
+    "document": "63fb307920"
+  }
+]

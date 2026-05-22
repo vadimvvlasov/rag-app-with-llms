@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary purpose of using Azure Key Vault within the Azure cloud stack?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec5e405fa6"
+  },
+  {
+    "question": "How can Azure Key Vault help in securing sensitive data such as database passwords across Azure services?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec5e405fa6"
+  },
+  {
+    "question": "Can you describe a scenario where Azure Key Vault would be utilized to manage application secrets efficiently?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec5e405fa6"
+  },
+  {
+    "question": "In what ways does integrating Key Vault with other Azure services enhance overall security posture?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec5e405fa6"
+  },
+  {
+    "question": "What types of credentials or secrets are typically stored in Azure Key Vault for use by various technologies within Azure?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec5e405fa6"
+  }
+]

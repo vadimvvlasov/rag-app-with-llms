@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the maximum number of partition columns allowed for a single BigQuery table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "45b587e597"
+  },
+  {
+    "question": "How many clustering columns can be specified when creating a clustered table in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "45b587e597"
+  },
+  {
+    "question": "What is the current limit on the total number of partitions that can exist in a BigQuery table?",
+    "course": "data-engineering-zoomcamp",
+    "document": "45b587e597"
+  },
+  {
+    "question": "If I perform a load, query, or DML job on partitioned data, what is the maximum number of partitions it can modify in one operation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "45b587e597"
+  },
+  {
+    "question": "Given the daily partition limit of 10,000, approximately how many years of daily time-based partitioning can be supported before reaching this cap?",
+    "course": "data-engineering-zoomcamp",
+    "document": "45b587e597"
+  }
+]

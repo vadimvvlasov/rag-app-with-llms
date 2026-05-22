@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did I encounter an error when trying to run `eb local` with the command `eb init -p docker tumor-diagnosis-serving -r eu-west-1`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9e5f381432"
+  },
+  {
+    "question": "What specific error message was displayed during the execution of `eb local run --port 9696` after initializing the environment with the Docker platform?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9e5f381432"
+  },
+  {
+    "question": "Which alternative platform setting resolved the issue and allowed the Dockerfile to be recognized for building and running the container?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9e5f381432"
+  },
+  {
+    "question": "How did changing the platform parameter in the `eb init` command affect the ability to use `eb local`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9e5f381432"
+  },
+  {
+    "question": "What is the correct platform identifier to use when initializing an Elastic Beanstalk environment that includes a Dockerfile, as demonstrated in Module 5?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9e5f381432"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the most likely cause of the error \"OpenAI API Error: Insufficient credits\" when executing the `chat.completions.create` command?",
+    "course": "llm-zoomcamp",
+    "document": "f5df151c59"
+  },
+  {
+    "question": "In which module of the 'llm-zoomcamp' course does this issue typically appear?",
+    "course": "llm-zoomcamp",
+    "document": "f5df151c59"
+  },
+  {
+    "question": "How might a user resolve the insufficient credit problem to successfully run the `chat.completions.create` command?",
+    "course": "llm-zoomcamp",
+    "document": "f5df151c59"
+  },
+  {
+    "question": "Is there any specific function or parameter within the OpenAI Python SDK that needs adjustment to prevent this error?",
+    "course": "llm-zoomcamp",
+    "document": "f5df151c59"
+  },
+  {
+    "question": "Where can students find additional troubleshooting steps for API-related errors in Module 1 of 'llm-zoomcamp'?",
+    "course": "llm-zoomcamp",
+    "document": "f5df151c59"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Where should I place utility functions to avoid duplication across sub-projects in the Mage MLOps course?",
+    "course": "mlops-zoomcamp",
+    "document": "85c83560c5"
+  },
+  {
+    "question": "How do I correctly import helper functions from the `mlops.utils` module when working on different projects within the same repository?",
+    "course": "mlops-zoomcamp",
+    "document": "85c83560c5"
+  },
+  {
+    "question": "What is the exact file path for accessing utility modules in the main mlops parent project during Module 3: Orchestration of the mlops-zoomcamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "85c83560c5"
+  },
+  {
+    "question": "Is it necessary to re-implement commonly used functions in each sub-project, or can I reference a single shared set of utilities?",
+    "course": "mlops-zoomcamp",
+    "document": "85c83560c5"
+  },
+  {
+    "question": "Can you confirm that the implementation details provided in the Mage MLOps repository remain consistent across all videos in Module 3?",
+    "course": "mlops-zoomcamp",
+    "document": "85c83560c5"
+  }
+]

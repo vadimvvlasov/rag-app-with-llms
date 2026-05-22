@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error message indicates a version mismatch between Poetry's configuration and the installed package versions?",
+    "course": "mlops-zoomcamp",
+    "document": "ba23a5c708"
+  },
+  {
+    "question": "How can I verify the versions of tools specified in `pre-commit-config.yaml` and `Pipfile.lock`?",
+    "course": "mlops-zoomcamp",
+    "document": "ba23a5c708"
+  },
+  {
+    "question": "What steps should I follow to resolve the 'RuntimeError: The Poetry configuration is invalid' during pre-commit execution?",
+    "course": "mlops-zoomcamp",
+    "document": "ba23a5c708"
+  },
+  {
+    "question": "Where can I find the `pre-commit-config.yaml` file in a typical MLOps-ZoomCamp project structure?",
+    "course": "mlops-zoomcamp",
+    "document": "ba23a5c708"
+  },
+  {
+    "question": "Which version of Poetry should be updated in `pre-commit-config.yaml` if my `Pipfile.lock` shows version 1.5.0?",
+    "course": "mlops-zoomcamp",
+    "document": "ba23a5c708"
+  }
+]

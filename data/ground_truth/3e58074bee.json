@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the correct command to initialize a Prefect project in the latest version?",
+    "course": "mlops-zoomcamp",
+    "document": "3e58074bee"
+  },
+  {
+    "question": "In the context of Module 3 on Orchestration within the MLOps ZoomCamp course, how do I set up a new Prefect project if the `project` sub-command is missing?",
+    "course": "mlops-zoomcamp",
+    "document": "3e58074bee"
+  },
+  {
+    "question": "When encountering the error 'No such command 'project'', what alternative steps should be taken to proceed with creating a Prefect orchestration project?",
+    "course": "mlops-zoomcamp",
+    "document": "3e58074bee"
+  },
+  {
+    "question": "According to the FAQ for Module 3 of the MLOps ZoomCamp course, which command replaces the deprecated `project init` functionality in recent Prefect releases?",
+    "course": "mlops-zoomcamp",
+    "document": "3e58074bee"
+  },
+  {
+    "question": "How can I resolve the initialization issue related to the missing 'project' module when executing Prefect commands during the Orchestration module of the MLOps ZoomCamp curriculum?",
+    "course": "mlops-zoomcamp",
+    "document": "3e58074bee"
+  }
+]

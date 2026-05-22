@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the specific error message encountered when loading Parquet data into BigQuery due to type mismatch?",
+    "course": "data-engineering-zoomcamp",
+    "document": "66d3c42dd4"
+  },
+  {
+    "question": "How can missing values in the `DOlocationID` and `PUlocationID` columns cause inconsistent data types during data injection into GCS using Pandas?",
+    "course": "data-engineering-zoomcamp",
+    "document": "66d3c42dd4"
+  },
+  {
+    "question": "What Pandas method should be used to cast these columns to handle missing values while ensuring compatibility with BigQuery's schema?",
+    "course": "data-engineering-zoomcamp",
+    "document": "66d3c42dd4"
+  },
+  {
+    "question": "Provide an example of how to correctly cast the `PUlocationID` and `DOlocationID` columns using Pandas before uploading them to GCS.",
+    "course": "data-engineering-zoomcamp",
+    "document": "66d3c42dd4"
+  },
+  {
+    "question": "What is recommended to ensure all column data types are aligned with BigQuery's schema during the transformation stage of the ETL pipeline?",
+    "course": "data-engineering-zoomcamp",
+    "document": "66d3c42dd4"
+  }
+]

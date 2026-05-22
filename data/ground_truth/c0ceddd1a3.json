@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I utilize multi-threading to enhance data generation during the `model.fit()` process in TensorFlow?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0ceddd1a3"
+  },
+  {
+    "question": "What is the default setting for the `workers` parameter when executing `model.fit()`, and how does it affect performance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0ceddd1a3"
+  },
+  {
+    "question": "In what range should I experiment with the `workers` value to potentially improve training speed on my machine?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0ceddd1a3"
+  },
+  {
+    "question": "Where can I find detailed documentation about the `workers` argument in the context of TensorFlow's `model.fit()` method?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0ceddd1a3"
+  },
+  {
+    "question": "Does adjusting the `workers` parameter during `model.fit()` require any specific considerations regarding system CPU resources?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c0ceddd1a3"
+  }
+]

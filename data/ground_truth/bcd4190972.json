@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I prevent certain files or folders from being tracked by Git when pushing my code to a remote repository?",
+    "course": "mlops-zoomcamp",
+    "document": "bcd4190972"
+  },
+  {
+    "question": "What steps are involved in creating and configuring a `.gitignore` file for a local Git repository?",
+    "course": "mlops-zoomcamp",
+    "document": "bcd4190972"
+  },
+  {
+    "question": "Which specific patterns should be added to a `.gitignore` file to ignore all Parquet files and everything inside a folder named `data`?",
+    "course": "mlops-zoomcamp",
+    "document": "bcd4190972"
+  },
+  {
+    "question": "Where can I find more detailed information about additional patterns and options available for the `.gitignore` configuration in Git?",
+    "course": "mlops-zoomcamp",
+    "document": "bcd4190972"
+  },
+  {
+    "question": "Can you provide an example of how to set up a `.gitignore` file step-by-step, including saving it with the correct extension?",
+    "course": "mlops-zoomcamp",
+    "document": "bcd4190972"
+  }
+]

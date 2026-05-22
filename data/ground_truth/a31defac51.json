@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary purpose of the Staging dataset in a data engineering workflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a31defac51"
+  },
+  {
+    "question": "How does the Staging dataset differ from raw datasets and final fact/dimension tables?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a31defac51"
+  },
+  {
+    "question": "Why are datasets in the staging phase usually materialized as views instead of tables?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a31defac51"
+  },
+  {
+    "question": "In what stage of the project do we primarily focus on creating production and `dbt_name + trips_data_all` while the staging dataset operates behind the scenes?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a31defac51"
+  },
+  {
+    "question": "How does the Staging dataset facilitate the transformation of raw data into a more usable format?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a31defac51"
+  }
+]

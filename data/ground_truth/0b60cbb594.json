@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the Module 5 Homework, does the new pipeline require modifications to the existing code?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0b60cbb594"
+  },
+  {
+    "question": "What filename should I use to load the updated pipeline in my Python script for the homework assignment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0b60cbb594"
+  },
+  {
+    "question": "Could you provide the exact code snippet needed to replace the old pipeline loading statement with the new one specified in the homework instructions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0b60cbb594"
+  },
+  {
+    "question": "Is there any additional setup required after updating the pipeline file name in the homework, or is the provided code sufficient?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0b60cbb594"
+  },
+  {
+    "question": "Will using `pipeline_v2.bin` instead of `pipeline_v1.bin` affect the functionality of my existing model predictions as part of the Module 5 Homework?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0b60cbb594"
+  }
+]

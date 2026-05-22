@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a ValueError stating 'not enough values to unpack (expected 3, got 1)' while running Video 3.2.8?",
+    "course": "mlops-zoomcamp",
+    "document": "9cfe589a2e"
+  },
+  {
+    "question": "What should be the correct sequence of connections for the xgboost training in my pipeline as described in Module 3?",
+    "course": "mlops-zoomcamp",
+    "document": "9cfe589a2e"
+  },
+  {
+    "question": "How can I resolve the error if the upstream connections for the xgboost block are not aligned with the expected order?",
+    "course": "mlops-zoomcamp",
+    "document": "9cfe589a2e"
+  },
+  {
+    "question": "Could you clarify the necessary steps to eliminate the ValueError when the xgboost block is improperly connected?",
+    "course": "mlops-zoomcamp",
+    "document": "9cfe589a2e"
+  },
+  {
+    "question": "In the context of Video 3.2.8 from Module 3 of the MLOps ZoomCamp, what specific adjustments should I make to the pipeline connections to ensure proper execution?",
+    "course": "mlops-zoomcamp",
+    "document": "9cfe589a2e"
+  }
+]

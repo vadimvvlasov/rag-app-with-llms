@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if the lineage feature shows as unavailable in my project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d4ec58fd16"
+  },
+  {
+    "question": "How can I verify whether there are any compilation errors in my YAML configuration file for dbt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d4ec58fd16"
+  },
+  {
+    "question": "Where can I locate and read the build logs after a dbt run to identify potential issues?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d4ec58fd16"
+  },
+  {
+    "question": "If I encounter persistent errors despite a successful run, what is the recommended approach to troubleshoot them?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d4ec58fd16"
+  },
+  {
+    "question": "What steps should I follow to expand and examine error messages or warnings in the command history console during a dbt operation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d4ec58fd16"
+  }
+]

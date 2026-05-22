@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is the CPU-only version of PyTorch sufficient for completing the coursework and assignments in the 'machine-learning-zoomcamp' course, specifically within Module 8 on Neural Networks and Deep Learning?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f7bef3f0f8"
+  },
+  {
+    "question": "What is the size difference between the CPU-only and CUDA builds of PyTorch, and which one should I choose if I plan to use Google Colab with a free GPU runtime for training models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f7bef3f0f8"
+  },
+  {
+    "question": "How can I install the CPU-only version of PyTorch using pip or uv commands in my local environment, as suggested for learning purposes in Module 8?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f7bef3f0f8"
+  },
+  {
+    "question": "Will installing the CUDA build of PyTorch impact the performance of my assignments if I do not have an NVIDIA GPU connected to my machine during the course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f7bef3f0f8"
+  },
+  {
+    "question": "Are there any specific advantages or disadvantages to using a Google Colab free GPU runtime over running CPU-only PyTorch locally when working on deep learning tasks in Module 8?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f7bef3f0f8"
+  }
+]

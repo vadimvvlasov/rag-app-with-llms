@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does a PyFlink session window job fail with the error 'please declare primary key for sink table when query contains update/delete record'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e08b9c753f"
+  },
+  {
+    "question": "What is required to resolve the primary key error in a JDBC sink while using session windows in Flink?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e08b9c753f"
+  },
+  {
+    "question": "How should I configure the primary key for a JDBC sink table when performing session window aggregations in PyFlink?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e08b9c753f"
+  },
+  {
+    "question": "Which columns are typically used to define a primary key for a JDBC sink table in a session window job?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e08b9c753f"
+  },
+  {
+    "question": "What happens if I omit the primary key declaration for a JDBC sink in a session window aggregation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e08b9c753f"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "question": "I'm trying to create a Spark DataFrame using a specified schema, but I receive a DataType error when loading a Parquet file. What is the root cause of this issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3e355d74fd"
+  },
+  {
+    "question": "In the context of defining schemas for Spark DataFrames, why does specifying `IntegerType` for `PULocationID` and `DOLocationID` columns lead to an error with a Parquet file from the TLC example?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3e355d74fd"
+  },
+  {
+    "question": "What specific data type mismatch causes the error `",
+    "course": "data-engineering-zoomcamp",
+    "document": "3e355d74fd"
+  },
+  {
+    "question": "Parquet column cannot be converted in file [...] Column [...] Expected: int, Found: INT64\n",
+    "course": "data-engineering-zoomcamp",
+    "document": "3e355d74fd"
+  },
+  {
+    "question": " when reading a Parquet file into a Spark DataFrame with a custom schema?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3e355d74fd"
+  },
+  {
+    "question": "How can I adjust the schema definition to resolve the DataType error that occurs while creating a Spark DataFrame from a Parquet file with `PULocationID` and `DOLocationID` columns?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3e355d74fd"
+  },
+  {
+    "question": "What change should be made to the schema for `PULocationID` and `DOLocationID` columns to successfully create a Spark DataFrame when handling a Parquet file in Module 6?",
+    "course": "data-engineering-zoomcamp",
+    "document": "3e355d74fd"
+  }
+]

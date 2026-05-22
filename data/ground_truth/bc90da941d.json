@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I verify that I have entered the correct project ID to avoid the 'accountDisabled' error when using Google Cloud Platform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bc90da941d"
+  },
+  {
+    "question": "What steps are required to link a billing account to my GCP project if it is not already associated?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bc90da941d"
+  },
+  {
+    "question": "Where can I locate my unique project ID on the GCP Dashboard after logging in?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bc90da941d"
+  },
+  {
+    "question": "If I encounter an Error 403 due to an absent billing account, what should be my first troubleshooting step?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bc90da941d"
+  },
+  {
+    "question": "What are the potential reasons for receiving the error message 'The project to be billed is associated with an absent billing account.' during a GCP operation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bc90da941d"
+  }
+]

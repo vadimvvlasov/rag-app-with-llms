@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary difference between using `predict(X)` and `predict_proba(X)[:, 1]` in a binary classification model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "139ae54c4f"
+  },
+  {
+    "question": "How does `predict_proba(X)[:, 1]` enhance evaluation accuracy compared to `predict(X)`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "139ae54c4f"
+  },
+  {
+    "question": "In what scenarios should one prefer `predict_proba(X)[:, 1]` over `predict(X)` for assessing class membership probabilities?",
+    "course": "machine-learning-zoomcamp",
+    "document": "139ae54c4f"
+  },
+  {
+    "question": "Can you explain why direct predictions from `predict(X)` might lead to misleading evaluation metrics in classification tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "139ae54c4f"
+  },
+  {
+    "question": "What output does `predict_proba(X)` generate, and how is the specific column `[:, 1]` relevant to binary outcomes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "139ae54c4f"
+  }
+]

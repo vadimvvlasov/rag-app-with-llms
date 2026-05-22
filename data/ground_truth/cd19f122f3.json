@@ -1,0 +1,27 @@
+[
+  {
+    "question": "If DLT currently lacks built-in connectors for ClickHouse and StarRocks, how can community members contribute to develop these integrations?",
+    "course": "llm-zoomcamp",
+    "document": "cd19f122f3"
+  },
+  {
+    "question": "What steps would a developer need to follow to create and submit a connector for ClickHouse or StarRocks to the DLT project?",
+    "course": "llm-zoomcamp",
+    "document": "cd19f122f3"
+  },
+  {
+    "question": "Are there any existing templates or guidelines provided by DLT for creating new data ingestion connectors?",
+    "course": "llm-zoomcamp",
+    "document": "cd19f122f3"
+  },
+  {
+    "question": "How does the acceptance process work for community-contributed connectors in the DLT framework?",
+    "course": "llm-zoomcamp",
+    "document": "cd19f122f3"
+  },
+  {
+    "question": "What benefits would adding ClickHouse and StarRocks connectors bring to users of the DLT platform?",
+    "course": "llm-zoomcamp",
+    "document": "cd19f122f3"
+  }
+]

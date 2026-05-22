@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I extract the feature importances from a trained Random Forest model in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fee2e5fbda"
+  },
+  {
+    "question": "What steps are required to sort a DataFrame of feature names and their corresponding importance values in descending order?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fee2e5fbda"
+  },
+  {
+    "question": "Could you provide the code snippet for generating a horizontal bar chart that visualizes feature importance using Seaborn, with appropriate labels and title?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fee2e5fbda"
+  },
+  {
+    "question": "Which library functions or methods should I use to create a visualization that clearly indicates which features contribute most to the model's predictions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fee2e5fbda"
+  },
+  {
+    "question": "In the context of Module 6 of the machine-learning-zoomcamp course, how do I ensure the bar chart accurately reflects the relative importance of each feature?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fee2e5fbda"
+  }
+]

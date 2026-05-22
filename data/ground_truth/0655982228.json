@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I retrieve the feature names from a DictVectorizer after training a RandomForest model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0655982228"
+  },
+  {
+    "question": "What attribute of a trained RandomForest model provides the importance values for each feature?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0655982228"
+  },
+  {
+    "question": "Which function should I use to combine feature names with their corresponding importance values in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0655982228"
+  },
+  {
+    "question": "Is there a way to sort the features by their importance using the output from `rf.feature_importances_` and `dv.get_feature_names_out()`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0655982228"
+  },
+  {
+    "question": "What is the purpose of using `zip(feature_names, importances)` when linking feature names with their importance scores?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0655982228"
+  }
+]

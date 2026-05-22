@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I verify that I am using AWS CLI v2 before running eksctl?",
+    "course": "machine-learning-zoomcamp",
+    "document": "afc2e6e77d"
+  },
+  {
+    "question": "What command should I execute to check the current version of the AWS CLI installed on my system?",
+    "course": "machine-learning-zoomcamp",
+    "document": "afc2e6e77d"
+  },
+  {
+    "question": "Where can I find detailed instructions for migrating from AWS CLI v1 to v2 when working with eksctl?",
+    "course": "machine-learning-zoomcamp",
+    "document": "afc2e6e77d"
+  },
+  {
+    "question": "Is there a specific requirement for the AWS CLI version when using the eksctl tool to create EKS clusters?",
+    "course": "machine-learning-zoomcamp",
+    "document": "afc2e6e77d"
+  },
+  {
+    "question": "After verifying my AWS CLI version, what additional steps should I take to ensure compatibility with eksctl?",
+    "course": "machine-learning-zoomcamp",
+    "document": "afc2e6e77d"
+  }
+]

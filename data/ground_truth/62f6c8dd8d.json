@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the WSL integration with Ubuntu stop unexpectedly with exit code 1?",
+    "course": "data-engineering-zoomcamp",
+    "document": "62f6c8dd8d"
+  },
+  {
+    "question": "What is the first troubleshooting step suggested for resolving the WSL integration issue that results in exit code 1?",
+    "course": "data-engineering-zoomcamp",
+    "document": "62f6c8dd8d"
+  },
+  {
+    "question": "How can I toggle the DNS cache service to potentially fix the WSL integration problem?",
+    "course": "data-engineering-zoomcamp",
+    "document": "62f6c8dd8d"
+  },
+  {
+    "question": "After toggling the DNS cache service, what should I do next to attempt a resolution of the exit code 1 error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "62f6c8dd8d"
+  },
+  {
+    "question": "If the issue persists after adjusting the DNS cache settings, what alternative Docker Desktop setting should be checked?",
+    "course": "data-engineering-zoomcamp",
+    "document": "62f6c8dd8d"
+  }
+]

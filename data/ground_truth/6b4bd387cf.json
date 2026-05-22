@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What causes the PyFlink streaming job to fail with a JSON deserialization error when consuming records from a Kafka/Redpanda topic?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6b4bd387cf"
+  },
+  {
+    "question": "How can I modify the dataset before producing events to avoid NaN values causing issues during JSON serialization?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6b4bd387cf"
+  },
+  {
+    "question": "Can you provide an example of how to replace NaN values with `null` in Python before serializing a record to JSON for consumption by PyFlink?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6b4bd387cf"
+  },
+  {
+    "question": "What is the recommended approach to handle NaN values when sending data to Kafka/Redpanda for downstream processing with Flink's JSON parser?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6b4bd387cf"
+  },
+  {
+    "question": "How can I validate that the serialized JSON payload does not contain NaN values and is properly formatted for successful deserialization in a PyFlink streaming job?",
+    "course": "data-engineering-zoomcamp",
+    "document": "6b4bd387cf"
+  }
+]

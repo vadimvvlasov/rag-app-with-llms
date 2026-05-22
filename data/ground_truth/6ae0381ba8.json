@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message 'The Launch Configuration creation operation is not available in your account' mean when running `eb create`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6ae0381ba8"
+  },
+  {
+    "question": "How can I resolve the error related to auto scaling launch configuration during an Elastic Beanstalk environment creation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6ae0381ba8"
+  },
+  {
+    "question": "Is it possible to use Launch Templates instead of Launch Configurations with the `eb create` command, and if so, how?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6ae0381ba8"
+  },
+  {
+    "question": "What is the purpose of the `--enable-spot` flag in the `eb create` command?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6ae0381ba8"
+  },
+  {
+    "question": "Can you outline the steps I need to follow if I choose to run `eb create` interactively to set up an environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "6ae0381ba8"
+  }
+]

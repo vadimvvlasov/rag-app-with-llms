@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why was this video about configuring a GCP VM created in our course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d8ebc91216"
+  },
+  {
+    "question": "What difficulties did students encounter when setting up their environment without using the provided GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d8ebc91216"
+  },
+  {
+    "question": "What are the benefits of using my own development environment instead of the recommended GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d8ebc91216"
+  },
+  {
+    "question": "Can I directly commit changes to a GitHub repository while working inside the GCP VM?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d8ebc91216"
+  },
+  {
+    "question": "In what scenarios would it be preferable to use an alternative setup rather than the suggested GCP VM for our projects?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d8ebc91216"
+  }
+]

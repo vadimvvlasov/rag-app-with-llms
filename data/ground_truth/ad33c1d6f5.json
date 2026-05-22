@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I visualize the long tail of a dataset using Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ad33c1d6f5"
+  },
+  {
+    "question": "What steps should I follow to perform descriptive statistics on the 'median_house_value' column in a regression dataset?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ad33c1d6f5"
+  },
+  {
+    "question": "What does it mean if the skewness value of the 'median_house_value' is greater than 0, and how do I calculate it?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ad33c1d6f5"
+  },
+  {
+    "question": "Can you provide a code example for generating a histogram of house values to check the long tail distribution?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ad33c1d6f5"
+  },
+  {
+    "question": "Which Python libraries are essential for conducting an exploratory data analysis (EDA) to assess the skewness in a regression dataset?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ad33c1d6f5"
+  }
+]

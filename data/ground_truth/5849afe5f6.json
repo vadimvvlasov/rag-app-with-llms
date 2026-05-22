@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a 'Permission denied to access ‘storage.buckets.create’' error when trying to create a bucket with Terraform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5849afe5f6"
+  },
+  {
+    "question": "What does the error message 'terraform-trans-campus@trans-campus-410115.iam.gserviceaccount.com does not have storage.buckets.create access to the Google Cloud project.' indicate, and how can I resolve it?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5849afe5f6"
+  },
+  {
+    "question": "In the context of setting up a Google Cloud project for Terraform, why is it important to use the Project ID instead of the Project name when configuring permissions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5849afe5f6"
+  },
+  {
+    "question": "How do I identify the correct Project ID within my Google Cloud console dashboard to ensure proper access rights for bucket creation in Terraform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5849afe5f6"
+  },
+  {
+    "question": "What steps should I follow to grant the necessary storage.buckets.create permission to my service account for successful bucket creation via Terraform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5849afe5f6"
+  }
+]

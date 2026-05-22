@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I resolve the 'pgcli: command not found' error after installing `pgcli` on Git Bash?",
+    "course": "data-engineering-zoomcamp",
+    "document": "aa8c30b777"
+  },
+  {
+    "question": "What steps should I take to fix the 'pgcli: The term is not recognized as an internal or external command' issue in Windows Terminal?",
+    "course": "data-engineering-zoomcamp",
+    "document": "aa8c30b777"
+  },
+  {
+    "question": "Can you guide me through locating the correct Python Scripts path when adding it to the Windows PATH variable for `pgcli` compatibility?",
+    "course": "data-engineering-zoomcamp",
+    "document": "aa8c30b777"
+  },
+  {
+    "question": "If my Python installation is located at `c:\\python310\\lib`, what specific directory should I add to the system's PATH environment variable to resolve the pgcli command issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "aa8c30b777"
+  },
+  {
+    "question": "What is the URL of the Stack Overflow reference that provides additional troubleshooting steps for the 'pgcli: command not found' problem?",
+    "course": "data-engineering-zoomcamp",
+    "document": "aa8c30b777"
+  }
+]

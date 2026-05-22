@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is my experiment not appearing in the MLflow user interface?",
+    "course": "mlops-zoomcamp",
+    "document": "42e6f685af"
+  },
+  {
+    "question": "What steps should I take to ensure the MLflow UI displays experiments from my current code directory?",
+    "course": "mlops-zoomcamp",
+    "document": "42e6f685af"
+  },
+  {
+    "question": "How do I correctly specify the `tracking_uri` when the `mlflow.db` file is located in a subdirectory or above the present working directory?",
+    "course": "mlops-zoomcamp",
+    "document": "42e6f685af"
+  },
+  {
+    "question": "Can you provide an example of launching the MLflow UI using Python's subprocess module while setting the appropriate tracking URI?",
+    "course": "mlops-zoomcamp",
+    "document": "42e6f685af"
+  },
+  {
+    "question": "What is the recommended method to initialize MLflow with the same tracking URI used for starting the MLflow UI from within a Jupyter notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "42e6f685af"
+  }
+]

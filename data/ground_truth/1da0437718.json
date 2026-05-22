@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the most precise method to calculate the duration between two timestamp columns in hours using PySpark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1da0437718"
+  },
+  {
+    "question": "How do I convert a difference calculated with `datediff` into hours while maintaining sub-day accuracy?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1da0437718"
+  },
+  {
+    "question": "Can you explain why using `unix_timestamp` provides per-row exact hour calculations compared to other methods?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1da0437718"
+  },
+  {
+    "question": "If I need to perform additional Python-specific time calculations after computing the duration, which approach should I take to collect the data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1da0437718"
+  },
+  {
+    "question": "What are the trade-offs between using `unix_timestamp`, `datediff`, and a Python-side calculation for timestamp differences in Spark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1da0437718"
+  }
+]

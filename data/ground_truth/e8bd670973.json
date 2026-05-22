@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I verify that the outliers have been successfully removed from my dataset?",
+    "course": "mlops-zoomcamp",
+    "document": "e8bd670973"
+  },
+  {
+    "question": "What pandas function is recommended to generate a summary of data distribution including statistics after clipping outliers?",
+    "course": "mlops-zoomcamp",
+    "document": "e8bd670973"
+  },
+  {
+    "question": "Could you provide an example command to check the minimum and maximum values of a column named 'duration' in a DataFrame after outlier removal?",
+    "course": "mlops-zoomcamp",
+    "document": "e8bd670973"
+  },
+  {
+    "question": "In the context of checking for outlier removal, what specific DataFrame attribute should I inspect post-clipping operation?",
+    "course": "mlops-zoomcamp",
+    "document": "e8bd670973"
+  },
+  {
+    "question": "After performing outlier clipping on a dataset with a column called 'duration', which method would confirm whether the outliers were effectively limited to acceptable bounds?",
+    "course": "mlops-zoomcamp",
+    "document": "e8bd670973"
+  }
+]

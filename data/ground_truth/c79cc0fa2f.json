@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What causes the 'table does not exist' catalog error during the first execution of a Bruin pipeline using the time_interval materialization strategy?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c79cc0fa2f"
+  },
+  {
+    "question": "How can I ensure the target table is created before running incremental data loading in a Bruin pipeline?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c79cc0fa2f"
+  },
+  {
+    "question": "Is there a command to perform a full refresh that guarantees the table exists prior to executing the incremental logic?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c79cc0fa2f"
+  },
+  {
+    "question": "What steps should be taken after the initial run to switch back to using the time_interval materialization strategy successfully?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c79cc0fa2f"
+  },
+  {
+    "question": "Does the 'full-refresh' option affect only the creation of the table or does it also impact subsequent runs in a Bruin pipeline?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c79cc0fa2f"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are effective strategies for handling datasets with over a million rows in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7f18a34896"
+  },
+  {
+    "question": "How can I implement data sampling to facilitate exploratory analysis on large datasets?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7f18a34896"
+  },
+  {
+    "question": "What methods exist to process large datasets incrementally without loading the entire dataset into memory at once?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7f18a34896"
+  },
+  {
+    "question": "In what ways can optimizing data types contribute to reducing memory usage when working with extensive datasets in Pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7f18a34896"
+  },
+  {
+    "question": "How does the Dask library aid in parallelizing computations for large datasets similar to those used in machine learning projects?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7f18a34896"
+  }
+]

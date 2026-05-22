@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving a '403: Access denied' error when running Terraform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55c0047f8b"
+  },
+  {
+    "question": "How can I verify that the `$GOOGLE_APPLICATION_CREDENTIALS` environment variable is set to the correct JSON key file path?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55c0047f8b"
+  },
+  {
+    "question": "What command should I use to activate the service account associated with my Google Cloud credentials?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55c0047f8b"
+  },
+  {
+    "question": "If `googleapi: Error 403` persists after setting `$GOOGLE_APPLICATION_CREDENTIALS`, what additional steps can I take to troubleshoot the issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55c0047f8b"
+  },
+  {
+    "question": "In the context of Terraform on Google Cloud, where should I place the JSON key file for the service account?",
+    "course": "data-engineering-zoomcamp",
+    "document": "55c0047f8b"
+  }
+]

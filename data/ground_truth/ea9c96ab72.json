@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message 'kafka.errors.NoBrokersAvailable: NoBrokersAvailable' indicate?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ea9c96ab72"
+  },
+  {
+    "question": "How can I verify whether my Kafka broker Docker container is currently running?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ea9c96ab72"
+  },
+  {
+    "question": "What command should I execute to list all active Docker containers on my system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ea9c96ab72"
+  },
+  {
+    "question": "If my Kafka broker is not running, which Docker Compose command will initiate it along with other defined services?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ea9c96ab72"
+  },
+  {
+    "question": "Where should I navigate to before executing the Docker Compose command to start the Kafka broker and associated services?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ea9c96ab72"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why are Python logging messages appearing as error logs within Kestra?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e32e8737da"
+  },
+  {
+    "question": "What is the default stream used by Python's logging module for output?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e32e8737da"
+  },
+  {
+    "question": "How does Kestra differentiate between logs sent to `stdout` and `stderr`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e32e8737da"
+  },
+  {
+    "question": "What configuration change in a Python script will ensure that logs are correctly interpreted as DEBUG-level messages by Kestra?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e32e8737da"
+  },
+  {
+    "question": "Can you provide an example of how to redirect Python logging to `stdout` so that it is recognized as DEBUG level in Kestra?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e32e8737da"
+  }
+]

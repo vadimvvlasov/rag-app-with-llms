@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What steps should I follow to add a new metric to my monitoring setup?",
+    "course": "mlops-zoomcamp",
+    "document": "296ea7fed1"
+  },
+  {
+    "question": "Why am I encountering errors stating that 'target columns' and 'prediction columns' are not present after adding a metric?",
+    "course": "mlops-zoomcamp",
+    "document": "296ea7fed1"
+  },
+  {
+    "question": "Does the `DatasetCorrelationsMetric` need any specific parameters when being integrated into a project?",
+    "course": "mlops-zoomcamp",
+    "document": "296ea7fed1"
+  },
+  {
+    "question": "Where can I find detailed instructions on the requirements for adding various metrics in the monitoring module?",
+    "course": "mlops-zoomcamp",
+    "document": "296ea7fed1"
+  },
+  {
+    "question": "How can I resolve the issue of missing 'target columns' and 'prediction columns' errors once a metric is added?",
+    "course": "mlops-zoomcamp",
+    "document": "296ea7fed1"
+  }
+]

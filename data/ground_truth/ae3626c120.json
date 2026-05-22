@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the error 'ImportError: generic_type: type \"InterpreterWrapper\" is already registered!' occur when importing `tflite_runtime.interpreter` in a Python script?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ae3626c120"
+  },
+  {
+    "question": "What steps should I take to resolve the ImportError mentioned above when using TensorFlow Lite Runtime?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ae3626c120"
+  },
+  {
+    "question": "Is it necessary to restart the kernel before importing only `tflite_runtime.interpreter` to avoid the error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ae3626c120"
+  },
+  {
+    "question": "Can I safely import both `tensorflow` and `tflite_runtime.interpreter` in the same script without encountering this ImportError?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ae3626c120"
+  },
+  {
+    "question": "How can I ensure that my environment is set up correctly to prevent conflicts between TensorFlow and TensorFlow Lite Runtime imports?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ae3626c120"
+  }
+]

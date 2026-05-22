@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why did I encounter a parameters mismatch error in Homework Q3?",
+    "course": "mlops-zoomcamp",
+    "document": "cdd6cd3f29"
+  },
+  {
+    "question": "What specific parameter caused the issue in the RandomForestRegressor of sklearn?",
+    "course": "mlops-zoomcamp",
+    "document": "cdd6cd3f29"
+  },
+  {
+    "question": "Which version of sklearn introduced the deprecation of `min_impurity_split` for `RandomForestRegressor`?",
+    "course": "mlops-zoomcamp",
+    "document": "cdd6cd3f29"
+  },
+  {
+    "question": "How can upgrading sklearn resolve the parameters mismatch problem in my homework?",
+    "course": "mlops-zoomcamp",
+    "document": "cdd6cd3f29"
+  },
+  {
+    "question": "What steps should I take to ensure compatibility with the latest sklearn version for future assignments?",
+    "course": "mlops-zoomcamp",
+    "document": "cdd6cd3f29"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I am getting a warning that the requested image's platform (linux/amd64) does not match the host platform (linux/arm64/v8). How can I fix this?",
+    "course": "mlops-zoomcamp",
+    "document": "b577c9ba98"
+  },
+  {
+    "question": "What command should I use to build a Docker image with a specific platform tag for ARM64 architecture?",
+    "course": "mlops-zoomcamp",
+    "document": "b577c9ba98"
+  },
+  {
+    "question": "When deploying my application, why does the system report a mismatch between the requested and detected platforms, and how do I address it?",
+    "course": "mlops-zoomcamp",
+    "document": "b577c9ba98"
+  },
+  {
+    "question": "In Module 4 of the MLOps ZoomCamp course, what is the recommended approach to ensure compatibility between the image platform and the host platform?",
+    "course": "mlops-zoomcamp",
+    "document": "b577c9ba98"
+  },
+  {
+    "question": "How can I specify the Linux ARM64/v8 platform when tagging my Docker image during the build process in this course?",
+    "course": "mlops-zoomcamp",
+    "document": "b577c9ba98"
+  }
+]

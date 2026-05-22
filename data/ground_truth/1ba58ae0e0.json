@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a permission denied error when attempting to save a file in my Google Cloud Platform VM through VS Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1ba58ae0e0"
+  },
+  {
+    "question": "What specific command should I execute to modify the ownership of files within my specified directory on the VM in order to resolve the saving issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1ba58ae0e0"
+  },
+  {
+    "question": "Could you guide me through the process of connecting to my GCP VM via SSH before changing the file ownership?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1ba58ae0e0"
+  },
+  {
+    "question": "After running the `sudo chown -R <user> <path to your directory>` command, what steps should I follow to confirm that the permission issue has been successfully resolved?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1ba58ae0e0"
+  },
+  {
+    "question": "Is there any potential risk or additional configuration required after altering the file ownership on my VM to ensure smooth operation of VS Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "1ba58ae0e0"
+  }
+]

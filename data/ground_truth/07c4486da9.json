@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a `ConnectionRefusedError` when attempting to call my Flask application from the `predict-test.py` script?",
+    "course": "machine-learning-zoomcamp",
+    "document": "07c4486da9"
+  },
+  {
+    "question": "How can I verify that the Flask server is actually running and listening on the expected port before executing `predict-test.py`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "07c4486da9"
+  },
+  {
+    "question": "What steps should I take if changing the host address from `localhost` to `127.0.0.1` or vice versa does not resolve the connection issue in my Flask application?",
+    "course": "machine-learning-zoomcamp",
+    "document": "07c4486da9"
+  },
+  {
+    "question": "On a Windows system, how can I determine whether another process is occupying the port (e.g., 9696) that my Flask app attempts to use, and how can I free it if necessary?",
+    "course": "machine-learning-zoomcamp",
+    "document": "07c4486da9"
+  },
+  {
+    "question": "Before integrating my Python code with Flask, what simple command-line test can I perform to confirm that the Flask endpoint (`/predict`) responds correctly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "07c4486da9"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the exact command to initialize a new dlt project for filesystem loading from the cloud?",
+    "course": "llm-zoomcamp",
+    "document": "6bceeebf04"
+  },
+  {
+    "question": "After running the initialization command, where can I find additional guidance on setting up my dlt project?",
+    "course": "llm-zoomcamp",
+    "document": "6bceeebf04"
+  },
+  {
+    "question": "Is there a specific URL provided in the FAQ for detailed instructions on using dlt with DuckDB in a filesystem context?",
+    "course": "llm-zoomcamp",
+    "document": "6bceeebf04"
+  },
+  {
+    "question": "Which course section and ID correspond to the information about initializing a dlt project for cloud loading?",
+    "course": "llm-zoomcamp",
+    "document": "6bceeebf04"
+  },
+  {
+    "question": "What tool or platform should I use to locate more directions related to dlt initialization as mentioned in the FAQ?",
+    "course": "llm-zoomcamp",
+    "document": "6bceeebf04"
+  }
+]

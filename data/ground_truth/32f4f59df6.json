@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When should I consider applying regularization techniques in a machine learning model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "32f4f59df6"
+  },
+  {
+    "question": "What are the potential consequences of overfitting that necessitate the use of regularization?",
+    "course": "machine-learning-zoomcamp",
+    "document": "32f4f59df6"
+  },
+  {
+    "question": "How does the size and quality of the dataset influence the decision to apply regularization?",
+    "course": "machine-learning-zoomcamp",
+    "document": "32f4f59df6"
+  },
+  {
+    "question": "Can you provide examples of scenarios where regularization would be particularly beneficial or unnecessary?",
+    "course": "machine-learning-zoomcamp",
+    "document": "32f4f59df6"
+  },
+  {
+    "question": "In what ways can I evaluate whether my model needs regularization during the training process?",
+    "course": "machine-learning-zoomcamp",
+    "document": "32f4f59df6"
+  }
+]

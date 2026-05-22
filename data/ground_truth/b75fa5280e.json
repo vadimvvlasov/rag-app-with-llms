@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command do I use to install additional packages in Google Colab or Kaggle notebooks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b75fa5280e"
+  },
+  {
+    "question": "How can I ensure that extra dependencies are installed silently without verbose output?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b75fa5280e"
+  },
+  {
+    "question": "What should I do if a newly installed package conflicts with an already imported module?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b75fa5280e"
+  },
+  {
+    "question": "Which interface option allows me to restart the runtime after installing new packages?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b75fa5280e"
+  },
+  {
+    "question": "Are there any specific syntax requirements when executing pip install commands within notebook cells?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b75fa5280e"
+  }
+]

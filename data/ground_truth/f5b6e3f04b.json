@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command is used to transfer files from my local system into a Docker container?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f5b6e3f04b"
+  },
+  {
+    "question": "Can you provide the exact syntax for copying a file from my computer to a specific location inside a running Docker container?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f5b6e3f04b"
+  },
+  {
+    "question": "How do I specify the source path on my local machine and the target path within the container when using `docker cp`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f5b6e3f04b"
+  },
+  {
+    "question": "Is there a particular order or format required for the parameters in the `docker cp` command?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f5b6e3f04b"
+  },
+  {
+    "question": "After executing the `docker cp` command, where should I place the file or directory on my local system to ensure it is correctly copied into the container?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f5b6e3f04b"
+  }
+]

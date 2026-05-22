@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What attribute can be used in Pandas to determine the shape of a dataset?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cda76de4e9"
+  },
+  {
+    "question": "How do you retrieve the number of rows from a DataFrame using this attribute?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cda76de4e9"
+  },
+  {
+    "question": "How do you obtain the number of columns in a DataFrame with Pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cda76de4e9"
+  },
+  {
+    "question": "Is there an alternative method to find out the total number of rows besides using `.shape`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cda76de4e9"
+  },
+  {
+    "question": "What does `df.shape[0]` specifically return when applied to a Pandas DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cda76de4e9"
+  }
+]

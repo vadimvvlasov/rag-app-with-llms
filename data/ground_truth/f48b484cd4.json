@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I embed a dlt pipeline into Apache Airflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f48b484cd4"
+  },
+  {
+    "question": "What are the necessary imports to integrate dlt with Apache Airflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f48b484cd4"
+  },
+  {
+    "question": "How do I configure the default arguments for an Airflow DAG when using dlt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f48b484cd4"
+  },
+  {
+    "question": "What function should be used to run the dlt pipeline within an Airflow task?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f48b484cd4"
+  },
+  {
+    "question": "How do I specify the destination and dataset name in the dlt.pipeline call for Airflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f48b484cd4"
+  }
+]

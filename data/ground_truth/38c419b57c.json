@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I visualize GPU process utilization interactively using a tool similar to `htop` for CPU monitoring?",
+    "course": "machine-learning-zoomcamp",
+    "document": "38c419b57c"
+  },
+  {
+    "question": "What Python package provides an interactive interface for monitoring GPU usage during deep learning tasks?",
+    "course": "machine-learning-zoomcamp",
+    "document": "38c419b57c"
+  },
+  {
+    "question": "Where can I find the installation instructions and documentation for the `nvitop` Python package used to observe GPU processes?",
+    "course": "machine-learning-zoomcamp",
+    "document": "38c419b57c"
+  },
+  {
+    "question": "Is there an image available that demonstrates the `nvitop` interface for monitoring GPU utilization in a machine learning context?",
+    "course": "machine-learning-zoomcamp",
+    "document": "38c419b57c"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course is the `nvitop` tool discussed, and what is its purpose?",
+    "course": "machine-learning-zoomcamp",
+    "document": "38c419b57c"
+  }
+]

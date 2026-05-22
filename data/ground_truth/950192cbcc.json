@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs when the incorrect URL is specified for importing FHV data to GCS?",
+    "course": "data-engineering-zoomcamp",
+    "document": "950192cbcc"
+  },
+  {
+    "question": "Where should I find the correct URL to download the FHV dataset for import into Google Cloud Storage (GCS)?",
+    "course": "data-engineering-zoomcamp",
+    "document": "950192cbcc"
+  },
+  {
+    "question": "How does the `/releases/download` segment in the URL ensure successful retrieval of the FHV CSV file from GitHub?",
+    "course": "data-engineering-zoomcamp",
+    "document": "950192cbcc"
+  },
+  {
+    "question": "What is the expected format of the FHV data file when it is downloaded using the correct GitHub URL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "950192cbcc"
+  },
+  {
+    "question": "Why might a `gzip.BadGzipFile` exception be raised during the import process, and how can this issue be resolved?",
+    "course": "data-engineering-zoomcamp",
+    "document": "950192cbcc"
+  }
+]

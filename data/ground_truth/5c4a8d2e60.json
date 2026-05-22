@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the context of vector search for LLM applications, what are the three embedding options presented in the course materials?",
+    "course": "llm-zoomcamp",
+    "document": "5c4a8d2e60"
+  },
+  {
+    "question": "How does embedding only the answer (`text`) affect semantic similarity between user queries and indexed answers according to the FAQ record?",
+    "course": "llm-zoomcamp",
+    "document": "5c4a8d2e60"
+  },
+  {
+    "question": "What is the advantage of embedding only the question when performing vector search as described in the module on vector search?",
+    "course": "llm-zoomcamp",
+    "document": "5c4a8d2e60"
+  },
+  {
+    "question": "Why might concatenating the question and text into a single embedding produce slightly higher costs, and what is its typical effectiveness compared to other methods?",
+    "course": "llm-zoomcamp",
+    "document": "5c4a8d2e60"
+  },
+  {
+    "question": "What metric should be used to evaluate and compare the performance of different embedding strategies (question-only, answer-only, or combined) as suggested in the course FAQ?",
+    "course": "llm-zoomcamp",
+    "document": "5c4a8d2e60"
+  }
+]

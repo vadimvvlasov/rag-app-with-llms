@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What documentation should I consult to learn about the process of creating Lambda container images?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5484fc22f7"
+  },
+  {
+    "question": "Where can I find information on how AWS Lambda functions are initialized when using container images?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5484fc22f7"
+  },
+  {
+    "question": "Which resource provides details on the AWS Lambda Runtimes API related to serverless deep learning?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5484fc22f7"
+  },
+  {
+    "question": "In the context of Module 9 Serverless Deep Learning for the Machine Learning ZoomCamp course, how do I access guides for configuring Lambda container images?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5484fc22f7"
+  },
+  {
+    "question": "What specific AWS documentation page explains the technical aspects of initializing Lambda functions from container images?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5484fc22f7"
+  }
+]

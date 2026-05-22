@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I use to forcefully remove all Docker containers, including those that are currently running?",
+    "course": "llm-zoomcamp",
+    "document": "66ccbb7da0"
+  },
+  {
+    "question": "How do I delete every Docker image stored on my system using the terminal?",
+    "course": "llm-zoomcamp",
+    "document": "66ccbb7da0"
+  },
+  {
+    "question": "Which terminal command will erase all Docker volumes?",
+    "course": "llm-zoomcamp",
+    "document": "66ccbb7da0"
+  },
+  {
+    "question": "Is there a single command sequence in Module 5 that clears Docker builds in addition to containers and images?",
+    "course": "llm-zoomcamp",
+    "document": "66ccbb7da0"
+  },
+  {
+    "question": "In the context of 'llm-zoomcamp' coursework, how can I ensure no leftover Docker resources remain after executing the cleanup commands provided?",
+    "course": "llm-zoomcamp",
+    "document": "66ccbb7da0"
+  }
+]

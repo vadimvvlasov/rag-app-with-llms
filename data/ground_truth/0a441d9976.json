@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I enable Avro support when using the confluent-kafka package in my Python project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a441d9976"
+  },
+  {
+    "question": "What command should I run to install the Avro extra for the confluent-kafka package via uv?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a441d9976"
+  },
+  {
+    "question": "Which pip command is required to install the Avro-specific features of confluent-kafka?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a441d9976"
+  },
+  {
+    "question": "Where can I find more information about enabling Avro functionality in confluent-kafka, such as relevant GitHub issues?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a441d9976"
+  },
+  {
+    "question": "In which module of the data-engineering-zoomcamp course does this Avro support setup belong?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a441d9976"
+  }
+]

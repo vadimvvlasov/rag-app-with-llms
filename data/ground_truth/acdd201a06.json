@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I list all local Docker images along with their details?",
+    "course": "machine-learning-zoomcamp",
+    "document": "acdd201a06"
+  },
+  {
+    "question": "What command should I use to view information for a specific Docker image named 'myimage'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "acdd201a06"
+  },
+  {
+    "question": "How do I retrieve only the size of a particular Docker image, such as 'ubuntu:latest'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "acdd201a06"
+  },
+  {
+    "question": "Which option allows me to display just the size of a given Docker image in the output?",
+    "course": "machine-learning-zoomcamp",
+    "document": "acdd201a06"
+  },
+  {
+    "question": "Are there alternative commands to obtain information for all images or a single specified image besides `docker image ls` and `docker images`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "acdd201a06"
+  }
+]

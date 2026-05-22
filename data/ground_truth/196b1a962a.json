@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving the error 'The connection to the server localhost:8080 was refused' when running `kubectl get service`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "196b1a962a"
+  },
+  {
+    "question": "What steps should I take to resolve the issue with `kubectl` not connecting to the Kubernetes cluster on localhost port 8080?",
+    "course": "machine-learning-zoomcamp",
+    "document": "196b1a962a"
+  },
+  {
+    "question": "How can I ensure that the correct host and port are specified for `kubectl` after encountering a connection refusal?",
+    "course": "machine-learning-zoomcamp",
+    "document": "196b1a962a"
+  },
+  {
+    "question": "After deleting an existing Kind cluster, how do I remove the outdated Kubernetes configuration files stored in the `~/.kube` directory?",
+    "course": "machine-learning-zoomcamp",
+    "document": "196b1a962a"
+  },
+  {
+    "question": "What command should be executed to recreate a fresh Kubernetes cluster using Kind following the deletion of the previous one?",
+    "course": "machine-learning-zoomcamp",
+    "document": "196b1a962a"
+  }
+]

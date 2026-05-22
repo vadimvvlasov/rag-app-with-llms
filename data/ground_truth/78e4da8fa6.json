@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What permissions must the service account have in Google Cloud Platform to resolve 'Access Denied' errors when dbt accesses external tables backed by GCS in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "78e4da8fa6"
+  },
+  {
+    "question": "If I receive a 'Permission denied while globbing file pattern' error, which specific roles should I grant to the service account for both BigQuery and Cloud Storage?",
+    "course": "data-engineering-zoomcamp",
+    "document": "78e4da8fa6"
+  },
+  {
+    "question": "After assigning the necessary roles in IAM, what additional steps are required for dbt to recognize these changes if it was already running or if new credentials were regenerated?",
+    "course": "data-engineering-zoomcamp",
+    "document": "78e4da8fa6"
+  },
+  {
+    "question": "In the context of this course's setup for Module 4 on Analytics Engineering with dbt, which combination of roles is typically used to ensure smooth operation without permission issues?",
+    "course": "data-engineering-zoomcamp",
+    "document": "78e4da8fa6"
+  },
+  {
+    "question": "How can I verify that the service account's permissions have been updated successfully in the GCP console before restarting the dbt session?",
+    "course": "data-engineering-zoomcamp",
+    "document": "78e4da8fa6"
+  }
+]

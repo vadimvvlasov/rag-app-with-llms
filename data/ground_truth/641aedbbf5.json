@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the default maximum column width setting in Pandas, and how does it affect text display?",
+    "course": "llm-zoomcamp",
+    "document": "641aedbbf5"
+  },
+  {
+    "question": "How can I configure Pandas to display the full content of a text column without truncation?",
+    "course": "llm-zoomcamp",
+    "document": "641aedbbf5"
+  },
+  {
+    "question": "Which Pandas option should be modified to view entire explanations from an LLM judge in the offline-rag-evaluation notebook?",
+    "course": "llm-zoomcamp",
+    "document": "641aedbbf5"
+  },
+  {
+    "question": "What value must be assigned to `display.max_colwidth` to enable unrestricted column width for long textual data?",
+    "course": "llm-zoomcamp",
+    "document": "641aedbbf5"
+  },
+  {
+    "question": "Where can I find detailed documentation explaining how to adjust Pandas display options for large text fields?",
+    "course": "llm-zoomcamp",
+    "document": "641aedbbf5"
+  }
+]

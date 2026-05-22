@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the code `df = pd.read_csv('C:\\Users\\username\\Downloads\\data.csv')` fail on Windows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5e953f0e8e"
+  },
+  {
+    "question": "What is the purpose of adding an 'r' before a file path in Python when working with Windows paths?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5e953f0e8e"
+  },
+  {
+    "question": "How can I correctly read a CSV file located at `C:\\Users\\username\\Downloads\\data.csv` using Pandas in a Windows environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5e953f0e8e"
+  },
+  {
+    "question": "What issue arises from using backslashes (`\\`) directly in file paths within Python code on Windows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5e953f0e8e"
+  },
+  {
+    "question": "In the context of reading files with Pandas on Windows, what does treating the path as a raw string accomplish?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5e953f0e8e"
+  }
+]

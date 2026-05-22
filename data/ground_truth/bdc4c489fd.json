@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How does the F-score change with varying ratios of positive to negative instances in a classification problem?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bdc4c489fd"
+  },
+  {
+    "question": "Why can comparing F-scores across datasets with different class distributions be misleading?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bdc4c489fd"
+  },
+  {
+    "question": "What method is suggested to ensure fair comparisons of the F-score across problems with unequal class balances?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bdc4c489fd"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course are evaluation metrics for classification discussed, particularly focusing on the dependence of precision-recall curves and the F-score on class imbalance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bdc4c489fd"
+  },
+  {
+    "question": "What specific issue arises when using precision-recall curves to evaluate model performance in datasets where the positive and negative class counts differ significantly?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bdc4c489fd"
+  }
+]

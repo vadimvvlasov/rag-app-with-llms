@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the method to determine the optimal alpha parameter for model performance in Module 3 of Machine Learning ZoomCamp?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cbd581f803"
+  },
+  {
+    "question": "How should I compare different RMSE scores when selecting an alpha value, and what should be done if two alphas yield identical RMSE values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cbd581f803"
+  },
+  {
+    "question": "Which criteria are used to choose between multiple alpha parameters that produce the same root mean squared error (RMSE) during model evaluation in Homework of Module 3?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cbd581f803"
+  },
+  {
+    "question": "In the context of Machine Learning ZoomCamp's Module 3 Homework, what procedure should be followed when RMSE scores for various alpha candidates are equal?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cbd581f803"
+  },
+  {
+    "question": "What guideline is provided for selecting the alpha parameter when evaluating models with respect to their RMSE metrics in the Q6 section of the Machine Learning ZoomCamp curriculum?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cbd581f803"
+  }
+]

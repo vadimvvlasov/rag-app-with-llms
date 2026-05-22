@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What happens if we set the regularization strength parameter C to 0.0 in logistic regression?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a7e230bfb4"
+  },
+  {
+    "question": "Why does setting `C` to 0 cause an error in scikit-learn's Logistic Regression implementation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a7e230bfb4"
+  },
+  {
+    "question": "Can infinite regularization be achieved by configuring the `C` parameter in a regularized logistic regression model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a7e230bfb4"
+  },
+  {
+    "question": "What specific exception is raised when attempting to train a logistic regression model with `C=0.0` using scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a7e230bfb4"
+  },
+  {
+    "question": "In the context of logistic regression, how does the value of `C` relate to the amount of regularization applied?",
+    "course": "machine-learning-zoomcamp",
+    "document": "a7e230bfb4"
+  }
+]

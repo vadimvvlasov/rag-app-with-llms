@@ -1,0 +1,27 @@
+[
+  {
+    "question": "When should I fill missing values before or after splitting the dataset for question Q4?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ce78527441"
+  },
+  {
+    "question": "What are the trade-offs between handling missing data prior to splitting versus within each individual question script in module 3 homework of the machine-learning-zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ce78527441"
+  },
+  {
+    "question": "Does filling numerical features with a mean (computed from train data only) constitute data leakage, and how should I handle it for Q4?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ce78527441"
+  },
+  {
+    "question": "If the homework specifies filling categorical columns with 'NA' and numerical columns with 0.0, is it safe to perform these fillna operations before splitting the data without risking data leakage?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ce78527441"
+  },
+  {
+    "question": "In a production environment where source data often contains missing values, why might it be preferable not to fill them during initial ingestion, and how does this relate to the Q4 question of handling missing data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ce78527441"
+  }
+]

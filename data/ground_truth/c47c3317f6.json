@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the specific error message encountered when trying to install MLFlow?",
+    "course": "mlops-zoomcamp",
+    "document": "c47c3317f6"
+  },
+  {
+    "question": "Which package causes the hash mismatch during the installation of MLFlow?",
+    "course": "mlops-zoomcamp",
+    "document": "c47c3317f6"
+  },
+  {
+    "question": "What are the expected and obtained SHA256 hashes for the Numpy package?",
+    "course": "mlops-zoomcamp",
+    "document": "c47c3317f6"
+  },
+  {
+    "question": "How can I resolve the hash mismatch issue by installing the problematic package separately?",
+    "course": "mlops-zoomcamp",
+    "document": "c47c3317f6"
+  },
+  {
+    "question": "After fixing the Numpy hash mismatch, what command should be used to reinstall MLFlow?",
+    "course": "mlops-zoomcamp",
+    "document": "c47c3317f6"
+  }
+]

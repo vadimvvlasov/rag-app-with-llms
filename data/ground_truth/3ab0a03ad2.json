@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Homework Q6: What specific model file should be utilized for the task in question 6?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ab0a03ad2"
+  },
+  {
+    "question": "Homework Q6: Which serialized vectorizer file is recommended for processing feature dictionaries in question 6?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ab0a03ad2"
+  },
+  {
+    "question": "In Module 5 Homework of the machine-learning-zoomcamp course, what Docker image contains the necessary model and DictVectorizer files for question 6?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ab0a03ad2"
+  },
+  {
+    "question": "For question 6 in the provided FAQ record under ID `3ab0a03ad2`, which binary files are referenced as the model and vectorizer?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ab0a03ad2"
+  },
+  {
+    "question": "Which files named `model2.bin` and `dv.bin` are mentioned in the FAQ to be located within the Docker image for completing Homework Q6?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3ab0a03ad2"
+  }
+]

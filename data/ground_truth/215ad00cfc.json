@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I encountered an error `docker.errors.DockerException: Error while fetching server API version: HTTPConnection.request() got an unexpected keyword argument 'chunked'` when running `docker-compose up --build`. What should I do?",
+    "course": "mlops-zoomcamp",
+    "document": "215ad00cfc"
+  },
+  {
+    "question": "How can I resolve the issue where Docker Compose fails with the message about the unexpected keyword argument 'chunked' during command execution?",
+    "course": "mlops-zoomcamp",
+    "document": "215ad00cfc"
+  },
+  {
+    "question": "What is the correct command to use in place of `docker-compose up --build` to avoid the `HTTPConnection.request() got an unexpected keyword argument 'chunked'` error, as per Module 5 of the MLOps Zoomcamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "215ad00cfc"
+  },
+  {
+    "question": "In the context of Module 5: Monitoring for the MLOps Zoomcamp, which command should be used instead of `docker-compose up --build` to prevent errors related to the Docker API version?",
+    "course": "mlops-zoomcamp",
+    "document": "215ad00cfc"
+  },
+  {
+    "question": "When executing a Docker Compose build in the MLOps Zoomcamp's monitoring module, what alternative command must I employ to circumvent the `chunked` argument error?",
+    "course": "mlops-zoomcamp",
+    "document": "215ad00cfc"
+  }
+]

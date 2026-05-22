@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I verify whether a specific BigQuery table is already present in my dataset before attempting to create a new one?",
+    "course": "data-engineering-zoomcamp",
+    "document": "88f2fb38b0"
+  },
+  {
+    "question": "What Python function should I use from the Google Cloud BigQuery library to determine if a table with a given ID exists?",
+    "course": "data-engineering-zoomcamp",
+    "document": "88f2fb38b0"
+  },
+  {
+    "question": "In the provided code snippet, what exception handling mechanism is employed to identify when a table does not exist in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "88f2fb38b0"
+  },
+  {
+    "question": "Could you explain the purpose of the `table_exists` function and how it integrates with the BigQuery client object?",
+    "course": "data-engineering-zoomcamp",
+    "document": "88f2fb38b0"
+  },
+  {
+    "question": "After checking for the existence of a BigQuery table using the suggested method, what would be the next appropriate step if the table is found to be absent?",
+    "course": "data-engineering-zoomcamp",
+    "document": "88f2fb38b0"
+  }
+]

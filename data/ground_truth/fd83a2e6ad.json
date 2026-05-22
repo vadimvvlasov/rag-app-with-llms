@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a `ValueError` that states 'This solver needs samples of at least 2 classes in the data, but the data contains only one class: 0' during my classification model training?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fd83a2e6ad"
+  },
+  {
+    "question": "What specific line of code is responsible for converting the `churn` column to binary values, and how can I verify its correctness?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fd83a2e6ad"
+  },
+  {
+    "question": "How can I ensure that my dataset includes both the classes '0' and '1' after applying the conversion `df.churn = (df.churn == 'yes').astype(int)`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fd83a2e6ad"
+  },
+  {
+    "question": "What steps should I take to confirm that no preprocessing or data filtering operations are unintentionally removing records with class '1'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fd83a2e6ad"
+  },
+  {
+    "question": "In what ways can I check my dataset prior to model training to guarantee it contains examples of both churn and non-churn customers?",
+    "course": "machine-learning-zoomcamp",
+    "document": "fd83a2e6ad"
+  }
+]

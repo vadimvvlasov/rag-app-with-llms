@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the primary cause of the error 'WSL: Insufficient system resources exist to complete the requested service'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec091c69a0"
+  },
+  {
+    "question": "How can I update Windows Terminal from the Microsoft Store?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec091c69a0"
+  },
+  {
+    "question": "Which specific updates should I check for in order to resolve the insufficient system resources issue related to WSL?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec091c69a0"
+  },
+  {
+    "question": "After updating Windows Terminal and security updates, what step is necessary to apply these changes effectively?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec091c69a0"
+  },
+  {
+    "question": "If I encounter this error while working with Docker during Module 1 of the data-engineering-zoomcamp course, what immediate action should I take?",
+    "course": "data-engineering-zoomcamp",
+    "document": "ec091c69a0"
+  }
+]

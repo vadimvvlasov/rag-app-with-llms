@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving a 'This site can’t be reached' error when attempting to access my AWS EC2 instance via its public IP address in a web browser?",
+    "course": "mlops-zoomcamp",
+    "document": "5af20a05fe"
+  },
+  {
+    "question": "How do I properly connect to an AWS EC2 instance from a local machine using the provided IP address and SSH key?",
+    "course": "mlops-zoomcamp",
+    "document": "5af20a05fe"
+  },
+  {
+    "question": "What is the exact SSH command syntax required to access an EC2 instance with the IP `11.111.11.111` and a private key named `razer.pem`, assuming the username is `user_name`?",
+    "course": "mlops-zoomcamp",
+    "document": "5af20a05fe"
+  },
+  {
+    "question": "Where should I store the downloaded `.pem` file for secure SSH connections to my AWS EC2 instance?",
+    "course": "mlops-zoomcamp",
+    "document": "5af20a05fe"
+  },
+  {
+    "question": "Which operating system user name should be used in the SSH command when connecting to an AWS EC2 instance with the specified IP address?",
+    "course": "mlops-zoomcamp",
+    "document": "5af20a05fe"
+  }
+]

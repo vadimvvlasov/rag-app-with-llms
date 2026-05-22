@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs when attempting to use `asyncio.run()` within a Jupyter notebook cell, and why does it happen?",
+    "course": "llm-zoomcamp",
+    "document": "f96fde1726"
+  },
+  {
+    "question": "How can I properly execute asynchronous code in a Jupyter notebook without encountering the `RuntimeError` related to an already running asyncio event loop?",
+    "course": "llm-zoomcamp",
+    "document": "f96fde1726"
+  },
+  {
+    "question": "What is the difference between using `asyncio.run(main())` and `await main()` in the context of executing async functions in a Jupyter notebook?",
+    "course": "llm-zoomcamp",
+    "document": "f96fde1726"
+  },
+  {
+    "question": "Why does Jupyter Notebook automatically create an asyncio event loop, and how does this affect the execution of asynchronous code?",
+    "course": "llm-zoomcamp",
+    "document": "f96fde1726"
+  },
+  {
+    "question": "Can you provide a corrected example that demonstrates how to call an asynchronous function within a Jupyter notebook cell without triggering the `RuntimeError: Already running asyncio in this thread`?",
+    "course": "llm-zoomcamp",
+    "document": "f96fde1726"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific versions of scikit-learn are supported by mlflow for autologging?",
+    "course": "mlops-zoomcamp",
+    "document": "601b847b43"
+  },
+  {
+    "question": "Why am I receiving a warning about an unsupported scikit-learn version when using mlflow.sklearn?",
+    "course": "mlops-zoomcamp",
+    "document": "601b847b43"
+  },
+  {
+    "question": "How can I resolve the 'Unsupported Scikit-Learn version' warning while running `mlflow.sklearn`?",
+    "course": "mlops-zoomcamp",
+    "document": "601b847b43"
+  },
+  {
+    "question": "If I encounter errors during autologging due to an unsupported scikit-learn version, what are my options for upgrading?",
+    "course": "mlops-zoomcamp",
+    "document": "601b847b43"
+  },
+  {
+    "question": "Where can I find detailed information about the supported versions of scikit-learn for mlflow autologging?",
+    "course": "mlops-zoomcamp",
+    "document": "601b847b43"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is an alternative command I can use on macOS if wget is unavailable?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ea4dbd6c83"
+  },
+  {
+    "question": "How do I specify the output filename when downloading a file using curl?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ea4dbd6c83"
+  },
+  {
+    "question": "Can you provide an example curl command to download a CSV file from a GitHub repository?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ea4dbd6c83"
+  },
+  {
+    "question": "Where can I find more detailed information about using curl for downloading files?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ea4dbd6c83"
+  },
+  {
+    "question": "What does the `-o` option in the curl command signify?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ea4dbd6c83"
+  }
+]

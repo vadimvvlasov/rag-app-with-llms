@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving a 'LinAlgError: Singular matrix' when trying to compute the inverse of `np.linalg.inv(X.T @ X)`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "894584db1c"
+  },
+  {
+    "question": "What is the correct order for performing matrix multiplication in this context to avoid singular matrices?",
+    "course": "machine-learning-zoomcamp",
+    "document": "894584db1c"
+  },
+  {
+    "question": "If I mistakenly use `X @ X.T` instead of `X.T @ X`, what shape will my resulting matrix have and why is it singular?",
+    "course": "machine-learning-zoomcamp",
+    "document": "894584db1c"
+  },
+  {
+    "question": "How can I ensure that the matrix `X` has been properly filtered by origin and limited to the correct number of samples before performing the multiplication?",
+    "course": "machine-learning-zoomcamp",
+    "document": "894584db1c"
+  },
+  {
+    "question": "In the context of the Asia/origin filter problems, what steps should I take to select the appropriate rows and columns from a DataFrame before converting it to a NumPy array?",
+    "course": "machine-learning-zoomcamp",
+    "document": "894584db1c"
+  }
+]

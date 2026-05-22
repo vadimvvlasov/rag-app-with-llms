@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the `register_model.py` script generate an `AttributeError: 'tuple' object has no attribute 'tb_frame'` when used in a Jupyter notebook for Week 2 homework?",
+    "course": "mlops-zoomcamp",
+    "document": "d71f8cb2d0"
+  },
+  {
+    "question": "What specific modification is required to resolve the error related to `'tb_frame'` in the `register_model.py` script during the Module 2 Experiment Tracking assignment of the MLOps ZoomCamp course?",
+    "course": "mlops-zoomcamp",
+    "document": "d71f8cb2d0"
+  },
+  {
+    "question": "In the context of the Week 2 homework for Module 2 on Experiment Tracking in the MLOps ZoomCamp course, how can I eliminate the error message `AttributeError: 'tuple' object has no attribute 'tb_frame'` when executing the `register_model.py` script within a Jupyter notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "d71f8cb2d0"
+  },
+  {
+    "question": "What is the precise step to fix the `AttributeError: 'tuple' object has no attribute 'tb_frame'` that occurs after copying the `register_model.py` script into a Jupyter notebook for the Week 2 homework of Module 2 in the MLOps ZoomCamp curriculum?",
+    "course": "mlops-zoomcamp",
+    "document": "d71f8cb2d0"
+  },
+  {
+    "question": "For the Week 2 assignment in Module 2 about Experiment Tracking as part of the MLOps ZoomCamp program, what action should be taken to prevent the error `AttributeError: 'tuple' object has no attribute 'tb_frame'` when the `register_model.py` script is run inside a Jupyter notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "d71f8cb2d0"
+  }
+]

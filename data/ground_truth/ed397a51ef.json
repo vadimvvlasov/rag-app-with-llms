@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In Homework 10 Question 6, what are the required values for CPU and memory that need to be specified in the YAML file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed397a51ef"
+  },
+  {
+    "question": "Are there any arbitrary choices allowed for the CPU and memory specifications when configuring Kubernetes resources for TensorFlow Serving in HW10 Q6?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed397a51ef"
+  },
+  {
+    "question": "Does the homework specify a particular port that must be used for the TensorFlow Serving service, and are there any constraints on other configuration parameters like CPU and memory?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed397a51ef"
+  },
+  {
+    "question": "For HW10 Q6, what is considered the 'correct value' for the port of the TensorFlow Serving service as mentioned in the question?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed397a51ef"
+  },
+  {
+    "question": "In Module 10's Kubernetes and TensorFlow Serving section of the Machine Learning ZoomCamp course, why does the question focus only on the port while still asking for CPU and memory values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ed397a51ef"
+  }
+]

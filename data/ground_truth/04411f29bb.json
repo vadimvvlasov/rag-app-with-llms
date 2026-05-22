@@ -1,0 +1,32 @@
+[
+  {
+    "question": ".",
+    "course": "mlops-zoomcamp",
+    "document": "04411f29bb"
+  },
+  {
+    "question": "What does the error message \"Failed to create provisioner\" indicate when running `docker-compose up --build` with Grafana?",
+    "course": "mlops-zoomcamp",
+    "document": "04411f29bb"
+  },
+  {
+    "question": "How can I resolve the issue where Grafana reports that it could not parse the provisioning config file: dashboards.yaml due to an unexpected directory being mounted?",
+    "course": "mlops-zoomcamp",
+    "document": "04411f29bb"
+  },
+  {
+    "question": "In a Docker Compose configuration for Grafana, what adjustment should be made to the `volumes` section if dashboards are currently pointing to a YAML file path but actually represent directories?",
+    "course": "mlops-zoomcamp",
+    "document": "04411f29bb"
+  },
+  {
+    "question": "What specific change is required in the `docker-compose.yml` file to correct the provisioning file paths for Grafana's dashboard configuration?",
+    "course": "mlops-zoomcamp",
+    "document": "04411f29bb"
+  },
+  {
+    "question": "When encountering Grafana startup failures related to provisioning files, which directory references need to be updated across all relevant file paths in the `volumes` block?",
+    "course": "mlops-zoomcamp",
+    "document": "04411f29bb"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I manually download the `tflite_runtime` wheel file and install it in a Dockerfile?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ffab512d4f"
+  },
+  {
+    "question": "What steps are required to resolve issues when installing `tflite_runtime` directly from GitHub wheel links?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ffab512d4f"
+  },
+  {
+    "question": "In which module of the 'machine-learning-zoomcamp' course is the solution for pip installation problems with `tflite_runtime` discussed?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ffab512d4f"
+  },
+  {
+    "question": "What specific lines should be added to a Dockerfile to install a locally copied `.whl` file for `tflite_runtime`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ffab512d4f"
+  },
+  {
+    "question": "Is there an alternative method to installing `tflite_runtime` if GitHub wheel links are not functional?",
+    "course": "machine-learning-zoomcamp",
+    "document": "ffab512d4f"
+  }
+]

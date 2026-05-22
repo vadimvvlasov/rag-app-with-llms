@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I achieving an accuracy of 1.0 on my homework model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1a96e5837b"
+  },
+  {
+    "question": "Could overfitting be the reason for my perfect accuracy result?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1a96e5837b"
+  },
+  {
+    "question": "What specific column should I remove to potentially reduce overfitting in my model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1a96e5837b"
+  },
+  {
+    "question": "How might dropping the `msrp/price` column impact the performance of my machine learning model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1a96e5837b"
+  },
+  {
+    "question": "After removing the `msrp/price` column, what steps should I take to re-evaluate my model's accuracy?",
+    "course": "machine-learning-zoomcamp",
+    "document": "1a96e5837b"
+  }
+]

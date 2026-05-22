@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of using RMSE in evaluating regression models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c30519737d"
+  },
+  {
+    "question": "How do I import the libraries needed to calculate RMSE in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c30519737d"
+  },
+  {
+    "question": "Can you explain the steps involved in calculating the Mean Squared Error (MSE)?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c30519737d"
+  },
+  {
+    "question": "What formula or function is used to compute the RMSE from the MSE?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c30519737d"
+  },
+  {
+    "question": "In what module of the 'machine-learning-zoomcamp' course can I find information on RMSE calculation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c30519737d"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I compute the root mean square error directly without using `np.sqrt()` in the machine learning course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7fa434b922"
+  },
+  {
+    "question": "What function should I use to obtain RMSE when predicting values with decision trees or ensemble methods in Module 6 of Machine Learning Zoomcamp?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7fa434b922"
+  },
+  {
+    "question": "In the context of gradient boosting, is there a built-in metric to calculate RMSE that avoids an additional square root operation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7fa434b922"
+  },
+  {
+    "question": "When evaluating model performance on validation data after training an ensemble model, which method provides RMSE instead of MSE?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7fa434b922"
+  },
+  {
+    "question": "For the machine-learning-zoomcamp course, specifically in Module 6, what alternative to squaring and then taking the square root is available for computing RMSE?",
+    "course": "machine-learning-zoomcamp",
+    "document": "7fa434b922"
+  }
+]

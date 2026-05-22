@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an 'Access is denied' error when trying to install packages with pip on Windows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bcedbb12fe"
+  },
+  {
+    "question": "What does the error message 'ERROR: Could not install packages due to an OSError: [WinError 5] Access is denied' indicate?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bcedbb12fe"
+  },
+  {
+    "question": "How can I resolve the permission issue that causes the 'Access is denied' error during pip installation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bcedbb12fe"
+  },
+  {
+    "question": "What are the two suggested solutions provided for installing `grpcio` and `tensorflow-serving-api` without encountering access denial errors on Windows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bcedbb12fe"
+  },
+  {
+    "question": "Which method is recommended for avoiding administrative permissions while installing Python packages in a project-specific environment on Windows?",
+    "course": "machine-learning-zoomcamp",
+    "document": "bcedbb12fe"
+  }
+]

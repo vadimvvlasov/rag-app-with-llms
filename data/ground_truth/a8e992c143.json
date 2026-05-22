@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Does dbt Core offer a built-in user interface similar to dbt Cloud?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a8e992c143"
+  },
+  {
+    "question": "What third-party tools can provide a graphical interface for managing dbt Core projects?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a8e992c143"
+  },
+  {
+    "question": "How does Altimate's VS Code extension facilitate working with dbt Core compared to using it directly?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a8e992c143"
+  },
+  {
+    "question": "Are there any free community plans available for the Altimate tool mentioned in the FAQ?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a8e992c143"
+  },
+  {
+    "question": "Can Elementary be used to monitor the data transformations defined in a dbt Core project, and where can I find more information on its setup?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a8e992c143"
+  }
+]

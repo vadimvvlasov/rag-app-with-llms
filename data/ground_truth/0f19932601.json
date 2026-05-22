@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the warning message `**pipenv.exceptions.ResolutionFailure**: Warning: Your dependencies could not be resolved. You likely have a mismatch in your sub-dependencies` indicate?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0f19932601"
+  },
+  {
+    "question": "How can I manually update the `Pipfile` and `Pipfile.lock` to resolve dependency issues?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0f19932601"
+  },
+  {
+    "question": "What command should I execute to automatically resolve sub-dependency mismatches reported by Pipenv?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0f19932601"
+  },
+  {
+    "question": "If I encounter the resolution failure warning, what are the primary steps I need to take to fix it in a Machine Learning Zoomcamp project using Pipenv?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0f19932601"
+  },
+  {
+    "question": "After running `pipenv lock`, will my project dependencies be correctly synchronized between `Pipfile` and `Pipfile.lock`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0f19932601"
+  }
+]

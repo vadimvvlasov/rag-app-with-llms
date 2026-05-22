@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the `ref()` function fail when a `.csv` file extension is included in the reference?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a4c1f2e983"
+  },
+  {
+    "question": "What should I change in the YAML configuration to correctly reference a seed named `taxi_zone_lookup.csv` using dbt's `ref()` function?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a4c1f2e983"
+  },
+  {
+    "question": "How can I resolve the warning that states 'depends on a node named 'taxi_zone_lookup.csv' which was not found' when testing relationships in dbt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a4c1f2e983"
+  },
+  {
+    "question": "What is the correct model name to use within the `ref()` function if my seed file is called `taxi_zone_lookup.csv`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a4c1f2e983"
+  },
+  {
+    "question": "In dbt, what distinguishes the reference to a model or seed from the actual file name of the data source?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a4c1f2e983"
+  }
+]

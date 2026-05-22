@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I encountered a KeyError mentioning 'PULocationID' or 'DOLocationID'. What should I do to resolve it?",
+    "course": "mlops-zoomcamp",
+    "document": "84805fe2dd"
+  },
+  {
+    "question": "In the context of the mlops-zoomcamp course, specifically Module 1: Introduction, how can I fix the error related to location IDs?",
+    "course": "mlops-zoomcamp",
+    "document": "84805fe2dd"
+  },
+  {
+    "question": "What is the correct spelling for the location identifiers in my code to avoid the KeyError?",
+    "course": "mlops-zoomcamp",
+    "document": "84805fe2dd"
+  },
+  {
+    "question": "Could you clarify the typographical correction needed for 'PULocationID' and 'DOLocationID' in the course material?",
+    "course": "mlops-zoomcamp",
+    "document": "84805fe2dd"
+  },
+  {
+    "question": "When working through Module 1 of mlops-zoomcamp, how should I modify the identifiers to prevent encountering a KeyError?",
+    "course": "mlops-zoomcamp",
+    "document": "84805fe2dd"
+  }
+]

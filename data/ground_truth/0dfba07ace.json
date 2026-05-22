@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I verify first if I receive a '401 Client Error: Unauthorized' when accessing the Notion API via [api.notion.com](https://api.notion.com/v1/search)?",
+    "course": "llm-zoomcamp",
+    "document": "0dfba07ace"
+  },
+  {
+    "question": "How can I ensure that my Notion API key has the necessary permissions to avoid unauthorized access errors?",
+    "course": "llm-zoomcamp",
+    "document": "0dfba07ace"
+  },
+  {
+    "question": "What steps should I take if my authentication token seems expired while trying to use the Notion API?",
+    "course": "llm-zoomcamp",
+    "document": "0dfba07ace"
+  },
+  {
+    "question": "Where can I find detailed guidance on correctly configuring access settings for the Notion API in my application?",
+    "course": "llm-zoomcamp",
+    "document": "0dfba07ace"
+  },
+  {
+    "question": "If all configurations appear correct but I still face authorization issues with the Notion API, what additional resources or documentation should I consult?",
+    "course": "llm-zoomcamp",
+    "document": "0dfba07ace"
+  }
+]

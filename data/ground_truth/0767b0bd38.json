@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a `ModuleNotFoundError: No module named 'sklearn'` when running Homework 5 inside the Docker container?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0767b0bd38"
+  },
+  {
+    "question": "What steps should I include in my Dockerfile to ensure that dependencies are installed for system Python during container startup?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0767b0bd38"
+  },
+  {
+    "question": "How can I correctly set up the working directory in my Dockerfile so that `uv sync` installs packages in the right location?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0767b0bd38"
+  },
+  {
+    "question": "What is the purpose of the `WORKDIR /code` directive, and why is it necessary for syncing dependencies with `uv`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0767b0bd38"
+  },
+  {
+    "question": "Should I copy the file `pipeline_v2.bin` into my project directory when using a base image that already contains it at `/code/pipeline_v2.bin`, or should I directly reference the existing file?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0767b0bd38"
+  }
+]

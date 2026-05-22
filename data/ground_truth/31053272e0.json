@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific error message did I receive when running `terraform apply`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "31053272e0"
+  },
+  {
+    "question": "Why was Google not accessible in the context of this error, and how does it relate to my location?",
+    "course": "data-engineering-zoomcamp",
+    "document": "31053272e0"
+  },
+  {
+    "question": "How can I resolve the network restriction issue that caused the error during Terraform execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "31053272e0"
+  },
+  {
+    "question": "What steps are required to configure a VPN for successful Terraform operations, especially regarding proxy settings?",
+    "course": "data-engineering-zoomcamp",
+    "document": "31053272e0"
+  },
+  {
+    "question": "If I face similar issues in the future, what should I do to troubleshoot the terminal program's proxy configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "31053272e0"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command did I run to connect to my EC2 instance, and why am I getting an 'unprotected private key file' error?",
+    "course": "mlops-zoomcamp",
+    "document": "e04431f782"
+  },
+  {
+    "question": "How can I fix the unprotected private key file warning when accessing my Amazon EC2 instance via SSH?",
+    "course": "mlops-zoomcamp",
+    "document": "e04431f782"
+  },
+  {
+    "question": "What specific permissions should I set for the `.ssh/razer.pem` file to resolve the SSH permission error on AWS?",
+    "course": "mlops-zoomcamp",
+    "document": "e04431f782"
+  },
+  {
+    "question": "Where can I find a detailed guide to troubleshoot and correct the SSH permission issue with a private key file on an EC2 instance?",
+    "course": "mlops-zoomcamp",
+    "document": "e04431f782"
+  },
+  {
+    "question": "After adjusting the file permissions, what additional steps or checks should I perform to ensure secure access to my EC2 instance?",
+    "course": "mlops-zoomcamp",
+    "document": "e04431f782"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I authenticate `gsutil` with my Google Cloud Platform account to upload files to a GCS bucket?",
+    "course": "mlops-zoomcamp",
+    "document": "00b11da94b"
+  },
+  {
+    "question": "What command is used to copy local data to a specified Google Cloud Storage bucket using `gsutil`?",
+    "course": "mlops-zoomcamp",
+    "document": "00b11da94b"
+  },
+  {
+    "question": "Can you walk me through the steps to create a service account in the GCP Console and grant it permissions for accessing GCS?",
+    "course": "mlops-zoomcamp",
+    "document": "00b11da94b"
+  },
+  {
+    "question": "What are the installation commands for the Google Cloud SDK and the Google Cloud Storage Python library?",
+    "course": "mlops-zoomcamp",
+    "document": "00b11da94b"
+  },
+  {
+    "question": "Could you provide an example of how to read a CSV file from a Google Cloud Storage bucket into a pandas DataFrame using Python?",
+    "course": "mlops-zoomcamp",
+    "document": "00b11da94b"
+  }
+]

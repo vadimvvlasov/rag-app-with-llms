@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I free up additional space on my AWS instance beyond just deleting Docker images?",
+    "course": "machine-learning-zoomcamp",
+    "document": "814a8657e2"
+  },
+  {
+    "question": "What specific command should I execute after removing Docker images to reclaim disk space?",
+    "course": "machine-learning-zoomcamp",
+    "document": "814a8657e2"
+  },
+  {
+    "question": "Why does simply deleting Docker images not resolve the limited storage issue on a 30-GB AWS instance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "814a8657e2"
+  },
+  {
+    "question": "In the context of Module 9 Serverless Deep Learning, what steps are necessary to manage disk usage effectively?",
+    "course": "machine-learning-zoomcamp",
+    "document": "814a8657e2"
+  },
+  {
+    "question": "What is the purpose of running `docker system prune` in relation to space recovery on an AWS instance?",
+    "course": "machine-learning-zoomcamp",
+    "document": "814a8657e2"
+  }
+]

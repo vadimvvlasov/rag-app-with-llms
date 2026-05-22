@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why might the token count reported by `tiktoken.encode()` differ from the count shown in OpenAI's API response?",
+    "course": "llm-zoomcamp",
+    "document": "bf0403d21b"
+  },
+  {
+    "question": "What structural tokens are added for each message in a `chat.completions.create()` call, and how many do they amount to?",
+    "course": "llm-zoomcamp",
+    "document": "bf0403d21b"
+  },
+  {
+    "question": "How many global tokens does OpenAI add at the beginning of the assistant's response generation?",
+    "course": "llm-zoomcamp",
+    "document": "bf0403d21b"
+  },
+  {
+    "question": "Which factors can cause variations in the token count beyond the visible text content, such as newlines or specific Unicode characters?",
+    "course": "llm-zoomcamp",
+    "document": "bf0403d21b"
+  },
+  {
+    "question": "In the context of a chat completion request with multiple user and assistant messages, how are internal token additions distributed across the conversation?",
+    "course": "llm-zoomcamp",
+    "document": "bf0403d21b"
+  }
+]

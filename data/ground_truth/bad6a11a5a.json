@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving the error 'Requested entity already exists' when trying to create a project in Google Cloud Platform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bad6a11a5a"
+  },
+  {
+    "question": "What does the HTTP status code 409 signify in the context of GCP project creation, and how is it related to the message 'Requested entity already exists'?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bad6a11a5a"
+  },
+  {
+    "question": "How can I determine if a specific project ID has already been taken before attempting to create a new project in GCP?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bad6a11a5a"
+  },
+  {
+    "question": "Are there any guidelines or best practices for selecting a unique project ID to avoid encountering the 'Requested entity already exists' error during GCP project creation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bad6a11a5a"
+  },
+  {
+    "question": "Where can I find additional information and community discussions regarding resolving the 'Requested entity already exists' error when creating projects in Google Cloud Platform?",
+    "course": "data-engineering-zoomcamp",
+    "document": "bad6a11a5a"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the dm_monthly_zone_revenue.sql model return an error in BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5a1a61b6a8"
+  },
+  {
+    "question": "What specific change should I make to the SQL line involving `date_trunc` to resolve the error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5a1a61b6a8"
+  },
+  {
+    "question": "Is there a difference between using `date_trunc('month', column)` and `date_trunc(column, month)` in this context?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5a1a61b6a8"
+  },
+  {
+    "question": "How can I ensure that the word 'month' is not enclosed in quotes when modifying the SQL query?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5a1a61b6a8"
+  },
+  {
+    "question": "After applying the suggested modification, will the model run successfully without returning any errors?",
+    "course": "data-engineering-zoomcamp",
+    "document": "5a1a61b6a8"
+  }
+]

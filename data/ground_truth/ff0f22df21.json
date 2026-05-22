@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving an 'Invalid base64' error when using the `aws kinesis put-record` command with AWS CLI version 2?",
+    "course": "mlops-zoomcamp",
+    "document": "ff0f22df21"
+  },
+  {
+    "question": "What specific argument should I include in the `aws kinesis put-record` command to fix the 'Invalid base64' error?",
+    "course": "mlops-zoomcamp",
+    "document": "ff0f22df21"
+  },
+  {
+    "question": "How does adding `--cli-binary-format raw-in-base64-out` affect the data transmission to Amazon Kinesis?",
+    "course": "mlops-zoomcamp",
+    "document": "ff0f22df21"
+  },
+  {
+    "question": "In which module of the MLOps ZoomCamp course is this 'Invalid base64' issue discussed?",
+    "course": "mlops-zoomcamp",
+    "document": "ff0f22df21"
+  },
+  {
+    "question": "Who demonstrated the solution for the 'Invalid base64' error in a video, and at what timestamp can it be found?",
+    "course": "mlops-zoomcamp",
+    "document": "ff0f22df21"
+  }
+]

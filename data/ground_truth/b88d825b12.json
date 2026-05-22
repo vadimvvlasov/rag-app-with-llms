@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why are my artifacts not visible in MLflow when using localstore?",
+    "course": "mlops-zoomcamp",
+    "document": "b88d825b12"
+  },
+  {
+    "question": "What steps should I take to ensure MLflow recognizes the artifacts stored locally?",
+    "course": "mlops-zoomcamp",
+    "document": "b88d825b12"
+  },
+  {
+    "question": "In what directory must I initiate the `mlflow` command for artifacts to be displayed correctly?",
+    "course": "mlops-zoomcamp",
+    "document": "b88d825b12"
+  },
+  {
+    "question": "How do I properly start the MLflow server if my `mlflow.db` file is located in `mlops/mlflow`?",
+    "course": "mlops-zoomcamp",
+    "document": "b88d825b12"
+  },
+  {
+    "question": "Where can I find the instructions that explain how to set up the `mlops` folder for running `mlflow`?",
+    "course": "mlops-zoomcamp",
+    "document": "b88d825b12"
+  }
+]

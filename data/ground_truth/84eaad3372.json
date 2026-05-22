@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a 'Permission Denied' error when trying to use Pipenv?",
+    "course": "mlops-zoomcamp",
+    "document": "84eaad3372"
+  },
+  {
+    "question": "What is the root cause of the Permission Denied issue in Pipenv according to the FAQ record?",
+    "course": "mlops-zoomcamp",
+    "document": "84eaad3372"
+  },
+  {
+    "question": "How can I resolve the Permission Denied problem while using Pipenv as suggested in the solution linked?",
+    "course": "mlops-zoomcamp",
+    "document": "84eaad3372"
+  },
+  {
+    "question": "Where can I find the detailed steps to fix the pythonfinder module within Pipenv mentioned in the answer?",
+    "course": "mlops-zoomcamp",
+    "document": "84eaad3372"
+  },
+  {
+    "question": "Is there a specific GitHub pull request that provides the necessary modifications to address the Pipenv permission issue?",
+    "course": "mlops-zoomcamp",
+    "document": "84eaad3372"
+  }
+]

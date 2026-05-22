@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What cloud service provider is primarily utilized in the course examples?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0953e15dc6"
+  },
+  {
+    "question": "Do the concepts taught apply across different cloud platforms like Azure or GCP, or are they specific to AWS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0953e15dc6"
+  },
+  {
+    "question": "Is an AWS account required for completing the coursework, and if so, how can one obtain one?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0953e15dc6"
+  },
+  {
+    "question": "Are there any significant differences when applying the learned techniques on Google Cloud Platform (GCP) compared to AWS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0953e15dc6"
+  },
+  {
+    "question": "Will the course provide guidance or resources for adapting the lessons to other cloud providers such as Azure?",
+    "course": "machine-learning-zoomcamp",
+    "document": "0953e15dc6"
+  }
+]

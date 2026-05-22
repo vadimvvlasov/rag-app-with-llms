@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why are row count questions in Homework 2 not directly answerable from Kestra execution logs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c493aa6b92"
+  },
+  {
+    "question": "What type of metrics does Kestra fail to automatically aggregate across multiple executions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c493aa6b92"
+  },
+  {
+    "question": "For obtaining total rows for a full year or specific months, what alternative method is recommended instead of relying on Kestra logs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c493aa6b92"
+  },
+  {
+    "question": "How were accurate row counts achieved in Homework 2 despite Kestra's limitations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c493aa6b92"
+  },
+  {
+    "question": "Which database and query type was used to retrieve the dataset-level metrics required for Homework 2?",
+    "course": "data-engineering-zoomcamp",
+    "document": "c493aa6b92"
+  }
+]

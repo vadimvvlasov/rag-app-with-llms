@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What parameter should I set to `False` when reading a CSV file in Pandas to prevent automatic NaN conversion of string values like \"None\"?",
+    "course": "machine-learning-zoomcamp",
+    "document": "dc86b83814"
+  },
+  {
+    "question": "Which parameter allows me to specify additional strings that should be treated as NaN when reading a CSV with Pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "dc86b83814"
+  },
+  {
+    "question": "Can you provide an example of how to configure `pd.read_csv()` to read \"None\" as a valid string instead of converting it to NaN?",
+    "course": "machine-learning-zoomcamp",
+    "document": "dc86b83814"
+  },
+  {
+    "question": "What is the purpose of using `keep_default_na=False` in conjunction with the `na_values` parameter during CSV file reading in Pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "dc86b83814"
+  },
+  {
+    "question": "How can I ensure that values such as \"\", 'NaN', and 'null' are recognized as NaN while \"None\" remains a regular string when importing data into a Pandas DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "dc86b83814"
+  }
+]

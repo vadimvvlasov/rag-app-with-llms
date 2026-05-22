@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I unable to install the hyperopt package using Conda when running `conda install --file requirements.txt`?",
+    "course": "mlops-zoomcamp",
+    "document": "58a9c117d5"
+  },
+  {
+    "question": "What should I do if updating Conda does not resolve the issue of the missing hyperopt package?",
+    "course": "mlops-zoomcamp",
+    "document": "58a9c117d5"
+  },
+  {
+    "question": "Is there an alternative channel or method to successfully install hyperopt in my virtual environment with Conda?",
+    "course": "mlops-zoomcamp",
+    "document": "58a9c117d5"
+  },
+  {
+    "question": "Can you provide the exact command to install hyperopt from the Intel channel using Conda?",
+    "course": "mlops-zoomcamp",
+    "document": "58a9c117d5"
+  },
+  {
+    "question": "Does installing hyperopt via the Intel channel address any potential compatibility issues with other dependencies in my project?",
+    "course": "mlops-zoomcamp",
+    "document": "58a9c117d5"
+  }
+]

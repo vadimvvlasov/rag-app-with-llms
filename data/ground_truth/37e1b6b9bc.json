@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does the MLflow autologger not capture metrics and parameters from my PyTorch model training?",
+    "course": "mlops-zoomcamp",
+    "document": "37e1b6b9bc"
+  },
+  {
+    "question": "What is the correct order to place `mlflow.autolog()` and `with mlflow.start_run()` in a script?",
+    "course": "mlops-zoomcamp",
+    "document": "37e1b6b9bc"
+  },
+  {
+    "question": "Which additional dependencies are required for `mlflow.autolog()` to function properly, besides the core MLflow package?",
+    "course": "mlops-zoomcamp",
+    "document": "37e1b6b9bc"
+  },
+  {
+    "question": "How can I identify if missing dependencies are causing the MLflow autologger to fail silently during training?",
+    "course": "mlops-zoomcamp",
+    "document": "37e1b6b9bc"
+  },
+  {
+    "question": "In the context of experiment tracking with MLflow, what specific error message would indicate that `mlflow.autolog()` is incorrectly positioned relative to `with mlflow.start_run()`?",
+    "course": "mlops-zoomcamp",
+    "document": "37e1b6b9bc"
+  }
+]

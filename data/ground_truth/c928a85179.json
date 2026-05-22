@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What method should I use instead of `get_feature_names` to retrieve feature names in the latest scikit-learn version?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c928a85179"
+  },
+  {
+    "question": "How do I retrieve feature names from a `DictVectorizer` object after it has been fitted?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c928a85179"
+  },
+  {
+    "question": "What is the specific warning message indicating when using `get_feature_names`, and why is it issued?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c928a85179"
+  },
+  {
+    "question": "When will the `get_feature_names` method be completely removed from scikit-learn, and what version should I upgrade to avoid this deprecation?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c928a85179"
+  },
+  {
+    "question": "Can you provide an example of how to use `.get_feature_names_out()` in a classification task with scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c928a85179"
+  }
+]

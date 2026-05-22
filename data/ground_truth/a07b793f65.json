@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering the error 'bq: command not found' when trying to use BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a07b793f65"
+  },
+  {
+    "question": "How can I verify whether the BigQuery Command Line Tool is installed on my system?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a07b793f65"
+  },
+  {
+    "question": "What specific command should I run in the terminal to list all installed Cloud SDK components?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a07b793f65"
+  },
+  {
+    "question": "If the 'bq' command is missing, what alternative filename can be used to execute the BigQuery tool?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a07b793f65"
+  },
+  {
+    "question": "In the context of Module 3: Data Warehousing for the data-engineering-zoomcamp course, what steps are recommended to resolve a 'bq: command not found' issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a07b793f65"
+  }
+]

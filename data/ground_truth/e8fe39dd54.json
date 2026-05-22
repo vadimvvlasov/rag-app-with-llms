@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What problem arises if the column data types are not explicitly defined when converting CSV files to Parquet format in a DBT/BigQuery pipeline?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e8fe39dd54"
+  },
+  {
+    "question": "How can I specify the schema for columns during the conversion process in Python to avoid automatic type selection based on initial rows?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e8fe39dd54"
+  },
+  {
+    "question": "In the `web_to_gcp.py` script provided by Sebastian, where should I define the column data types to ensure proper handling of CSV data?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e8fe39dd54"
+  },
+  {
+    "question": "What modifications are necessary in the `web_to_gcs.py` script to process gzipped CSV files and prevent disk space accumulation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e8fe39dd54"
+  },
+  {
+    "question": "Could you provide a link to the GitHub repository containing the adapted `web_to_gcs.py` script for converting web data to GCS with support for gz files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e8fe39dd54"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the correct command syntax to export an ML model from a BigQuery dataset to a Google Cloud Storage bucket?",
+    "course": "data-engineering-zoomcamp",
+    "document": "155949a31a"
+  },
+  {
+    "question": "Why does the error 'Dataset was not found in location US' occur when attempting to export a model, even though the BQ dataset and GCS bucket are both located in `us-west1`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "155949a31a"
+  },
+  {
+    "question": "How can I verify that my project ID and GCS bucket path are correctly specified in the export command for BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "155949a31a"
+  },
+  {
+    "question": "What should I check if the extraction operation fails with 'Not found: Dataset was not found in location US' while trying to move an ML model from BQ to GCS?",
+    "course": "data-engineering-zoomcamp",
+    "document": "155949a31a"
+  },
+  {
+    "question": "Can you provide an example of a properly formatted GCS bucket address for storing an exported ML model, as mentioned in the solution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "155949a31a"
+  }
+]

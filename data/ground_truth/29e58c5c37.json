@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the recommended Python version for running the data engineering course materials?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29e58c5c37"
+  },
+  {
+    "question": "Will Python 3.9 work for all components of the course, or are there exceptions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29e58c5c37"
+  },
+  {
+    "question": "Are there any modules within the course that specify a stricter Python version requirement?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29e58c5c37"
+  },
+  {
+    "question": "How can I determine if a particular module requires a specific Python version?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29e58c5c37"
+  },
+  {
+    "question": "If I use Python 3.11, will it be compatible with all libraries mentioned in the course (pandas, SQLAlchemy, dbt, dlt, PySpark)?",
+    "course": "data-engineering-zoomcamp",
+    "document": "29e58c5c37"
+  }
+]

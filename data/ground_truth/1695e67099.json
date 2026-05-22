@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific packages should I install if I encounter missing dependencies while using pandas.read_parquet()?",
+    "course": "mlops-zoomcamp",
+    "document": "1695e67099"
+  },
+  {
+    "question": "Which package is recommended for Conda users instead of pyarrow when dealing with pandas.read_parquet() issues?",
+    "course": "mlops-zoomcamp",
+    "document": "1695e67099"
+  },
+  {
+    "question": "How can I resolve the error related to pandas.read_parquet() by installing the necessary dependencies in a Jupyter notebook?",
+    "course": "mlops-zoomcamp",
+    "document": "1695e67099"
+  },
+  {
+    "question": "What command should I execute in the notebook to install the required `pyarrow` package for handling parquet files?",
+    "course": "mlops-zoomcamp",
+    "document": "1695e67099"
+  },
+  {
+    "question": "Is there an alternative method to install dependencies if pip fails, and what would that be in the context of this course?",
+    "course": "mlops-zoomcamp",
+    "document": "1695e67099"
+  }
+]

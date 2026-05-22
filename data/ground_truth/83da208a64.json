@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do I receive an empty list when filtering my query in the homework assignment?",
+    "course": "llm-zoomcamp",
+    "document": "83da208a64"
+  },
+  {
+    "question": "What is the correct order of operations to avoid errors when indexing data for a filtered query?",
+    "course": "llm-zoomcamp",
+    "document": "83da208a64"
+  },
+  {
+    "question": "How should I set up index settings before adding data to ensure successful querying?",
+    "course": "llm-zoomcamp",
+    "document": "83da208a64"
+  },
+  {
+    "question": "What specific error might occur if index settings are not established prior to data insertion?",
+    "course": "llm-zoomcamp",
+    "document": "83da208a64"
+  },
+  {
+    "question": "In the context of Module 1, what steps must be taken to enable effective filtering after data is added to indices?",
+    "course": "llm-zoomcamp",
+    "document": "83da208a64"
+  }
+]

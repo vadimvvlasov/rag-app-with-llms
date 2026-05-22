@@ -1,0 +1,27 @@
+[
+  {
+    "question": "After successfully connecting Github and BigQuery to dbt, why am I not seeing any models in the Develop tab?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dfd4ddbf39"
+  },
+  {
+    "question": "What are the essential steps to configure a development environment for creating data models using dbt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dfd4ddbf39"
+  },
+  {
+    "question": "How do I set the necessary parameters within the dbt development environment?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dfd4ddbf39"
+  },
+  {
+    "question": "Once I have developed a model in dbt, what is the next step to deploy and run jobs?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dfd4ddbf39"
+  },
+  {
+    "question": "In Module 4 of the 'data-engineering-zoomcamp' course, what specific actions are required before I can start developing data models with dbt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dfd4ddbf39"
+  }
+]

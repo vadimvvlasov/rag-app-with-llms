@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it necessary to train several models for the midterm evaluation, or will a single model suffice?",
+    "course": "machine-learning-zoomcamp",
+    "document": "96e6c5ea38"
+  },
+  {
+    "question": "According to the rubric, what is the point allocation for training multiple models without extensive hyperparameter tuning?",
+    "course": "machine-learning-zoomcamp",
+    "document": "96e6c5ea38"
+  },
+  {
+    "question": "How many distinct models am I required to implement in my `train.py` and `predict.py` scripts for the midterm project?",
+    "course": "machine-learning-zoomcamp",
+    "document": "96e6c5ea38"
+  },
+  {
+    "question": "Does the rubric award additional points if I tune the hyperparameters of multiple trained models?",
+    "course": "machine-learning-zoomcamp",
+    "document": "96e6c5ea38"
+  },
+  {
+    "question": "Where does the comparison of different model performances take place within the midterm submission process?",
+    "course": "machine-learning-zoomcamp",
+    "document": "96e6c5ea38"
+  }
+]

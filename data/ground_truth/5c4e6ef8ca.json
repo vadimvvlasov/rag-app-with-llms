@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I ensure my RMSE value falls within the provided options when evaluating on the February dataset?",
+    "course": "mlops-zoomcamp",
+    "document": "5c4e6ef8ca"
+  },
+  {
+    "question": "What specific filtering technique should I apply to the 'duration' column during evaluation to match the training data's approach?",
+    "course": "mlops-zoomcamp",
+    "document": "5c4e6ef8ca"
+  },
+  {
+    "question": "Should I convert data types to strings before using DictVectorizer, and if so, why is this step necessary?",
+    "course": "mlops-zoomcamp",
+    "document": "5c4e6ef8ca"
+  },
+  {
+    "question": "What additional filtering method can be used alongside outlier removal to handle null values effectively for RMSE calculation?",
+    "course": "mlops-zoomcamp",
+    "document": "5c4e6ef8ca"
+  },
+  {
+    "question": "How can I properly round my final RMSE value to two decimal places in Python?",
+    "course": "mlops-zoomcamp",
+    "document": "5c4e6ef8ca"
+  }
+]

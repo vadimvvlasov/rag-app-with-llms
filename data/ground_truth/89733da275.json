@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I encountered an error when using the `get_payment_type_description` macro in BigQuery, receiving a 'No matching signature for operator CASE' message. How can I fix this?",
+    "course": "data-engineering-zoomcamp",
+    "document": "89733da275"
+  },
+  {
+    "question": "Why does the macro need to change numeric literals like 1, 2, 3 to quoted strings such as '1', '2', '3'? Isn't `payment_type` already a string?",
+    "course": "data-engineering-zoomcamp",
+    "document": "89733da275"
+  },
+  {
+    "question": "After modifying the macro as suggested, what additional steps are required to ensure it functions correctly within the dbt project?",
+    "course": "data-engineering-zoomcamp",
+    "document": "89733da275"
+  },
+  {
+    "question": "Could you explain why the original macro caused a BadRequest error specifically in BigQuery and not in other databases supported by dbt?",
+    "course": "data-engineering-zoomcamp",
+    "document": "89733da275"
+  },
+  {
+    "question": "Where can I find more detailed documentation or examples for resolving similar type-mismatch issues when using macros across different dbt adapters?",
+    "course": "data-engineering-zoomcamp",
+    "document": "89733da275"
+  }
+]

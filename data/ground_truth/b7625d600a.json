@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I receiving a 'psycopg.OperationalError: connection failed' message when trying to connect to the PostgreSQL server at \"127.0.0.1\", port 5432?",
+    "course": "mlops-zoomcamp",
+    "document": "b7625d600a"
+  },
+  {
+    "question": "What does the error 'FATAL: password authentication failed for user \"postgres\"' indicate in the context of connecting to a Dockerized PostgreSQL instance?",
+    "course": "mlops-zoomcamp",
+    "document": "b7625d600a"
+  },
+  {
+    "question": "Could there be another Docker container interfering with my current attempt to connect to the PostgreSQL server, and if so, how can I identify it?",
+    "course": "mlops-zoomcamp",
+    "document": "b7625d600a"
+  },
+  {
+    "question": "What steps should I follow to stop a potentially conflicting Docker container that is already running from a previous session?",
+    "course": "mlops-zoomcamp",
+    "document": "b7625d600a"
+  },
+  {
+    "question": "How can I check which Docker containers are currently active on my system before attempting to restart my PostgreSQL connection?",
+    "course": "mlops-zoomcamp",
+    "document": "b7625d600a"
+  }
+]

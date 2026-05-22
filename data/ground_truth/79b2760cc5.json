@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does high precision imply about the reliability of positive predictions in our model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79b2760cc5"
+  },
+  {
+    "question": "In what type of application should we prioritize precision over recall to minimize false positives?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79b2760cc5"
+  },
+  {
+    "question": "How is recall defined, and why might it be critical in situations where missing a true positive has significant consequences?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79b2760cc5"
+  },
+  {
+    "question": "Can you explain how improving one metric (e.g., precision) might affect the other (e.g., recall) when tuning a classification model?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79b2760cc5"
+  },
+  {
+    "question": "Under what circumstances would we need to balance precision and recall, and what factors influence this trade-off?",
+    "course": "machine-learning-zoomcamp",
+    "document": "79b2760cc5"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does Docker report 'requested image's platform (linux/amd64) does not match' when running an image on a Mac with Apple Silicon?",
+    "course": "machine-learning-zoomcamp",
+    "document": "15daf894c7"
+  },
+  {
+    "question": "How can I resolve the 'executable not found' error when attempting to run a container built for amd64 on an arm64 macOS system using Docker?",
+    "course": "machine-learning-zoomcamp",
+    "document": "15daf894c7"
+  },
+  {
+    "question": "What command should I use to specify the platform as linux/amd64 during both the Docker build and run processes on an M1/M2/M3 Mac?",
+    "course": "machine-learning-zoomcamp",
+    "document": "15daf894c7"
+  },
+  {
+    "question": "Is there a way to configure my Dockerfile so that the platform is consistently set to linux/amd64, avoiding mismatches between amd64 base images and arm64 hosts?",
+    "course": "machine-learning-zoomcamp",
+    "document": "15daf894c7"
+  },
+  {
+    "question": "If I continue to face issues running amd64 containers on Apple Silicon despite setting the correct platform, what alternative solution can I use for development?",
+    "course": "machine-learning-zoomcamp",
+    "document": "15daf894c7"
+  }
+]

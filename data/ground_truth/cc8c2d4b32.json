@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if I receive a VPC configuration error while deploying an application to AWS Elastic Beanstalk?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cc8c2d4b32"
+  },
+  {
+    "question": "How can I check whether a default VPC exists for my selected AWS region before creating an Elastic Beanstalk environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cc8c2d4b32"
+  },
+  {
+    "question": "What command is used to initiate the creation of an Elastic Beanstalk environment named 'churn-prediction-env'?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cc8c2d4b32"
+  },
+  {
+    "question": "If no VPCs are found in the selected region, what action should I take to resolve the VPC configuration error during deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cc8c2d4b32"
+  },
+  {
+    "question": "After creating a default VPC in my AWS region, what is the next step to successfully deploy my application to Elastic Beanstalk?",
+    "course": "machine-learning-zoomcamp",
+    "document": "cc8c2d4b32"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What type of license is used for the dbt Cloud demos in Module 4 of the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "44ff6ae3df"
+  },
+  {
+    "question": "Is a Team license available to students during the first two weeks after creating a dbt Cloud account?",
+    "course": "data-engineering-zoomcamp",
+    "document": "44ff6ae3df"
+  },
+  {
+    "question": "How does the interface of the Team license compare to the one demonstrated in the Developer license during the demo?",
+    "course": "data-engineering-zoomcamp",
+    "document": "44ff6ae3df"
+  },
+  {
+    "question": "Will the Team license provide the same level of functionality as the Developer license used in the course demonstrations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "44ff6ae3df"
+  },
+  {
+    "question": "What should students expect if they attempt to replicate the demo experience using a Team license after the first 14 days?",
+    "course": "data-engineering-zoomcamp",
+    "document": "44ff6ae3df"
+  }
+]

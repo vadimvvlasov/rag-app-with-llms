@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I experiencing server port conflicts and unable to connect to the MLflow server?",
+    "course": "mlops-zoomcamp",
+    "document": "1497aabe44"
+  },
+  {
+    "question": "How can I identify which process is currently using port 5000 on my system?",
+    "course": "mlops-zoomcamp",
+    "document": "1497aabe44"
+  },
+  {
+    "question": "What command should I execute to determine the process occupying a specific port, such as port 5000?",
+    "course": "mlops-zoomcamp",
+    "document": "1497aabe44"
+  },
+  {
+    "question": "If port 5000 is already in use, what steps can I take to free it or switch to another port for MLflow?",
+    "course": "mlops-zoomcamp",
+    "document": "1497aabe44"
+  },
+  {
+    "question": "Could you provide the exact command syntax to run the MLflow UI on a different port, say port 5001?",
+    "course": "mlops-zoomcamp",
+    "document": "1497aabe44"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do the feature sizes differ between the training and validation sets in Homework 1?",
+    "course": "mlops-zoomcamp",
+    "document": "3f9286329a"
+  },
+  {
+    "question": "What method should I use with a dictionary vectorizer to avoid inconsistent feature sizes?",
+    "course": "mlops-zoomcamp",
+    "document": "3f9286329a"
+  },
+  {
+    "question": "How can using the wrong method with a dictionary vectorizer lead to different feature dimensions for training and validation datasets?",
+    "course": "mlops-zoomcamp",
+    "document": "3f9286329a"
+  },
+  {
+    "question": "Is there a specific step in the preprocessing pipeline that needs to be modified to ensure consistent feature sizes?",
+    "course": "mlops-zoomcamp",
+    "document": "3f9286329a"
+  },
+  {
+    "question": "What is the recommended approach when applying a pre-created dictionary vectorizer to new data sets?",
+    "course": "mlops-zoomcamp",
+    "document": "3f9286329a"
+  }
+]

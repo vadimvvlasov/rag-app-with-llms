@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I import a CSV file directly from a URL into a Jupyter Notebook using pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f3a06ec752"
+  },
+  {
+    "question": "What is the syntax for executing a shell command within a Jupyter Notebook cell?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f3a06ec752"
+  },
+  {
+    "question": "Is it possible to download a dataset from a GitHub repository and save it in a specific directory using a single command in Jupyter?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f3a06ec752"
+  },
+  {
+    "question": "After downloading a CSV file, how can I move it into another folder (e.g., '../data/') using a bash command in the notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f3a06ec752"
+  },
+  {
+    "question": "Which method is recommended for fetching external data directly into a pandas DataFrame within a Jupyter environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "f3a06ec752"
+  }
+]

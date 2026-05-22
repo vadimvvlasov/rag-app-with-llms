@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering an `AttributeError: module 'collections' has no attribute 'MutableMapping'` when trying to install a package using pipenv?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4b501f0a25"
+  },
+  {
+    "question": "What Python version is required to resolve the `MutableMapping` attribute error in pipenv installations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4b501f0a25"
+  },
+  {
+    "question": "In the context of Module 5 (Deploying Machine Learning Models) from the machine-learning-zoomcamp course, how can I fix the collection module issue during pipenv setup?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4b501f0a25"
+  },
+  {
+    "question": "Could you explain the relationship between the pipenv installation process and the collections library that leads to the `MutableMapping` attribute error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4b501f0a25"
+  },
+  {
+    "question": "After upgrading my Python version as suggested, will the pipenv installation of libraries like numpy proceed without the `collections.MutableMapping` error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "4b501f0a25"
+  }
+]

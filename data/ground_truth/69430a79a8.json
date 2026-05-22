@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How do embeddings convert categorical data into numerical representations while maintaining contextual relationships?",
+    "course": "llm-zoomcamp",
+    "document": "69430a79a8"
+  },
+  {
+    "question": "What role does the vector space model play in the process of embedding non-numerical data for semantic similarity analysis?",
+    "course": "llm-zoomcamp",
+    "document": "69430a79a8"
+  },
+  {
+    "question": "Can you explain how dimensionality reduction techniques are utilized alongside embeddings to improve computational efficiency and performance?",
+    "course": "llm-zoomcamp",
+    "document": "69430a79a8"
+  },
+  {
+    "question": "In what ways do similar inputs translate into numerically proximate outputs through the embedding mechanism, and why is this property important for downstream tasks such as information retrieval?",
+    "course": "llm-zoomcamp",
+    "document": "69430a79a8"
+  }
+]

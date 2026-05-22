@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is homework completion required to obtain a course certificate for the MLOps ZoomCamp?",
+    "course": "mlops-zoomcamp",
+    "document": "5daddf3efc"
+  },
+  {
+    "question": "Can I earn the certificate by submitting only the final project on my second attempt?",
+    "course": "mlops-zoomcamp",
+    "document": "5daddf3efc"
+  },
+  {
+    "question": "If I fail the first attempt, do I still need to complete all homework assignments to qualify for the certificate on the second attempt?",
+    "course": "mlops-zoomcamp",
+    "document": "5daddf3efc"
+  },
+  {
+    "question": "Does successfully passing either one of the two attempts guarantee receipt of the MLOps ZoomCamp certificate?",
+    "course": "mlops-zoomcamp",
+    "document": "5daddf3efc"
+  },
+  {
+    "question": "Am I allowed to submit the final project solely during my second attempt and still be eligible for the certificate?",
+    "course": "mlops-zoomcamp",
+    "document": "5daddf3efc"
+  }
+]

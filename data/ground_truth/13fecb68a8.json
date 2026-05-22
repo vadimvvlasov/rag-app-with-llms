@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should be the correct sequence of steps to avoid the 'Failed to infer model signature' warning when using XGBoost with MLflow?",
+    "course": "mlops-zoomcamp",
+    "document": "13fecb68a8"
+  },
+  {
+    "question": "How do I enable autologging for XGBoost in my MLflow experiment?",
+    "course": "mlops-zoomcamp",
+    "document": "13fecb68a8"
+  },
+  {
+    "question": "If I encounter a signature inference failure after enabling autologging, what should I verify about my dataset?",
+    "course": "mlops-zoomcamp",
+    "document": "13fecb68a8"
+  },
+  {
+    "question": "Can you provide the exact Python code snippet to initialize MLflow's autologging for XGBoost?",
+    "course": "mlops-zoomcamp",
+    "document": "13fecb68a8"
+  },
+  {
+    "question": "What are the potential data format issues that might cause the 'could not sample data' error during XGBoost model training with MLflow?",
+    "course": "mlops-zoomcamp",
+    "document": "13fecb68a8"
+  }
+]

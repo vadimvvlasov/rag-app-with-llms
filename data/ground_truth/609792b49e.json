@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I capture the standard output from each iteration of a loop separately in Python when training an XGBoost model with varying eta values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "609792b49e"
+  },
+  {
+    "question": "Is there a way to avoid manually editing the code or running multiple cells to collect training outputs for different learning rates (eta) during an XGBoost regression task?",
+    "course": "machine-learning-zoomcamp",
+    "document": "609792b49e"
+  },
+  {
+    "question": "What technique should I use within an IPython environment to store the stdout of each loop iteration in a dictionary without merging all outputs into a single capture?",
+    "course": "machine-learning-zoomcamp",
+    "document": "609792b49e"
+  },
+  {
+    "question": "Can you provide an example of using `IPython.utils.capture.capture_output` inside a loop to record distinct stdout messages for each step, such as when incrementing through a range of eta values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "609792b49e"
+  },
+  {
+    "question": "How do I implement a solution that allows me to directly map each iteration's output (e.g., from a print statement) to its corresponding parameter value (like eta) in an XGBoost training process?",
+    "course": "machine-learning-zoomcamp",
+    "document": "609792b49e"
+  }
+]

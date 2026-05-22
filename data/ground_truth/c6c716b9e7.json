@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the difference between a deep copy and a view of a dataframe in Python?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c6c716b9e7"
+  },
+  {
+    "question": "How can I ensure that modifications to a copied dataframe do not affect the original dataframe?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c6c716b9e7"
+  },
+  {
+    "question": "Which method should I use to duplicate a pandas DataFrame completely, so changes to the new DataFrame won't impact the source?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c6c716b9e7"
+  },
+  {
+    "question": "If I assign `X_copy = X` and then modify `X_copy`, will the original dataframe `X` be altered?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c6c716b9e7"
+  },
+  {
+    "question": "What command creates an independent copy of a dataframe that allows modifications without affecting the original?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c6c716b9e7"
+  }
+]

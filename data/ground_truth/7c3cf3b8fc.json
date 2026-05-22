@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is causing the \"ModuleNotFoundError: No module named 'kafka.vendor.six.moves'\" error in my Kafka Python application?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7c3cf3b8fc"
+  },
+  {
+    "question": "How can I resolve the missing module issue when using the `kafka-python` library?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7c3cf3b8fc"
+  },
+  {
+    "question": "Is there an alternative package to replace `kafka-python` that addresses the current release issues?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7c3cf3b8fc"
+  },
+  {
+    "question": "What is the recommended replacement for the `kafka-python` package as of now?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7c3cf3b8fc"
+  },
+  {
+    "question": "Can you provide the exact installation command to use the suggested alternative package?",
+    "course": "data-engineering-zoomcamp",
+    "document": "7c3cf3b8fc"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the exact procedure to store a Google Cloud service account key as a secret in Google Colab for BigQuery access?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ecc97beb5"
+  },
+  {
+    "question": "Which environment variable should be set to enable connection between Google Colab and BigQuery using stored credentials?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ecc97beb5"
+  },
+  {
+    "question": "How can I retrieve a previously saved secret named `BIGQUERY_CREDENTIALS` within my Jupyter notebook running on Google Colab?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ecc97beb5"
+  },
+  {
+    "question": "What Python code snippet is necessary to load the `BIGQUERY_CREDENTIALS` secret into an environment variable for use with the BigQuery client library?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ecc97beb5"
+  },
+  {
+    "question": "In the context of Workshop 1 - dlthub from the data-engineering-zoomcamp course, where can I find documentation on managing secrets in Google Colab?",
+    "course": "data-engineering-zoomcamp",
+    "document": "4ecc97beb5"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "I'm encountering a 'billingNotEnabled' error when trying to update my dataset in Google BigQuery, even though I've already linked a billing account. What steps can I take to resolve this issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e34580b954"
+  },
+  {
+    "question": "Could you explain why disabling and re-enabling the billing for a project might fix the problem where the system reports that billing has not been enabled despite having set up a billing account?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e34580b954"
+  },
+  {
+    "question": "What is the significance of the default table expiration time in relation to the 60-day limit mentioned in the error message from Google BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e34580b954"
+  },
+  {
+    "question": "If I disable billing for my GCP project and then re-enable it, will any existing resources or data be affected, or is this purely a configuration change?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e34580b954"
+  },
+  {
+    "question": "Are there any potential risks or considerations I should keep in mind when disabling and re-enabling billing for a GCP project to resolve the 'billingNotEnabled' error?",
+    "course": "data-engineering-zoomcamp",
+    "document": "e34580b954"
+  }
+]

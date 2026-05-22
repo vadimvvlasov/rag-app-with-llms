@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What should I do if the Jupyter notebook kernel keeps being terminated because of memory limitations during data processing tasks?",
+    "course": "mlops-zoomcamp",
+    "document": "108295493e"
+  },
+  {
+    "question": "How can I access my datasets stored on Google Drive while working in a Colab notebook for this course assignment?",
+    "course": "mlops-zoomcamp",
+    "document": "108295493e"
+  },
+  {
+    "question": "Could you provide the exact steps to mount my Google Drive within a Colab environment?",
+    "course": "mlops-zoomcamp",
+    "document": "108295493e"
+  },
+  {
+    "question": "After mounting the drive, what is the correct path syntax to read a Parquet file located in the 'Colab Notebooks' folder?",
+    "course": "mlops-zoomcamp",
+    "document": "108295493e"
+  },
+  {
+    "question": "Once I have finished working on the assignment in Colab, how do I transfer the completed notebook back to my local machine and place it in the appropriate repository?",
+    "course": "mlops-zoomcamp",
+    "document": "108295493e"
+  }
+]

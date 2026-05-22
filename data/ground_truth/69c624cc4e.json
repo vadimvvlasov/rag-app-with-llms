@@ -1,0 +1,7 @@
+[
+  {
+    "question": ".\n1. Why does the error \"weight_decay is not a valid argument, kwargs should be empty for `optimizer_experimental.Optimizer`\" occur when loading a Keras model with `.h5` extension?\n2. What parameter must be included in the `load_model` function call to resolve the weight_decay-related error during Keras model loading?\n3. In the context of serverless deep learning, how should the `load_model` function be invoked to successfully load a compiled Keras model saved as `model_name.h5` without encountering optimizer arguments errors?\n4. What is the purpose of setting `compile=False` when loading a Keras model using `keras.models.load_model()` in serverless deployment scenarios?\n5. How can you prevent the \"weight_decay is not a valid argument\" error when deserializing a Keras `.h5` file within an AWS Lambda function or similar serverless environment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "69c624cc4e"
+  }
+]

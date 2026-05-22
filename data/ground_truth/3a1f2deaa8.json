@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the error message \"ValueError: continuous format is not supported\" indicating when using `roc_auc_score()`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3a1f2deaa8"
+  },
+  {
+    "question": "How should I correctly pass the arguments to `roc_auc_score()` to avoid this error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3a1f2deaa8"
+  },
+  {
+    "question": "In which module of the Machine Learning Zoomcamp course does this issue occur?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3a1f2deaa8"
+  },
+  {
+    "question": "What are `y_actuals` and `y_pred` in the context of calculating ROC AUC score?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3a1f2deaa8"
+  },
+  {
+    "question": "Can you provide a code snippet that demonstrates the proper usage of `roc_auc_score()` to prevent the ValueError?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3a1f2deaa8"
+  }
+]

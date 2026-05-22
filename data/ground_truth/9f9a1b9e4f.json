@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What error occurs when attempting to destroy a BigQuery dataset using `terraform destroy`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9f9a1b9e4f"
+  },
+  {
+    "question": "Why does the error message indicate that the dataset is still in use during destruction?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9f9a1b9e4f"
+  },
+  {
+    "question": "Which property must be set to true in the `main.tf` file to successfully delete a dataset and its contents during `terraform destroy`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9f9a1b9e4f"
+  },
+  {
+    "question": "What confirmation value is required when Terraform prompts to confirm the destruction of all managed infrastructure?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9f9a1b9e4f"
+  },
+  {
+    "question": "In which module of the 'data-engineering-zoomcamp' course does this issue regarding BigQuery dataset teardown occur?",
+    "course": "data-engineering-zoomcamp",
+    "document": "9f9a1b9e4f"
+  }
+]

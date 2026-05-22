@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a TypeError when using the corrwith function in pandas?",
+    "course": "machine-learning-zoomcamp",
+    "document": "babaec2a7d"
+  },
+  {
+    "question": "How can I convert the `totalcharges` column from an object type to a numeric type in my DataFrame?",
+    "course": "machine-learning-zoomcamp",
+    "document": "babaec2a7d"
+  },
+  {
+    "question": "What should I do if the `churn` column contains string values like 'yes' and needs to be treated as numeric for correlation calculations?",
+    "course": "machine-learning-zoomcamp",
+    "document": "babaec2a7d"
+  },
+  {
+    "question": "In the churn dataset, what causes the `totalcharges` column to be stored as an object despite containing numerical data?",
+    "course": "machine-learning-zoomcamp",
+    "document": "babaec2a7d"
+  },
+  {
+    "question": "How can I handle missing values represented by spaces in the `totalcharges` column before performing correlation analysis?",
+    "course": "machine-learning-zoomcamp",
+    "document": "babaec2a7d"
+  }
+]

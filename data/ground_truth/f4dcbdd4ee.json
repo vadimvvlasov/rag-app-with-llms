@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can Evidently generate a report without comparing it to a reference dataset?",
+    "course": "mlops-zoomcamp",
+    "document": "f4dcbdd4ee"
+  },
+  {
+    "question": "What happens if I set `reference_data=None` when creating an Evidently report?",
+    "course": "mlops-zoomcamp",
+    "document": "f4dcbdd4ee"
+  },
+  {
+    "question": "Is it possible to perform univariate analyses or descriptive statistics on a single dataset using Evidently?",
+    "course": "mlops-zoomcamp",
+    "document": "f4dcbdd4ee"
+  },
+  {
+    "question": "When would you use the option of not providing a reference dataset in Evidently's reporting process?",
+    "course": "mlops-zoomcamp",
+    "document": "f4dcbdd4ee"
+  },
+  {
+    "question": "Does omitting a reference dataset affect the types of metrics Evidently can produce?",
+    "course": "mlops-zoomcamp",
+    "document": "f4dcbdd4ee"
+  }
+]

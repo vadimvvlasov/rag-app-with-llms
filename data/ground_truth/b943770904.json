@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What caused the 'Negsignal:SIGKILL' error when converting large data files to parquet format?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b943770904"
+  },
+  {
+    "question": "How can I prevent memory exhaustion in my Docker container while processing an 800MB data file?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b943770904"
+  },
+  {
+    "question": "What is a recommended approach to handle large data files during conversion to parquet format in a resource-constrained environment like a limited-memory Docker container?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b943770904"
+  },
+  {
+    "question": "Why did loading the file in chunks with Pandas and creating multiple parquet files resolve the issue?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b943770904"
+  },
+  {
+    "question": "Can you explain how splitting the processing into multiple parquet files helps manage memory usage effectively during data conversion?",
+    "course": "data-engineering-zoomcamp",
+    "document": "b943770904"
+  }
+]

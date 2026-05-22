@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does `gcloud auth application-default login` hang and display \"not found\" errors for browsers in MS VS Code with WSL2?",
+    "course": "data-engineering-zoomcamp",
+    "document": "af2b85f346"
+  },
+  {
+    "question": "What is the step-by-step process to resolve the OAuth URL opening issue when running the `gcloud` CLI in WSL2 from VS Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "af2b85f346"
+  },
+  {
+    "question": "How can I configure trusted domains in VS Code to allow Google accounts authentication during `gcloud auth` operations?",
+    "course": "data-engineering-zoomcamp",
+    "document": "af2b85f346"
+  },
+  {
+    "question": "After configuring trusted domains, will subsequent `gcloud` authentications proceed without manual browser interaction?",
+    "course": "data-engineering-zoomcamp",
+    "document": "af2b85f346"
+  },
+  {
+    "question": "Is there a way to automate the OAuth login process for `gcloud` in WSL2 without triggering the \"Open external website\" dialog each time?",
+    "course": "data-engineering-zoomcamp",
+    "document": "af2b85f346"
+  }
+]

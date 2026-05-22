@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How do I resolve the 'name 'year' is not defined' error in question 2 of the homework?",
+    "course": "mlops-zoomcamp",
+    "document": "76ed2ad3e5"
+  },
+  {
+    "question": "What steps are required to prepare the dataframe for output in question 2?",
+    "course": "mlops-zoomcamp",
+    "document": "76ed2ad3e5"
+  },
+  {
+    "question": "In Module 4: Deployment of the mlops-zoomcamp course, what initial variable definitions are necessary before executing the dataframe preparation for question 2?",
+    "course": "mlops-zoomcamp",
+    "document": "76ed2ad3e5"
+  },
+  {
+    "question": "Could you clarify how to define the variables `year` and `month` as integers to avoid the namerror mentioned in homework question 2?",
+    "course": "mlops-zoomcamp",
+    "document": "76ed2ad3e5"
+  },
+  {
+    "question": "What is the specific error message 'Namerror: name ‘year’ is not defined' referring to, and how can I address it while completing question 2 of the assignment?",
+    "course": "mlops-zoomcamp",
+    "document": "76ed2ad3e5"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I enter in the terminal to convert a Jupyter notebook into a Python script?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9db5014252"
+  },
+  {
+    "question": "How can I convert a Jupyter notebook to an executable Python script using the graphical user interface?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9db5014252"
+  },
+  {
+    "question": "Where will the converted Python script be saved after using the Jupyter Notebook interface method?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9db5014252"
+  },
+  {
+    "question": "Is there a specific file extension for the resulting Python script when converting from a Jupyter notebook?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9db5014252"
+  },
+  {
+    "question": "Which module of the 'machine-learning-zoomcamp' course covers the process of saving a Jupyter notebook as a Python script?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9db5014252"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I open a GitHub notebook directly in Google Colab?",
+    "course": "mlops-zoomcamp",
+    "document": "e525587d40"
+  },
+  {
+    "question": "What URL transformation is required to run a public GitHub notebook in Google Colab?",
+    "course": "mlops-zoomcamp",
+    "document": "e525587d40"
+  },
+  {
+    "question": "Is it possible to access private repositories via `githubtocolab.com`?",
+    "course": "mlops-zoomcamp",
+    "document": "e525587d40"
+  },
+  {
+    "question": "Where can I find detailed instructions for navigating the Wandb UI more effectively?",
+    "course": "mlops-zoomcamp",
+    "document": "e525587d40"
+  },
+  {
+    "question": "Which module of the MLOps Zoomcamp course covers experiment tracking with Wandb?",
+    "course": "mlops-zoomcamp",
+    "document": "e525587d40"
+  }
+]

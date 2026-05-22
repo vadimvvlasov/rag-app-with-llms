@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Is it mandatory for the GitHub repository linked to my homework submission to be set to public visibility?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5851324f04"
+  },
+  {
+    "question": "Will private repositories work for submitting assignments in this machine learning course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5851324f04"
+  },
+  {
+    "question": "Can instructors and teaching assistants view and grade my homework if I keep the associated GitHub repository private?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5851324f04"
+  },
+  {
+    "question": "What happens if I accidentally submit a private GitHub repository link for my homework assignment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5851324f04"
+  },
+  {
+    "question": "Are there any exceptions or alternative methods allowed for submitting homework through a non-public GitHub repository in this course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "5851324f04"
+  }
+]

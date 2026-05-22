@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In the Week-2 homework for the 'machine-learning-zoomcamp' course, where is the instruction to apply a log transformation to the 'median_house_value' variable located?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9346394db7"
+  },
+  {
+    "question": "What specific heading in the Week-2 homework contains the guidance on transforming the target variable using a logarithmic function?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9346394db7"
+  },
+  {
+    "question": "If I forget to log-transform the 'median_house_value' before answering Q3 and later questions in the Week-2 homework, what potential problem might I face?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9346394db7"
+  },
+  {
+    "question": "Is there any reminder or additional note scattered throughout the subsequent questions of the Week-2 homework to ensure consistent application of the log transformation to the target variable?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9346394db7"
+  },
+  {
+    "question": "What is the recommended action regarding the log transformation of the 'median_house_value' for every question in the Week-2 2023 cohort homework?",
+    "course": "machine-learning-zoomcamp",
+    "document": "9346394db7"
+  }
+]

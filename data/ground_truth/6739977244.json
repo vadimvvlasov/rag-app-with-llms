@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the difference between `predict_log_proba` and `predict_proba` in terms of their output?",
+    "course": "machine-learning-zoomcamp",
+    "document": 6739977244
+  },
+  {
+    "question": "Why do log-probabilities from `predict_log_proba` result in values less than or equal to zero?",
+    "course": "machine-learning-zoomcamp",
+    "document": 6739977244
+  },
+  {
+    "question": "How can I obtain the predicted probabilities for the positive class after training a model?",
+    "course": "machine-learning-zoomcamp",
+    "document": 6739977244
+  },
+  {
+    "question": "Which method should I use when calculating AUC for a binary classification model?",
+    "course": "machine-learning-zoomcamp",
+    "document": 6739977244
+  },
+  {
+    "question": "What steps are required to convert log-probabilities into standard probabilities for threshold-based evaluation?",
+    "course": "machine-learning-zoomcamp",
+    "document": 6739977244
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I set up the Spark BigQuery connector with automatic configuration?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a431f8863"
+  },
+  {
+    "question": "Which configuration option should be used to include the Spark BigQuery connector dependency when creating a SparkSession?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a431f8863"
+  },
+  {
+    "question": "What is the specific Maven coordinate for the Spark BigQuery connector that needs to be added via `spark.jars.packages`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a431f8863"
+  },
+  {
+    "question": "Where can I find more detailed instructions on configuring the Spark BigQuery connector automatically?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a431f8863"
+  },
+  {
+    "question": "Does automatic configuration of the Spark BigQuery connector require manual jar management?",
+    "course": "data-engineering-zoomcamp",
+    "document": "0a431f8863"
+  }
+]

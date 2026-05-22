@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In what scenario would partitioning be the optimal choice over clustering for database performance?",
+    "course": "data-engineering-zoomcamp",
+    "document": "46d95787b3"
+  },
+  {
+    "question": "When dealing with queries that sort primarily on a numeric identifier, which method—partitioning or clustering—provides better efficiency?",
+    "course": "data-engineering-zoomcamp",
+    "document": "46d95787b3"
+  },
+  {
+    "question": "Can you explain why both partitioning and clustering are beneficial when applied to different types of query filters?",
+    "course": "data-engineering-zoomcamp",
+    "document": "46d95787b3"
+  },
+  {
+    "question": "If I have a dataset where each record is accessed frequently based on its creation date, should I implement partitioning first, or does the choice depend more on other factors such as sorting patterns?",
+    "course": "data-engineering-zoomcamp",
+    "document": "46d95787b3"
+  },
+  {
+    "question": "How do partitioning and clustering complement each other in a data warehousing architecture when addressing diverse access patterns?",
+    "course": "data-engineering-zoomcamp",
+    "document": "46d95787b3"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of Global Temporary Views in Apache Spark?",
+    "course": "data-engineering-zoomcamp",
+    "document": "db219fef17"
+  },
+  {
+    "question": "How can I create a Global Temporary View from a DataFrame within my Spark application?",
+    "course": "data-engineering-zoomcamp",
+    "document": "db219fef17"
+  },
+  {
+    "question": "When querying a Global Temporary View, what prefix must be used before the view's name?",
+    "course": "data-engineering-zoomcamp",
+    "document": "db219fef17"
+  },
+  {
+    "question": "Are Global Temporary Views limited to a single Spark session or accessible across multiple sessions?",
+    "course": "data-engineering-zoomcamp",
+    "document": "db219fef17"
+  },
+  {
+    "question": "What steps are required to share data stored in a DataFrame using Global Temporary Views?",
+    "course": "data-engineering-zoomcamp",
+    "document": "db219fef17"
+  }
+]

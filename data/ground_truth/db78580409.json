@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can you explain how cosine similarity is calculated between two vectors?",
+    "course": "llm-zoomcamp",
+    "document": "db78580409"
+  },
+  {
+    "question": "In what range does the cosine similarity value fall, and what do the extremes signify in terms of vector alignment?",
+    "course": "llm-zoomcamp",
+    "document": "db78580409"
+  },
+  {
+    "question": "How is cosine similarity applied in text analysis for comparing document content?",
+    "course": "llm-zoomcamp",
+    "document": "db78580409"
+  },
+  {
+    "question": "What are typical vector representations used when computing cosine similarity in document comparison?",
+    "course": "llm-zoomcamp",
+    "document": "db78580409"
+  },
+  {
+    "question": "Why might cosine similarity be preferred over other similarity measures for assessing document similarity?",
+    "course": "llm-zoomcamp",
+    "document": "db78580409"
+  }
+]

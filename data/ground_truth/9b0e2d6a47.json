@@ -1,0 +1,27 @@
+[
+  {
+    "question": "In a recommender-style RAG system without direct Q&A ground truth, what method can be used to generate synthetic user queries for evaluation?",
+    "course": "llm-zoomcamp",
+    "document": "9b0e2d6a47"
+  },
+  {
+    "question": "How is the performance of a recommender-style RAG evaluated using an LLM as a judge for end-to-end quality?",
+    "course": "llm-zoomcamp",
+    "document": "9b0e2d6a47"
+  },
+  {
+    "question": "Which evaluation metric is recommended for ranking-style problems in a recommender-style RAG, considering multiple acceptable answers?",
+    "course": "llm-zoomcamp",
+    "document": "9b0e2d6a47"
+  },
+  {
+    "question": "What are the two complementary approaches proposed for evaluating a recommender-style RAG lacking obvious Q&A ground truth?",
+    "course": "llm-zoomcamp",
+    "document": "9b0e2d6a47"
+  },
+  {
+    "question": "How should the LLM be instructed when assessing relevance and usefulness of retrieval results as part of an end-to-end quality evaluation?",
+    "course": "llm-zoomcamp",
+    "document": "9b0e2d6a47"
+  }
+]

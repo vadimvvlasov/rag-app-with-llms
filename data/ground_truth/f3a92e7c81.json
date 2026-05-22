@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why am I encountering a SyntaxError with the invalid character '·' (U+00B7) when executing my locally downloaded copy of minsearch?",
+    "course": "llm-zoomcamp",
+    "document": "f3a92e7c81"
+  },
+  {
+    "question": "What is the difference between saving the GitHub HTML page versus downloading the raw Python file for minsearch, and how does it affect execution?",
+    "course": "llm-zoomcamp",
+    "document": "f3a92e7c81"
+  },
+  {
+    "question": "How can I correctly download the raw Python file from GitHub to avoid syntax errors during the execution of minsearch?",
+    "course": "llm-zoomcamp",
+    "document": "f3a92e7c81"
+  },
+  {
+    "question": "If I prefer not to manually download files, what alternative method can I use to ensure I get an error-free installation of minsearch?",
+    "course": "llm-zoomcamp",
+    "document": "f3a92e7c81"
+  },
+  {
+    "question": "What command should I run in my terminal to install minsearch directly from PyPI without facing any character encoding issues?",
+    "course": "llm-zoomcamp",
+    "document": "f3a92e7c81"
+  }
+]

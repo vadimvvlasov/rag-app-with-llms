@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Can you explain what the standard deviation measures in a dataset?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c19b485c07"
+  },
+  {
+    "question": "How does a low versus high standard deviation affect the interpretation of data relative to the mean?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c19b485c07"
+  },
+  {
+    "question": "What is the formula for calculating the standard deviation, and how is it represented mathematically?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c19b485c07"
+  },
+  {
+    "question": "In the context of a normal distribution, how do mean, median, and mode relate when the tail length changes due to extreme values?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c19b485c07"
+  },
+  {
+    "question": "Why might the mean become less representative in datasets with long tails or outliers?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c19b485c07"
+  }
+]

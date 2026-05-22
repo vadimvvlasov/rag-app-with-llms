@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why do datetime columns appear as integer columns in BigQuery when loading Parquet files generated from a Pandas DataFrame?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a83247e572"
+  },
+  {
+    "question": "What is the default behavior of Pandas when writing timestamp columns to Parquet files?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a83247e572"
+  },
+  {
+    "question": "How can I ensure that timestamp columns are treated as TIMESTAMP types in BigQuery after uploading Parquet files created with Pandas?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a83247e572"
+  },
+  {
+    "question": "What parameter should be used with `pq.write_table` from PyArrow to enforce proper TIMESTAMP logical types during file creation?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a83247e572"
+  },
+  {
+    "question": "Is there a method to explicitly define the schema of the DataFrame before writing it to a Parquet file to avoid type misinterpretation by BigQuery?",
+    "course": "data-engineering-zoomcamp",
+    "document": "a83247e572"
+  }
+]

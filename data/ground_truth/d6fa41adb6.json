@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I configure port forwarding for pgAdmin, PostgreSQL, and Jupyter Notebook on a Google Cloud Platform virtual machine without using Visual Studio Code?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d6fa41adb6"
+  },
+  {
+    "question": "What command should be executed on the VM to start Docker and launch Jupyter Notebook in the correct directory?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d6fa41adb6"
+  },
+  {
+    "question": "When setting up SSH tunneling from my local machine to the VM, which specific SSH command syntax is required for forwarding ports 5432, 8080, and 8888?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d6fa41adb6"
+  },
+  {
+    "question": "If I encounter authentication issues while accessing Jupyter Notebook after establishing the SSH tunnel, where can I find the necessary access token on the VM's terminal output?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d6fa41adb6"
+  },
+  {
+    "question": "What combined SSH command allows me to forward both pgAdmin (port 8080) and PostgreSQL (port 5432) to my local machine in a single execution?",
+    "course": "data-engineering-zoomcamp",
+    "document": "d6fa41adb6"
+  }
+]

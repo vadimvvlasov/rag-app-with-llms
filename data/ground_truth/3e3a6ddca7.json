@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What specific error message appears in the Elastic Container Service task log?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e3a6ddca7"
+  },
+  {
+    "question": "Why does the error \"[Errno 12] Cannot allocate memory\" occur when running a container on AWS ECS?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e3a6ddca7"
+  },
+  {
+    "question": "Which configuration parameter should be adjusted to fix the memory allocation issue in an ECS task definition?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e3a6ddca7"
+  },
+  {
+    "question": "How can I modify the RAM and CPU settings for my ECS task to prevent this error?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e3a6ddca7"
+  },
+  {
+    "question": "After increasing the allocated RAM and CPU, will the \"[Errno 12] Cannot allocate memory\" error be resolved?",
+    "course": "machine-learning-zoomcamp",
+    "document": "3e3a6ddca7"
+  }
+]

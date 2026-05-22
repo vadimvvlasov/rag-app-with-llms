@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How can I reset pytest settings after completing tests in a previous folder?",
+    "course": "mlops-zoomcamp",
+    "document": "611e6f015f"
+  },
+  {
+    "question": "What specific directory should be deleted to clear pytest configurations for a new testing environment?",
+    "course": "mlops-zoomcamp",
+    "document": "611e6f015f"
+  },
+  {
+    "question": "If I previously tested code in the 'week6-best-practices' folder, which exact file or folder must be removed to reinitialize pytest?",
+    "course": "mlops-zoomcamp",
+    "document": "611e6f015f"
+  },
+  {
+    "question": "After removing certain files, will pytest automatically recognize and use fresh settings for new tests?",
+    "course": "mlops-zoomcamp",
+    "document": "611e6f015f"
+  },
+  {
+    "question": "What is the recommended procedure to ensure pytest does not retain previous test data when starting a new project folder?",
+    "course": "mlops-zoomcamp",
+    "document": "611e6f015f"
+  }
+]

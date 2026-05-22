@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What does the error message \"docker: Error response from daemon: failed to create task for container: ... unable to start container process: exec: \"gunicorn\": executable file not found in $PATH: unknown.\" indicate?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80a2e18431"
+  },
+  {
+    "question": "How can I resolve the issue where the `gunicorn` executable is missing in my Docker container's `$PATH`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80a2e18431"
+  },
+  {
+    "question": "What specific changes should be made to the `Pipfile` to ensure that `gunicorn` and `flask` are included for deployment?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80a2e18431"
+  },
+  {
+    "question": "After updating the `Pipfile`, what commands must I execute to regenerate dependencies and rebuild the Docker image?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80a2e18431"
+  },
+  {
+    "question": "In the context of Module 5, Deploying Machine Learning Models, which steps should be followed post-`pipenv lock` to successfully run a containerized application?",
+    "course": "machine-learning-zoomcamp",
+    "document": "80a2e18431"
+  }
+]

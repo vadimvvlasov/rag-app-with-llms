@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I use to start a Docker container interactively with bash as the entrypoint?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2acc8ec64a"
+  },
+  {
+    "question": "How can I identify the running containers to execute an interactive bash session in one of them?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2acc8ec64a"
+  },
+  {
+    "question": "If my Docker container is already up and running, what steps do I need to take to access its bash shell?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2acc8ec64a"
+  },
+  {
+    "question": "What flag should be included when running `docker run` to ensure the container starts with a Bash command instead of its default entrypoint?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2acc8ec64a"
+  },
+  {
+    "question": "In the context of debugging a Docker container, why is it necessary to override the entrypoint with a Bash command?",
+    "course": "machine-learning-zoomcamp",
+    "document": "2acc8ec64a"
+  }
+]

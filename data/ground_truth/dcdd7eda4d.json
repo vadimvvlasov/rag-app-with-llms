@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Where can I locate the `resources/rides.csv` file mentioned in Module 7 of the data-engineering-zoomcamp course?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dcdd7eda4d"
+  },
+  {
+    "question": "How do I obtain the missing `rides.csv` resource for the streaming module in the Java Kafka examples?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dcdd7eda4d"
+  },
+  {
+    "question": "What is the exact path to copy the required CSV file for the stream processing exercises in Week 6?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dcdd7eda4d"
+  },
+  {
+    "question": "Could you provide guidance on acquiring the `resources/rides.csv` dataset that appears to be absent from my project folder?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dcdd7eda4d"
+  },
+  {
+    "question": "After checking my local directory, I noticed `resources/rides.csv` is missing; how can I retrieve it as per the FAQ record?",
+    "course": "data-engineering-zoomcamp",
+    "document": "dcdd7eda4d"
+  }
+]

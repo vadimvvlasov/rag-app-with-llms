@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What distinguishes a merge operation from an append operation in data handling?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2442e32be2"
+  },
+  {
+    "question": "In what scenarios should I prefer using the `merge` method over the `append` method for inserting records into a dataset?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2442e32be2"
+  },
+  {
+    "question": "How does the `primary_key` parameter function within a `merge` materialization, and why is it essential?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2442e32be2"
+  },
+  {
+    "question": "Can you provide examples of common use cases where updating existing data via `merge` would be more appropriate than simply adding new records with `append`?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2442e32be2"
+  },
+  {
+    "question": "What are the implications for data consistency and integrity when choosing between `merge` and `append`, especially in contexts like order status updates or user profile modifications?",
+    "course": "data-engineering-zoomcamp",
+    "document": "2442e32be2"
+  }
+]

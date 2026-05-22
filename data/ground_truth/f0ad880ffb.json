@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is the main/default branch in dbt Cloud and the dbt VS Code extension set to read-only?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f0ad880ffb"
+  },
+  {
+    "question": "What steps should I follow to create a new branch for making changes in dbt Cloud IDE?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f0ad880ffb"
+  },
+  {
+    "question": "How do I switch to a newly created feature branch from the command line using git?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f0ad880ffb"
+  },
+  {
+    "question": "After making edits, what commands are required to commit my changes and push them to GitHub?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f0ad880ffb"
+  },
+  {
+    "question": "Once a pull request is opened to merge my feature branch back to main, what happens next in the workflow?",
+    "course": "data-engineering-zoomcamp",
+    "document": "f0ad880ffb"
+  }
+]

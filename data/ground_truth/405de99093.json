@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why is my Pipfile.lock missing when I have a Pipfile?",
+    "course": "mlops-zoomcamp",
+    "document": "405de99093"
+  },
+  {
+    "question": "How can I manually generate a Pipfile.lock file after setting up dependencies in Pipenv?",
+    "course": "mlops-zoomcamp",
+    "document": "405de99093"
+  },
+  {
+    "question": "What command do I need to run to ensure that Pipfile.lock is created alongside my existing Pipfile?",
+    "course": "mlops-zoomcamp",
+    "document": "405de99093"
+  },
+  {
+    "question": "Is there a way to force the creation of Pipfile.lock without altering my existing Pipfile contents?",
+    "course": "mlops-zoomcamp",
+    "document": "405de99093"
+  },
+  {
+    "question": "In Module 4 of the MLOps Zoomcamp course, what specific instruction should I follow if Pipenv fails to create Pipfile.lock automatically?",
+    "course": "mlops-zoomcamp",
+    "document": "405de99093"
+  }
+]

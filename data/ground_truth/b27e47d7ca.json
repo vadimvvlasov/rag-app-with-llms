@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why does fitting a logistic regression model in Jupyter take a long time or cause the kernel to crash when using the `predict()` method?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b27e47d7ca"
+  },
+  {
+    "question": "What should I verify about my target variable to prevent kernel crashes during logistic regression fitting in Module 3 of the Machine Learning Zoomcamp course?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b27e47d7ca"
+  },
+  {
+    "question": "Are there any common issues with binary classification tasks that might lead to a crashing Jupyter kernel while performing logistic regression?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b27e47d7ca"
+  },
+  {
+    "question": "In the context of the Machine Learning Zoomcamp curriculum, what specific condition related to the target variable can cause problems when executing logistic regression predictions?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b27e47d7ca"
+  },
+  {
+    "question": "How can I troubleshoot a situation where my Jupyter notebook's kernel fails after attempting to fit and predict using a logistic regression model in Module 3?",
+    "course": "machine-learning-zoomcamp",
+    "document": "b27e47d7ca"
+  }
+]

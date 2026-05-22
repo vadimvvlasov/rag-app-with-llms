@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the required parameters for the `roc_auc_score` function in scikit-learn?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c213e31ea0"
+  },
+  {
+    "question": "How should the numerical features be formatted when calculating AUC using `sklearn.metrics.roc_auc_score`?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c213e31ea0"
+  },
+  {
+    "question": "In which module of the Machine Learning Zoomcamp course is the ROC AUC score discussed?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c213e31ea0"
+  },
+  {
+    "question": "What specific function from scikit-learn is used to compute the ROC AUC score?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c213e31ea0"
+  },
+  {
+    "question": "Where can I find detailed documentation for the `roc_auc_score` function within the course materials?",
+    "course": "machine-learning-zoomcamp",
+    "document": "c213e31ea0"
+  }
+]

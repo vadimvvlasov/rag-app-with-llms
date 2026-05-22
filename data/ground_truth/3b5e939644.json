@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What command should I use to configure MLflow server to listen on all network interfaces and enable cross-origin requests?",
+    "course": "mlops-zoomcamp",
+    "document": "3b5e939644"
+  },
+  {
+    "question": "How do I specify the SQLite database URI for the backend store when launching the MLflow tracking server?",
+    "course": "mlops-zoomcamp",
+    "document": "3b5e939644"
+  },
+  {
+    "question": "Which flags are necessary to disable security middleware and allow any domain to access the MLflow UI?",
+    "course": "mlops-zoomcamp",
+    "document": "3b5e939644"
+  },
+  {
+    "question": "What port should be set for the MLflow server if I intend to run it on a remote server accessible from another domain?",
+    "course": "mlops-zoomcamp",
+    "document": "3b5e939644"
+  },
+  {
+    "question": "How can I prevent the 'Invalid Host header' error when accessing the MLflow tracking UI from a different domain during development?",
+    "course": "mlops-zoomcamp",
+    "document": "3b5e939644"
+  }
+]

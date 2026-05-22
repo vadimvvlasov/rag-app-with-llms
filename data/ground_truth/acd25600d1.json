@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the correct YAML configuration to run a Python script in Kestra Docker on Windows 11?",
+    "course": "data-engineering-zoomcamp",
+    "document": "acd25600d1"
+  },
+  {
+    "question": "How can I avoid the 'Could not find or install 'Python 3.13' path' error when executing a Python script in Kestra?",
+    "course": "data-engineering-zoomcamp",
+    "document": "acd25600d1"
+  },
+  {
+    "question": "Which commands should be included in the YAML file to install dependencies like `requests` and `kestra` before running my script?",
+    "course": "data-engineering-zoomcamp",
+    "document": "acd25600d1"
+  },
+  {
+    "question": "Where do I place the actual content of my Python script within the provided YAML structure?",
+    "course": "data-engineering-zoomcamp",
+    "document": "acd25600d1"
+  },
+  {
+    "question": "Is there a specific filename convention or replacement step needed for `your_script.py` to ensure the script runs correctly?",
+    "course": "data-engineering-zoomcamp",
+    "document": "acd25600d1"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the purpose of the AWS Lambda Runtime Interface Emulator in local testing?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a23cfbf67"
+  },
+  {
+    "question": "How do I specify the port mapping when running a Docker container for an AWS Lambda function locally?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a23cfbf67"
+  },
+  {
+    "question": "What is the correct URL format to invoke a local Lambda function using curl?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a23cfbf67"
+  },
+  {
+    "question": "How can I resolve the 'Object of type float32 is not JSON serializable' error during local Lambda testing?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a23cfbf67"
+  },
+  {
+    "question": "Are there different curl commands required for Windows and Unix systems when testing a Lambda function locally?",
+    "course": "machine-learning-zoomcamp",
+    "document": "8a23cfbf67"
+  }
+]

@@ -18,3 +18,8 @@ try:
     from .rag import RAGBase
 except ModuleNotFoundError:
     pass
+
+try:
+    from .monitoring import calculate_cost, evaluate_relevance, get_answer
+except ModuleNotFoundError:
+    pass

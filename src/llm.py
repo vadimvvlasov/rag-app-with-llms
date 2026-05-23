@@ -90,6 +90,37 @@ class OllamaClient:
         Raises:
             requests.HTTPError: If the Ollama API returns a non-2xx status.
         """
+        answer, _tokens, _elapsed = self.complete_with_metrics(
+            prompt, instructions, model
+        )
+        return answer
+
+    def complete_with_metrics(
+        self, prompt: str, instructions: str, model: str
+    ) -> tuple[str, dict, float]:
+        """Send a prompt to Ollama and return the response together with usage metrics.
+
+        Calls ``/api/chat`` directly (non-streaming) so that Ollama's native
+        token-count fields (``prompt_eval_count``, ``eval_count``) and wall-clock
+        response time are captured alongside the answer text.
+
+        Args:
+            prompt:       User-facing message (question + context).
+            instructions: System message that guides model behaviour.
+            model:        Ollama model identifier, e.g. ``"granite4.1:3b"``.
+
+        Returns:
+            A 3-tuple ``(answer, tokens, response_time)`` where:
+            - ``answer`` is the model's text response.
+            - ``tokens`` is a dict with keys ``prompt_tokens``,
+              ``completion_tokens``, and ``total_tokens``.
+            - ``response_time`` is the wall-clock elapsed time in seconds.
+
+        Raises:
+            requests.HTTPError: If the Ollama API returns a non-2xx status.
+        """
+        import time
+
         url = f"{self._base_url}/api/chat"
         payload = {
             "model": model,
@@ -100,10 +131,20 @@ class OllamaClient:
             "options": {"num_ctx": self._num_ctx},
             "stream": False,
         }
+        start = time.time()
         response = requests.post(url, json=payload, timeout=120)
         response.raise_for_status()
+        elapsed = time.time() - start
+
         data = response.json()
-        return data["message"]["content"]
+        prompt_tokens = data.get("prompt_eval_count", 0)
+        completion_tokens = data.get("eval_count", 0)
+        tokens = {
+            "prompt_tokens": prompt_tokens,
+            "completion_tokens": completion_tokens,
+            "total_tokens": prompt_tokens + completion_tokens,
+        }
+        return data["message"]["content"], tokens, elapsed
 
 
 class OpenRouterClient:

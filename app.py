@@ -19,6 +19,7 @@ import streamlit as st
 
 from src import FaqHttpLoader, MinsearchIndex, OllamaClient, RAGBase
 from src.monitoring import get_answer
+from src.rag import INSTRUCTIONS
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -33,11 +34,7 @@ COURSES = [
     "llm-zoomcamp",
 ]
 
-INSTRUCTIONS = """
-You're a course teaching assistant.
-Answer the QUESTION based on the CONTEXT from the FAQ database.
-Use only the facts from the CONTEXT when answering the QUESTION.
-""".strip()
+# INSTRUCTIONS imported from src.rag — includes "I don't know" fallback
 
 # ---------------------------------------------------------------------------
 # Cached pipeline initialisation (runs once per session)

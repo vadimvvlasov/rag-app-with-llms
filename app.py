@@ -111,7 +111,7 @@ if "last_answer" not in st.session_state:
 # --- Input widgets ---
 course = st.selectbox("Select a course:", COURSES)
 user_input = st.text_input(
-    "Enter your question:", placeholder="e.g. How do I set up Docker?"
+    "Enter your question:", placeholder="e.g. How do I set up Docker in Linux?"
 )
 
 if st.button("Ask", type="primary", disabled=not user_input.strip()):
